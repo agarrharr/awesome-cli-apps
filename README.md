@@ -18,6 +18,8 @@
 
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote)- Console client for Evernote.
 
+* [The Mutt E-Mail Client](http://www.mutt.org/)
+
 * [Timetrap](https://github.com/samg/timetrap)- Simple command line timetracker
 
 ## Utilities
@@ -31,6 +33,12 @@
 * [ttygif](https://github.com/icholy/ttygif)- Convert terminal recordings to animated gifs
 
 * [ttystudio](https://github.com/chjj/ttystudio)- A terminal-to-gif recorder minus the headaches.
+
+## Screensavers
+
+* [cmatrix](https://github.com/Treri/cmatrix)- [original](http://www.asty.org/cmatrix/)- show a scrolling 'Matrix' like screen
+
+* [pipes.sh](https://github.com/pipeseroni/pipes.sh)
 
 ## Other
 
