@@ -28,6 +28,12 @@
 
 * [osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli)- A cli for managing wifi connections on OSX
 
+## Command Line Tools
+
+* [The Fuck](https://github.com/nvbn/thefuck)- Magnificent app which corrects your previous console command.
+
+* [tldr](https://github.com/tldr-pages/tldr)- Simplified and community-driven man pages
+
 ## Terminal Gif Creation
 
 * [ttygif](https://github.com/icholy/ttygif)- Convert terminal recordings to animated gifs
