@@ -4,7 +4,7 @@
 
 * [pianobar](http://6xq.net/projects/pianobar/)- Pandora client
 
-* [TTYtter](https://github.com/atomicules/TTYtter)- Twitter client ([original](http://www.floodgap.com/software/ttytter/))
+* [TTYtter](https://github.com/atomicules/TTYtter)- Twitter client- ([original](http://www.floodgap.com/software/ttytter/))
 
 ## Web Development
 
@@ -42,7 +42,7 @@
 
 ## Screensavers
 
-* [cmatrix](https://github.com/Treri/cmatrix)- [original](http://www.asty.org/cmatrix/)- show a scrolling 'Matrix' like screen
+* [cmatrix](https://github.com/Treri/cmatrix)- show a scrolling 'Matrix' like screen- ([original](http://www.asty.org/cmatrix/))
 
 * [pipes.sh](https://github.com/pipeseroni/pipes.sh)
 
