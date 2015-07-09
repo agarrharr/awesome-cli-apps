@@ -34,6 +34,12 @@
 
 * [tldr](https://github.com/tldr-pages/tldr)- Simplified and community-driven man pages
 
+## Git
+
+* [CLI GitHub](https://github.com/IonicaBizau/cli-github)- :tv: A fancy GitHub client for command line.- http://ionicabizau.net/blog/15
+
+* [git-stats](https://github.com/IonicaBizau/git-stats)- :four_leaf_clover: A GitHub-like contributions calendar, but locally, with all your git commits.
+
 ## Terminal Gif Creation
 
 * [ttygif](https://github.com/icholy/ttygif)- Convert terminal recordings to animated gifs
