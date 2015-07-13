@@ -36,6 +36,17 @@
 
 * [tldr](https://github.com/tldr-pages/tldr)- Simplified and community-driven man pages
 
+## Command Line Directory Navigation
+
+* [autojump](https://github.com/joelthelion/autojump)- A cd command that learns - easily navigate directories from the command line- [http://wiki.github.com/joelthelion/autojump/](http://wiki.github.com/joelthelion/autojump/)
+* [fasd](https://github.com/clvv/fasd)- Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
+
+* [j](https://github.com/rupa/j)- semi clone of autojump ([http://github.com/joelthelion/autojump](http://github.com/joelthelion/autojump)) in shell/awk
+
+* [pm](https://github.com/Angelmmiguel/pm)- The easy way to switch to your projects on the shell
+
+* [z](https://github.com/rupa/z)- z is the new j, yo
+
 ## Git
 
 * [CLI GitHub](https://github.com/IonicaBizau/cli-github)- :tv: A fancy GitHub client for command line.- http://ionicabizau.net/blog/15
