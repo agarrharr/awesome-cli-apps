@@ -32,11 +32,15 @@
 
 * [The Fuck](https://github.com/nvbn/thefuck)- Magnificent app which corrects your previous console command.
 
+* [happyfinder](https://github.com/hugows/hf)- (another) Fuzzy file finder for the command line
+
 * [tldr](https://github.com/tldr-pages/tldr)- Simplified and community-driven man pages
 
 ## Git
 
 * [CLI GitHub](https://github.com/IonicaBizau/cli-github)- :tv: A fancy GitHub client for command line.- http://ionicabizau.net/blog/15
+
+* [git commander](https://github.com/golbin/git-commander)- A git tool with a easy terminal interface.
 
 * [git-stats](https://github.com/IonicaBizau/git-stats)- :four_leaf_clover: A GitHub-like contributions calendar, but locally, with all your git commits.
 
