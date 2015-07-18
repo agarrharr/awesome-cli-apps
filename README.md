@@ -81,6 +81,8 @@
 
 ## Other
 
+* [app-path-cli](https://github.com/sindresorhus/app-path-cli)- Get the path to an app (OS X)
+
 * [Bible.Js CLI client](https://github.com/BibleJS/BibleApp)- :book: Bible.JS CLI client. Read the Holy Bible via the command line.
 
 * [birthday](https://github.com/IonicaBizau/birthday)- Know when a friend's birthday is coming.
