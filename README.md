@@ -24,7 +24,7 @@
 
 ## Utilities
 
-* [brightness-cli](https://github.com/kevva/brightness-cli)- Change screen brightness
+* [brightness-cli](https://github.com/kevva/brightness-cli)- Change screen brightness- [windows version](https://github.com/sondreb/win-brightness)
 
 * [osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli)- A cli for managing wifi connections on OSX
 
