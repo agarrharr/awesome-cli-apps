@@ -45,6 +45,7 @@
 ## Directory Navigation
 
 * [autojump](https://github.com/joelthelion/autojump)- A cd command that learns - easily navigate directories from the command line- [http://wiki.github.com/joelthelion/autojump/](http://wiki.github.com/joelthelion/autojump/)
+
 * [fasd](https://github.com/clvv/fasd)- Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 
 * [j](https://github.com/rupa/j)- semi clone of autojump ([http://github.com/joelthelion/autojump](http://github.com/joelthelion/autojump)) in shell/awk
@@ -92,5 +93,9 @@
 * [fortune](http://brew-formulas.com/formula/fortune)
 
 * [kill-tabs](https://github.com/sindresorhus/kill-tabs)- Kill all Chrome tabs to improve performance, decrease battery usage, and save memory
+
+* [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli)- Open the URL from a web shortcut file in the browser
+
+* [shortcut-url-cli](https://github.com/sindresorhus/shortcut-url-cli)- Get the URL from a web shortcut file
 
 * [yosay](https://github.com/yeoman/yosay)
