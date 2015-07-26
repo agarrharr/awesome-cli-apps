@@ -92,10 +92,14 @@
 
 * [fortune](http://brew-formulas.com/formula/fortune)
 
+* [indent-string-cli](https://github.com/sindresorhus/indent-string-cli)- Indent each line in a string
+
 * [kill-tabs](https://github.com/sindresorhus/kill-tabs)- Kill all Chrome tabs to improve performance, decrease battery usage, and save memory
 
 * [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli)- Open the URL from a web shortcut file in the browser
 
 * [shortcut-url-cli](https://github.com/sindresorhus/shortcut-url-cli)- Get the URL from a web shortcut file
+
+* [string-width-cli](https://github.com/sindresorhus/string-width-cli)- Get the visual width of a string - the number of columns required to display it
 
 * [yosay](https://github.com/yeoman/yosay)
