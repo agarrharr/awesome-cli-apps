@@ -98,6 +98,8 @@
 
 * [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli)- Open the URL from a web shortcut file in the browser
 
+* [pretty-ms-cli](https://github.com/sindresorhus/pretty-ms-cli)- Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s
+
 * [shortcut-url-cli](https://github.com/sindresorhus/shortcut-url-cli)- Get the URL from a web shortcut file
 
 * [string-width-cli](https://github.com/sindresorhus/string-width-cli)- Get the visual width of a string - the number of columns required to display it
