@@ -8,6 +8,8 @@
 
 ## Web Development
 
+* [caniuse-cmd](https://github.com/sgentle/caniuse-cmd)- Caniuse command line tool
+
 * [pageres-cli](https://github.com/sindresorhus/pageres-cli)- Capture website screenshots
 
 * [viewport-list-cli](https://github.com/kevva/viewport-list-cli)- Return a list of devices and their viewports
