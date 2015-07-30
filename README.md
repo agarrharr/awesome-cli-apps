@@ -14,6 +14,10 @@
 
 * [viewport-list-cli](https://github.com/kevva/viewport-list-cli)- Return a list of devices and their viewports
 
+## Database
+
+* [mycli](https://github.com/dbcli/mycli)- A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+
 ## Productivity
 
 * [idea](https://github.com/IonicaBizau/idea)- A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
