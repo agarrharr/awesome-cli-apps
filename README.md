@@ -100,7 +100,11 @@
 
 * [fortune](http://brew-formulas.com/formula/fortune)
 
+* [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli)- Get the gzipped size of a file or stdin
+
 * [indent-string-cli](https://github.com/sindresorhus/indent-string-cli)- Indent each line in a string
+
+* [is-reachable-cli](https://github.com/beatfreaker/is-reachable-cli)- Check if hostnames are reachable or not
 
 * [kill-tabs](https://github.com/sindresorhus/kill-tabs)- Kill all Chrome tabs to improve performance, decrease battery usage, and save memory
 
