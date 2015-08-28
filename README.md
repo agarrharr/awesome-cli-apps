@@ -76,6 +76,8 @@
 
 * [ttygif](https://github.com/icholy/ttygif)- Convert terminal recordings to animated gifs
 
+* [ttygif](https://github.com/sugyan/ttygif)- ttyrec to gif
+
 * [ttystudio](https://github.com/chjj/ttystudio)- A terminal-to-gif recorder minus the headaches.
 
 ## Text Manipulation
