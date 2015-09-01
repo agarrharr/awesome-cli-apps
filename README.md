@@ -100,9 +100,13 @@
 
 * [cowsay and cowthink](https://web.archive.org/web/20120225123719/http://www.nog.net/~tony/warez/cowsay.shtml)- You can [install with homebrew](http://brew-formulas.com/formula/cowsay)
 
+* [find-up-cli](https://github.com/sindresorhus/find-up-cli)- Find a file by walking up parent directories
+
 * [fortune](http://brew-formulas.com/formula/fortune)
 
 * [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli)- Get the gzipped size of a file or stdin
+
+* [HASA -cli](https://github.com/sindresorhus/hasha-cli)- Hashing made simple. Get the hash of text or stdin.
 
 * [indent-string-cli](https://github.com/sindresorhus/indent-string-cli)- Indent each line in a string
 
@@ -111,6 +115,8 @@
 * [kill-tabs](https://github.com/sindresorhus/kill-tabs)- Kill all Chrome tabs to improve performance, decrease battery usage, and save memory
 
 * [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli)- Open the URL from a web shortcut file in the browser
+
+* [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli)- Find the root directory of a npm package
 
 * [pretty-ms-cli](https://github.com/sindresorhus/pretty-ms-cli)- Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s
 
