@@ -100,6 +100,8 @@
 
 * [cowsay and cowthink](https://web.archive.org/web/20120225123719/http://www.nog.net/~tony/warez/cowsay.shtml)- You can [install with homebrew](http://brew-formulas.com/formula/cowsay)
 
+* [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli)- Detect the indentation of code
+
 * [find-up-cli](https://github.com/sindresorhus/find-up-cli)- Find a file by walking up parent directories
 
 * [fortune](http://brew-formulas.com/formula/fortune)
