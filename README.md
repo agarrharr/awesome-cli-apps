@@ -116,6 +116,8 @@
 
 * [kill-tabs](https://github.com/sindresorhus/kill-tabs)- Kill all Chrome tabs to improve performance, decrease battery usage, and save memory
 
+* [leven-cli](https://github.com/sindresorhus/leven-cli)- Measure the difference between two strings using the Levenshtein distance algorithm
+
 * [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli)- Open the URL from a web shortcut file in the browser
 
 * [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli)- Find the root directory of a npm package
