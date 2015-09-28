@@ -1,5 +1,9 @@
 # Awesome CLI
 
+> A curated list of command line interfaces, or command line tools.
+
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+
 ## Entertainment
 
 * [pianobar](http://6xq.net/projects/pianobar/)- Pandora client
