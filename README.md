@@ -38,6 +38,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [brightness-cli](https://github.com/kevva/brightness-cli)- Change screen brightness- [windows version](https://github.com/sondreb/win-brightness)
 
+* [empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli)- Empty the trash
+
+* [wallpaper-ci](https://github.com/sindresorhus/wallpaper-cli)- Get or set the desktop wallpaper
+
+### OS X
+
+* [osx-version-cli](https://github.com/sindresorhus/osx-version-cli)- Get the OS X version of the current system
+
 * [osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli)- A cli for managing wifi connections on OSX
 
 ## Command Line Tools
