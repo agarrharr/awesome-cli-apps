@@ -44,6 +44,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### OS X
 
+* [bundle-id-cli](https://github.com/sindresorhus/bundle-id-cli)- Get bundle identifier from a bundle name (OS X): Safari → com.apple.Safari
+
+* [bundle-name-cli](https://github.com/sindresorhus/bundle-name-cli)- Get bundle name from a bundle identifier (OS X): com.apple.Safari → Safari
+
 * [osx-version-cli](https://github.com/sindresorhus/osx-version-cli)- Get the OS X version of the current system
 
 * [osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli)- A cli for managing wifi connections on OSX
@@ -143,5 +147,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [shortcut-url-cli](https://github.com/sindresorhus/shortcut-url-cli)- Get the URL from a web shortcut file
 
 * [string-width-cli](https://github.com/sindresorhus/string-width-cli)- Get the visual width of a string - the number of columns required to display it
+
+* [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli)- Convert matching single-quotes to double-quotes: I 'love' unicorns => I "love" unicorns
+
+* [to-single-quotes](https://github.com/sindresorhus/to-single-quotes-cli)- Convert matching double-quotes to single-quotes: I "love" unicorns → I 'love' unicorns
 
 * [yosay](https://github.com/yeoman/yosay)
