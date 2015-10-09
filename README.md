@@ -20,6 +20,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [viewport-list-cli](https://github.com/kevva/viewport-list-cli)- Return a list of devices and their viewports
 
+* [surge](https://surge.sh) - deploy directory to the web.
+
 ## Database
 
 * [mycli](https://github.com/dbcli/mycli)- A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
