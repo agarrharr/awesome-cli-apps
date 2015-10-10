@@ -29,6 +29,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Productivity
 
+* [AutoScreenshotUploader](https://github.com/yask123/AutoScreenshotUploader)- Instantly capture and upload screenshot to [imgur](https://imgur.com)
+
 * [idea](https://github.com/IonicaBizau/idea)- A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
 
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote)- Console client for Evernote.
