@@ -158,3 +158,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [to-single-quotes](https://github.com/sindresorhus/to-single-quotes-cli)- Convert matching double-quotes to single-quotes: I "love" unicorns → I 'love' unicorns
 
 * [yosay](https://github.com/yeoman/yosay)
+
+* [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard)- Modular
+  visual interface for GDB in Python
