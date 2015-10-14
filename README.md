@@ -157,6 +157,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [shortcut-url-cli](https://github.com/sindresorhus/shortcut-url-cli)- Get the URL from a web shortcut file
 
+* [SpeedRead](https://github.com/sunsations/speed_read)- A simple terminal-based open source Spritz-alike
+
 * [string-width-cli](https://github.com/sindresorhus/string-width-cli)- Get the visual width of a string - the number of columns required to display it
 
 * [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli)- Convert matching single-quotes to double-quotes: I 'love' unicorns => I "love" unicorns
