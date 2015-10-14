@@ -45,6 +45,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli)- Empty the trash
 
+* [trash-cli](https://github.com/sindresorhus/trash-cli)- Move files and directories to the trash
+
 * [wallpaper-ci](https://github.com/sindresorhus/wallpaper-cli)- Get or set the desktop wallpaper
 
 ### OS X
@@ -126,6 +128,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [find-up-cli](https://github.com/sindresorhus/find-up-cli)- Find a file by walking up parent directories
 
 * [fortune](http://brew-formulas.com/formula/fortune)
+
+* [fullname-cli](https://github.com/sindresorhus/fullname-cli)- Get the fullname of the current user
 
 * [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli)- Get the gzipped size of a file or stdin
 
