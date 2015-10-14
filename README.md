@@ -45,6 +45,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli)- Empty the trash
 
+* [file-type-cli](https://github.com/sindresorhus/file-type-cli)- Detect the file type of a file or stdin
+
 * [trash-cli](https://github.com/sindresorhus/trash-cli)- Move files and directories to the trash
 
 * [wallpaper-ci](https://github.com/sindresorhus/wallpaper-cli)- Get or set the desktop wallpaper
