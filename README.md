@@ -51,6 +51,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [wallpaper-ci](https://github.com/sindresorhus/wallpaper-cli)- Get or set the desktop wallpaper
 
+* [yank](https://github.com/mptre/yank)- Yank terminal output to clipboard
+
 ### OS X
 
 * [bundle-id-cli](https://github.com/sindresorhus/bundle-id-cli)- Get bundle identifier from a bundle name (OS X): Safari → com.apple.Safari
