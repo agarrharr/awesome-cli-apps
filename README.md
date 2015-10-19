@@ -13,7 +13,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Web Development
 
+* [bower-name-cli](https://github.com/sindresorhus/bower-name-cli)- Check whether a package name is available on bower
+
 * [caniuse-cmd](https://github.com/sgentle/caniuse-cmd)- Caniuse command line tool
+
+* [npm-name-cli](https://github.com/sindresorhus/npm-name-cli)- Check whether a package name is available on npm
 
 * [pageres-cli](https://github.com/sindresorhus/pageres-cli)- Capture website screenshots
 
