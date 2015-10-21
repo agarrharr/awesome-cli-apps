@@ -17,7 +17,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [caniuse-cmd](https://github.com/sgentle/caniuse-cmd)- Caniuse command line tool
 
+* [is-up-cli](https://github.com/sindresorhus/is-up-cli)- Check whether a website is up or down
+
 * [npm-name-cli](https://github.com/sindresorhus/npm-name-cli)- Check whether a package name is available on npm
+
+* [npm-user-cli](https://github.com/sindresorhus/npm-user-cli)- Get user info of a npm user
 
 * [pageres-cli](https://github.com/sindresorhus/pageres-cli)- Capture website screenshots
 
@@ -39,6 +43,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [idea](https://github.com/IonicaBizau/idea)- A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
 
+* [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli)- Upload images to imgur
+
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote)- Console client for Evernote.
 
 * [The Mutt E-Mail Client](http://www.mutt.org/)
@@ -46,6 +52,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Timetrap](https://github.com/samg/timetrap)- Simple command line timetracker
 
 ## Utilities
+
+* [archive-type-cli](https://github.com/kevva/archive-type-cli)- Detect the archive type of a Buffer/Uint8Array
 
 * [brightness-cli](https://github.com/kevva/brightness-cli)- Change screen brightness- [windows version](https://github.com/sondreb/win-brightness)
 
@@ -64,6 +72,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [bundle-id-cli](https://github.com/sindresorhus/bundle-id-cli)- Get bundle identifier from a bundle name (OS X): Safari → com.apple.Safari
 
 * [bundle-name-cli](https://github.com/sindresorhus/bundle-name-cli)- Get bundle name from a bundle identifier (OS X): com.apple.Safari → Safari
+
+* [lnfs-cli](https://github.com/kevva/lnfs-cli)- Safely force create symlinks
 
 * [osx-version-cli](https://github.com/sindresorhus/osx-version-cli)- Get the OS X version of the current system
 
