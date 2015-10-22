@@ -6,7 +6,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Entertainment
 
+* [cmus](https://github.com/cmus/cmus)- Small, fast and powerful console music player for Unix-like operating systems.
+
 * [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - Instant Music Downloader
+
 * [pianobar](http://6xq.net/projects/pianobar/)- Pandora client
 
 * [TTYtter](https://github.com/atomicules/TTYtter)- Twitter client- ([original](http://www.floodgap.com/software/ttytter/))
