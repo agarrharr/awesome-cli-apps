@@ -156,7 +156,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli)- Get the gzipped size of a file or stdin
 
-* [HASA -cli](https://github.com/sindresorhus/hasha-cli)- Hashing made simple. Get the hash of text or stdin.
+* [HASHA -cli](https://github.com/sindresorhus/hasha-cli)- Hashing made simple. Get the hash of text or stdin.
 
 * [indent-string-cli](https://github.com/sindresorhus/indent-string-cli)- Indent each line in a string
 
