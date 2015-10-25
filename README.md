@@ -14,6 +14,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [TTYtter](https://github.com/atomicules/TTYtter)- Twitter client- ([original](http://www.floodgap.com/software/ttytter/))
 
+* [quote-cli](https://github.com/riyadhalnur/quote-cli)- Get a random quote or the quote of the day in your CLI
+
 ## Web Development
 
 * [bower-name-cli](https://github.com/sindresorhus/bower-name-cli)- Check whether a package name is available on bower
@@ -190,3 +192,5 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard)- Modular
   visual interface for GDB in Python
+
+* [weather-cli](https://github.com/riyadhalnur/weather-cli)- Check the weather for your city from your terminal
