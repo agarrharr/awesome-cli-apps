@@ -4,6 +4,23 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+## Table of Contents
+
+- [Entertainment](#entertainment)
+- [Web Development](#web-development)
+- [Database](#database)
+- [Productivity](#productivity)
+- [Utilities](#utilities)
+- [OS X](#os-x)
+- [Command Line Tools](#command-line-tools)
+- [Data Manipulation](#data-manipulation)
+- [Directory Navigation](#directory-navigation)
+- [Git](#git)
+- [Terminal GIF Creation](#terminal-gif-creation)
+- [Text Manipulation](#text-manipulation)
+- [Screensavers](#screensavers)
+- [Other](#other)
+
 ## Entertainment
 
 * [cmus](https://github.com/cmus/cmus)- Small, fast and powerful console music player for Unix-like operating systems.
