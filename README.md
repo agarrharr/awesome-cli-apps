@@ -178,6 +178,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [fullname-cli](https://github.com/sindresorhus/fullname-cli)- Get the fullname of the current user
 
+* [get-port-cli](https://github.com/sindresorhus/get-port-cli)- Get an available port
+
 * [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli)- Get the gzipped size of a file or stdin
 
 * [HASHA -cli](https://github.com/sindresorhus/hasha-cli)- Hashing made simple. Get the hash of text or stdin.
