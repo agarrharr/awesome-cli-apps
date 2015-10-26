@@ -155,6 +155,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [pipes.sh](https://github.com/pipeseroni/pipes.sh)
 
+## Fun
+
+* [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot)- A cli for traversing the Mandelbrot fractal
+
 ## Other
 
 * [app-path-cli](https://github.com/sindresorhus/app-path-cli)- Get the path to an app (OS X)
