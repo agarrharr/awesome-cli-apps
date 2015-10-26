@@ -34,6 +34,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [quote-cli](https://github.com/riyadhalnur/quote-cli)- Get a random quote or the quote of the day in your CLI
 
+### Video
+
+* [youtube-dl](http://rg3.github.io/youtube-dl/)- a small command-line program to download videos from YouTube.com and a few more sites. You can install with `brew install youtube-dl`
+
 ## Web Development
 
 * [bower-name-cli](https://github.com/sindresorhus/bower-name-cli)- Check whether a package name is available on bower
