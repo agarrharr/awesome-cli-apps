@@ -19,6 +19,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Terminal GIF Creation](#terminal-gif-creation)
 - [Text Manipulation](#text-manipulation)
 - [Screensavers](#screensavers)
+- [Graphics](#graphics)
 - [Other](#other)
 
 ## Entertainment
@@ -155,7 +156,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [pipes.sh](https://github.com/pipeseroni/pipes.sh)
 
-## Fun
+## Graphics
 
 * [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot)- A cli for traversing the Mandelbrot fractal
 
