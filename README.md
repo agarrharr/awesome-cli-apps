@@ -7,6 +7,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Table of Contents
 
 - [Entertainment](#entertainment)
+    - [Video](#video)
 - [Web Development](#web-development)
 - [Database](#database)
 - [Productivity](#productivity)
