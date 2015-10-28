@@ -143,6 +143,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [git-stats](https://github.com/IonicaBizau/git-stats)- :four_leaf_clover: A GitHub-like contributions calendar, but locally, with all your git commits.
 
+* [hub](https://github.com/github/hub)- A command-line wrapper for git that
+  makes you better at GitHub.
+
 ## Terminal Gif Creation
 
 * [ttygif](https://github.com/icholy/ttygif)- Convert terminal recordings to animated gifs
