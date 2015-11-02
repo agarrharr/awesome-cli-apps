@@ -148,6 +148,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Terminal Gif Creation
 
+* [gifsicle](https://github.com/kohler/gifsicle)- Create, manipulate, and optimize GIF images and animations
+
 * [ttygif](https://github.com/icholy/ttygif)- Convert terminal recordings to animated gifs
 
 * [ttygif](https://github.com/sugyan/ttygif)- ttyrec to gif
