@@ -174,6 +174,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot)- A cli for traversing the Mandelbrot fractal
 
+* [WOPR](https://github.com/yaronn/wopr)- A simple markup language for creating rich terminal reports, presentations and infographics
+
 ## Other
 
 * [app-path-cli](https://github.com/sindresorhus/app-path-cli)- Get the path to an app (OS X)
