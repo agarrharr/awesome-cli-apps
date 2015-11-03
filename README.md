@@ -83,11 +83,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [archive-type-cli](https://github.com/kevva/archive-type-cli)- Detect the archive type of a Buffer/Uint8Array
 
+* [battery-level](https://github.com/gillstrom/battery-level)- Get current battery level
+
 * [brightness-cli](https://github.com/kevva/brightness-cli)- Change screen brightness- [windows version](https://github.com/sondreb/win-brightness)
 
 * [empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli)- Empty the trash
 
 * [file-type-cli](https://github.com/sindresorhus/file-type-cli)- Detect the file type of a file or stdin
+
+* [screensaver](https://github.com/gillstrom/screensaver)- Start the screensaver
 
 * [trash-cli](https://github.com/sindresorhus/trash-cli)- Move files and directories to the trash
 
