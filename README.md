@@ -160,6 +160,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [ttystudio](https://github.com/chjj/ttystudio)- A terminal-to-gif recorder minus the headaches.
 
+* [asciinema](https://github.com/asciinema/asciinema)- Terminal session recorder and the best companion of asciinema.org.
+
 ## Text Manipulation
 
 * [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli)- Parse text columns, like the output of unix commands. Returns JSON that you can manipulate with tools like jq or underscore-cli.
