@@ -181,6 +181,22 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [WOPR](https://github.com/yaronn/wopr)- A simple markup language for creating rich terminal reports, presentations and infographics
 
+## Resources
+
+Some fine resources to write your own CLI App.
+
+### Node frameworks and packages
+
+- [meow](https://github.com/sindresorhus/meow) - The most simple way to write small CLI modules including argument parsing.
+- [inquirer](https://github.com/dthree/vorpal) - A collection of common interactive command line user interfaces like checkboxes, radio buttons etc. with a simple but powerful API. 
+- [Vorpal](https://github.com/dthree/vorpal) - Complete solution for creating interactive apps. Includes UI features from inquirer.
+
+### Node Command-line utilities
+
+- [Chalk](https://github.com/chalk/chalk) - Beautiful API to have beautiful terminal string styling.
+- [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols to differentiate output messages with a blink of an eye.
+- [log-update](https://github.com/sindresorhus/log-update) – Useful for ASCII animation. For example loading indicators.
+
 ## Other
 
 * [app-path-cli](https://github.com/sindresorhus/app-path-cli)- Get the path to an app (OS X)
@@ -239,22 +255,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   visual interface for GDB in Python
 
 * [weather-cli](https://github.com/riyadhalnur/weather-cli)- Check the weather for your city from your terminal
-
-## Resources
-
-Some fine resources to write your own CLI App.
-
-### Node frameworks and packages
-
-- [meow](https://github.com/sindresorhus/meow) - The most simple way to write small CLI modules including argument parsing.
-- [inquirer](https://github.com/dthree/vorpal) - A collection of common interactive command line user interfaces like checkboxes, radio buttons etc. with a simple but powerful API. 
-- [Vorpal](https://github.com/dthree/vorpal) - Complete solution for creating interactive apps. Includes UI features from inquirer.
-
-### Node Command-line utilities
-
-- [Chalk](https://github.com/chalk/chalk) - Beautiful API to have beautiful terminal string styling.
-- [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols to differentiate output messages with a blink of an eye.
-- [log-update](https://github.com/sindresorhus/log-update) – Useful for ASCII animation. For example loading indicators.
 
 ## License
 
