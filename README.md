@@ -30,6 +30,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - Instant Music Downloader
 
+* - [itunes-remote](https://github.com/mischah/itunes-remote) - It’s about listening to music without leaving the terminal. OS X only.
+
 * [pianobar](http://6xq.net/projects/pianobar/)- Pandora client
 
 * [TTYtter](https://github.com/atomicules/TTYtter)- Twitter client- ([original](http://www.floodgap.com/software/ttytter/))
