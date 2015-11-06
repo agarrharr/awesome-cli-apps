@@ -22,6 +22,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Screensavers](#screensavers)
 - [Graphics](#graphics)
 - [Resources](#resources)
+    - [Node frameworks and packages](#node-frameworks-and-packages)
+    - [Node Command-line utilities](#node-command-line-utilities)
 - [Other](#other)
 
 ## Entertainment
