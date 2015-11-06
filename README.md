@@ -43,7 +43,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [bower-name-cli](https://github.com/sindresorhus/bower-name-cli)- Check whether a package name is available on bower
 
-* [caniuse-cmd](https://github.com/sgentle/caniuse-cmd)- Caniuse command line tool
+* [caniuse-cmd](https://github.com/sgentle/caniuse-cmd)- Searches [caniuse.com](caniuse.com) about browser support of feature.
 
 * [is-up-cli](https://github.com/sindresorhus/is-up-cli)- Check whether a website is up or down
 
