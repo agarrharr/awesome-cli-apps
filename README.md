@@ -1,6 +1,6 @@
-# Awesome CLI
+# Awesome CLI Apps
 
-> A curated list of command line interfaces, or command line tools.
+> A curated list of command line apps.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
