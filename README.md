@@ -68,7 +68,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote)- Console client for Evernote.
 - [ledger](http://ledger-cli.org) - Powerful, double-entry accounting system that is accessed from the UNIX command-line.
 * [The Mutt E-Mail Client](http://www.mutt.org/)
-* [Timetrap](https://github.com/samg/timetrap) - Simple command line timetracker
+- [Taskwarrior](http://taskwarrior.org) - Free and Open Source Software that manages your TODO list from your command line.
+* [Timetrap](https://github.com/samg/timetrap)- Simple command line timetracker
 
 ## Utilities
 
