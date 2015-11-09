@@ -93,9 +93,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Command Line Tools
 
-* [The Fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-* [happyfinder](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line
-* [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages
+* [The Fuck](https://github.com/nvbn/thefuck)- Magnificent app which corrects your previous console command.
+* [happyfinder](https://github.com/hugows/hf)- (another) Fuzzy file finder for the command line
+* [PathPicker](https://facebook.github.io/PathPicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
+* [tldr](https://github.com/tldr-pages/tldr)- Simplified and community-driven man pages
 
 ## Data Manipulation
 
