@@ -60,13 +60,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Productivity
 
-* [AutoScreenshotUploader](https://github.com/yask123/AutoScreenshotUploader) - Instantly capture and upload screenshot to [imgur](https://imgur.com)
-* [ffscreencast](https://github.com/cytopia/ffscreencast) - ffmpeg screencast with video overlay and multi monitor support
-* [idea](https://github.com/IonicaBizau/idea) - A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
-* [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur
-* [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Console client for Evernote.
+* [AutoScreenshotUploader](https://github.com/yask123/AutoScreenshotUploader)- Instantly capture and upload screenshot to [imgur](https://imgur.com)
+* [doing](http://brettterpstra.com/projects/doing/) - A command line tool for keeping track of what you’re doing and tracking what you’ve done.
+* [ffscreencast](https://github.com/cytopia/ffscreencast)- ffmpeg screencast with video overlay and multi monitor support
+* [idea](https://github.com/IonicaBizau/idea)- A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
+* [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli)- Upload images to imgur
+* [geeknote](https://github.com/VitaliyRodnenko/geeknote)- Console client for Evernote.
+* [ledger](http://ledger-cli.org) - Powerful, double-entry accounting system that is accessed from the UNIX command-line.
 * [The Mutt E-Mail Client](http://www.mutt.org/)
-* [Timetrap](https://github.com/samg/timetrap) - Simple command line timetracker
+* [Taskwarrior](http://taskwarrior.org) - Free and Open Source Software that manages your TODO list from your command line.
+* [Timetrap](https://github.com/samg/timetrap)- Simple command line timetracker
 
 ## Utilities
 
@@ -90,9 +93,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Command Line Tools
 
-* [The Fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-* [happyfinder](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line
-* [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages
+* [The Fuck](https://github.com/nvbn/thefuck)- Magnificent app which corrects your previous console command.
+* [happyfinder](https://github.com/hugows/hf)- (another) Fuzzy file finder for the command line
+* [PathPicker](https://facebook.github.io/PathPicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
+* [tldr](https://github.com/tldr-pages/tldr)- Simplified and community-driven man pages
 
 ## Data Manipulation
 
