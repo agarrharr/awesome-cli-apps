@@ -66,6 +66,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [idea](https://github.com/IonicaBizau/idea)- A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
 * [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli)- Upload images to imgur
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote)- Console client for Evernote.
+- [ledger](http://ledger-cli.org) - Powerful, double-entry accounting system that is accessed from the UNIX command-line.
 * [The Mutt E-Mail Client](http://www.mutt.org/)
 * [Timetrap](https://github.com/samg/timetrap) - Simple command line timetracker
 
