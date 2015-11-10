@@ -17,7 +17,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Data Manipulation](#data-manipulation)
 - [Directory Navigation](#directory-navigation)
 - [Git](#git)
-- [Terminal GIF Creation](#terminal-gif-creation)
+- [Gif Creation](#terminal-gif-creation)
 - [Text Manipulation](#text-manipulation)
 - [Screensavers](#screensavers)
 - [Graphics](#graphics)
@@ -121,7 +121,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [hub](https://github.com/github/hub) - A command-line wrapper for git that
   makes you better at GitHub.
 
-## Terminal Gif Creation
+## Gif Creation
 
 * [gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations
 * [ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs
