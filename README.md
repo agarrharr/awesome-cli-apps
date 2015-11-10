@@ -17,7 +17,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Data Manipulation](#data-manipulation)
 - [Directory Navigation](#directory-navigation)
 - [Git](#git)
-- [Gif Creation](#terminal-gif-creation)
+- [Images](#images)
+  - [Gif Creation](#terminal-gif-creation)
 - [Text Manipulation](#text-manipulation)
 - [Screensavers](#screensavers)
 - [Graphics](#graphics)
@@ -121,13 +122,20 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [hub](https://github.com/github/hub) - A command-line wrapper for git that
   makes you better at GitHub.
 
-## Gif Creation
+## Images
+
+### Gif Creation
 
 * [gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations
 * [ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs
 * [ttygif](https://github.com/sugyan/ttygif) - ttyrec to gif
 * [ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
 * [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder and the best companion of asciinema.org.
+
+## SVG
+
+* [SVGO](https://github.com/svg/svgo)- SVG Optimizer is a Nodejs-based tool for optimizing SVG vector graphics files.
+
 
 ## Text Manipulation
 
