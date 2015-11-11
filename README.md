@@ -173,10 +173,10 @@ Some fine resources to write your own CLI App.
 - [app-path-cli](https://github.com/sindresorhus/app-path-cli) - Get the path to an app (OS X)
 - [Bible.Js CLI client](https://github.com/BibleJS/BibleApp) - :book: Bible.JS CLI client. Read the Holy Bible via the command line.
 - [birthday](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
-- [cowsay and cowthink](https://web.archive.org/web/20120225123719/http://www.nog.net/~tony/warez/cowsay.shtml) - You can [install with homebrew](http://brew-formulas.com/formula/cowsay)
+- [cowsay and cowthink](https://web.archive.org/web/20120225123719/http://www.nog.net/~tony/warez/cowsay.shtml) - You can [install with homebrew](http://brewformulas.org/Cowsay)
 - [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code
 - [find-up-cli](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories
-- [fortune](http://brew-formulas.com/formula/fortune)
+- [fortune](http://brewformulas.org/Fortune)
 - [fullname-cli](https://github.com/sindresorhus/fullname-cli) - Get the fullname of the current user
 - [get-port-cli](https://github.com/sindresorhus/get-port-cli) - Get an available port
 - [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin
