@@ -35,7 +35,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
 - [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - Instant Music Downloader
 - [itunes-remote](https://github.com/mischah/itunes-remote) - It’s about listening to music without leaving the terminal. OS X only.
-- [pianobar](http://6xq.net/projects/pianobar/) - Pandora client
+- [pianobar](http://6xq.net/pianobar/) - Pandora client
 - [TTYtter](https://github.com/atomicules/TTYtter) - Twitter client- ([original](http://www.floodgap.com/software/ttytter/))
 - [quote-cli](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI
 
@@ -108,9 +108,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Directory Navigation
 
-- [autojump](https://github.com/joelthelion/autojump) - A cd command that learns - easily navigate directories from the command line- [http://wiki.github.com/joelthelion/autojump/](http://wiki.github.com/joelthelion/autojump/)
+- [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line- [https://github.com/wting/autojump/wiki](https://github.com/wting/autojump/wiki)
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
-- [j](https://github.com/rupa/j) - semi clone of autojump ([http://github.com/joelthelion/autojump](http://github.com/joelthelion/autojump)) in shell/awk
+- [j](https://github.com/rupa/j) - semi clone of autojump ([https://github.com/wting/autojump](https://github.com/wting/autojump)) in shell/awk
 - [pm](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell
 - [z](https://github.com/rupa/z) - z is the new j, yo
 
