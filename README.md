@@ -35,7 +35,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
 - [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - Instant Music Downloader
 - [itunes-remote](https://github.com/mischah/itunes-remote) - It’s about listening to music without leaving the terminal. OS X only.
-- [pianobar](http://6xq.net/projects/pianobar/) - Pandora client
+- [pianobar](http://6xq.net/pianobar/) - Pandora client
 - [TTYtter](https://github.com/atomicules/TTYtter) - Twitter client- ([original](http://www.floodgap.com/software/ttytter/))
 - [quote-cli](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI
 
@@ -108,9 +108,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Directory Navigation
 
-- [autojump](https://github.com/joelthelion/autojump) - A cd command that learns - easily navigate directories from the command line- [http://wiki.github.com/joelthelion/autojump/](http://wiki.github.com/joelthelion/autojump/)
+- [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line- [https://github.com/wting/autojump/wiki](https://github.com/wting/autojump/wiki)
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
-- [j](https://github.com/rupa/j) - semi clone of autojump ([http://github.com/joelthelion/autojump](http://github.com/joelthelion/autojump)) in shell/awk
+- [j](https://github.com/rupa/j) - semi clone of autojump ([https://github.com/wting/autojump](https://github.com/wting/autojump)) in shell/awk
 - [pm](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell
 - [z](https://github.com/rupa/z) - z is the new j, yo
 
@@ -173,10 +173,10 @@ Some fine resources to write your own CLI App.
 - [app-path-cli](https://github.com/sindresorhus/app-path-cli) - Get the path to an app (OS X)
 - [Bible.Js CLI client](https://github.com/BibleJS/BibleApp) - :book: Bible.JS CLI client. Read the Holy Bible via the command line.
 - [birthday](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
-- [cowsay and cowthink](https://web.archive.org/web/20120225123719/http://www.nog.net/~tony/warez/cowsay.shtml) - You can [install with homebrew](http://brew-formulas.com/formula/cowsay)
+- [cowsay and cowthink](https://web.archive.org/web/20120225123719/http://www.nog.net/~tony/warez/cowsay.shtml) - You can [install with homebrew](http://brewformulas.org/Cowsay)
 - [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code
 - [find-up-cli](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories
-- [fortune](http://brew-formulas.com/formula/fortune)
+- [fortune](http://brewformulas.org/Fortune)
 - [fullname-cli](https://github.com/sindresorhus/fullname-cli) - Get the fullname of the current user
 - [get-port-cli](https://github.com/sindresorhus/get-port-cli) - Get an available port
 - [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin
