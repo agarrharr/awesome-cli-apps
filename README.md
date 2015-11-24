@@ -26,6 +26,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Resources](#resources)
     - [Node frameworks and packages](#node-frameworks-and-packages)
     - [Node Command-line utilities](#node-command-line-utilities)
+- [String Manipulation](#string-manipulation)
+- [Directories](#directories)
 - [Other](#other)
 
 ---
@@ -168,6 +170,18 @@ Some fine resources to write your own CLI App.
 - [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols to differentiate output messages with a blink of an eye.
 - [log-update](https://github.com/sindresorhus/log-update) – Useful for ASCII animation. For example loading indicators.
 
+### String Manipulation
+
+- [indent-string-cli](https://github.com/sindresorhus/indent-string-cli) - Indent each line in a string
+- [pretty-ms-cli](https://github.com/sindresorhus/pretty-ms-cli) - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s
+- [repeating-cli](https://github.com/sindresorhus/repeating-cli) - Repeat a string - fast
+- [string-width-cli](https://github.com/sindresorhus/string-width-cli) - Get the visual width of a string - the number of columns required to display it
+- [find-versions-cli](https://github.com/sindresorhus/find-versions-cli) - Find semver versions in a string: unicorn v1.2.3 → 1.2.3
+
+### Directories
+
+- [find-up-cli](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories
+
 ## Other
 
 - [app-path-cli](https://github.com/sindresorhus/app-path-cli) - Get the path to an app (OS X)
@@ -175,24 +189,19 @@ Some fine resources to write your own CLI App.
 - [birthday](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
 - [cowsay and cowthink](https://web.archive.org/web/20120225123719/http://www.nog.net/~tony/warez/cowsay.shtml) - You can [install with homebrew](http://brewformulas.org/Cowsay)
 - [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code
-- [find-up-cli](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories
 - [fortune](http://brewformulas.org/Fortune)
 - [fullname-cli](https://github.com/sindresorhus/fullname-cli) - Get the fullname of the current user
 - [get-port-cli](https://github.com/sindresorhus/get-port-cli) - Get an available port
 - [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin
 - [HASHA -cli](https://github.com/sindresorhus/hasha-cli) - Hashing made simple. Get the hash of text or stdin.
-- [indent-string-cli](https://github.com/sindresorhus/indent-string-cli) - Indent each line in a string
 - [is-reachable-cli](https://github.com/beatfreaker/is-reachable-cli) - Check if hostnames are reachable or not
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory
 - [leven-cli](https://github.com/sindresorhus/leven-cli) - Measure the difference between two strings using the Levenshtein distance algorithm
 - [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli) - Open the URL from a web shortcut file in the browser
 - [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package
-- [pretty-ms-cli](https://github.com/sindresorhus/pretty-ms-cli) - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s
-- [repeating-cli](https://github.com/sindresorhus/repeating-cli) - Repeat a string - fast
 - [speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
 - [shortcut-url-cli](https://github.com/sindresorhus/shortcut-url-cli) - Get the URL from a web shortcut file
 - [SpeedRead](https://github.com/sunsations/speed_read) - A simple terminal-based open source Spritz-alike
-- [string-width-cli](https://github.com/sindresorhus/string-width-cli) - Get the visual width of a string - the number of columns required to display it
 - [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli) - Convert matching single-quotes to double-quotes: I 'love' unicorns => I "love" unicorns
 - [to-single-quotes](https://github.com/sindresorhus/to-single-quotes-cli) - Convert matching double-quotes to single-quotes: I "love" unicorns → I 'love' unicorns
 - [yosay](https://github.com/yeoman/yosay)
