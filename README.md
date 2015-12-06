@@ -15,7 +15,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [OS X](#os-x)
 - [Command Line Tools](#command-line-tools)
 - [Data Manipulation](#data-manipulation)
-- [Directory Navigation](#directory-navigation)
+- [Files and Directories](#files-and-directories)
+  - [Deletion](#deletion)
+  - [Files](#files)
+  - [Directories](#directories)
+  - [Directory Navigation](#directory-navigation)
 - [Git](#git)
 - [Images](#images)
   - [Gif Creation](#terminal-gif-creation)
@@ -27,7 +31,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
     - [Node frameworks and packages](#node-frameworks-and-packages)
     - [Node Command-line utilities](#node-command-line-utilities)
 - [String Manipulation](#string-manipulation)
-- [Directories](#directories)
 - [Other](#other)
 
 ---
@@ -84,9 +87,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver
 - [wallpaper-ci](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
-- [trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and directories to the trash
-- [empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash
-- [trashss](https://github.com/sotojuan/trashss) - ( only) Trash screenshots on desktop.
 
 ### OS X
 
@@ -108,7 +108,23 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor [http://stedolan.github.io/jq/](http://stedolan.github.io/jq/)
 - [underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.
 
-## Directory Navigation
+## Files and Directories
+
+### Deletion
+
+- [trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and directories to the trash
+- [empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash
+- [trashss](https://github.com/sotojuan/trashss) - ( only) Trash screenshots on desktop.
+
+### Files
+
+- [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON. Lets you use comments in your JSON files!
+
+### Directories
+
+- [find-up-cli](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories
+
+### Directory Navigation
 
 - [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line- [https://github.com/wting/autojump/wiki](https://github.com/wting/autojump/wiki)
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
@@ -178,14 +194,6 @@ Some fine resources to write your own CLI App.
 - [repeating-cli](https://github.com/sindresorhus/repeating-cli) - Repeat a string - fast
 - [string-width-cli](https://github.com/sindresorhus/string-width-cli) - Get the visual width of a string - the number of columns required to display it
 - [find-versions-cli](https://github.com/sindresorhus/find-versions-cli) - Find semver versions in a string: unicorn v1.2.3 → 1.2.3
-
-### Files
-
-- [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON. Lets you use comments in your JSON files!
-
-### Directories
-
-- [find-up-cli](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories
 
 ## Other
 
