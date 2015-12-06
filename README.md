@@ -115,6 +115,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and directories to the trash
 - [empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash
 - [trashss](https://github.com/sotojuan/trashss) - ( only) Trash screenshots on desktop.
+- [del-cli](https://github.com/sindresorhus/del-cli) - Delete files and folders.
 
 ### Files
 
