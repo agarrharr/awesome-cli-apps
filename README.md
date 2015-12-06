@@ -20,7 +20,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Files](#files)
   - [Directories](#directories)
   - [Directory Navigation](#directory-navigation)
-- [Git](#git)
+- [Version Control](#version-control)
+  - [Git](#git)
 - [Images](#images)
   - [Gif Creation](#terminal-gif-creation)
   - [SVG](#svg)
@@ -133,7 +134,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [pm](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell
 - [z](https://github.com/rupa/z) - z is the new j, yo
 
-## Git
+## Version Control
+
+### Git
 
 - [CLI GitHub](https://github.com/IonicaBizau/cli-github) - :tv: A fancy GitHub client for command line.- http://ionicabizau.net/blog/15
 - [Gistup](https://github.com/mbostock/gistup) - Create a gist from terminal, then use git to update it.
@@ -141,6 +144,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [git-stats](https://github.com/IonicaBizau/git-stats) - :four_leaf_clover: A GitHub-like contributions calendar, but locally, with all your git commits.
 - [hub](https://github.com/github/hub) - A command-line wrapper for git that
   makes you better at GitHub.
+
+### Changelogs
+
+- [clog](https://github.com/kentcdodds/clog-cli) - A conventional changelog for the rest of us.
 
 ## Images
 
