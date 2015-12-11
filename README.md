@@ -23,7 +23,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Version Control](#version-control)
   - [Git](#git)
 - [Images](#images)
-  - [Gif Creation](#terminal-gif-creation)
+  - [Gif Creation](#gif-creation)
   - [SVG](#svg)
 - [Text Manipulation](#text-manipulation)
 - [Screensavers](#screensavers)
