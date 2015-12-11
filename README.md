@@ -6,13 +6,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
 - [Entertainment](#entertainment)
   - [Video](#video)
 - [Web Development](#web-development)
 - [Database](#database)
 - [Productivity](#productivity)
 - [Utilities](#utilities)
-- [OS X](#os-x)
+  - [OS X](#os-x)
 - [Command Line Tools](#command-line-tools)
 - [Data Manipulation](#data-manipulation)
 - [Files and Directories](#files-and-directories)
@@ -22,17 +26,21 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Directory Navigation](#directory-navigation)
 - [Version Control](#version-control)
   - [Git](#git)
+  - [Changelogs](#changelogs)
 - [Images](#images)
   - [Gif Creation](#gif-creation)
-  - [SVG](#svg)
+- [SVG](#svg)
 - [Text Manipulation](#text-manipulation)
 - [Screensavers](#screensavers)
 - [Graphics](#graphics)
 - [Resources](#resources)
-    - [Node frameworks and packages](#node-frameworks-and-packages)
-    - [Node Command-line utilities](#node-command-line-utilities)
-- [String Manipulation](#string-manipulation)
+  - [Node frameworks and packages](#node-frameworks-and-packages)
+  - [Node Command-line utilities](#node-command-line-utilities)
+  - [String Manipulation](#string-manipulation)
 - [Other](#other)
+- [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ---
 
