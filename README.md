@@ -143,8 +143,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Gistup](https://github.com/mbostock/gistup) - Create a gist from terminal, then use git to update it.
 - [git commander](https://github.com/golbin/git-commander) - A git tool with a easy terminal interface.
 - [git-stats](https://github.com/IonicaBizau/git-stats) - :four_leaf_clover: A GitHub-like contributions calendar, but locally, with all your git commits.
-- [hub](https://github.com/github/hub) - A command-line wrapper for git that
-  makes you better at GitHub.
+- [hub](https://github.com/github/hub) - A command-line wrapper for git that makes you better at GitHub.
+- [dev-time](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
 
 ### Changelogs
 
