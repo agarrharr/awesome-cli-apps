@@ -13,6 +13,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Entertainment](#entertainment)
   - [Video](#video)
 - [Web Development](#web-development)
+- [Mobile Development](#mobile-development)
 - [Database](#database)
 - [Productivity](#productivity)
 - [Utilities](#utilities)
@@ -70,6 +71,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports.
 - [surge](https://surge.sh) - deploy directory to the web.
 - [acmetool](https://github.com/hlandau/acme) - An easy-to-use command line tool for automatically acquiring certificates from ACME servers.
+
+## Mobile Development
+
+- [mobicon-cli](https://github.com/SamVerschueren/mobicon-cli) - Mobile app icon generator.
 
 ## Database
 
