@@ -218,6 +218,7 @@ Some fine resources to write your own CLI App.
 - [string-width-cli](https://github.com/sindresorhus/string-width-cli) - Get the visual width of a string - the number of columns required to display it.
 - [find-versions-cli](https://github.com/sindresorhus/find-versions-cli) - Find semver versions in a string: unicorn v1.2.3 → 1.2.3.
 - [pretty-bytes-cli](https://github.com/sindresorhus/pretty-bytes-cli) - Convert bytes to a human readable string: 1337 → 1.34 kB.
+- [normalize-newline-cli](https://github.com/sindresorhus/normalize-newline-cli) - Normalize the newline characters in a string to \n.
 
 ## Other
 
