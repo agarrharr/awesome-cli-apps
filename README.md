@@ -99,6 +99,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [battery-level](https://github.com/gillstrom/battery-level) - Get current battery level.
 - [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness- [windows version](https://github.com/sondreb/win-brightness).
 - [file-type-cli](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
+- [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
 - [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
 - [wallpaper-ci](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
