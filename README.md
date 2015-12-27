@@ -103,6 +103,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
 - [wallpaper-ci](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
+- [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text meme.
 
 ### OS X
 
