@@ -202,8 +202,8 @@ Some fine resources to write your own CLI App.
 ### Node frameworks and packages
 
 - [meow](https://github.com/sindresorhus/meow) - The most simple way to write small CLI modules including argument parsing.
-- [inquirer](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces like checkboxes, radio buttons etc. with a simple but powerful API.
-- [Vorpal](https://github.com/dthree/vorpal) - Complete solution for creating interactive apps. Includes UI features from inquirer.
+- [Inquirer](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces like checkboxes, radio buttons etc. with a simple but powerful API.
+- [Vorpal](https://github.com/dthree/vorpal) - Complete solution for creating interactive apps. Includes UI features from [Inquirer.](https://github.com/SBoudrias/Inquirer.js).
 
 ### Node Command-line utilities
 
