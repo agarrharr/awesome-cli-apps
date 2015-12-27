@@ -71,6 +71,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports.
 - [surge](https://surge.sh) - deploy directory to the web.
 - [acmetool](https://github.com/hlandau/acme) - An easy-to-use command line tool for automatically acquiring certificates from ACME servers.
+- [loadtest](https://github.com/alexfernandez/loadtest) - Runs a load test on the selected URL. Easy to extend minimally for your own ends.
 
 ## Mobile Development
 
@@ -103,6 +104,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
 - [wallpaper-ci](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
+- [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text meme.
 
 ### OS X
 
@@ -202,8 +204,8 @@ Some fine resources to write your own CLI App.
 ### Node frameworks and packages
 
 - [meow](https://github.com/sindresorhus/meow) - The most simple way to write small CLI modules including argument parsing.
-- [inquirer](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces like checkboxes, radio buttons etc. with a simple but powerful API.
-- [Vorpal](https://github.com/dthree/vorpal) - Complete solution for creating interactive apps. Includes UI features from inquirer.
+- [Inquirer](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces like checkboxes, radio buttons etc. with a simple but powerful API.
+- [Vorpal](https://github.com/dthree/vorpal) - Complete solution for creating interactive apps. Includes UI features from [Inquirer.](https://github.com/SBoudrias/Inquirer.js).
 - [Commander](https://github.com/tj/commander.js) - Node.js command-line interfaces made easy.
 
 ### Node Command-line utilities
@@ -228,6 +230,7 @@ Some fine resources to write your own CLI App.
 - [Bible.Js CLI client](https://github.com/BibleJS/BibleApp) - :book: Bible.JS CLI client. Read the Holy Bible via the command line.
 - [birthday](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
 - [cowsay and cowthink](https://web.archive.org/web/20120225123719/http://www.nog.net/~tony/warez/cowsay.shtml) - You can [install with homebrew](http://brewformulas.org/Cowsay).
+- [cgasm](https://github.com/bnagy/cgasm) - A tool that gives x86 assembly documentation. It is pronounced "SeekAzzem".
 - [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code.
 - [fortune](http://brewformulas.org/Fortune) - Shows a random fortune.
 - [fullname-cli](https://github.com/sindresorhus/fullname-cli) - Get the fullname of the current user.
