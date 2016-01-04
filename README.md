@@ -21,7 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Command Line Tools](#command-line-tools)
 - [Data Manipulation](#data-manipulation)
 - [Files and Directories](#files-and-directories)
-  - [Deletion](#deletion)
+  - [Deleting and Copying](#deleting-and-copying)
   - [Files](#files)
   - [Directory Navigation](#directory-navigation)
 - [Version Control](#version-control)
@@ -125,12 +125,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Files and Directories
 
-### Deletion
+### Deleting and Copying
 
 - [trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and directories to the trash.
 - [empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash.
 - [trashss](https://github.com/sotojuan/trashss) - ( only) Trash screenshots on desktop.
 - [del-cli](https://github.com/sindresorhus/del-cli) - Delete files and folders.
+- [cpy-cli](https://github.com/sindresorhus/cpy-cli) - Copies files.
 
 ### Files
 
