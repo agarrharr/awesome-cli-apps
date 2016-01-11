@@ -76,6 +76,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Mobile Development
 
 - [mobicon-cli](https://github.com/SamVerschueren/mobicon-cli) - Mobile app icon generator.
+- [mobisplash-cli](https://github.com/SamVerschueren/mobisplash-cli) - Mobile app splash screen generator.
 
 ## Database
 
