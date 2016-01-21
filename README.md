@@ -118,6 +118,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [The Fuck](https://github.com/nvbn/thefuck)- Magnificent app which corrects your previous console command.
 - [tldr](https://github.com/tldr-pages/tldr)- Simplified and community-driven man pages.
+- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Command-line tool to parse git diffs as JSON and generate pretty HTML.
 
 ## Data Manipulation
 
