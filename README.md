@@ -96,6 +96,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [The Mutt E-Mail Client](http://www.mutt.org/) - Email client.
 - [Taskwarrior](http://taskwarrior.org) - Free and Open Source Software that manages your TODO list from your command line.
 - [Timetrap](https://github.com/samg/timetrap)- Simple command line timetracker.
+- [trelew](https://github.com/websitesfortrello/trelew) - An interactive command line client to Trello.
 
 ## Utilities
 
