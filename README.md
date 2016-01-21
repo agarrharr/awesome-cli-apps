@@ -72,6 +72,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [acmetool](https://github.com/hlandau/acme) - An easy-to-use command line tool for automatically acquiring certificates from ACME servers.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Runs a load test on the selected URL. Easy to extend minimally for your own ends.
 - [wp-cli](https://github.com/wp-cli/wp-cli) - Manage WordPress installations, update plugins, set up multisite installs and much more, without using a web browser.
+- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Command-line tool to parse git diffs as JSON and generate pretty HTML.
 
 ## Mobile Development
 
@@ -118,7 +119,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [The Fuck](https://github.com/nvbn/thefuck)- Magnificent app which corrects your previous console command.
 - [tldr](https://github.com/tldr-pages/tldr)- Simplified and community-driven man pages.
-- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Command-line tool to parse git diffs as JSON and generate pretty HTML.
 
 ## Data Manipulation
 
