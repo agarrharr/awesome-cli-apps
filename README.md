@@ -165,6 +165,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [git-stats](https://github.com/IonicaBizau/git-stats) - :four_leaf_clover: A GitHub-like contributions calendar, but locally, with all your git commits.
 - [hub](https://github.com/github/hub) - A command-line wrapper for git that makes you better at GitHub.
 - [dev-time](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
+- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - A curated list of addons that extends git cli.
 
 ### Changelogs
 
