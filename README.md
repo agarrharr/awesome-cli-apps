@@ -109,7 +109,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text meme.
 - [s](https://github.com/zquestz/s) - Open a web search in your terminal. Supports multiple search providers.
-- [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Search, dowload and install any Google Font on your local machine.
+- [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Search, download, and install any Google Font on your local machine.
 
 ### OS X
 
