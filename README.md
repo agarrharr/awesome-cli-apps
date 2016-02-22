@@ -123,6 +123,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [The Fuck](https://github.com/nvbn/thefuck)- Magnificent app which corrects your previous console command.
 - [tldr](https://github.com/tldr-pages/tldr)- Simplified and community-driven man pages.
+- [how2](https://github.com/santinic/how2) - Finds the simplest way to do something on a unix bash command line.
 
 ## Data Manipulation
 
