@@ -257,6 +257,7 @@ Some fine resources to write your own CLI App.
 - [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python.
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from your terminal.
 - [hget](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
+- [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
 
 ## License
 
