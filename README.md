@@ -12,8 +12,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Entertainment](#entertainment)
   - [Video](#video)
-- [Web Development](#web-development)
-- [Mobile Development](#mobile-development)
+- [Development](#development)
+  - [Web Development](#web-development)
+  - [Mobile Development](#mobile-development)
 - [Database](#database)
 - [Productivity](#productivity)
 - [Utilities](#utilities)
@@ -57,8 +58,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [youtube-dl](http://rg3.github.io/youtube-dl/) - a small command-line program to download videos from YouTube.com and a few more sites. You can install with `brew install youtube-dl`.
 
+## Development
 
-## Web Development
+- [Wat](https://github.com/dthree/wat) - Instant, central, community-built docs.
+
+### Web Development
 
 - [bower-name-cli](https://github.com/sindresorhus/bower-name-cli) - Check whether a package name is available on bower.
 - [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Searches [caniuse.com](caniuse.com) about browser support of feature.
@@ -75,7 +79,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Command-line tool to parse git diffs as JSON and generate pretty HTML.
 - [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of the package in the current directory.
 
-## Mobile Development
+### Mobile Development
 
 - [mobicon-cli](https://github.com/SamVerschueren/mobicon-cli) - Mobile app icon generator.
 - [mobisplash-cli](https://github.com/SamVerschueren/mobisplash-cli) - Mobile app splash screen generator.
