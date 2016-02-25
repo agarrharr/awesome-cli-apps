@@ -78,6 +78,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [wp-cli](https://github.com/wp-cli/wp-cli) - Manage WordPress installations, update plugins, set up multisite installs and much more, without using a web browser.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Command-line tool to parse git diffs as JSON and generate pretty HTML.
 - [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of the package in the current directory.
+- [HTTPie](https://github.com/jkbrzt/httpie) - A user-friendly HTTP client.
 
 ### Mobile Development
 
