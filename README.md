@@ -53,6 +53,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [pianobar](https://6xq.net/pianobar/) - Pandora client.
 - [TTYtter](https://github.com/oysttyer/oysttyer) - Twitter client- ([original](http://www.floodgap.com/software/ttytter/)).
 - [quote-cli](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
+- [movie] (https://github.com/mayankchd/movie) - Get movie info or compare movies in terminal.
 
 ### Video
 
