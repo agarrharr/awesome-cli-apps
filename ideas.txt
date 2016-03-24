@@ -1,0 +1,15 @@
+https://github.com/insanum/gcalcli
+https://github.com/vdemedes/gifi
+https://github.com/sindresorhus/term-img
+https://github.com/apaszke/termtile
+https://github.com/bahmutov/wiseli
+https://github.com/jfmengels/all-contributors-cli
+https://github.com/dylang/space-hogs
+https://github.com/sindresorhus/ora
+https://github.com/sindresorhus/cli-spinners
+https://github.com/jpmens/jo
+https://github.com/coderofsalvation/kanban.bash
+https://github.com/sindresorhus/cli-truncate
+https://github.com/feross/webtorrent-cli
+https://github.com/egoist/is-trademarked-cli
+https://github.com/sindresorhus/anybar-cli
