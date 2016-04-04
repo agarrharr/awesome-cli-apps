@@ -124,6 +124,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [lnfs-cli](https://github.com/kevva/lnfs-cli) - Safely force create symlinks.
 - [osx-version-cli](https://github.com/sindresorhus/osx-version-cli) - Get the OS X version of the current system.
 - [osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli) - A cli for managing wifi connections on OSX.
+- [active-win-cli](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window
 
 ## Command Line Tools
 
