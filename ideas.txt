@@ -13,3 +13,4 @@ https://github.com/sindresorhus/cli-truncate
 https://github.com/feross/webtorrent-cli
 https://github.com/egoist/is-trademarked-cli
 https://github.com/sindresorhus/anybar-cli
+https://github.com/eanplatter/forked
