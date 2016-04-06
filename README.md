@@ -117,6 +117,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text meme.
 - [s](https://github.com/zquestz/s) - Open a web search in your terminal. Supports multiple search providers.
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Search, download, and install any Google Font on your local machine.
+- [wttr](http://wttr.in) - Get the weather right in your browser or your console. ([Frontend Github repo](https://github.com/chubin/wttr.in))
 
 ### OS X
 
