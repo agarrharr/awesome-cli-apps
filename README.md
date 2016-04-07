@@ -101,6 +101,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
 - [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Console client for Evernote.
 - [ledger](http://ledger-cli.org) - Powerful, double-entry accounting system that is accessed from the UNIX command-line.
+- [noteit](https://github.com/Krukov/noteit) - Synced notes with CLI (Note-taking application like Evernote, just easier, safer, more friendly and you don't need any account).
 - [The Mutt E-Mail Client](http://www.mutt.org/) - Email client.
 - [Taskwarrior](http://taskwarrior.org) - Free and Open Source Software that manages your TODO list from your command line.
 - [Timetrap](https://github.com/samg/timetrap) - Simple command line timetracker.
