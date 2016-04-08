@@ -118,6 +118,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text meme.
 - [s](https://github.com/zquestz/s) - Open a web search in your terminal. Supports multiple search providers.
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Search, download, and install any Google Font on your local machine.
+- [aria2](https://github.com/tatsuhiro-t/aria2) - Lightweight multi-protocol and multi-source, cross platform download utility. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 
 ### OS X
 
