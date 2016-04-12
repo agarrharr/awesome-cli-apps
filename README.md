@@ -197,6 +197,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ttygif](https://github.com/sugyan/ttygif) - ttyrec to gif.
 - [ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder and the best companion of asciinema.org.
+- [givegif](https://github.com/passy/givegif) - GIFs on the command line.
 
 ## SVG
 
