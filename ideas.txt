@@ -18,3 +18,4 @@ https://github.com/sindresorhus/dark-mode
 https://github.com/sindresorhus/review-times
 https://github.com/sindresorhus/default-browser-cli
 https://github.com/sindresorhus/npm-email-cli
+https://github.com/sindresorhus/public-ip-cli
