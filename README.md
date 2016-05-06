@@ -1,3 +1,11 @@
+<h1 align="center">
+	<br>
+	<img width="763" src="https://cdn.rawgit.com/aharris88/awesome-cli-apps/master/media/logo.png" alt="awesome cli apps">
+	<br>
+	<br>
+	<br>
+</h1>
+
 # Awesome CLI Apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of command line apps.
