@@ -20,3 +20,4 @@ https://github.com/sindresorhus/default-browser-cli
 https://github.com/sindresorhus/npm-email-cli
 https://github.com/sindresorhus/public-ip-cli
 https://github.com/sindresorhus/is-progressive-cli
+https://github.com/bevacqua/correcthorse
