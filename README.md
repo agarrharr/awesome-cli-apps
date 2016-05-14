@@ -192,6 +192,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - A curated list of addons that extends git cli.
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels from the command line.
 - [tig](https://github.com/jonas/tig) - Text-mode interface for Git.
+- [lazygit](https://github.com/mayank26saxena/LazyGit) - Automate the process of pushing code from local repository to upstream. Very useful tool for personal projects.
 
 ### Changelogs
 
