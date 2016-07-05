@@ -245,6 +245,7 @@ Some fine resources to write your own CLI App.
 - [Chalk](https://github.com/chalk/chalk) - Beautiful API to have beautiful terminal string styling.
 - [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols to differentiate output messages with a blink of an eye.
 - [log-update](https://github.com/sindresorhus/log-update) – Useful for ASCII animation. For example loading indicators.
+- [listr](https://github.com/samverschueren/listr) - Terminal task list.
 
 ### String Manipulation
 
