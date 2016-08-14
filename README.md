@@ -64,6 +64,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [quote-cli](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
 - [movie] (https://github.com/mayankchd/movie) - Get movie info or compare movies in terminal.
 - [somafm-cli](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
+- [nehm](https://github.com/bogem/nehm) - Console tool, which downloads, sets IDv3 tags and adds to your iTunes (if you use macOS) your SoundCloud likes in convenient way
 
 ### Video
 
