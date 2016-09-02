@@ -65,6 +65,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [movie] (https://github.com/mayankchd/movie) - Get movie info or compare movies in terminal.
 - [somafm-cli](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
 - [nehm](https://github.com/bogem/nehm) - Console tool, which downloads, sets IDv3 tags and adds to your iTunes (if you use macOS) your SoundCloud likes in convenient way
+- [football-cli](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league in your terminal.
 
 ### Video
 
