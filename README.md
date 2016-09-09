@@ -184,6 +184,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [happyfinder](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
 - [PathPicker](https://facebook.github.io/PathPicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
 - [find-up-cli](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
+- [Ranger]https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console.
 
 ## Version Control
 
