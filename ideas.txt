@@ -26,3 +26,4 @@ https://github.com/sindresorhus/fast-cli
 https://github.com/maebert/jrnl
 https://github.com/sindresorhus/github-username-cli
 https://github.com/sindresorhus/rgb-hex-cli
+https://github.com/kevva/to-ico-cli
