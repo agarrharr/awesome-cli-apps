@@ -198,6 +198,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - A curated list of addons that extends git cli.
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels from the command line.
 - [tig](https://github.com/jonas/tig) - Text-mode interface for Git.
+- [GitHub Check CLI](https://github.com/sahildua2305/github-check-cli) - :computer: CLI for checking GitHub user profile and repositories information.
 
 ### Changelogs
 
