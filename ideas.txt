@@ -14,3 +14,16 @@ https://github.com/feross/webtorrent-cli
 https://github.com/egoist/is-trademarked-cli
 https://github.com/sindresorhus/anybar-cli
 https://github.com/eanplatter/forked
+https://github.com/sindresorhus/dark-mode
+https://github.com/sindresorhus/review-times
+https://github.com/sindresorhus/default-browser-cli
+https://github.com/sindresorhus/npm-email-cli
+https://github.com/sindresorhus/public-ip-cli
+https://github.com/sindresorhus/is-progressive-cli
+https://github.com/bevacqua/correcthorse
+https://github.com/sindresorhus/website-popup-cli
+https://github.com/sindresorhus/fast-cli
+https://github.com/maebert/jrnl
+https://github.com/sindresorhus/github-username-cli
+https://github.com/sindresorhus/rgb-hex-cli
+https://github.com/kevva/to-ico-cli
