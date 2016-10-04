@@ -139,6 +139,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mklicense](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info. Busy people & beginner's friendly.
 - [share-cli](https://github.com/marionebl/share-cli) - Quickly share files from command line with your local network.
 - [remote-share-cli](https://github.com/marionebl/remote-share-cli) - Quickly share files from your command line with the world.
+- [website-popup-cli] (https://github.com/sindresorhus/website-popup-cli) - Quickly watch a window in a pop up window without closing or opening another full screen window.
 
 ### OS X
 
