@@ -240,6 +240,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - A cli for traversing the Mandelbrot fractal.
 - [WOPR](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics.
 - [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
+- [term-img](https://github.com/sindresorhus/term-img) - Display Images in Terminal
 
 ## Resources
 
@@ -257,6 +258,9 @@ Some fine resources to write your own CLI App.
 - [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols to differentiate output messages with a blink of an eye.
 - [log-update](https://github.com/sindresorhus/log-update) – Useful for ASCII animation. For example loading indicators.
 - [listr](https://github.com/samverschueren/listr) - Terminal task list.
+- [space-hogs](https://github.com/dylang/space-hogs) - Discover surprisingly large directories from the command line.
+- [cli-spinners](https://github.com/sindresorhus/cli-spinners) - 50+ spinners for use in the terminal
+- [forked](https://github.com/eanplatter/forked) - run `npm fork` and it would fork it on github.
 
 ### String Manipulation
 
