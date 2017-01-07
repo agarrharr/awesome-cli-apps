@@ -19,6 +19,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Entertainment](#entertainment)
+  - [Social Media](#social-media)
   - [Video](#video)
 - [Development](#development)
   - [Web Development](#web-development)
@@ -60,12 +61,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [itunes-remote](https://github.com/mischah/itunes-remote) - It’s about listening to music without leaving the terminal. OS X only.
 - [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 - [pianobar](https://6xq.net/pianobar/) - Pandora client.
-- [TTYtter](https://github.com/oysttyer/oysttyer) - Twitter client- ([original](http://www.floodgap.com/software/ttytter/)).
 - [quote-cli](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
 - [movie] (https://github.com/mayankchd/movie) - Get movie info or compare movies in terminal.
 - [somafm-cli](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
 - [nehm](https://github.com/bogem/nehm) - Console tool, which downloads, sets IDv3 tags and adds to your iTunes (if you use macOS) your SoundCloud likes in convenient way
 - [football-cli](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league in your terminal.
+
+### Social Media
+
+- [facebook-cli](https://github.com/specious/facebook-cli) - Facebook command line interface
+- [TTYtter](https://github.com/oysttyer/oysttyer) - Twitter client- ([original](http://www.floodgap.com/software/ttytter/)).
 
 ### Video
 
@@ -107,6 +112,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Productivity
 
 - [AutoScreenshotUploader](https://github.com/yask123/AutoScreenshotUploader) - Instantly capture and upload screenshot to [imgur](https://imgur.com).
+- [bitly-client](https://github.com/specious/bitly-client) - Make and manage Bitly shortlinks with this command line utility
 - [doing](http://brettterpstra.com/projects/doing/) - A command line tool for keeping track of what you’re doing and tracking what you’ve done.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - ffmpeg screencast with video overlay and multi monitor support.
 - [idea](https://github.com/IonicaBizau/idea) - A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
@@ -114,9 +120,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Console client for Evernote.
 - [localtunnel](https://github.com/localtunnel/localtunnel) - Exposes your localhost to the world for easy testing and sharing.
 - [ledger](http://ledger-cli.org) - Powerful, double-entry accounting system that is accessed from the UNIX command-line.
+- [meetup-cli](https://github.com/specious/meetup-cli) - Meetup.com command line interface
 - [The Mutt E-Mail Client](http://www.mutt.org/) - Email client.
 - [Taskwarrior](http://taskwarrior.org) - Free and Open Source Software that manages your TODO list from your command line.
 - [Timetrap](https://github.com/samg/timetrap) - Simple command line timetracker.
+- [terjira](https://github.com/keepcosmos/terjira) - Command line power tool for Jira
 - [g3l](https://g3l.download) - Git is easy, github cli is easy but g3l easiest git cli in the w0rld!
 
 ## Utilities
