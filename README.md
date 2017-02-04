@@ -161,6 +161,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
 - [how2](https://github.com/santinic/how2) - Finds the simplest way to do something on a unix bash command line (Nodejs implementation of howdoi).
 - [Cash](https://github.com/dthree/cash) - Cross-platform Linux commands in pure ES6.
+- [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
 - [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line
 
 ## Data Manipulation
@@ -307,7 +308,6 @@ Some fine resources to write your own CLI App.
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from your terminal.
 - [hget](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
 - [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
--[emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
 
 ## License
 
