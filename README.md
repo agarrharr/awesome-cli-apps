@@ -163,6 +163,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Cash](https://github.com/dthree/cash) - Cross-platform Linux commands in pure ES6.
 - [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
 - [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line
+- [kuzgun](https://github.com/nusu/kuzgun) - Simple ssh based deployment via the command line.
 
 ## Data Manipulation
 
