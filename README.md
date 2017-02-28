@@ -126,6 +126,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Timetrap](https://github.com/samg/timetrap) - Simple command line timetracker.
 - [terjira](https://github.com/keepcosmos/terjira) - Command line power tool for Jira
 - [g3l](https://g3l.download) - Git is easy, github cli is easy but g3l easiest git cli in the w0rld!
+- [uber-cli](https://github.com/jaebradley/uber-cli) - Uber, at your fingertips.
 
 ## Utilities
 
