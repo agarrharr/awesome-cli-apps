@@ -71,6 +71,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [facebook-cli](https://github.com/specious/facebook-cli) - Facebook command line interface
 - [TTYtter](https://github.com/oysttyer/oysttyer) - Twitter client- ([original](http://www.floodgap.com/software/ttytter/)).
+- [Rainbowstream](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on terminal written in Python.
 
 ### Video
 
