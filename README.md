@@ -129,6 +129,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [terjira](https://github.com/keepcosmos/terjira) - Command line power tool for Jira
 - [g3l](https://g3l.download) - Git is easy, github cli is easy but g3l easiest git cli in the w0rld!
 - [uber-cli](https://github.com/jaebradley/uber-cli) - Uber, at your fingertips.
+- [moro](https://github.com/omidfi/moro) - Time Tracker with a single command
 
 ## Utilities
 
