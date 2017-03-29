@@ -77,6 +77,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Video
 
 - [youtube-dl](http://rg3.github.io/youtube-dl/) - a small command-line program to download videos from YouTube.com and a few more sites. You can install with `brew install youtube-dl`.
+- [open-pip-cli](https://github.com/albinekb/open-pip-cli) - Watch movies in macOS native picture-in-picture player from your terminal.
 
 ## Development
 
