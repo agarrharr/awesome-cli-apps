@@ -31,7 +31,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Command Line Tools](#command-line-tools)
 - [Data Manipulation](#data-manipulation)
 - [Files and Directories](#files-and-directories)
-  - [Deleting and Copying](#deleting-and-copying)
+  - [Deleting, Copying, and Renaming](#deleting-copying-and-renaming)
   - [Files](#files)
   - [Directory Navigation](#directory-navigation)
 - [Version Control](#version-control)
@@ -178,13 +178,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Files and Directories
 
-### Deleting and Copying
+### Deleting, Copying, and Renaming
 
 - [trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and directories to the trash.
 - [empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash.
 - [trashss](https://github.com/sotojuan/trashss) - ( only) Trash screenshots on desktop.
 - [del-cli](https://github.com/sindresorhus/del-cli) - Delete files and folders.
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) - Copies files.
+- [rename-cli](https://github.com/jhotmann/node-rename-cli) - A cross-platform tool for renaming files quickly, especially multiple files at once.
 
 ### Files
 
