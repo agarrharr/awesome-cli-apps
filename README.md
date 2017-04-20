@@ -39,6 +39,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Changelogs](#changelogs)
 - [Images](#images)
   - [Gif Creation](#gif-creation)
+  - [Image Conversion](#image-conversion)
 - [SVG](#svg)
 - [Text Manipulation](#text-manipulation)
 - [Screensavers](#screensavers)
@@ -238,6 +239,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder and the best companion of asciinema.org.
 - [givegif](https://github.com/passy/givegif) - GIFs on the command line.
+
+### Image Conversion
+
+- [imgp](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator
 
 ## SVG
 
