@@ -207,6 +207,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PathPicker](https://facebook.github.io/PathPicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
 - [find-up-cli](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
 - [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
+- [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration
 
 ## Version Control
 
