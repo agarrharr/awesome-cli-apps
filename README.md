@@ -27,7 +27,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Database](#database)
 - [Productivity](#productivity)
 - [Utilities](#utilities)
-  - [OS X](#os-x)
+  - [macOS](#macos)
 - [Command Line Tools](#command-line-tools)
 - [Data Manipulation](#data-manipulation)
 - [Files and Directories](#files-and-directories)
@@ -59,7 +59,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
 - [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - Instant music downloader.
-- [itunes-remote](https://github.com/mischah/itunes-remote) - It’s about listening to music without leaving the terminal. OS X only.
+- [itunes-remote](https://github.com/mischah/itunes-remote) - It’s about listening to music without leaving the terminal. macOS only.
 - [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 - [pianobar](https://6xq.net/pianobar/) - Pandora client.
 - [quote-cli](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
@@ -155,12 +155,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [moeda](https://github.com/thompsonemerson/moeda) - A foreign exchange rates and currency conversion using cli
 - [wego](https://github.com/schachmat/wego) - Get the weather right in your browser or your console.
 
-### OS X
+### macOS
 
-- [bundle-id-cli](https://github.com/sindresorhus/bundle-id-cli) - Get bundle identifier from a bundle name (OS X): Safari → com.apple.Safari.
-- [bundle-name-cli](https://github.com/sindresorhus/bundle-name-cli) - Get bundle name from a bundle identifier (OS X): com.apple.Safari → Safari.
+- [bundle-id-cli](https://github.com/sindresorhus/bundle-id-cli) - Get bundle identifier from a bundle name (macOS): Safari → com.apple.Safari.
+- [bundle-name-cli](https://github.com/sindresorhus/bundle-name-cli) - Get bundle name from a bundle identifier (macOS): com.apple.Safari → Safari.
 - [lnfs-cli](https://github.com/kevva/lnfs-cli) - Safely force create symlinks.
-- [osx-version-cli](https://github.com/sindresorhus/osx-version-cli) - Get the OS X version of the current system.
+- [osx-version-cli](https://github.com/sindresorhus/osx-version-cli) - Get the macOS version of the current system.
 - [osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli) - A cli for managing wifi connections on OSX.
 - [active-win-cli](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window
 
@@ -301,7 +301,7 @@ Some fine resources to write your own CLI App.
 
 ## Other
 
-- [app-path-cli](https://github.com/sindresorhus/app-path-cli) - Get the path to an app (OS X).
+- [app-path-cli](https://github.com/sindresorhus/app-path-cli) - Get the path to an app (macOS).
 - [Bible.Js CLI client](https://github.com/BibleJS/BibleApp) - :book: Bible.JS CLI client. Read the Holy Bible via the command line.
 - [birthday](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
 - [cowsay and cowthink](https://web.archive.org/web/20120225123719/http://www.nog.net/~tony/warez/cowsay.shtml) - You can [install with homebrew](http://brewformulas.org/Cowsay).
