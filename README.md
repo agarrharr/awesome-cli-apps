@@ -223,6 +223,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels from the command line.
 - [tig](https://github.com/jonas/tig) - Text-mode interface for Git.
 - [git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day.
+- [starring](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
 
 ### Changelogs
 
