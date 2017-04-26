@@ -44,10 +44,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Text Manipulation](#text-manipulation)
 - [Screensavers](#screensavers)
 - [Graphics](#graphics)
-- [Resources](#resources)
-  - [Node frameworks and packages](#node-frameworks-and-packages)
-  - [Node Command-line utilities](#node-command-line-utilities)
-  - [String Manipulation](#string-manipulation)
 - [Other](#other)
 - [Other Awesome Lists](#other-awesome-lists)
 - [License](#license)
@@ -270,34 +266,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - A cli for traversing the Mandelbrot fractal.
 - [WOPR](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics.
 - [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
-
-## Resources
-
-Some fine resources to write your own CLI App.
-
-### Node frameworks and packages
-
-- [meow](https://github.com/sindresorhus/meow) - The most simple way to write small CLI modules including argument parsing.
-- [Inquirer](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces like checkboxes, radio buttons etc. with a simple but powerful API.
-- [Vorpal](https://github.com/dthree/vorpal) - Complete solution for creating interactive apps. Includes UI features from [Inquirer.](https://github.com/SBoudrias/Inquirer.js).
-
-### Node Command-line utilities
-
-- [Chalk](https://github.com/chalk/chalk) - Beautiful API to have beautiful terminal string styling.
-- [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols to differentiate output messages with a blink of an eye.
-- [log-update](https://github.com/sindresorhus/log-update) – Useful for ASCII animation. For example loading indicators.
-- [listr](https://github.com/samverschueren/listr) - Terminal task list.
-- [DraftLog](https://github.com/ivanseidel/node-draftlog) - Create multiple updatable log lines. Works just like `console.log`.
-
-### String Manipulation
-
-- [indent-string-cli](https://github.com/sindresorhus/indent-string-cli) - Indent each line in a string.
-- [pretty-ms-cli](https://github.com/sindresorhus/pretty-ms-cli) - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s.
-- [repeating-cli](https://github.com/sindresorhus/repeating-cli) - Repeat a string - fast.
-- [string-width-cli](https://github.com/sindresorhus/string-width-cli) - Get the visual width of a string - the number of columns required to display it.
-- [find-versions-cli](https://github.com/sindresorhus/find-versions-cli) - Find semver versions in a string: unicorn v1.2.3 → 1.2.3.
-- [pretty-bytes-cli](https://github.com/sindresorhus/pretty-bytes-cli) - Convert bytes to a human readable string: 1337 → 1.34 kB.
-- [normalize-newline-cli](https://github.com/sindresorhus/normalize-newline-cli) - Normalize the newline characters in a string to \n.
 
 ## Other
 
