@@ -83,6 +83,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Development
 
 - [Wat](https://github.com/dthree/wat) - Instant, central, community-built docs.
+- [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
 
 ### Web Development
 
