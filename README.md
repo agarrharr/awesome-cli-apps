@@ -118,7 +118,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [AutoScreenshotUploader](https://github.com/yask123/AutoScreenshotUploader) - Instantly capture and upload screenshot to [imgur](https://imgur.com).
 - [bitly-client](https://github.com/specious/bitly-client) - Make and manage Bitly shortlinks with this command line utility
-- [doing](http://brettterpstra.com/projects/doing/) - A command line tool for keeping track of what you’re doing and tracking what you’ve done.
+- [doing](https://github.com/ttscoff/doing/) - A command line tool for keeping track of what you’re doing and tracking what you’ve done.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - ffmpeg screencast with video overlay and multi monitor support.
 - [idea](https://github.com/IonicaBizau/idea) - A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
 - [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
