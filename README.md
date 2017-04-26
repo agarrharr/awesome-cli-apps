@@ -77,6 +77,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Video
 
 - [youtube-dl](http://rg3.github.io/youtube-dl/) - a small command-line program to download videos from YouTube.com and a few more sites. You can install with `brew install youtube-dl`.
+- [open-pip-cli](https://github.com/albinekb/open-pip-cli) - Watch movies in macOS native picture-in-picture player from your terminal.
 
 ## Development
 
@@ -130,6 +131,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [g3l](https://g3l.download) - Git is easy, github cli is easy but g3l easiest git cli in the w0rld!
 - [uber-cli](https://github.com/jaebradley/uber-cli) - Uber, at your fingertips.
 - [moro](https://github.com/omidfi/moro) - Time Tracker with a single command
+- [Buku](https://github.com/jarun/Buku) - Powerful command-line bookmark manager
 - [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
 
 ## Utilities
@@ -223,6 +225,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels from the command line.
 - [tig](https://github.com/jonas/tig) - Text-mode interface for Git.
 - [git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day.
+- [starring](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
 
 ### Changelogs
 
