@@ -210,7 +210,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [pm](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell.
 - [z](https://github.com/rupa/z) - z is the new j, yo.
 - [happyfinder](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
-- [PathPicker](https://facebook.github.io/PathPicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
+- [PathPicker](https://github.com/facebook/pathpicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
 - [find-up-cli](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
 - [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
 - [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration
