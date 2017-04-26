@@ -49,6 +49,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Node Command-line utilities](#node-command-line-utilities)
   - [String Manipulation](#string-manipulation)
 - [Other](#other)
+- [Other Awesome Lists](#other-awesome-lists)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -225,7 +226,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [git-stats](https://github.com/IonicaBizau/git-stats) - :four_leaf_clover: A GitHub-like contributions calendar, but locally, with all your git commits.
 - [hub](https://github.com/github/hub) - A command-line wrapper for git that makes you better at GitHub.
 - [dev-time](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
-- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - A curated list of addons that extends git cli.
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels from the command line.
 - [tig](https://github.com/jonas/tig) - Text-mode interface for Git.
 - [git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day.
@@ -330,6 +330,10 @@ Some fine resources to write your own CLI App.
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from your terminal.
 - [hget](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
 - [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
+
+## Other Awesome Lists
+
+- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - A curated list of addons that extends git cli.
 
 ## License
 
