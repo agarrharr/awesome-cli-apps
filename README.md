@@ -206,7 +206,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line- [https://github.com/wting/autojump/wiki](https://github.com/wting/autojump/wiki).
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
-- [j](https://github.com/rupa/j) - semi clone of autojump ([https://github.com/wting/autojump](https://github.com/wting/autojump)) in shell/awk.
 - [pm](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell.
 - [z](https://github.com/rupa/z) - z is the new j, yo.
 - [happyfinder](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
