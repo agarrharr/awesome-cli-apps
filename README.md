@@ -272,7 +272,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [app-path-cli](https://github.com/sindresorhus/app-path-cli) - Get the path to an app (macOS).
 - [Bible.Js CLI client](https://github.com/BibleJS/BibleApp) - :book: Bible.JS CLI client. Read the Holy Bible via the command line.
 - [birthday](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
-- [cowsay and cowthink](https://web.archive.org/web/20120225123719/http://www.nog.net/~tony/warez/cowsay.shtml) - You can [install with homebrew](http://brewformulas.org/Cowsay).
+- [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - You can [install with homebrew](http://brewformulas.org/Cowsay).
 - [cgasm](https://github.com/bnagy/cgasm) - A tool that gives x86 assembly documentation. It is pronounced "SeekAzzem".
 - [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code.
 - [fortune](http://brewformulas.org/Fortune) - Shows a random fortune.
