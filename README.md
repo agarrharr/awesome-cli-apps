@@ -82,6 +82,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Wat](https://github.com/dthree/wat) - Instant, central, community-built docs.
 - [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
+- [dockly](https://github.com/lirantal/dockly) - Interactive CLI for managing Docker containers.
 
 ### Web Development
 
@@ -106,10 +107,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [mobicon-cli](https://github.com/SamVerschueren/mobicon-cli) - Mobile app icon generator.
 - [mobisplash-cli](https://github.com/SamVerschueren/mobisplash-cli) - Mobile app splash screen generator.
-
-## Virtualization
-
- - [dockly](https://github.com/lirantal/dockly) - Interactive CLI for managing Docker containers
 
 ## Database
 
