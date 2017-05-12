@@ -107,6 +107,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mobicon-cli](https://github.com/SamVerschueren/mobicon-cli) - Mobile app icon generator.
 - [mobisplash-cli](https://github.com/SamVerschueren/mobisplash-cli) - Mobile app splash screen generator.
 
+## Virtualization
+
+ - [dockly](https://github.com/lirantal/dockly) - Interactive CLI for managing Docker containers
+
 ## Database
 
 - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
