@@ -27,11 +27,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Database](#database)
 - [Productivity](#productivity)
 - [Utilities](#utilities)
-  - [OS X](#os-x)
+  - [macOS](#macos)
 - [Command Line Tools](#command-line-tools)
 - [Data Manipulation](#data-manipulation)
 - [Files and Directories](#files-and-directories)
-  - [Deleting and Copying](#deleting-and-copying)
+  - [File managers](#file-managers)
+  - [Deleting, Copying, and Renaming](#deleting-copying-and-renaming)
   - [Files](#files)
   - [Directory Navigation](#directory-navigation)
 - [Version Control](#version-control)
@@ -39,15 +40,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Changelogs](#changelogs)
 - [Images](#images)
   - [Gif Creation](#gif-creation)
+  - [Image Conversion](#image-conversion)
 - [SVG](#svg)
 - [Text Manipulation](#text-manipulation)
 - [Screensavers](#screensavers)
 - [Graphics](#graphics)
-- [Resources](#resources)
-  - [Node frameworks and packages](#node-frameworks-and-packages)
-  - [Node Command-line utilities](#node-command-line-utilities)
-  - [String Manipulation](#string-manipulation)
 - [Other](#other)
+- [Other Awesome Lists](#other-awesome-lists)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -58,27 +57,31 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
 - [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - Instant music downloader.
-- [itunes-remote](https://github.com/mischah/itunes-remote) - It’s about listening to music without leaving the terminal. OS X only.
+- [itunes-remote](https://github.com/mischah/itunes-remote) - It’s about listening to music without leaving the terminal. macOS only.
 - [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 - [pianobar](https://6xq.net/pianobar/) - Pandora client.
 - [quote-cli](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
-- [movie] (https://github.com/mayankchd/movie) - Get movie info or compare movies in terminal.
+- [movie](https://github.com/mayankchd/movie) - Get movie info or compare movies in terminal.
 - [somafm-cli](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
 - [nehm](https://github.com/bogem/nehm) - Console tool, which downloads, sets IDv3 tags and adds to your iTunes (if you use macOS) your SoundCloud likes in convenient way
 - [football-cli](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league in your terminal.
+- [pockyt](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 
 ### Social Media
 
-- [TTYtter](https://github.com/oysttyer/oysttyer) - Twitter client- ([original](http://www.floodgap.com/software/ttytter/)).
 - [facebook-cli](https://github.com/specious/facebook-cli) - Facebook command line interface
+- [TTYtter](https://github.com/oysttyer/oysttyer) - Twitter client- ([original](http://www.floodgap.com/software/ttytter/)).
+- [Rainbowstream](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on terminal written in Python.
 
 ### Video
 
 - [youtube-dl](http://rg3.github.io/youtube-dl/) - a small command-line program to download videos from YouTube.com and a few more sites. You can install with `brew install youtube-dl`.
+- [open-pip-cli](https://github.com/albinekb/open-pip-cli) - Watch movies in macOS native picture-in-picture player from your terminal.
 
 ## Development
 
 - [Wat](https://github.com/dthree/wat) - Instant, central, community-built docs.
+- [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
 
 ### Web Development
 
@@ -112,16 +115,24 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Productivity
 
 - [AutoScreenshotUploader](https://github.com/yask123/AutoScreenshotUploader) - Instantly capture and upload screenshot to [imgur](https://imgur.com).
-- [doing](http://brettterpstra.com/projects/doing/) - A command line tool for keeping track of what you’re doing and tracking what you’ve done.
+- [bitly-client](https://github.com/specious/bitly-client) - Make and manage Bitly shortlinks with this command line utility
+- [doing](https://github.com/ttscoff/doing/) - A command line tool for keeping track of what you’re doing and tracking what you’ve done.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - ffmpeg screencast with video overlay and multi monitor support.
 - [idea](https://github.com/IonicaBizau/idea) - A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
 - [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
 - [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Console client for Evernote.
 - [localtunnel](https://github.com/localtunnel/localtunnel) - Exposes your localhost to the world for easy testing and sharing.
 - [ledger](http://ledger-cli.org) - Powerful, double-entry accounting system that is accessed from the UNIX command-line.
+- [meetup-cli](https://github.com/specious/meetup-cli) - Meetup.com command line interface
 - [The Mutt E-Mail Client](http://www.mutt.org/) - Email client.
 - [Taskwarrior](http://taskwarrior.org) - Free and Open Source Software that manages your TODO list from your command line.
 - [Timetrap](https://github.com/samg/timetrap) - Simple command line timetracker.
+- [terjira](https://github.com/keepcosmos/terjira) - Command line power tool for Jira
+- [g3l](https://github.com/svtek/g3l) - Git is easy, github cli is easy but g3l easiest git cli in the w0rld!
+- [uber-cli](https://github.com/jaebradley/uber-cli) - Uber, at your fingertips.
+- [moro](https://github.com/omidfi/moro) - Time Tracker with a single command
+- [Buku](https://github.com/jarun/Buku) - Powerful command-line bookmark manager
+- [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
 
 ## Utilities
 
@@ -139,14 +150,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mklicense](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info. Busy people & beginner's friendly.
 - [share-cli](https://github.com/marionebl/share-cli) - Quickly share files from command line with your local network.
 - [remote-share-cli](https://github.com/marionebl/remote-share-cli) - Quickly share files from your command line with the world.
+- [moeda](https://github.com/thompsonemerson/moeda) - A foreign exchange rates and currency conversion using cli
+- [wego](https://github.com/schachmat/wego) - Get the weather right in your browser or your console.
+- [mapscii](https://github.com/rastapasta/mapscii) - Terminal Map Viewer - the whole world in your console!
 - [website-popup-cli] (https://github.com/sindresorhus/website-popup-cli) - Quickly watch a window in a pop up window without closing or opening another full screen window.
 
-### OS X
+### macOS
 
-- [bundle-id-cli](https://github.com/sindresorhus/bundle-id-cli) - Get bundle identifier from a bundle name (OS X): Safari → com.apple.Safari.
-- [bundle-name-cli](https://github.com/sindresorhus/bundle-name-cli) - Get bundle name from a bundle identifier (OS X): com.apple.Safari → Safari.
+- [bundle-id-cli](https://github.com/sindresorhus/bundle-id-cli) - Get bundle identifier from a bundle name (macOS): Safari → com.apple.Safari.
+- [bundle-name-cli](https://github.com/sindresorhus/bundle-name-cli) - Get bundle name from a bundle identifier (macOS): com.apple.Safari → Safari.
 - [lnfs-cli](https://github.com/kevva/lnfs-cli) - Safely force create symlinks.
-- [osx-version-cli](https://github.com/sindresorhus/osx-version-cli) - Get the OS X version of the current system.
+- [osx-version-cli](https://github.com/sindresorhus/osx-version-cli) - Get the macOS version of the current system.
 - [osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli) - A cli for managing wifi connections on OSX.
 - [active-win-cli](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window
 
@@ -157,6 +171,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
 - [how2](https://github.com/santinic/how2) - Finds the simplest way to do something on a unix bash command line (Nodejs implementation of howdoi).
 - [Cash](https://github.com/dthree/cash) - Cross-platform Linux commands in pure ES6.
+- [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
+- [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line
+- [trino](https://github.com/eneserdogan/trino) - Trino CLI allows a quick and easy translation of words and phrases entered in the command line.
 
 ## Data Manipulation
 
@@ -166,13 +183,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Files and Directories
 
-### Deleting and Copying
+### File managers
+- [ranger](https://github.com/ranger/ranger) - a console file manager with VI key bindings.
+- [midnight-commander](https://github.com/MidnightCommander/mc) - a feature rich visual file manager
+
+### Deleting, Copying, and Renaming
 
 - [trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and directories to the trash.
 - [empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash.
 - [trashss](https://github.com/sotojuan/trashss) - ( only) Trash screenshots on desktop.
 - [del-cli](https://github.com/sindresorhus/del-cli) - Delete files and folders.
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) - Copies files.
+- [rename-cli](https://github.com/jhotmann/node-rename-cli) - A cross-platform tool for renaming files quickly, especially multiple files at once.
 
 ### Files
 
@@ -180,16 +202,22 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON. Lets you use comments in your JSON files!
 - [DocToc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
 
+### Directory Listing
+
+- [alder](https://github.com/aweary/alder) - A minimal implementation of the UNIX tree command with colors!
+
 ### Directory Navigation
 
 - [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line- [https://github.com/wting/autojump/wiki](https://github.com/wting/autojump/wiki).
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
-- [j](https://github.com/rupa/j) - semi clone of autojump ([https://github.com/wting/autojump](https://github.com/wting/autojump)) in shell/awk.
 - [pm](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell.
 - [z](https://github.com/rupa/z) - z is the new j, yo.
 - [happyfinder](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
-- [PathPicker](https://facebook.github.io/PathPicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
+- [PathPicker](https://github.com/facebook/pathpicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
 - [find-up-cli](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
+- [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
+- [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration
+
 
 ## Version Control
 
@@ -201,10 +229,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [git-stats](https://github.com/IonicaBizau/git-stats) - :four_leaf_clover: A GitHub-like contributions calendar, but locally, with all your git commits.
 - [hub](https://github.com/github/hub) - A command-line wrapper for git that makes you better at GitHub.
 - [dev-time](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
-- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - A curated list of addons that extends git cli.
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels from the command line.
 - [tig](https://github.com/jonas/tig) - Text-mode interface for Git.
-- [GitHub Check CLI](https://github.com/sahildua2305/github-check-cli) - :computer: CLI for checking GitHub user profile and repositories information.
+- [git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day.
+- [starring](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
 
 ### Changelogs
 
@@ -221,6 +249,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder and the best companion of asciinema.org.
 - [givegif](https://github.com/passy/givegif) - GIFs on the command line.
+
+### Image Conversion
+
+- [imgp](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator
 
 ## SVG
 
@@ -242,39 +274,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [WOPR](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics.
 - [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
 
-## Resources
-
-Some fine resources to write your own CLI App.
-
-### Node frameworks and packages
-
-- [meow](https://github.com/sindresorhus/meow) - The most simple way to write small CLI modules including argument parsing.
-- [Inquirer](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces like checkboxes, radio buttons etc. with a simple but powerful API.
-- [Vorpal](https://github.com/dthree/vorpal) - Complete solution for creating interactive apps. Includes UI features from [Inquirer.](https://github.com/SBoudrias/Inquirer.js).
-
-### Node Command-line utilities
-
-- [Chalk](https://github.com/chalk/chalk) - Beautiful API to have beautiful terminal string styling.
-- [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols to differentiate output messages with a blink of an eye.
-- [log-update](https://github.com/sindresorhus/log-update) – Useful for ASCII animation. For example loading indicators.
-- [listr](https://github.com/samverschueren/listr) - Terminal task list.
-
-### String Manipulation
-
-- [indent-string-cli](https://github.com/sindresorhus/indent-string-cli) - Indent each line in a string.
-- [pretty-ms-cli](https://github.com/sindresorhus/pretty-ms-cli) - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s.
-- [repeating-cli](https://github.com/sindresorhus/repeating-cli) - Repeat a string - fast.
-- [string-width-cli](https://github.com/sindresorhus/string-width-cli) - Get the visual width of a string - the number of columns required to display it.
-- [find-versions-cli](https://github.com/sindresorhus/find-versions-cli) - Find semver versions in a string: unicorn v1.2.3 → 1.2.3.
-- [pretty-bytes-cli](https://github.com/sindresorhus/pretty-bytes-cli) - Convert bytes to a human readable string: 1337 → 1.34 kB.
-- [normalize-newline-cli](https://github.com/sindresorhus/normalize-newline-cli) - Normalize the newline characters in a string to \n.
-
 ## Other
 
-- [app-path-cli](https://github.com/sindresorhus/app-path-cli) - Get the path to an app (OS X).
+- [app-path-cli](https://github.com/sindresorhus/app-path-cli) - Get the path to an app (macOS).
 - [Bible.Js CLI client](https://github.com/BibleJS/BibleApp) - :book: Bible.JS CLI client. Read the Holy Bible via the command line.
 - [birthday](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
-- [cowsay and cowthink](https://web.archive.org/web/20120225123719/http://www.nog.net/~tony/warez/cowsay.shtml) - You can [install with homebrew](http://brewformulas.org/Cowsay).
+- [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - You can [install with homebrew](http://brewformulas.org/Cowsay).
 - [cgasm](https://github.com/bnagy/cgasm) - A tool that gives x86 assembly documentation. It is pronounced "SeekAzzem".
 - [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code.
 - [fortune](http://brewformulas.org/Fortune) - Shows a random fortune.
@@ -286,6 +291,7 @@ Some fine resources to write your own CLI App.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.
 - [leven-cli](https://github.com/sindresorhus/leven-cli) - Measure the difference between two strings using the Levenshtein distance algorithm.
 - [maybe](https://github.com/p-e-w/maybe) - See what a program does before deciding whether you really want it to happen.
+- [mdlt](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
 - [medium-cli](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories within your terminal, also gives top stories.
 - [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli) - Open the URL from a web shortcut file in the browser.
 - [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
@@ -299,7 +305,10 @@ Some fine resources to write your own CLI App.
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from your terminal.
 - [hget](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
 - [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
-- [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
+
+## Other Awesome Lists
+
+- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - A curated list of addons that extends git cli.
 
 ## License
 
