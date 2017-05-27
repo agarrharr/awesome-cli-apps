@@ -187,6 +187,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### File managers
 - [ranger](https://github.com/ranger/ranger) - a console file manager with VI key bindings.
 - [midnight-commander](https://github.com/MidnightCommander/mc) - a feature rich visual file manager
+- [PathPicker](https://github.com/facebook/pathpicker/) - after parsing input,  presents you with a nice UI to select which files you're interested in.
 
 ### Deleting, Copying, and Renaming
 
