@@ -108,6 +108,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mobicon-cli](https://github.com/SamVerschueren/mobicon-cli) - Mobile app icon generator.
 - [mobisplash-cli](https://github.com/SamVerschueren/mobisplash-cli) - Mobile app splash screen generator.
 
+
+## Cloud
+
+- [SAWS](https://github.com/donnemartin/saws) - Supercharged AWS CLI
+- [s3cmd](http://s3tools.org/s3cmd) - Fully-Featured S3 client
+
 ## Database
 
 - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
