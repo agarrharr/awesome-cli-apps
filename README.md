@@ -82,6 +82,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Wat](https://github.com/dthree/wat) - Instant, central, community-built docs.
 - [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
+- [boilr](https://github.com/tmrts/boilr) - Dependency free CLI to create projects from boilerplate templates.
+- [cookiecutter](https://github.com/audreyr/cookiecutter) - creates projects from cookiecutters (project templates)
 - [dockly](https://github.com/lirantal/dockly) - Interactive CLI for managing Docker containers.
 
 ### Web Development
