@@ -306,6 +306,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from your terminal.
 - [hget](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
 - [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
+- [calories](https://github.com/zupzup/calories) - Calories and weight tracker.
 
 ## Other Awesome Lists
 
