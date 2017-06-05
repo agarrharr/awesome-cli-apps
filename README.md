@@ -223,14 +223,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
 - [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration
 
-## Terminal Emulators/Tools
+## Terminal Utilities
 
-- [iterm2](https://www.iterm2.com/) - A macOS Terminal.app replacement.
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
 - [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
 - [teleconsole](https://www.teleconsole.com/) - Share your UNIX terminal in seconds.
-- [tmate.io](https://tmate.io/) - Instant terminal (tmux) sharing.
-- [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
+- [tmate.io](https://tmate.io/) - Instant terminal (tmux) sharing..
 
 ## Version Control
 
