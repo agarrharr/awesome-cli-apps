@@ -28,7 +28,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Productivity](#productivity)
 - [Utilities](#utilities)
   - [macOS](#macos)
-- [Command Line Tools](#command-line-tools)
+- [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
 - [Files and Directories](#files-and-directories)
   - [File managers](#file-managers)
@@ -80,7 +80,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Development
 
-- [Wat](https://github.com/dthree/wat) - Instant, central, community-built docs.
 - [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
 - [boilr](https://github.com/tmrts/boilr) - Dependency free CLI to create projects from boilerplate templates.
 - [cookiecutter](https://github.com/audreyr/cookiecutter) - creates projects from cookiecutters (project templates)
@@ -169,16 +168,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli) - A cli for managing wifi connections on OSX.
 - [active-win-cli](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window
 
-## Command Line Tools
+## Command Line Learning
 
-- [The Fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
+- [cmdchallenge](https://cmdchallenge.com/) - presents small shell challenge with user submitted solutions.
+- [explainshell](http://www.explainshell.com/) - type a command line snippet to see the help text for each argument.
 - [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
 - [how2](https://github.com/santinic/how2) - Finds the simplest way to do something on a unix bash command line (Nodejs implementation of howdoi).
-- [Cash](https://github.com/dthree/cash) - Cross-platform Linux commands in pure ES6.
-- [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
-- [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line
-- [trino](https://github.com/eneserdogan/trino) - Trino CLI allows a quick and easy translation of words and phrases entered in the command line.
+- [shortcutfoo](https://www.shortcutfoo.com/) - Learn shortcuts for VIM, Emacs, git, bash and more.
+- [The Fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+- [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
+- [Wat](https://github.com/dthree/wat) - Instant, central, community-built docs.
+
 
 ## Data Manipulation
 
@@ -289,6 +289,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - You can [install with homebrew](http://brewformulas.org/Cowsay).
 - [cgasm](https://github.com/bnagy/cgasm) - A tool that gives x86 assembly documentation. It is pronounced "SeekAzzem".
 - [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code.
+- [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
+- [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line
 - [fortune](http://brewformulas.org/Fortune) - Shows a random fortune.
 - [fullname-cli](https://github.com/sindresorhus/fullname-cli) - Get the fullname of the current user.
 - [get-port-cli](https://github.com/sindresorhus/get-port-cli) - Get an available port.
@@ -314,6 +316,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
 - [google-wifi-status](https://github.com/joelgeorgev/google-wifi-status) - A Node.js CLI app that displays status of your Google Wifi / OnHub router.
 - [calories](https://github.com/zupzup/calories) - Calories and weight tracker.
+- [trino](https://github.com/eneserdogan/trino) - Trino CLI allows a quick and easy translation of words and phrases entered in the command line.
 
 ## Other Awesome Lists
 
