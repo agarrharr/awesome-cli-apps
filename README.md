@@ -35,6 +35,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Deleting, Copying, and Renaming](#deleting-copying-and-renaming)
   - [Files](#files)
   - [Directory Navigation](#directory-navigation)
+- [Terminal Utilities](#terminal-utilities)
 - [Version Control](#version-control)
   - [Git](#git)
   - [Changelogs](#changelogs)
@@ -228,7 +229,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
 - [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
 - [teleconsole](https://www.teleconsole.com/) - Share your UNIX terminal in seconds.
-- [tmate.io](https://tmate.io/) - Instant terminal (tmux) sharing..
+- [tmate.io](https://tmate.io/) - Instant terminal (tmux) sharing.
+- [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
 
 ## Version Control
 
