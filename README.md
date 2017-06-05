@@ -112,10 +112,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Database
 
-- [cycli](https://github.com/nicolewhite/cycli) - A terminal client for Neo4j with autocompletion and syntax highlighting.
 - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-- [pgcli](https://github.com/dbcli/pgcli) - A Terminal Client for Postgre with AutoCompletion and Syntax Highlighting.
-
+- [cycli](https://github.com/nicolewhite/cycli) - A terminal client for Neo4j with autocompletion and syntax highlighting.
 
 ## Productivity
 
@@ -225,6 +223,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
 - [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration
 
+## Terminal Emulators/Tools
+
+- [iterm2](https://www.iterm2.com/) - A macOS Terminal.app replacement.
+- [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
+- [teleconsole](https://www.teleconsole.com/) - Share your UNIX terminal in seconds.
+- [tmate.io](https://tmate.io/) - Instant terminal (tmux) sharing.
+- [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 
 ## Version Control
 
