@@ -82,6 +82,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Wat](https://github.com/dthree/wat) - Instant, central, community-built docs.
 - [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
+- [climate](https://github.com/adtac/climate) - Provides a number of tools for Linux/OSX developers to automate their system. 
 - [dockly](https://github.com/lirantal/dockly) - Interactive CLI for managing Docker containers.
 
 ### Web Development
