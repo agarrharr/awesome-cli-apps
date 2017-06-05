@@ -310,6 +310,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [hget](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
 - [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
 - [google-wifi-status](https://github.com/joelgeorgev/google-wifi-status) - A Node.js CLI app that displays status of your Google Wifi / OnHub router.
+- [calories](https://github.com/zupzup/calories) - Calories and weight tracker.
 
 ## Other Awesome Lists
 
