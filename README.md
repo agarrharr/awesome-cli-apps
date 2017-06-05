@@ -24,6 +24,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Development](#development)
   - [Web Development](#web-development)
   - [Mobile Development](#mobile-development)
+  - [Cloud](#cloud)
 - [Database](#database)
 - [Productivity](#productivity)
 - [Utilities](#utilities)
@@ -111,8 +112,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Cloud
 
-- [SAWS](https://github.com/donnemartin/saws) - Supercharged AWS CLI
-- [s3cmd](http://s3tools.org/s3cmd) - Fully-Featured S3 client
+- [SAWS](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
+- [s3cmd](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
 
 ## Database
 
