@@ -24,7 +24,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Development](#development)
   - [Web Development](#web-development)
   - [Mobile Development](#mobile-development)
-  - [Cloud](#cloud)
+- [Cloud](#cloud)
 - [Database](#database)
 - [Productivity](#productivity)
 - [Utilities](#utilities)
