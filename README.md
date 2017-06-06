@@ -35,6 +35,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Deleting, Copying, and Renaming](#deleting-copying-and-renaming)
   - [Files](#files)
   - [Directory Navigation](#directory-navigation)
+- [Terminal Utilities](#terminal-utilities)
 - [Version Control](#version-control)
   - [Git](#git)
   - [Changelogs](#changelogs)
@@ -115,7 +116,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [pgcli](https://github.com/dbcli/pgcli) - A Terminal Client for Postgre with AutoCompletion and Syntax Highlighting.
 
-
 ## Productivity
 
 - [AutoScreenshotUploader](https://github.com/yask123/AutoScreenshotUploader) - Instantly capture and upload screenshot to [imgur](https://imgur.com).
@@ -143,7 +143,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [archive-type-cli](https://github.com/kevva/archive-type-cli) - Detect the archive type of a Buffer/Uint8Array.
 - [battery-level](https://github.com/gillstrom/battery-level) - Get current battery level.
 - [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness- [windows version](https://github.com/sondreb/win-brightness).
-- [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
 - [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
 - [wallpaper-ci](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
@@ -225,6 +224,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
 - [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration
 
+## Terminal Utilities
+
+- [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
+- [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
+- [teleconsole](https://www.teleconsole.com/) - Share your UNIX terminal in seconds.
+- [tmate.io](https://tmate.io/) - Instant terminal (tmux) sharing.
+- [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
 
 ## Version Control
 
