@@ -74,6 +74,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [TTYtter](https://github.com/oysttyer/oysttyer) - Twitter client- ([original](http://www.floodgap.com/software/ttytter/)).
 - [Rainbowstream](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on terminal written in Python.
 - [RTV](https://github.com/michael-lazar/rtv) - RTV provides an interface to view and interact with reddit from your terminal.
+- [WeeChat](https://weechat.org/) - WeeChat is a fast, light and extensible chat client. It runs on many platforms like Linux, Unix, BSD, GNU Hurd, Mac OS X and Windows (Bash/Ubuntu and Cygwin).
 
 ### Video
 
