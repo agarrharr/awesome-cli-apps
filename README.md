@@ -21,6 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Entertainment](#entertainment)
   - [Social Media](#social-media)
   - [Video](#video)
+  - [Games](#game)
 - [Development](#development)
   - [Web Development](#web-development)
   - [Mobile Development](#mobile-development)
@@ -80,6 +81,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [youtube-dl](http://rg3.github.io/youtube-dl/) - a small command-line program to download videos from YouTube.com and a few more sites. You can install with `brew install youtube-dl`.
 - [open-pip-cli](https://github.com/albinekb/open-pip-cli) - Watch movies in macOS native picture-in-picture player from your terminal.
+
+### Games
+
+- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Dwarf Fortress is a part construction and management simulation, part roguelike, indie video game
 
 ## Development
 
@@ -194,6 +199,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### File managers
 - [ranger](https://github.com/ranger/ranger) - a console file manager with VI key bindings.
 - [midnight-commander](https://github.com/MidnightCommander/mc) - a feature rich visual file manager
+- [Vifm](https://vifm.info/) - Vifm is an ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt.
 
 ### Deleting, Copying, and Renaming
 
