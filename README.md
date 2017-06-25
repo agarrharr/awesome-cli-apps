@@ -139,6 +139,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [moro](https://github.com/omidfi/moro) - Time Tracker with a single command
 - [Buku](https://github.com/jarun/Buku) - Powerful command-line bookmark manager
 - [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
+- [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app for the UNIX terminal.
 
 ## Utilities
 
