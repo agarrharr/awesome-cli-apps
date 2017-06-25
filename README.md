@@ -144,7 +144,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [battery-level](https://github.com/gillstrom/battery-level) - Get current battery level.
 - [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness- [windows version](https://github.com/sondreb/win-brightness).
 - [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
-- [wallpaper-ci](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
+- [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text meme.
 - [s](https://github.com/zquestz/s) - Open a web search in your terminal. Supports multiple search providers.
