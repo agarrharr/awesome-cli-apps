@@ -28,12 +28,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Productivity](#productivity)
 - [Utilities](#utilities)
   - [macOS](#macos)
-- [Command Line Tools](#command-line-tools)
+- [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
 - [Files and Directories](#files-and-directories)
+  - [File managers](#file-managers)
   - [Deleting, Copying, and Renaming](#deleting-copying-and-renaming)
   - [Files](#files)
   - [Directory Navigation](#directory-navigation)
+- [Terminal Utilities](#terminal-utilities)
 - [Version Control](#version-control)
   - [Git](#git)
   - [Changelogs](#changelogs)
@@ -79,8 +81,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Development
 
-- [Wat](https://github.com/dthree/wat) - Instant, central, community-built docs.
 - [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
+- [boilr](https://github.com/tmrts/boilr) - Dependency free CLI to create projects from boilerplate templates.
+- [cookiecutter](https://github.com/audreyr/cookiecutter) - creates projects from cookiecutters (project templates)
+- [dockly](https://github.com/lirantal/dockly) - Interactive CLI for managing Docker containers.
 
 ### Web Development
 
@@ -108,8 +112,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Database
 
-- [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [cycli](https://github.com/nicolewhite/cycli) - A terminal client for Neo4j with autocompletion and syntax highlighting.
+- [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+- [pgcli](https://github.com/dbcli/pgcli) - A Terminal Client for Postgre with AutoCompletion and Syntax Highlighting.
 
 ## Productivity
 
@@ -139,9 +144,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [archive-type-cli](https://github.com/kevva/archive-type-cli) - Detect the archive type of a Buffer/Uint8Array.
 - [battery-level](https://github.com/gillstrom/battery-level) - Get current battery level.
 - [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness- [windows version](https://github.com/sondreb/win-brightness).
-- [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
 - [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
-- [wallpaper-ci](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
+- [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text meme.
 - [s](https://github.com/zquestz/s) - Open a web search in your terminal. Supports multiple search providers.
@@ -153,6 +157,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [moeda](https://github.com/thompsonemerson/moeda) - A foreign exchange rates and currency conversion using cli
 - [wego](https://github.com/schachmat/wego) - Get the weather right in your browser or your console.
 - [mapscii](https://github.com/rastapasta/mapscii) - Terminal Map Viewer - the whole world in your console!
+- [website-popup-cli](https://github.com/sindresorhus/website-popup-cli) - Quickly watch a window in a pop up window without closing or opening another full screen window.
 
 ### macOS
 
@@ -163,24 +168,30 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli) - A cli for managing wifi connections on OSX.
 - [active-win-cli](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window
 
-## Command Line Tools
+## Command Line Learning
 
-- [The Fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
+- [cmdchallenge](https://cmdchallenge.com/) - presents small shell challenge with user submitted solutions.
+- [explainshell](http://www.explainshell.com/) - type a command line snippet to see the help text for each argument.
 - [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
 - [how2](https://github.com/santinic/how2) - Finds the simplest way to do something on a unix bash command line (Nodejs implementation of howdoi).
-- [Cash](https://github.com/dthree/cash) - Cross-platform Linux commands in pure ES6.
-- [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
-- [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line
-- [trino](https://github.com/eneserdogan/trino) - Trino CLI allows a quick and easy translation of words and phrases entered in the command line.
+- [shortcutfoo](https://www.shortcutfoo.com/) - Learn shortcuts for VIM, Emacs, git, bash and more.
+- [The Fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+- [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
+- [Wat](https://github.com/dthree/wat) - Instant, central, community-built docs.
+
 
 ## Data Manipulation
 
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor [http://stedolan.github.io/jq/](http://stedolan.github.io/jq/).
 - [underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.
 - [ramda-cli](https://github.com/raine/ramda-cli) - A CLI tool for processing data with functional pipelines.
+- [yaml-cli](https://github.com/pandastrike/yaml-cli) - A simple CLI for querying and updating YAML files
 
 ## Files and Directories
+
+### File managers
+- [ranger](https://github.com/ranger/ranger) - a console file manager with VI key bindings.
+- [midnight-commander](https://github.com/MidnightCommander/mc) - a feature rich visual file manager
 
 ### Deleting, Copying, and Renaming
 
@@ -193,6 +204,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Files
 
+- [chokidar-cli](https://github.com/kimmobrunfeldt/chokidar-cli) - CLI to watch file system changes.
 - [file-type-cli](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
 - [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON. Lets you use comments in your JSON files!
 - [DocToc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
@@ -212,6 +224,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [find-up-cli](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
 - [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
 - [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration
+
+## Terminal Utilities
+
+- [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
+- [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
+- [teleconsole](https://www.teleconsole.com/) - Share your UNIX terminal in seconds.
+- [tmate.io](https://tmate.io/) - Instant terminal (tmux) sharing.
+- [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
 
 ## Version Control
 
@@ -263,10 +283,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Shows random pipes that grow across the screen.
 
 ## Graphics
-
 - [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - A cli for traversing the Mandelbrot fractal.
 - [WOPR](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics.
 - [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
+- [JackPaper](https://github.com/jackel27/jackpaper) - Pull random/queried images from unplash.com and apply to your desktop wallpaper.
 
 ## Other
 
@@ -276,6 +296,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - You can [install with homebrew](http://brewformulas.org/Cowsay).
 - [cgasm](https://github.com/bnagy/cgasm) - A tool that gives x86 assembly documentation. It is pronounced "SeekAzzem".
 - [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code.
+- [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
+- [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line
 - [fortune](http://brewformulas.org/Fortune) - Shows a random fortune.
 - [fullname-cli](https://github.com/sindresorhus/fullname-cli) - Get the fullname of the current user.
 - [get-port-cli](https://github.com/sindresorhus/get-port-cli) - Get an available port.
@@ -299,6 +321,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from your terminal.
 - [hget](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
 - [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
+- [google-wifi-status](https://github.com/joelgeorgev/google-wifi-status) - A Node.js CLI app that displays status of your Google Wifi / OnHub router.
+- [calories](https://github.com/zupzup/calories) - Calories and weight tracker.
+- [trino](https://github.com/eneserdogan/trino) - Trino CLI allows a quick and easy translation of words and phrases entered in the command line.
 
 ## Other Awesome Lists
 
