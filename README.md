@@ -247,6 +247,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [tig](https://github.com/jonas/tig) - Text-mode interface for Git.
 - [git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day.
 - [starring](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
+- [git-secret](https://github.com/sobolevn/git-secret) - Store your private data inside a git repository.
 
 ### Changelogs
 
