@@ -185,7 +185,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor [http://stedolan.github.io/jq/](http://stedolan.github.io/jq/).
 - [underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.
 - [ramda-cli](https://github.com/raine/ramda-cli) - A CLI tool for processing data with functional pipelines.
-- [yaml-cli](https://github.com/pandastrike/yaml-cli) - A simple CLI for querying and updating YAML files
+- [yaml-cli](https://github.com/pandastrike/yaml-cli) - A simple CLI for querying and updating YAML files.
+- [jp](https://github.com/therealklanni/jp) - Simply parse and drill into JSON on the commandline, with jsonpath and stdin stream support (jq compatible, not a replacement).
 
 ## Files and Directories
 
