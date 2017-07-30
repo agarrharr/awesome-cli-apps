@@ -125,7 +125,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [idea](https://github.com/IonicaBizau/idea) - A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
 - [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
 - [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Console client for Evernote.
-- [localtunnel](https://github.com/localtunnel/localtunnel) - Exposes your localhost to the world for easy testing and sharing.
 - [ledger](http://ledger-cli.org) - Powerful, double-entry accounting system that is accessed from the UNIX command-line.
 - [meetup-cli](https://github.com/specious/meetup-cli) - Meetup.com command line interface
 - [The Mutt E-Mail Client](http://www.mutt.org/) - Email client.
@@ -230,6 +229,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Terminal Utilities
 
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
+- [localtunnel](https://github.com/localtunnel/localtunnel) - Exposes your localhost to the world for easy testing and sharing.
 - [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
 - [teleconsole](https://www.teleconsole.com/) - Share your UNIX terminal in seconds.
 - [tmate.io](https://tmate.io/) - Instant terminal (tmux) sharing.
