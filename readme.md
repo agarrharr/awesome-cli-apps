@@ -314,7 +314,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [medium-cli](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories within your terminal, also gives top stories.
 - [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli) - Open the URL from a web shortcut file in the browser.
 - [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
-- [speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI.
+- [speedtest-net](https://github.com/ddsol/speedtest.net) - Test your internet connection speed and ping using speedtest.net from the CLI.
 - [shortcut-url-cli](https://github.com/sindresorhus/shortcut-url-cli) - Get the URL from a web shortcut file.
 - [SpeedRead](https://github.com/sunsations/speed_read) - A simple terminal-based open source Spritz-alike.
 - [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli) - Convert matching single-quotes to double-quotes: I 'love' unicorns => I "love" unicorns.
