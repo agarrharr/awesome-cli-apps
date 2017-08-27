@@ -214,6 +214,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Directory Listing
 
 - [alder](https://github.com/aweary/alder) - A minimal implementation of the UNIX tree command with colors!
+- [exa](https://github.com/ogham/exa) - An improved version of `ls` written in Rust.
 
 ### Directory Navigation
 
