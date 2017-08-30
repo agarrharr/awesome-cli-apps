@@ -8,6 +8,8 @@
 
 # Awesome CLI Apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+<a href="https://app.codesponsor.io/link/3owRGftAkghuGdjHaa955zEJ/agarrharr/awesome-cli-apps" rel="nofollow"><img src="https://app.codesponsor.io/embed/3owRGftAkghuGdjHaa955zEJ/agarrharr/awesome-cli-apps.svg" style="width: 888px; height: 68px;" alt="Sponsor" /></a>
+
 > A curated list of command line apps.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
