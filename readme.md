@@ -24,6 +24,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Development](#development)
   - [Web Development](#web-development)
   - [Mobile Development](#mobile-development)
+- [Devops](#devops)
 - [Database](#database)
 - [Productivity](#productivity)
 - [Utilities](#utilities)
@@ -110,6 +111,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [mobicon-cli](https://github.com/SamVerschueren/mobicon-cli) - Mobile app icon generator.
 - [mobisplash-cli](https://github.com/SamVerschueren/mobisplash-cli) - Mobile app splash screen generator.
+
+## Devops
+
+- [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services.
+- [azure-cli](https://github.com/Azure/azure-cli) - Command-line tools for Azure.
 
 ## Database
 
