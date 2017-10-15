@@ -252,7 +252,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [localtunnel](https://github.com/localtunnel/localtunnel) - Exposes your localhost to the world for easy testing and sharing.
 - [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
 - [ngrok](https://ngrok.com/) - secure introspectable tunnels to localhost.
-- [serveo](https://serveo.net/) - Expose local servers to the internet using only a SSH client. 
+- [serveo](https://serveo.net/) - Expose local servers to the internet using only a SSH client.
 - [seashells.io](https://seashells.io/) - Pipe output from command-line programs to the web in real-time.
 - [teleconsole](https://www.teleconsole.com/) - Share your UNIX terminal in seconds.
 - [tmate.io](https://tmate.io/) - Instant terminal (tmux) sharing.
@@ -322,6 +322,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [birthday](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
 - [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - You can [install with homebrew](http://brewformulas.org/Cowsay).
 - [cgasm](https://github.com/bnagy/cgasm) - A tool that gives x86 assembly documentation. It is pronounced "SeekAzzem".
+- [curate-pkg](https://github.com/andrei-pavel/curate-pkg) - Keeps a package configuration, great for when reinstalling Linux
 - [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code.
 - [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
 - [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line
