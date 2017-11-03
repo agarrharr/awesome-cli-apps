@@ -50,6 +50,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [File managers](#file-managers)
   - [Deleting, Copying, and Renaming](#deleting-copying-and-renaming)
   - [Files](#files)
+  - [Directory Listing](#directory-listing)
   - [Directory Navigation](#directory-navigation)
 - [Terminal Utilities](#terminal-utilities)
 - [Version Control](#version-control)
