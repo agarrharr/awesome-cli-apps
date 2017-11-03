@@ -21,6 +21,12 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+---
+
+[Sign up for the Newsletter!](https://docs.google.com/forms/d/e/1FAIpQLScrLU51CnfH1vy2em2Rj2aDbiVcIob58mOX5vUJuQsCclRVZA/viewform)
+
+---
+
 ## Table of Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
