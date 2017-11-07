@@ -1,13 +1,13 @@
 <h1 align="center">
-	<img width="763" src="https://cdn.rawgit.com/aharris88/awesome-cli-apps/master/media/logo.png" alt="awesome cli apps">
-	<br>
-	<br>
+<img width="763" src="https://cdn.rawgit.com/aharris88/awesome-cli-apps/master/media/logo.png" alt="awesome cli apps">
+<br>
+<br>
 </h1>
 
 <br>
 
 <a href="https://app.codesponsor.io/link/3owRGftAkghuGdjHaa955zEJ/agarrharr/awesome-cli-apps" rel="nofollow">
-	<img src="https://app.codesponsor.io/embed/3owRGftAkghuGdjHaa955zEJ/agarrharr/awesome-cli-apps.svg" style="width: 888px; height: 68px;" alt="Sponsor" />
+<img src="https://app.codesponsor.io/embed/3owRGftAkghuGdjHaa955zEJ/agarrharr/awesome-cli-apps.svg" style="width: 888px; height: 68px;" alt="Sponsor" />
 </a>
 
 <br>
@@ -34,31 +34,31 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Entertainment](#entertainment)
-  - [Social Media](#social-media)
-  - [Video](#video)
+- [Social Media](#social-media)
+- [Video](#video)
 - [Development](#development)
-  - [Web Development](#web-development)
-  - [Mobile Development](#mobile-development)
+- [Web Development](#web-development)
+- [Mobile Development](#mobile-development)
 - [Devops](#devops)
 - [Database](#database)
 - [Productivity](#productivity)
 - [Utilities](#utilities)
-  - [macOS](#macos)
+- [macOS](#macos)
 - [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
 - [Files and Directories](#files-and-directories)
-  - [File managers](#file-managers)
-  - [Deleting, Copying, and Renaming](#deleting-copying-and-renaming)
-  - [Files](#files)
-  - [Directory Listing](#directory-listing)
-  - [Directory Navigation](#directory-navigation)
+- [File managers](#file-managers)
+- [Deleting, Copying, and Renaming](#deleting-copying-and-renaming)
+- [Files](#files)
+- [Directory Listing](#directory-listing)
+- [Directory Navigation](#directory-navigation)
 - [Terminal Utilities](#terminal-utilities)
 - [Version Control](#version-control)
-  - [Git](#git)
-  - [Changelogs](#changelogs)
+- [Git](#git)
+- [Changelogs](#changelogs)
 - [Images](#images)
-  - [Gif Creation](#gif-creation)
-  - [Image Conversion](#image-conversion)
+- [Gif Creation](#gif-creation)
+- [Image Conversion](#image-conversion)
 - [SVG](#svg)
 - [Text Manipulation](#text-manipulation)
 - [Screensavers](#screensavers)
@@ -213,6 +213,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ramda-cli](https://github.com/raine/ramda-cli) - A CLI tool for processing data with functional pipelines.
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) - A simple CLI for querying and updating YAML files.
 - [jp](https://github.com/therealklanni/jp) - Simply parse and drill into JSON on the commandline, with jsonpath and stdin stream support (jq compatible, not a replacement).
+- [formatter-cli](https://github.com/schvabodka-man/formatter-cli) - Pretty simple and useful beautifier for human language
 
 ## Files and Directories
 
