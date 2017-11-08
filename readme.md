@@ -133,6 +133,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services.
 - [azure-cli](https://github.com/Azure/azure-cli) - Command-line tools for Azure.
+- [SAWS](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
+- [s3cmd](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
 
 ## Database
 
