@@ -164,6 +164,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Buku](https://github.com/jarun/Buku) - Powerful command-line bookmark manager
 - [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
 - [calcurse](http://calcurse.org/) - Calcurse, a calendar and scheduling application for the command line.
+- [cash-cli](https://github.com/xxczaki/cash-cli) - Convert 32 currencies from the command line!
 
 ## Utilities
 
