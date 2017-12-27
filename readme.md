@@ -103,6 +103,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cookiecutter](https://github.com/audreyr/cookiecutter) - creates projects from cookiecutters (project templates)
 - [dockly](https://github.com/lirantal/dockly) - Interactive CLI for managing Docker containers.
 - [themer](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
+- [vj](https://github.com/busyloop/vj) - Makes JSON human readable.
 
 ### Web Development
 
