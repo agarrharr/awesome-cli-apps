@@ -38,6 +38,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Social Media](#social-media)
   - [Video](#video)
 - [Development](#development)
+  - [Editor/IDE](#editoride)
   - [Web Development](#web-development)
   - [Mobile Development](#mobile-development)
 - [Devops](#devops)
@@ -112,6 +113,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cookiecutter](https://github.com/audreyr/cookiecutter) - creates projects from cookiecutters (project templates)
 - [dockly](https://github.com/lirantal/dockly) - Interactive CLI for managing Docker containers.
 
+### Editor/IDE
+
+- [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+- [vim](https://github.com/vim/vim) - Vim - the ubiquitous text editor
+- [emacs](https://github.com/emacs-mirror/emacs) - An extensible, customizable, free/libre text editor — and more.
 
 ### Web Development
 
