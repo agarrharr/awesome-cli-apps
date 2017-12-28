@@ -222,8 +222,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### File managers
 - [ranger](https://github.com/ranger/ranger) - a console file manager with VI key bindings.
-- [midnight-commander](https://github.com/MidnightCommander/mc) - a feature rich visual file manager
+- [midnight-commander](https://github.com/MidnightCommander/mc) - a feature rich visual file manager.
+- [nnn](https://github.com/jarun/nnn) -The missing terminal file browser for X.
 - [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files, imagine cleaning up your downloads in an instant.
+
 
 ### Deleting, Copying, and Renaming
 
