@@ -33,6 +33,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+- [Music Player](#music-player)
 - [Entertainment](#entertainment)
   - [Social Media](#social-media)
   - [Video](#video)
@@ -63,6 +64,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Text Manipulation](#text-manipulation)
 - [Screensavers](#screensavers)
 - [Graphics](#graphics)
+- [Theme/Ricing](#themericing)
 - [Other](#other)
 - [Other Awesome Lists](#other-awesome-lists)
 - [License](#license)
@@ -71,19 +73,26 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ---
 
-## Entertainment
+## Music Player
 
 - [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
+- [mpd](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
+- [ncmpcpp](https://github.com/arybczak/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc 
+- [moc](http://moc.daper.net/) - console audio player for Linux/UNIX 
+- [musikcube](https://github.com/clangen/musikcube) - cross-platform, terminal-based music player, audio engine, metadata indexer, and server 
+
+## Entertainment
+
 - [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - Instant music downloader.
-- [itunes-remote](https://github.com/mischah/itunes-remote) - It’s about listening to music without leaving the terminal. macOS only.
 - [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 - [pianobar](https://6xq.net/pianobar/) - Pandora client.
 - [quote-cli](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
 - [movie](https://github.com/mayankchd/movie) - Get movie info or compare movies in terminal.
 - [somafm-cli](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
-- [nehm](https://github.com/bogem/nehm) - Console tool, which downloads, sets IDv3 tags and adds to your iTunes (if you use macOS) your SoundCloud likes in convenient way
 - [football-cli](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league in your terminal.
 - [pockyt](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
+- [nehm](https://github.com/bogem/nehm) - (macOS) Console tool, which downloads, sets IDv3 tags and adds to your iTunes  your SoundCloud likes in convenient way
+- [itunes-remote](https://github.com/mischah/itunes-remote) (macOS) - It’s about listening to music without leaving the terminal. macOS only.
 
 ### Social Media
 
@@ -102,7 +111,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [boilr](https://github.com/tmrts/boilr) - Dependency free CLI to create projects from boilerplate templates.
 - [cookiecutter](https://github.com/audreyr/cookiecutter) - creates projects from cookiecutters (project templates)
 - [dockly](https://github.com/lirantal/dockly) - Interactive CLI for managing Docker containers.
-- [themer](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
+
 
 ### Web Development
 
@@ -328,6 +337,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [WOPR](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics.
 - [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
 - [JackPaper](https://github.com/jackel27/jackpaper) - Pull random/queried images from unplash.com and apply to your desktop wallpaper.
+
+## Theme/Ricing
+- [themer](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
 
 ## Other
 
