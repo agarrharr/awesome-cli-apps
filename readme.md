@@ -23,7 +23,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ---
 
-[Sign up for the Newsletter!](https://docs.google.com/forms/d/e/1FAIpQLScrLU51CnfH1vy2em2Rj2aDbiVcIob58mOX5vUJuQsCclRVZA/viewform)
+[Sign up for the Newsletter!](https://tinyletter.com/awesome-cli-apps)
 
 ---
 
