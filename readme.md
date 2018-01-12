@@ -363,6 +363,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [calories](https://github.com/zupzup/calories) - Calories and weight tracker.
 - [trino](https://github.com/eneserdogan/trino) - Trino CLI allows a quick and easy translation of words and phrases entered in the command line.
 - [alex](https://github.com/wooorm/alex) - This enhances texts with checking for insensitive, inconsiderate writing by catching many possible offences.
+- [YuleLog](https://github.com/Duroktar/YuleLog) - Terminal based Christmas YuleLog fireplace.
 
 ## Other Awesome Lists
 
