@@ -5,12 +5,6 @@
 </h1>
 
 <br>
-
-<a href="https://app.codesponsor.io/link/3owRGftAkghuGdjHaa955zEJ/agarrharr/awesome-cli-apps" rel="nofollow">
-	<img src="https://app.codesponsor.io/embed/3owRGftAkghuGdjHaa955zEJ/agarrharr/awesome-cli-apps.svg" style="width: 888px; height: 68px;" alt="Sponsor" />
-</a>
-
-<br>
 <br>
 
 ---
@@ -23,7 +17,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ---
 
-[Sign up for the Newsletter!](https://docs.google.com/forms/d/e/1FAIpQLScrLU51CnfH1vy2em2Rj2aDbiVcIob58mOX5vUJuQsCclRVZA/viewform)
+[Sign up for the Newsletter!](https://tinyletter.com/awesome-cli-apps)
 
 ---
 
@@ -164,6 +158,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Buku](https://github.com/jarun/Buku) - Powerful command-line bookmark manager
 - [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
 - [calcurse](http://calcurse.org/) - Calcurse, a calendar and scheduling application for the command line.
+- [cash-cli](https://github.com/xxczaki/cash-cli) - Convert 32 currencies from the command line!
 - [papis](http://github.com/alejandrogallo/papis) - Powerful and extensible document and bibliography manager.
 
 ## Utilities
@@ -286,6 +281,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [starring](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
 - [git-secret](https://github.com/sobolevn/git-secret) - Store your private data inside a git repository.
 - [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) - gitlab cli for creating merge request from the command line.
+- [git-extras](https://github.com/tj/git-extras) - Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more.
 
 ### Changelogs
 
@@ -374,4 +370,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Adam Harris](https://twitter.com/agarrharr) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agarrharr) has waived all copyright and related or neighboring rights to this work.
