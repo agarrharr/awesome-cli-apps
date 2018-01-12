@@ -5,12 +5,6 @@
 </h1>
 
 <br>
-
-<a href="https://app.codesponsor.io/link/3owRGftAkghuGdjHaa955zEJ/agarrharr/awesome-cli-apps" rel="nofollow">
-	<img src="https://app.codesponsor.io/embed/3owRGftAkghuGdjHaa955zEJ/agarrharr/awesome-cli-apps.svg" style="width: 888px; height: 68px;" alt="Sponsor" />
-</a>
-
-<br>
 <br>
 
 ---
@@ -23,7 +17,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ---
 
-[Sign up for the Newsletter!](https://docs.google.com/forms/d/e/1FAIpQLScrLU51CnfH1vy2em2Rj2aDbiVcIob58mOX5vUJuQsCclRVZA/viewform)
+[Sign up for the Newsletter!](https://tinyletter.com/awesome-cli-apps)
 
 ---
 
@@ -84,6 +78,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [nehm](https://github.com/bogem/nehm) - Console tool, which downloads, sets IDv3 tags and adds to your iTunes (if you use macOS) your SoundCloud likes in convenient way
 - [football-cli](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league in your terminal.
 - [pockyt](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
+- [splash-cli](https://github.com/rawnly/splash-cli) - Beautiful wallpapers from [unsplash](http://unsplash.com)
 
 ### Social Media
 
@@ -165,6 +160,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
 - [calcurse](http://calcurse.org/) - Calcurse, a calendar and scheduling application for the command line.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert 32 currencies from the command line!
+- [papis](http://github.com/alejandrogallo/papis) - Powerful and extensible document and bibliography manager.
 
 ## Utilities
 
@@ -269,6 +265,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [teleconsole](https://www.teleconsole.com/) - Share your UNIX terminal in seconds.
 - [tmate.io](https://tmate.io/) - Instant terminal (tmux) sharing.
 - [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
+- [OverTime](https://github.com/diit/overtime-cli) - Easy time-overlap tables for remote teams.
+- [undollar](https://github.com/ImFeelingDucky/undollar) - undollar strips the '$' preceding copy-pasted terminal commands.
 
 ## Version Control
 
@@ -286,6 +284,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [starring](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
 - [git-secret](https://github.com/sobolevn/git-secret) - Store your private data inside a git repository.
 - [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) - gitlab cli for creating merge request from the command line.
+- [git-extras](https://github.com/tj/git-extras) - Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more.
 
 ### Changelogs
 
@@ -365,7 +364,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [calories](https://github.com/zupzup/calories) - Calories and weight tracker.
 - [trino](https://github.com/eneserdogan/trino) - Trino CLI allows a quick and easy translation of words and phrases entered in the command line.
 - [alex](https://github.com/wooorm/alex) - This enhances texts with checking for insensitive, inconsiderate writing by catching many possible offences.
-- [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns.
+- [YuleLog](https://github.com/Duroktar/YuleLog) - Terminal based Christmas YuleLog fireplace.
+- [lolcat](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
 
 ## Other Awesome Lists
 
@@ -375,4 +375,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Adam Harris](https://twitter.com/agarrharr) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agarrharr) has waived all copyright and related or neighboring rights to this work.
