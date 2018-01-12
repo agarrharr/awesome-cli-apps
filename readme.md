@@ -5,12 +5,6 @@
 </h1>
 
 <br>
-
-<a href="https://app.codesponsor.io/link/3owRGftAkghuGdjHaa955zEJ/agarrharr/awesome-cli-apps" rel="nofollow">
-	<img src="https://app.codesponsor.io/embed/3owRGftAkghuGdjHaa955zEJ/agarrharr/awesome-cli-apps.svg" style="width: 888px; height: 68px;" alt="Sponsor" />
-</a>
-
-<br>
 <br>
 
 ---
