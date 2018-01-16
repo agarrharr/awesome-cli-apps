@@ -366,6 +366,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [alex](https://github.com/wooorm/alex) - This enhances texts with checking for insensitive, inconsiderate writing by catching many possible offences.
 - [YuleLog](https://github.com/Duroktar/YuleLog) - Terminal based Christmas YuleLog fireplace.
 - [lolcat](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
+- [xiringuito](https://github.com/ivanilves/xiringuito) - A "poor man's VPN". An SSH-based "VPN" that's easy to install, but with slower performance than a real VPN. 
 
 ## Other Awesome Lists
 
