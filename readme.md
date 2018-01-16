@@ -184,7 +184,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets in your terminal.
 - [has](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
 - [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
-- [nasa-cli](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day from your terminal.
 
 ### macOS
 
@@ -367,6 +366,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [alex](https://github.com/wooorm/alex) - This enhances texts with checking for insensitive, inconsiderate writing by catching many possible offences.
 - [YuleLog](https://github.com/Duroktar/YuleLog) - Terminal based Christmas YuleLog fireplace.
 - [lolcat](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
+- [nasa-cli](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day from your terminal.
 
 ## Other Awesome Lists
 
