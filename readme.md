@@ -184,6 +184,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets in your terminal.
 - [has](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
 - [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
+- [hotspot](https://github.com/itaditya/hotspot) - Turn your PC into a WIFI hotspot to share internet.
 
 ### macOS
 
