@@ -99,6 +99,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [dockly](https://github.com/lirantal/dockly) - Interactive CLI for managing Docker containers.
 - [themer](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
 - [legit](https://github.com/captainsafia/legit) - Choose from many Open Source licences to generate a LICENSE file or add license headers to files.
+- [yo](https://github.com/yeoman/yo) - CLI scaffolding tool for running Yeoman generators. There are thousands of ready to use generators and creating an own one is pretty easy.
 
 ### Web Development
 
