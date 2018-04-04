@@ -195,6 +195,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [osx-version-cli](https://github.com/sindresorhus/osx-version-cli) - Get the macOS version of the current system.
 - [osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli) - A cli for managing wifi connections on OSX.
 - [active-win-cli](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window
+- [stronghold](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal.
 
 ## Command Line Learning
 
