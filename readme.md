@@ -132,6 +132,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [azure-cli](https://github.com/Azure/azure-cli) - Command-line tools for Azure.
 - [SAWS](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
 - [s3cmd](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
+- [lstags](https://github.com/ivanilves/lstags) - Synchronize Docker images across different registries.
 
 ## Database
 
