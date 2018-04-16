@@ -99,6 +99,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [dockly](https://github.com/lirantal/dockly) - Interactive CLI for managing Docker containers.
 - [themer](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
 - [legit](https://github.com/captainsafia/legit) - Choose from many Open Source licences to generate a LICENSE file or add license headers to files.
+- [rebound](https://github.com/shobrook/rebound) - Instantly fetch Stack Overflow results in your terminal when you get a compiler error.
 
 ### Web Development
 
@@ -132,6 +133,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [azure-cli](https://github.com/Azure/azure-cli) - Command-line tools for Azure.
 - [SAWS](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
 - [s3cmd](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
+- [lstags](https://github.com/ivanilves/lstags) - Synchronize Docker images across different registries.
 
 ## Database
 
