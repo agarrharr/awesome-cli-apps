@@ -165,6 +165,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [calcurse](http://calcurse.org/) - Calcurse, a calendar and scheduling application for the command line.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert 32 currencies from the command line!
 - [papis](http://github.com/alejandrogallo/papis) - Powerful and extensible document and bibliography manager.
+- [jin](https://github.com/Splode/jin) - Take and organize simple notes without ever leaving the command line.
 
 ## Utilities
 
