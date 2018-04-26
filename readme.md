@@ -165,6 +165,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [calcurse](http://calcurse.org/) - Calcurse, a calendar and scheduling application for the command line.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert 32 currencies from the command line!
 - [papis](http://github.com/alejandrogallo/papis) - Powerful and extensible document and bibliography manager.
+- [gacli](https://www.npmjs.com/package/gacli) - Google answers right from your terminal
 
 ## Utilities
 
@@ -188,6 +189,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets in your terminal.
 - [has](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
 - [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
+- [AKA](https://www.npmjs.com/package/as-known-as) - Alias Bash Command on Steroids
 
 ### macOS
 
@@ -219,6 +221,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) - A simple CLI for querying and updating YAML files.
 - [jp](https://github.com/therealklanni/jp) - Simply parse and drill into JSON on the commandline, with jsonpath and stdin stream support (jq compatible, not a replacement).
 - [fx](https://github.com/antonmedv/fx) - Command-line JSON processing tool
+- [dvcli](https://www.npmjs.com/package/dvcli) - Friendly viewer for local or online JSON files
 
 ## Files and Directories
 
