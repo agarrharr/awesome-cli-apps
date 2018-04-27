@@ -375,6 +375,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [lolcat](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
 - [xiringuito](https://github.com/ivanilves/xiringuito) - A "poor man's VPN". An SSH-based "VPN" that's easy to install, but with slower performance than a real VPN.
 - [nasa-cli](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day from your terminal.
+- [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies.
 
 ## Other Awesome Lists
 
