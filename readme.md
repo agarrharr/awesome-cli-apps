@@ -273,6 +273,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
 - [OverTime](https://github.com/diit/overtime-cli) - Easy time-overlap tables for remote teams.
 - [undollar](https://github.com/ImFeelingDucky/undollar) - undollar strips the '$' preceding copy-pasted terminal commands.
+- [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+
 
 ## Version Control
 
