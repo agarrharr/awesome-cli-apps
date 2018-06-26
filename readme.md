@@ -35,6 +35,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Mobile Development](#mobile-development)
 - [Devops](#devops)
 - [Database](#database)
+- [Blockchain](#blockchain)
 - [Productivity](#productivity)
 - [Utilities](#utilities)
   - [macOS](#macos)
@@ -140,6 +141,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cycli](https://github.com/nicolewhite/cycli) - A terminal client for Neo4j with autocompletion and syntax highlighting.
 - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [pgcli](https://github.com/dbcli/pgcli) - A Terminal Client for Postgre with AutoCompletion and Syntax Highlighting.
+
+## Blockchain
+- [emerald-cli](https://github.com/ETCDEVTeam/emerald-cli) - console tool for offline account managment on Ethereum/Ethereum Classic networks
+- [nem-toolchain](https://github.com/nem-toolchain/nem-toolchain) - command line toolchain for NEM blockchain
+
 
 ## Productivity
 
