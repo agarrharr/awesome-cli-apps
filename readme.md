@@ -120,6 +120,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of the package in the current directory.
 - [HTTPie](https://github.com/jkbrzt/httpie) - A user-friendly HTTP client.
 - [serve](https://github.com/zeit/serve) - Easy to use static file server with features like https, CORS and GZIP compression.
+- [np](https://github.com/sindresorhus/np) - A better `npm publish`.
 
 ### Mobile Development
 
