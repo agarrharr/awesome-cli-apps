@@ -2,14 +2,16 @@
 
 Not all tools can be considered. The aim of the list is to provide a concise list of awesome CLI tools and apps. This means that suggested software should:  
   
-(a) Be a tool designed to be used through the command-line, not a tool with CLI added as an afterthough  
-(b) Do one thing and do it well  
+- Do one thing and do it well
+- Have a free and open source license
+- Be easy to install
+- Be well documented
 
 Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
-- Entries should be sorted in ascending alphabetical order, i.e. a to z.
+- Additions should be added to the bottom of the relevant category.
 - Use the following format: `[package](link) - Description.`
 - New categories, or improvements to the existing categorization are welcome.
 - Keep descriptions short and simple, but descriptive.
