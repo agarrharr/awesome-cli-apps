@@ -1,5 +1,12 @@
 # Contribution Guidelines
 
+Not all tools can be considered. The aim of the list is to provide a concise list of awesome CLI tools and apps. This means that suggested software should:  
+  
+- Do one thing and do it well
+- Have a free and open source license
+- Be easy to install
+- Be well documented
+
 Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
