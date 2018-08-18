@@ -294,6 +294,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [git-secret](https://github.com/sobolevn/git-secret) - Store your private data inside a git repository.
 - [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) - gitlab cli for creating merge request from the command line.
 - [git-extras](https://github.com/tj/git-extras) - Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more.
+- [git2svg](https://github.com/Camji55/git2svg) - Tool that creates an SVG image from your GitHub contributions graph.
 
 ### Changelogs
 
