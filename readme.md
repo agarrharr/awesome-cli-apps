@@ -143,6 +143,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactive CLI that generates a .gitignore for your project based on your needs.
 - [mevn-cli](http://github.com/madlabsinc/mevn-cli) - CLI tool for the MEVN stack.
 - [scaffold-static](https://github.com/jamesgeorge007/scaffold-static) - Static site generator for vanila JS.
+- [Discharge](https://github.com/brandonweiss/discharge) - Simple, easy way to deploy static websites to Amazon S3.
 
 ### Mobile Development
 
