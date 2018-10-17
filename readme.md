@@ -295,6 +295,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) - gitlab cli for creating merge request from the command line.
 - [git-extras](https://github.com/tj/git-extras) - Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more.
 
+### Machine Learning
+- [dvc](https://github.com/iterative/dvc) - :zap: ML models version control, make them shareable and reproducible.
+
 ### Changelogs
 
 - [clog](https://github.com/kentcdodds/clog-cli) - A conventional changelog for the rest of us.
