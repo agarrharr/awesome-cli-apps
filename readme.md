@@ -28,6 +28,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Entertainment](#entertainment)
+  - [Music](#music)
   - [Social Media](#social-media)
   - [Video](#video)
   - [Games](#games)
@@ -69,18 +70,21 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Entertainment
 
-- [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
-- [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - Instant music downloader.
-- [itunes-remote](https://github.com/mischah/itunes-remote) - It’s about listening to music without leaving the terminal. macOS only.
 - [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
-- [pianobar](https://6xq.net/pianobar/) - Pandora client.
 - [quote-cli](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
 - [movie](https://github.com/mayankchd/movie) - Get movie info or compare movies in terminal.
-- [somafm-cli](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
-- [nehm](https://github.com/bogem/nehm) - Console tool, which downloads, sets IDv3 tags and adds to your iTunes (if you use macOS) your SoundCloud likes in convenient way
 - [football-cli](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league in your terminal.
 - [pockyt](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 - [splash-cli](https://github.com/rawnly/splash-cli) - Beautiful wallpapers from [unsplash](http://unsplash.com)
+
+### Music
+
+- [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
+- [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - Instant music downloader.
+- [itunes-remote](https://github.com/mischah/itunes-remote) - It’s about listening to music without leaving the terminal. macOS only.
+- [pianobar](https://6xq.net/pianobar/) - Pandora client.
+- [somafm-cli](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
+- [nehm](https://github.com/bogem/nehm) - Console tool, which downloads, sets IDv3 tags and adds to your iTunes (if you use macOS) your SoundCloud likes in convenient way
 
 ### Social Media
 
