@@ -30,6 +30,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Entertainment](#entertainment)
   - [Social Media](#social-media)
   - [Video](#video)
+  - [Games](#games)
 - [Development](#development)
   - [Web Development](#web-development)
   - [Mobile Development](#mobile-development)
@@ -91,6 +92,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [youtube-dl](http://rg3.github.io/youtube-dl/) - a small command-line program to download videos from YouTube.com and a few more sites. You can install with `brew install youtube-dl`.
 - [open-pip-cli](https://github.com/albinekb/open-pip-cli) - Watch movies in macOS native picture-in-picture player from your terminal.
+
+### Games
+
+- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Dwarf Fortress is a part construction and management simulation, part roguelike, indie video game
 
 ## Development
 
