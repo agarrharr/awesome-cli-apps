@@ -5,12 +5,6 @@
 </h1>
 
 <br>
-
-<a href="https://app.codesponsor.io/link/3owRGftAkghuGdjHaa955zEJ/agarrharr/awesome-cli-apps" rel="nofollow">
-	<img src="https://app.codesponsor.io/embed/3owRGftAkghuGdjHaa955zEJ/agarrharr/awesome-cli-apps.svg" style="width: 888px; height: 68px;" alt="Sponsor" />
-</a>
-
-<br>
 <br>
 
 ---
@@ -23,7 +17,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ---
 
-[Sign up for the Newsletter!](https://docs.google.com/forms/d/e/1FAIpQLScrLU51CnfH1vy2em2Rj2aDbiVcIob58mOX5vUJuQsCclRVZA/viewform)
+[Sign up for the Newsletter!](https://tinyletter.com/awesome-cli-apps)
 
 ---
 
@@ -36,6 +30,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Entertainment](#entertainment)
   - [Social Media](#social-media)
   - [Video](#video)
+  - [Games](#games)
 - [Development](#development)
   - [Web Development](#web-development)
   - [Mobile Development](#mobile-development)
@@ -84,17 +79,24 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [nehm](https://github.com/bogem/nehm) - Console tool, which downloads, sets IDv3 tags and adds to your iTunes (if you use macOS) your SoundCloud likes in convenient way
 - [football-cli](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league in your terminal.
 - [pockyt](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
+- [splash-cli](https://github.com/rawnly/splash-cli) - Beautiful wallpapers from [unsplash](http://unsplash.com)
 
 ### Social Media
 
 - [facebook-cli](https://github.com/specious/facebook-cli) - Facebook command line interface
 - [TTYtter](https://github.com/oysttyer/oysttyer) - Twitter client- ([original](http://www.floodgap.com/software/ttytter/)).
 - [Rainbowstream](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on terminal written in Python.
+- [RTV](https://github.com/michael-lazar/rtv) - RTV provides an interface to view and interact with reddit from your terminal.
+- [WeeChat](https://weechat.org/) - WeeChat is a fast, light and extensible chat client. It runs on many platforms like Linux, Unix, BSD, GNU Hurd, Mac OS X and Windows (Bash/Ubuntu and Cygwin).
 
 ### Video
 
 - [youtube-dl](http://rg3.github.io/youtube-dl/) - a small command-line program to download videos from YouTube.com and a few more sites. You can install with `brew install youtube-dl`.
 - [open-pip-cli](https://github.com/albinekb/open-pip-cli) - Watch movies in macOS native picture-in-picture player from your terminal.
+
+### Games
+
+- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Dwarf Fortress is a part construction and management simulation, part roguelike, indie video game
 
 ## Development
 
@@ -103,6 +105,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cookiecutter](https://github.com/audreyr/cookiecutter) - creates projects from cookiecutters (project templates)
 - [dockly](https://github.com/lirantal/dockly) - Interactive CLI for managing Docker containers.
 - [themer](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
+- [legit](https://github.com/captainsafia/legit) - Choose from many Open Source licences to generate a LICENSE file or add license headers to files.
+- [rebound](https://github.com/shobrook/rebound) - Instantly fetch Stack Overflow results in your terminal when you get a compiler error.
+- [yo](https://github.com/yeoman/yo) - CLI scaffolding tool for running Yeoman generators. There are thousands of ready to use generators and creating an own one is pretty easy.
 - [vj](https://github.com/busyloop/vj) - Makes JSON human readable.
 
 ### Web Development
@@ -123,6 +128,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Command-line tool to parse git diffs as JSON and generate pretty HTML.
 - [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of the package in the current directory.
 - [HTTPie](https://github.com/jkbrzt/httpie) - A user-friendly HTTP client.
+- [serve](https://github.com/zeit/serve) - Easy to use static file server with features like https, CORS and GZIP compression.
+- [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactive CLI that generates a .gitignore for your project based on your needs.
 
 ### Mobile Development
 
@@ -136,6 +143,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [azure-cli](https://github.com/Azure/azure-cli) - Command-line tools for Azure.
 - [SAWS](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
 - [s3cmd](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
+- [lstags](https://github.com/ivanilves/lstags) - Synchronize Docker images across different registries.
 
 ## Database
 
@@ -166,6 +174,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
 - [calcurse](http://calcurse.org/) - Calcurse, a calendar and scheduling application for the command line.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert 32 currencies from the command line!
+- [papis](http://github.com/alejandrogallo/papis) - Powerful and extensible document and bibliography manager.
+- [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app for the UNIX terminal.
 
 ## Utilities
 
@@ -189,6 +199,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets in your terminal.
 - [has](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
 - [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
+- [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 
 ### macOS
 
@@ -198,6 +209,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [osx-version-cli](https://github.com/sindresorhus/osx-version-cli) - Get the macOS version of the current system.
 - [osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli) - A cli for managing wifi connections on OSX.
 - [active-win-cli](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window
+- [stronghold](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal.
+- [shallow-backup](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed packages, dotfiles, and more.
 
 ## Command Line Learning
 
@@ -218,6 +231,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ramda-cli](https://github.com/raine/ramda-cli) - A CLI tool for processing data with functional pipelines.
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) - A simple CLI for querying and updating YAML files.
 - [jp](https://github.com/therealklanni/jp) - Simply parse and drill into JSON on the commandline, with jsonpath and stdin stream support (jq compatible, not a replacement).
+- [fx](https://github.com/antonmedv/fx) - Command-line JSON processing tool
 
 ## Files and Directories
 
@@ -225,6 +239,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ranger](https://github.com/ranger/ranger) - a console file manager with VI key bindings.
 - [midnight-commander](https://github.com/MidnightCommander/mc) - a feature rich visual file manager
 - [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files, imagine cleaning up your downloads in an instant.
+- [Vifm](https://vifm.info/) - Vifm is an ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt.
 
 ### Deleting, Copying, and Renaming
 
@@ -265,11 +280,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [localtunnel](https://github.com/localtunnel/localtunnel) - Exposes your localhost to the world for easy testing and sharing.
 - [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
 - [ngrok](https://ngrok.com/) - secure introspectable tunnels to localhost.
-- [serveo](https://serveo.net/) - Expose local servers to the internet using only a SSH client. 
+- [serveo](https://serveo.net/) - Expose local servers to the internet using only a SSH client.
 - [seashells.io](https://seashells.io/) - Pipe output from command-line programs to the web in real-time.
 - [teleconsole](https://www.teleconsole.com/) - Share your UNIX terminal in seconds.
 - [tmate.io](https://tmate.io/) - Instant terminal (tmux) sharing.
 - [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
+- [OverTime](https://github.com/diit/overtime-cli) - Easy time-overlap tables for remote teams.
+- [undollar](https://github.com/ImFeelingDucky/undollar) - undollar strips the '$' preceding copy-pasted terminal commands.
 
 ## Version Control
 
@@ -283,10 +300,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [dev-time](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels from the command line.
 - [tig](https://github.com/jonas/tig) - Text-mode interface for Git.
+- [grv](https://github.com/rgburke/grv) - Text-mode interface for Git with customisable vi bindings.
 - [git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day.
 - [starring](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
 - [git-secret](https://github.com/sobolevn/git-secret) - Store your private data inside a git repository.
 - [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) - gitlab cli for creating merge request from the command line.
+- [git-extras](https://github.com/tj/git-extras) - Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more.
 
 ### Changelogs
 
@@ -366,6 +385,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [calories](https://github.com/zupzup/calories) - Calories and weight tracker.
 - [trino](https://github.com/eneserdogan/trino) - Trino CLI allows a quick and easy translation of words and phrases entered in the command line.
 - [alex](https://github.com/wooorm/alex) - This enhances texts with checking for insensitive, inconsiderate writing by catching many possible offences.
+- [YuleLog](https://github.com/Duroktar/YuleLog) - Terminal based Christmas YuleLog fireplace.
+- [lolcat](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
+- [xiringuito](https://github.com/ivanilves/xiringuito) - A "poor man's VPN". An SSH-based "VPN" that's easy to install, but with slower performance than a real VPN.
+- [nasa-cli](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day from your terminal.
 
 ## Other Awesome Lists
 
@@ -375,4 +398,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Adam Harris](https://twitter.com/agarrharr) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agarrharr) has waived all copyright and related or neighboring rights to this work.
