@@ -30,6 +30,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Entertainment](#entertainment)
   - [Social Media](#social-media)
   - [Video](#video)
+  - [Games](#games)
 - [Development](#development)
   - [Web Development](#web-development)
   - [Mobile Development](#mobile-development)
@@ -85,11 +86,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [facebook-cli](https://github.com/specious/facebook-cli) - Facebook command line interface
 - [TTYtter](https://github.com/oysttyer/oysttyer) - Twitter client- ([original](http://www.floodgap.com/software/ttytter/)).
 - [Rainbowstream](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on terminal written in Python.
+- [RTV](https://github.com/michael-lazar/rtv) - RTV provides an interface to view and interact with reddit from your terminal.
+- [WeeChat](https://weechat.org/) - WeeChat is a fast, light and extensible chat client. It runs on many platforms like Linux, Unix, BSD, GNU Hurd, Mac OS X and Windows (Bash/Ubuntu and Cygwin).
 
 ### Video
 
 - [youtube-dl](http://rg3.github.io/youtube-dl/) - a small command-line program to download videos from YouTube.com and a few more sites. You can install with `brew install youtube-dl`.
 - [open-pip-cli](https://github.com/albinekb/open-pip-cli) - Watch movies in macOS native picture-in-picture player from your terminal.
+
+### Games
+
+- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Dwarf Fortress is a part construction and management simulation, part roguelike, indie video game
 
 ## Development
 
@@ -99,6 +106,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [dockly](https://github.com/lirantal/dockly) - Interactive CLI for managing Docker containers.
 - [themer](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
 - [legit](https://github.com/captainsafia/legit) - Choose from many Open Source licences to generate a LICENSE file or add license headers to files.
+- [rebound](https://github.com/shobrook/rebound) - Instantly fetch Stack Overflow results in your terminal when you get a compiler error.
 - [yo](https://github.com/yeoman/yo) - CLI scaffolding tool for running Yeoman generators. There are thousands of ready to use generators and creating an own one is pretty easy.
 
 ### Web Development
@@ -119,6 +127,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Command-line tool to parse git diffs as JSON and generate pretty HTML.
 - [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of the package in the current directory.
 - [HTTPie](https://github.com/jkbrzt/httpie) - A user-friendly HTTP client.
+- [serve](https://github.com/zeit/serve) - Easy to use static file server with features like https, CORS and GZIP compression.
+- [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactive CLI that generates a .gitignore for your project based on your needs.
 
 ### Mobile Development
 
@@ -132,6 +142,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [azure-cli](https://github.com/Azure/azure-cli) - Command-line tools for Azure.
 - [SAWS](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
 - [s3cmd](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
+- [lstags](https://github.com/ivanilves/lstags) - Synchronize Docker images across different registries.
 
 ## Database
 
@@ -163,6 +174,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [calcurse](http://calcurse.org/) - Calcurse, a calendar and scheduling application for the command line.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert 32 currencies from the command line!
 - [papis](http://github.com/alejandrogallo/papis) - Powerful and extensible document and bibliography manager.
+- [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app for the UNIX terminal.
 
 ## Utilities
 
@@ -186,6 +198,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets in your terminal.
 - [has](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
 - [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
+- [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 
 ### macOS
 
@@ -195,6 +208,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [osx-version-cli](https://github.com/sindresorhus/osx-version-cli) - Get the macOS version of the current system.
 - [osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli) - A cli for managing wifi connections on OSX.
 - [active-win-cli](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window
+- [stronghold](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal.
+- [shallow-backup](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed packages, dotfiles, and more.
 
 ## Command Line Learning
 
@@ -215,6 +230,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ramda-cli](https://github.com/raine/ramda-cli) - A CLI tool for processing data with functional pipelines.
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) - A simple CLI for querying and updating YAML files.
 - [jp](https://github.com/therealklanni/jp) - Simply parse and drill into JSON on the commandline, with jsonpath and stdin stream support (jq compatible, not a replacement).
+- [fx](https://github.com/antonmedv/fx) - Command-line JSON processing tool
 
 ## Files and Directories
 
@@ -222,6 +238,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ranger](https://github.com/ranger/ranger) - a console file manager with VI key bindings.
 - [midnight-commander](https://github.com/MidnightCommander/mc) - a feature rich visual file manager
 - [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files, imagine cleaning up your downloads in an instant.
+- [Vifm](https://vifm.info/) - Vifm is an ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt.
 
 ### Deleting, Copying, and Renaming
 
@@ -282,6 +299,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [dev-time](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels from the command line.
 - [tig](https://github.com/jonas/tig) - Text-mode interface for Git.
+- [grv](https://github.com/rgburke/grv) - Text-mode interface for Git with customisable vi bindings.
 - [git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day.
 - [starring](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
 - [git-secret](https://github.com/sobolevn/git-secret) - Store your private data inside a git repository.
