@@ -32,6 +32,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Video](#video)
   - [Games](#games)
 - [Development](#development)
+  - [Text Editors](#text-editors)
   - [Web Development](#web-development)
   - [Mobile Development](#mobile-development)
 - [Devops](#devops)
@@ -109,6 +110,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [rebound](https://github.com/shobrook/rebound) - Instantly fetch Stack Overflow results in your terminal when you get a compiler error.
 - [yo](https://github.com/yeoman/yo) - CLI scaffolding tool for running Yeoman generators. There are thousands of ready to use generators and creating an own one is pretty easy.
 - [vj](https://github.com/busyloop/vj) - Makes JSON human readable.
+
+### Text Editors
+
+- [emacs](https://github.com/emacs-mirror/emacs) - An extensible, customizable, free/libre text editor — and more.
+- [vim](https://github.com/vim/vim) - Vim - the ubiquitous text editor.
+- [neovim](https://github.com/neovim/neovim) - Vim fork focused on extensibility and usability.
 
 ### Web Development
 
