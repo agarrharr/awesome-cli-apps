@@ -190,7 +190,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [calcurse](http://calcurse.org/) - Calcurse, a calendar and scheduling application for the command line.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert 32 currencies from the command line!
 - [papis](http://github.com/alejandrogallo/papis) - Powerful and extensible document and bibliography manager.
-- [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app for the UNIX terminal.
+- [Terminal velocity](https://terminal-velocity-notes.github.io/terminal_velocity/) - A fast note-taking app for the UNIX terminal.
+- [sncli](https://github.com/insanum/sncli) - A simple Python application that gives you access to your Simplenote account via the command line.
 
 ## Utilities
 
