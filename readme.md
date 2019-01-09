@@ -15,12 +15,6 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
----
-
-[Sign up for the Newsletter!](https://tinyletter.com/awesome-cli-apps)
-
----
-
 ## Table of Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
