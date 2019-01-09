@@ -15,6 +15,8 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+<h1 align="center"><a href="https://github.com/agarrharr/awesome-cli-apps/issues/247">Looking for new maintainers</a></h1>
+
 ## Table of Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
