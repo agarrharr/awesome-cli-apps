@@ -141,7 +141,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [HTTPie](https://github.com/jkbrzt/httpie) - A user-friendly HTTP client.
 - [serve](https://github.com/zeit/serve) - Easy to use static file server with features like https, CORS and GZIP compression.
 - [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactive CLI that generates a .gitignore for your project based on your needs.
-- [mevn-cli](http://github.com/madlabsinc/mevn-cli) - CLI tool for the MEVN stack
+- [mevn-cli](http://github.com/madlabsinc/mevn-cli) - CLI tool for the MEVN stack.
+- [scaffold-static](https://github.com/jamesgeorge007/scaffold-static) - Static site generator for vanila JS.
 
 ### Mobile Development
 
