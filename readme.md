@@ -234,6 +234,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [The Fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
 - [Wat](https://github.com/dthree/wat) - Instant, central, community-built docs.
+- [teachcode](https://github.com/madlabsinc/teachcode) - A tool to develop and improve a student’s programming skills by introducing the earliest lessons of coding.
 
 
 ## Data Manipulation
