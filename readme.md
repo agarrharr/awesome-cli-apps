@@ -326,6 +326,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [git-secret](https://github.com/sobolevn/git-secret) - Store your private data inside a git repository.
 - [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) - gitlab cli for creating merge request from the command line.
 - [git-extras](https://github.com/tj/git-extras) - Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more.
+- [gita](https://github.com/nosarthur/gita) - Manage multiple git repos side by side for sanity.
 
 ### Changelogs
 
