@@ -361,6 +361,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [cmatrix](https://github.com/Treri/cmatrix) - Show a scrolling 'Matrix' like screen- ([original](http://www.asty.org/cmatrix/)).
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Shows random pipes that grow across the screen.
+- [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Shows digital fireplace.
 
 ## Graphics
 - [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - A cli for traversing the Mandelbrot fractal.
