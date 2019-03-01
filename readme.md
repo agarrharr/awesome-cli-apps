@@ -217,6 +217,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [has](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
 - [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
+- [pass](https://www.passwordstore.org) - Pass, the standard unix password manager: simple, secure, powerful.
 
 ### macOS
 
