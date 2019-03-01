@@ -147,7 +147,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [scaffold-static](https://github.com/jamesgeorge007/scaffold-static) - Static site generator for vanila JS.
 - [Discharge](https://github.com/brandonweiss/discharge) - Simple, easy way to deploy static websites to Amazon S3.
 - [reachable](https://github.com/italolelis/reachable) - Reachable is a CLI tool to check if a domain is up.
-- [simplehttp](https://github.com/snwfdhmp/simplehttp) Most simplest and direct way to start serving a local directory over HTTP from CLI.
 
 ### Mobile Development
 
