@@ -351,6 +351,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Image Conversion
 
 - [imgp](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator
+- [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
 
 ## SVG
 
