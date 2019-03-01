@@ -190,8 +190,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert 32 currencies from the command line!
 - [papis](http://github.com/alejandrogallo/papis) - Powerful and extensible document and bibliography manager.
 - [Terminal velocity](https://terminal-velocity-notes.github.io/terminal_velocity/) - A fast note-taking app for the UNIX terminal.
-- [sncli](https://github.com/insanum/sncli) - A simple Python application that gives you access to your Simplenote account via the command line.
 - [eureka](https://github.com/simeg/eureka) - Store your ideas without leaving the terminal.
+- [sncli](https://github.com/insanum/sncli) - A simple Python application that gives you access to your Simplenote account via the command line.
 
 ## Utilities
 
