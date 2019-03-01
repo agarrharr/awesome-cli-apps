@@ -261,7 +261,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [midnight-commander](https://github.com/MidnightCommander/mc) - A feature rich visual file manager.
 - [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files, imagine cleaning up your downloads in an instant.
 - [Vifm](https://vifm.info/) - Vifm is an ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt.
-- [nnn](https://github.com/jarun/nnn) -The missing terminal file browser for X.
+- [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
 
 ### Deleting, Copying, and Renaming
 
@@ -294,7 +294,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PathPicker](https://github.com/facebook/pathpicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
 - [find-up-cli](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
 - [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z.
-- [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
 - [goto](https://github.com/iridakos/goto) - Directory aliases for the shell with autocomplete.
 
 ## Terminal Utilities
