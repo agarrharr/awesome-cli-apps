@@ -98,6 +98,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [youtube-dl](http://rg3.github.io/youtube-dl/) - a small command-line program to download videos from YouTube.com and a few more sites. You can install with `brew install youtube-dl`.
 - [open-pip-cli](https://github.com/albinekb/open-pip-cli) - Watch movies in macOS native picture-in-picture player from your terminal.
+- [streamlink](https://github.com/streamlink/streamlink) - A command-line utility that pipes video streams from various services into a video player, such as VLC. The main purpose of Streamlink is to allow the user to avoid buggy and CPU heavy flash plugins but still be able to enjoy various streamed content.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - A command line Youtube player.
 
 ### Games
@@ -142,6 +143,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [HTTPie](https://github.com/jkbrzt/httpie) - A user-friendly HTTP client.
 - [serve](https://github.com/zeit/serve) - Easy to use static file server with features like https, CORS and GZIP compression.
 - [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactive CLI that generates a .gitignore for your project based on your needs.
+- [mevn-cli](http://github.com/madlabsinc/mevn-cli) - CLI tool for the MEVN stack.
+- [scaffold-static](https://github.com/jamesgeorge007/scaffold-static) - Static site generator for vanila JS.
+- [Discharge](https://github.com/brandonweiss/discharge) - Simple, easy way to deploy static websites to Amazon S3.
 
 ### Mobile Development
 
@@ -187,7 +191,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [calcurse](http://calcurse.org/) - Calcurse, a calendar and scheduling application for the command line.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert 32 currencies from the command line!
 - [papis](http://github.com/alejandrogallo/papis) - Powerful and extensible document and bibliography manager.
-- [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app for the UNIX terminal.
+- [Terminal velocity](https://terminal-velocity-notes.github.io/terminal_velocity/) - A fast note-taking app for the UNIX terminal.
+- [eureka](https://github.com/simeg/eureka) - Store your ideas without leaving the terminal.
+- [sncli](https://github.com/insanum/sncli) - A simple Python application that gives you access to your Simplenote account via the command line.
 
 ## Utilities
 
@@ -212,6 +218,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [has](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
 - [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
+- [pass](https://www.passwordstore.org) - Pass, the standard unix password manager: simple, secure, powerful.
 
 ### macOS
 
@@ -234,6 +241,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [The Fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
 - [Wat](https://github.com/dthree/wat) - Instant, central, community-built docs.
+- [teachcode](https://github.com/madlabsinc/teachcode) - A tool to develop and improve a student’s programming skills by introducing the earliest lessons of coding.
 
 
 ## Data Manipulation
@@ -243,7 +251,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ramda-cli](https://github.com/raine/ramda-cli) - A CLI tool for processing data with functional pipelines.
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) - A simple CLI for querying and updating YAML files.
 - [jp](https://github.com/therealklanni/jp) - Simply parse and drill into JSON on the commandline, with jsonpath and stdin stream support (jq compatible, not a replacement).
-- [fx](https://github.com/antonmedv/fx) - Command-line JSON processing tool
+- [fx](https://github.com/antonmedv/fx) - Command-line JSON viewer
 
 ## Files and Directories
 
@@ -285,8 +293,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [happyfinder](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
 - [PathPicker](https://github.com/facebook/pathpicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
 - [find-up-cli](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
-- [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
-- [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration
+- [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z.
+- [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
+- [goto](https://github.com/iridakos/goto) - Directory aliases for the shell with autocomplete.
 
 ## Terminal Utilities
 
@@ -320,6 +329,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [git-secret](https://github.com/sobolevn/git-secret) - Store your private data inside a git repository.
 - [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) - gitlab cli for creating merge request from the command line.
 - [git-extras](https://github.com/tj/git-extras) - Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more.
+- [gita](https://github.com/nosarthur/gita) - Manage multiple git repos side by side for sanity.
 
 ### Changelogs
 
@@ -354,6 +364,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [cmatrix](https://github.com/Treri/cmatrix) - Show a scrolling 'Matrix' like screen- ([original](http://www.asty.org/cmatrix/)).
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Shows random pipes that grow across the screen.
+- [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Shows digital fireplace.
 
 ## Graphics
 - [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - A cli for traversing the Mandelbrot fractal.
@@ -385,7 +396,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli) - Open the URL from a web shortcut file in the browser.
 - [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
 - [speedtest-net](https://github.com/ddsol/speedtest.net) - Test your internet connection speed and ping using speedtest.net from the CLI.
--- [speed-test](https://github.com/sindresorhus/speed-test) - A wrapper around speeedtest-net with different UI.
+- [speed-test](https://github.com/sindresorhus/speed-test) - A wrapper around speeedtest-net with different UI.
+- [speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [shortcut-url-cli](https://github.com/sindresorhus/shortcut-url-cli) - Get the URL from a web shortcut file.
 - [SpeedRead](https://github.com/sunsations/speed_read) - A simple terminal-based open source Spritz-alike.
 - [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli) - Convert matching single-quotes to double-quotes: I 'love' unicorns => I "love" unicorns.
@@ -403,6 +415,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [lolcat](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
 - [xiringuito](https://github.com/ivanilves/xiringuito) - A "poor man's VPN". An SSH-based "VPN" that's easy to install, but with slower performance than a real VPN.
 - [nasa-cli](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day from your terminal.
+- [googlr](https://github.com/Camji55/googlr) - Search Google from the command line.
 
 ## Other Awesome Lists
 
