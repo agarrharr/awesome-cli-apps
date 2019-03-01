@@ -220,7 +220,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [pass](https://www.passwordstore.org) - Pass, the standard unix password manager: simple, secure, powerful.
-- [cat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 
 ### macOS
 
