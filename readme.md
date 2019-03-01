@@ -146,6 +146,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mevn-cli](http://github.com/madlabsinc/mevn-cli) - CLI tool for the MEVN stack.
 - [scaffold-static](https://github.com/jamesgeorge007/scaffold-static) - Static site generator for vanila JS.
 - [Discharge](https://github.com/brandonweiss/discharge) - Simple, easy way to deploy static websites to Amazon S3.
+- [reachable](https://github.com/italolelis/reachable) - Reachable is a CLI tool to check if a domain is up.
 
 ### Mobile Development
 
