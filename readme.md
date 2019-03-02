@@ -37,15 +37,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Productivity](#productivity)
 - [Utilities](#utilities)
   - [macOS](#macos)
+  - [Terminal Utilities](#terminal-utilities)
 - [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
 - [Files and Directories](#files-and-directories)
-  - [File managers](#file-managers)
+  - [File Managers](#file-managers)
   - [Deleting, Copying, and Renaming](#deleting-copying-and-renaming)
   - [Files](#files)
   - [Directory Listing](#directory-listing)
   - [Directory Navigation](#directory-navigation)
-- [Terminal Utilities](#terminal-utilities)
 - [Version Control](#version-control)
   - [Git](#git)
   - [Changelogs](#changelogs)
@@ -233,6 +233,20 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [stronghold](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed packages, dotfiles, and more.
 
+### Terminal Utilities
+
+- [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
+- [localtunnel](https://github.com/localtunnel/localtunnel) - Exposes your localhost to the world for easy testing and sharing.
+- [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
+- [ngrok](https://ngrok.com/) - secure introspectable tunnels to localhost.
+- [serveo](https://serveo.net/) - Expose local servers to the internet using only a SSH client.
+- [seashells.io](https://seashells.io/) - Pipe output from command-line programs to the web in real-time.
+- [teleconsole](https://www.teleconsole.com/) - Share your UNIX terminal in seconds.
+- [tmate.io](https://tmate.io/) - Instant terminal (tmux) sharing.
+- [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
+- [OverTime](https://github.com/diit/overtime-cli) - Easy time-overlap tables for remote teams.
+- [undollar](https://github.com/ImFeelingDucky/undollar) - undollar strips the '$' preceding copy-pasted terminal commands.
+
 ## Command Line Learning
 
 - [cmdchallenge](https://cmdchallenge.com/) - presents small shell challenge with user submitted solutions.
@@ -244,7 +258,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
 - [Wat](https://github.com/dthree/wat) - Instant, central, community-built docs.
 - [teachcode](https://github.com/madlabsinc/teachcode) - A tool to develop and improve a student’s programming skills by introducing the earliest lessons of coding.
-
 
 ## Data Manipulation
 
@@ -297,20 +310,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [find-up-cli](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
 - [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z.
 - [goto](https://github.com/iridakos/goto) - Directory aliases for the shell with autocomplete.
-
-## Terminal Utilities
-
-- [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
-- [localtunnel](https://github.com/localtunnel/localtunnel) - Exposes your localhost to the world for easy testing and sharing.
-- [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
-- [ngrok](https://ngrok.com/) - secure introspectable tunnels to localhost.
-- [serveo](https://serveo.net/) - Expose local servers to the internet using only a SSH client.
-- [seashells.io](https://seashells.io/) - Pipe output from command-line programs to the web in real-time.
-- [teleconsole](https://www.teleconsole.com/) - Share your UNIX terminal in seconds.
-- [tmate.io](https://tmate.io/) - Instant terminal (tmux) sharing.
-- [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
-- [OverTime](https://github.com/diit/overtime-cli) - Easy time-overlap tables for remote teams.
-- [undollar](https://github.com/ImFeelingDucky/undollar) - undollar strips the '$' preceding copy-pasted terminal commands.
 
 ## Version Control
 
