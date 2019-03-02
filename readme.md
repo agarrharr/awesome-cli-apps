@@ -35,6 +35,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Devops](#devops)
 - [Database](#database)
 - [Productivity](#productivity)
+  - [Time Tracking](#time-tracking)
+  - [Note Taking and Lists](#note-taking-and-lists)
+  - [Finance](#finance)
 - [Utilities](#utilities)
   - [macOS](#macos)
   - [Terminal Utilities](#terminal-utilities)
@@ -175,28 +178,39 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [bitly-client](https://github.com/specious/bitly-client) - Make and manage Bitly shortlinks with this command line utility.
 - [doing](https://github.com/ttscoff/doing/) - A command line tool for keeping track of what you’re doing and tracking what you’ve done.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - ffmpeg screencast with video overlay and multi monitor support.
-- [idea](https://github.com/IonicaBizau/idea) - A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
 - [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
-- [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Console client for Evernote.
-- [ledger](http://ledger-cli.org) - Powerful, double-entry accounting system that is accessed from the UNIX command-line.
 - [meetup-cli](https://github.com/specious/meetup-cli) - Meetup.com command line interface.
 - [The Mutt E-Mail Client](http://www.mutt.org/) - Email client.
 - [Taskwarrior](http://taskwarrior.org) - Free and Open Source Software that manages your TODO list from your command line.
-- [Timetrap](https://github.com/samg/timetrap) - Simple command line timetracker.
 - [terjira](https://github.com/keepcosmos/terjira) - Command line power tool for Jira.
 - [ipt](https://github.com/drselump14/ipt) - Command line interface for pivotal tracker.
 - [g3l](https://github.com/svtek/g3l) - Git is easy, github cli is easy but g3l easiest git cli in the w0rld!
 - [uber-cli](https://github.com/jaebradley/uber-cli) - Uber, at your fingertips.
-- [moro](https://github.com/omidfi/moro) - Time Tracker with a single command.
 - [Buku](https://github.com/jarun/Buku) - Powerful command-line bookmark manager.
 - [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal.
 - [calcurse](http://calcurse.org/) - Calcurse, a calendar and scheduling application for the command line.
-- [cash-cli](https://github.com/xxczaki/cash-cli) - Convert 32 currencies from the command line!
 - [papis](http://github.com/alejandrogallo/papis) - Powerful and extensible document and bibliography manager.
+- [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
+
+### Time Tracking
+
+- [Timetrap](https://github.com/samg/timetrap) - Simple command line timetracker.
+- [moro](https://github.com/omidfi/moro) - Time Tracker with a single command.
+
+### Note Taking and Lists
+
+- [idea](https://github.com/IonicaBizau/idea) - A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
+- [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Console client for Evernote.
 - [Terminal velocity](https://terminal-velocity-notes.github.io/terminal_velocity/) - A fast note-taking app for the UNIX terminal.
 - [eureka](https://github.com/simeg/eureka) - Store your ideas without leaving the terminal.
 - [sncli](https://github.com/insanum/sncli) - A simple Python application that gives you access to your Simplenote account via the command line.
-- [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
+
+### Finance
+
+- [ledger](http://ledger-cli.org) - Powerful, double-entry accounting system that is accessed from the UNIX command-line.
+- [moeda](https://github.com/thompsonemerson/moeda) - A foreign exchange rates and currency conversion using CLI.
+- [cash-cli](https://github.com/xxczaki/cash-cli) - Convert 32 currencies from the command line!
+- [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies.
 
 ## Utilities
 
@@ -213,7 +227,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mklicense](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info. Busy people & beginner's friendly.
 - [share-cli](https://github.com/marionebl/share-cli) - Quickly share files from command line with your local network.
 - [remote-share-cli](https://github.com/marionebl/remote-share-cli) - Quickly share files from your command line with the world.
-- [moeda](https://github.com/thompsonemerson/moeda) - A foreign exchange rates and currency conversion using CLI.
 - [wego](https://github.com/schachmat/wego) - Get the weather right in your browser or your console.
 - [mapscii](https://github.com/rastapasta/mapscii) - Terminal Map Viewer - the whole world in your console!
 - [website-popup-cli](https://github.com/sindresorhus/website-popup-cli) - Quickly watch a window in a pop up window without closing or opening another full screen window.
@@ -422,7 +435,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [xiringuito](https://github.com/ivanilves/xiringuito) - A "poor man's VPN". An SSH-based "VPN" that's easy to install, but with slower performance than a real VPN.
 - [nasa-cli](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day from your terminal.
 - [googlr](https://github.com/Camji55/googlr) - Search Google from the command line.
-- [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies.
 
 ## Other Awesome Lists
 
