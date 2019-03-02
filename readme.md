@@ -196,6 +196,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Terminal velocity](https://terminal-velocity-notes.github.io/terminal_velocity/) - A fast note-taking app for the UNIX terminal.
 - [eureka](https://github.com/simeg/eureka) - Store your ideas without leaving the terminal.
 - [sncli](https://github.com/insanum/sncli) - A simple Python application that gives you access to your Simplenote account via the command line.
+- [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
 
 ## Utilities
 
