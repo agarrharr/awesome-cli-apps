@@ -221,6 +221,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [pass](https://www.passwordstore.org) - Pass, the standard unix password manager: simple, secure, powerful.
+- [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+.
 
 ### macOS
 
@@ -246,7 +247,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
 - [OverTime](https://github.com/diit/overtime-cli) - Easy time-overlap tables for remote teams.
 - [undollar](https://github.com/ImFeelingDucky/undollar) - undollar strips the '$' preceding copy-pasted terminal commands.
-- [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+.
 
 ## Command Line Learning
 
@@ -271,7 +271,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Files and Directories
 
-### File managers
+### File Managers
 
 - [ranger](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
 - [midnight-commander](https://github.com/MidnightCommander/mc) - A feature rich visual file manager.
