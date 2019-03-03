@@ -1,4 +1,19 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Contribution Guidelines](#contribution-guidelines)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Contribution Guidelines
+
+Not all tools can be considered. The aim of the list is to provide a concise list of awesome CLI tools and apps. This means that suggested software should:  
+  
+- Do one thing and do it well
+- Have a free and open source license
+- Be easy to install
+- Be well documented
 
 Please ensure your pull request adheres to the following guidelines:
 
