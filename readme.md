@@ -32,7 +32,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Text Editors](#text-editors)
   - [Web Development](#web-development)
   - [Mobile Development](#mobile-development)
-- [Devops](#devops)
+  - [Devops](#devops)
 - [Database](#database)
 - [Productivity](#productivity)
   - [Time Tracking](#time-tracking)
@@ -56,7 +56,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Images](#images)
   - [Gif Creation](#gif-creation)
   - [Image Conversion](#image-conversion)
-- [SVG](#svg)
+  - [SVG](#svg)
 - [Text Manipulation](#text-manipulation)
 - [Screensavers](#screensavers)
 - [Graphics](#graphics)
@@ -159,7 +159,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mobisplash-cli](https://github.com/SamVerschueren/mobisplash-cli) - Mobile app splash screen generator.
 - [deviceframe](https://github.com/c0bra/deviceframe) - Put device frames around your mobile/web/progressive app screenshots.
 
-## Devops
+### Devops
 
 - [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services.
 - [azure-cli](https://github.com/Azure/azure-cli) - Command-line tools for Azure.
@@ -375,7 +375,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [imgp](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator.
 - [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
 
-## SVG
+### SVG
 
 - [SVGO](https://github.com/svg/svgo) - SVG Optimizer is a Nodejs-based tool for optimizing SVG vector graphics files.
 
