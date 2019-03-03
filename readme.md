@@ -239,7 +239,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [pass](https://www.passwordstore.org) - Pass, the standard unix password manager: simple, secure, powerful.
 - [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+.
 - [Glances](https://nicolargo.github.io/glances) - A cross-platform system monitoring tool (top/htop alternative) written in Python.
-- [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome curated lists without browser.
+- [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome curated lists without a browser.
 
 ### macOS
 
