@@ -332,6 +332,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [happyfinder](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
 - [find-up-cli](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
+- [fzf](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
 
 ## Version Control
 
