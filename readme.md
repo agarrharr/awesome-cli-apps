@@ -287,6 +287,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) - A simple CLI for querying and updating YAML files.
 - [jp](https://github.com/therealklanni/jp) - Simply parse and drill into JSON on the commandline, with jsonpath and stdin stream support (jq compatible, not a replacement).
 - [fx](https://github.com/antonmedv/fx) - Command-line JSON viewer.
+- [q](http://harelba.github.io/q/) - A command line tool that allows execution of SQL-like queries on CSVs/TSVs (and any other tabular text files).
 
 ## Files and Directories
 
