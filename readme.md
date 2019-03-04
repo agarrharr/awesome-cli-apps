@@ -394,6 +394,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Text Manipulation
 
 - [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns, like the output of unix commands. Returns JSON that you can manipulate with tools like jq or underscore-cli.
+- [figlet](http://www.figlet.org/) - Creates large text out of ASCII characters.
 
 ## Screensavers
 
@@ -450,7 +451,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [xiringuito](https://github.com/ivanilves/xiringuito) - A "poor man's VPN". An SSH-based "VPN" that's easy to install, but with slower performance than a real VPN.
 - [nasa-cli](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day from your terminal.
 - [googlr](https://github.com/Camji55/googlr) - Search Google from the command line.
-- [figlet](http://www.figlet.org/) - Creates large text out of ASCII characters.
 
 ## Other Awesome Lists
 
