@@ -293,6 +293,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [jp](https://github.com/therealklanni/jp) - Simply parse and drill into JSON on the commandline, with jsonpath and stdin stream support (jq compatible, not a replacement).
 - [fx](https://github.com/antonmedv/fx) - Command-line JSON viewer.
 - [q](http://harelba.github.io/q/) - A command line tool that allows execution of SQL-like queries on CSVs/TSVs (and any other tabular text files).
+- [yq](https://github.com/kislyuk/yq) - Command-line YAML processor (Uses the same syntax as jq).
 
 ## Files and Directories
 
