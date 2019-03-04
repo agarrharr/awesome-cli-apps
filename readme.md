@@ -60,6 +60,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Text Manipulation](#text-manipulation)
 - [Screensavers](#screensavers)
 - [Graphics](#graphics)
+- [Just for Fun](#just-for-fun)
 - [Other](#other)
 - [Other Awesome Lists](#other-awesome-lists)
 - [License](#license)
@@ -229,6 +230,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [share-cli](https://github.com/marionebl/share-cli) - Quickly share files from command line with your local network.
 - [remote-share-cli](https://github.com/marionebl/remote-share-cli) - Quickly share files from your command line with the world.
 - [wego](https://github.com/schachmat/wego) - Get the weather right in your browser or your console.
+- [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from your terminal.
 - [mapscii](https://github.com/rastapasta/mapscii) - Terminal Map Viewer - the whole world in your console!
 - [website-popup-cli](https://github.com/sindresorhus/website-popup-cli) - Quickly watch a window in a pop up window without closing or opening another full screen window.
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets in your terminal.
@@ -241,6 +243,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### macOS
 
+- [app-path-cli](https://github.com/sindresorhus/app-path-cli) - Get the path to an app (macOS).
 - [bundle-id-cli](https://github.com/sindresorhus/bundle-id-cli) - Get bundle identifier from a bundle name (macOS): Safari → com.apple.Safari.
 - [bundle-name-cli](https://github.com/sindresorhus/bundle-name-cli) - Get bundle name from a bundle identifier (macOS): com.apple.Safari → Safari.
 - [lnfs-cli](https://github.com/kevva/lnfs-cli) - Safely force create symlinks.
@@ -379,7 +382,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [SVGO](https://github.com/svg/svgo) - SVG Optimizer is a Nodejs-based tool for optimizing SVG vector graphics files.
 
-
 ## Text Manipulation
 
 - [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns, like the output of unix commands. Returns JSON that you can manipulate with tools like jq or underscore-cli.
@@ -388,6 +390,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [cmatrix](https://github.com/Treri/cmatrix) - Show a scrolling 'Matrix' like screen- ([original](http://www.asty.org/cmatrix/)).
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Shows random pipes that grow across the screen.
+- [YuleLog](https://github.com/Duroktar/YuleLog) - Terminal based Christmas YuleLog fireplace.
 - [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Shows digital fireplace.
 
 ## Graphics
@@ -396,17 +399,22 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
 - [JackPaper](https://github.com/jackel27/jackpaper) - Pull random/queried images from unplash.com and apply to your desktop wallpaper.
 
+## Just for Fun
+
+- [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - You can [install with homebrew](http://brewformulas.org/Cowsay).
+- [fortune](http://brewformulas.org/Fortune) - Shows a random fortune.
+- [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
+- [yosay](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
+- [lolcat](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
+
 ## Other
 
-- [app-path-cli](https://github.com/sindresorhus/app-path-cli) - Get the path to an app (macOS).
 - [Bible.Js CLI client](https://github.com/BibleJS/BibleApp) - :book: Bible.JS CLI client. Read the Holy Bible via the command line.
 - [birthday](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
-- [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - You can [install with homebrew](http://brewformulas.org/Cowsay).
 - [cgasm](https://github.com/bnagy/cgasm) - A tool that gives x86 assembly documentation. It is pronounced "SeekAzzem".
 - [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code.
 - [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
 - [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
-- [fortune](http://brewformulas.org/Fortune) - Shows a random fortune.
 - [fullname-cli](https://github.com/sindresorhus/fullname-cli) - Get the fullname of the current user.
 - [get-port-cli](https://github.com/sindresorhus/get-port-cli) - Get an available port.
 - [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin.
@@ -426,17 +434,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [SpeedRead](https://github.com/sunsations/speed_read) - A simple terminal-based open source Spritz-alike.
 - [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli) - Convert matching single-quotes to double-quotes: I 'love' unicorns => I "love" unicorns.
 - [to-single-quotes](https://github.com/sindresorhus/to-single-quotes-cli) - Convert matching double-quotes to single-quotes: I "love" unicorns → I 'love' unicorns.
-- [yosay](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
 - [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python.
-- [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from your terminal.
 - [hget](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
-- [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
 - [google-wifi-status](https://github.com/joelgeorgev/google-wifi-status) - A Node.js CLI app that displays status of your Google Wifi / OnHub router.
 - [calories](https://github.com/zupzup/calories) - Calories and weight tracker.
 - [trino](https://github.com/eneserdogan/trino) - Trino CLI allows a quick and easy translation of words and phrases entered in the command line.
 - [alex](https://github.com/wooorm/alex) - This enhances texts with checking for insensitive, inconsiderate writing by catching many possible offences.
-- [YuleLog](https://github.com/Duroktar/YuleLog) - Terminal based Christmas YuleLog fireplace.
-- [lolcat](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
 - [xiringuito](https://github.com/ivanilves/xiringuito) - A "poor man's VPN". An SSH-based "VPN" that's easy to install, but with slower performance than a real VPN.
 - [nasa-cli](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day from your terminal.
 - [googlr](https://github.com/Camji55/googlr) - Search Google from the command line.
