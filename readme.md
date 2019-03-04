@@ -394,6 +394,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Text Manipulation
 
 - [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns, like the output of unix commands. Returns JSON that you can manipulate with tools like jq or underscore-cli.
+- [figlet](http://www.figlet.org/) - Creates large text out of ASCII characters.
 
 ## Screensavers
 
