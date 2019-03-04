@@ -114,10 +114,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
 - [boilr](https://github.com/tmrts/boilr) - Dependency free CLI to create projects from boilerplate templates.
+- [cgasm](https://github.com/bnagy/cgasm) - A tool that gives x86 assembly documentation. It is pronounced "SeekAzzem".
 - [cookiecutter](https://github.com/audreyr/cookiecutter) - Creates projects from cookiecutters (project templates).
 - [dockly](https://github.com/lirantal/dockly) - Interactive CLI for managing Docker containers.
-- [themer](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
 - [legit](https://github.com/captainsafia/legit) - Choose from many Open Source licences to generate a LICENSE file or add license headers to files.
+- [mklicense](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info. Busy people & beginner's friendly.
 - [rebound](https://github.com/shobrook/rebound) - Instantly fetch Stack Overflow results in your terminal when you get a compiler error.
 - [yo](https://github.com/yeoman/yo) - CLI scaffolding tool for running Yeoman generators. There are thousands of ready to use generators and creating an own one is pretty easy.
 - [vj](https://github.com/busyloop/vj) - Makes JSON human readable.
@@ -135,6 +136,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Searches [caniuse.com](caniuse.com) about browser support of feature.
 - [htconvert](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check whether a website is up or down.
+- [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
 - [npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
 - [npm-user-cli](https://github.com/sindresorhus/npm-user-cli) - Get user info of a npm user.
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
@@ -225,10 +227,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text meme.
+- [themer](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
 - [s](https://github.com/zquestz/s) - Open a web search in your terminal. Supports multiple search providers.
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Search, download, and install any Google Font on your local machine.
 - [aria2](https://github.com/tatsuhiro-t/aria2) - Lightweight multi-protocol and multi-source, cross platform download utility. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [mklicense](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info. Busy people & beginner's friendly.
 - [share-cli](https://github.com/marionebl/share-cli) - Quickly share files from command line with your local network.
 - [remote-share-cli](https://github.com/marionebl/remote-share-cli) - Quickly share files from your command line with the world.
 - [wego](https://github.com/schachmat/wego) - Get the weather right in your browser or your console.
@@ -415,7 +417,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Bible.Js CLI client](https://github.com/BibleJS/BibleApp) - :book: Bible.JS CLI client. Read the Holy Bible via the command line.
 - [birthday](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
-- [cgasm](https://github.com/bnagy/cgasm) - A tool that gives x86 assembly documentation. It is pronounced "SeekAzzem".
 - [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code.
 - [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
 - [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
@@ -430,7 +431,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mdlt](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
 - [medium-cli](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories within your terminal, also gives top stories.
 - [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli) - Open the URL from a web shortcut file in the browser.
-- [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
 - [speedtest-net](https://github.com/ddsol/speedtest.net) - Test your internet connection speed and ping using speedtest.net from the CLI.
 - [speed-test](https://github.com/sindresorhus/speed-test) - A wrapper around speedtest-net with different UI.
 - [speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net.
