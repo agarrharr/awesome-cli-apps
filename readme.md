@@ -121,6 +121,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [rebound](https://github.com/shobrook/rebound) - Instantly fetch Stack Overflow results in your terminal when you get a compiler error.
 - [yo](https://github.com/yeoman/yo) - CLI scaffolding tool for running Yeoman generators. There are thousands of ready to use generators and creating an own one is pretty easy.
 - [vj](https://github.com/busyloop/vj) - Makes JSON human readable.
+- [release-it](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
 
 ### Text Editors
 
@@ -153,6 +154,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Discharge](https://github.com/brandonweiss/discharge) - Simple, easy way to deploy static websites to Amazon S3.
 - [reachable](https://github.com/italolelis/reachable) - Reachable is a CLI tool to check if a domain is up.
 - [simplehttp](https://github.com/snwfdhmp/simplehttp) - Most simplest and direct way to start serving a local directory over HTTP from CLI.
+- [shell2http](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control.
 
 ### Mobile Development
 
@@ -240,6 +242,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [pass](https://www.passwordstore.org) - Pass, the standard unix password manager: simple, secure, powerful.
 - [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+.
 - [Glances](https://nicolargo.github.io/glances) - A cross-platform system monitoring tool (top/htop alternative) written in Python.
+- [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome curated lists without a browser.
 
 ### macOS
 
@@ -287,6 +290,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) - A simple CLI for querying and updating YAML files.
 - [jp](https://github.com/therealklanni/jp) - Simply parse and drill into JSON on the commandline, with jsonpath and stdin stream support (jq compatible, not a replacement).
 - [fx](https://github.com/antonmedv/fx) - Command-line JSON viewer.
+- [q](http://harelba.github.io/q/) - A command line tool that allows execution of SQL-like queries on CSVs/TSVs (and any other tabular text files).
 
 ## Files and Directories
 
