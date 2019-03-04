@@ -344,6 +344,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [find-up-cli](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
 - [fzf](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
+- [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 
 ## Version Control
 
