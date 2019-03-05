@@ -337,6 +337,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PathPicker](https://github.com/facebook/pathpicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
 - [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z.
 - [goto](https://github.com/iridakos/goto) - Directory aliases for the shell with autocomplete.
+- [z.lua](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits.
 
 ### Search
 
