@@ -1,11 +1,6 @@
-<h1 align="center">
+<p align="center">
 	<img width="763" src="https://cdn.rawgit.com/aharris88/awesome-cli-apps/master/media/logo.png" alt="awesome cli apps">
-	<br>
-	<br>
-</h1>
-
-<br>
-<br>
+</p>
 
 ---
 
@@ -246,7 +241,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Glances](https://nicolargo.github.io/glances) - A cross-platform system monitoring tool (top/htop alternative) written in Python.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome curated lists without a browser.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
-- [Ultimate Plumber](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview. 
+- [Ultimate Plumber](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview.
 
 ### macOS
 
