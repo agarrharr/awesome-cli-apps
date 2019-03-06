@@ -181,7 +181,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - ffmpeg screencast with video overlay and multi monitor support.
 - [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
 - [meetup-cli](https://github.com/specious/meetup-cli) - Meetup.com command line interface.
-- [The Mutt E-Mail Client](http://www.mutt.org/) - Email client.
+- [NeoMutt](https://neomutt.org) - Email client.
 - [terjira](https://github.com/keepcosmos/terjira) - Command line power tool for Jira.
 - [ipt](https://github.com/drselump14/ipt) - Command line interface for pivotal tracker.
 - [g3l](https://github.com/svtek/g3l) - Git is easy, github cli is easy but g3l easiest git cli in the w0rld!
