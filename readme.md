@@ -123,6 +123,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [yo](https://github.com/yeoman/yo) - CLI scaffolding tool for running Yeoman generators. There are thousands of ready to use generators and creating an own one is pretty easy.
 - [vj](https://github.com/busyloop/vj) - Makes JSON human readable.
 - [release-it](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
+- [grip](https://github.com/joeyespo/grip) - Preview markdown files with GitHub styles before committing them.
 
 ### Text Editors
 
