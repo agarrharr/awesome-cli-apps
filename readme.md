@@ -395,7 +395,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Screensavers
 
-- [cmatrix](https://github.com/Treri/cmatrix) - Show a scrolling 'Matrix' like screen- ([original](http://www.asty.org/cmatrix/)).
+- [cmatrix](https://github.com/Treri/cmatrix) - Show a scrolling 'Matrix' like screen.
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Shows random pipes that grow across the screen.
 - [YuleLog](https://github.com/Duroktar/YuleLog) - Terminal based Christmas YuleLog fireplace.
 - [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Shows digital fireplace.
