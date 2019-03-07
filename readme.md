@@ -153,6 +153,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [reachable](https://github.com/italolelis/reachable) - Reachable is a CLI tool to check if a domain is up.
 - [simplehttp](https://github.com/snwfdhmp/simplehttp) - Most simplest and direct way to start serving a local directory over HTTP from CLI.
 - [shell2http](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control.
+- [HTTP Prompt](https://github.com/eliangcs/http-prompt) - An interactive command-line HTTP client featuring autocomplete and syntax highlighting.
 
 ### Mobile Development
 
