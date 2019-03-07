@@ -172,6 +172,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [release-it](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
 - [clog](https://github.com/kentcdodds/clog-cli) - A conventional changelog for the rest of us.
+- [np](https://github.com/sindresorhus/np) - A better `npm publish`.
 
 ## Database
 
