@@ -27,9 +27,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Text Editors](#text-editors)
   - [Web Development](#web-development)
   - [Mobile Development](#mobile-development)
+  - [Database](#database)
   - [Devops](#devops)
   - [Release](#release)
-- [Database](#database)
 - [Productivity](#productivity)
   - [Time Tracking](#time-tracking)
   - [Note Taking and Lists](#note-taking-and-lists)
@@ -160,6 +160,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mobisplash-cli](https://github.com/SamVerschueren/mobisplash-cli) - Mobile app splash screen generator.
 - [deviceframe](https://github.com/c0bra/deviceframe) - Put device frames around your mobile/web/progressive app screenshots.
 
+### Database
+
+- [cycli](https://github.com/nicolewhite/cycli) - A terminal client for Neo4j with autocompletion and syntax highlighting.
+- [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+- [pgcli](https://github.com/dbcli/pgcli) - A Terminal Client for Postgre with AutoCompletion and Syntax Highlighting.
+
 ### Devops
 
 - [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services.
@@ -173,12 +179,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [release-it](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
 - [clog](https://github.com/kentcdodds/clog-cli) - A conventional changelog for the rest of us.
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`.
-
-## Database
-
-- [cycli](https://github.com/nicolewhite/cycli) - A terminal client for Neo4j with autocompletion and syntax highlighting.
-- [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-- [pgcli](https://github.com/dbcli/pgcli) - A Terminal Client for Postgre with AutoCompletion and Syntax Highlighting.
 
 ## Productivity
 
