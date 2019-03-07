@@ -1,7 +1,3 @@
----
-labels: needs review
----
-
 <!---
 Thank you for your pull request. Please provide below the name of the app, a short description 
 and a link to it's repository or homepage. Also, tell us why you think it's awesome!
