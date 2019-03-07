@@ -38,7 +38,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Terminal Utilities](#terminal-utilities)
 - [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
-- [Files and Directories](#files-and-directories)
+- [and Directories](#files-and-directories)
   - [File Managers](#file-managers)
   - [Deleting, Copying, and Renaming](#deleting-copying-and-renaming)
   - [Files](#files)
@@ -319,6 +319,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [NCDu](https://dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
 - [unix-permissions](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions
+- [rclone](https://github.com/ncw/rclone) - Sync files to and from various cloud providers (Dropbox, Google Drive, Onedrive, etc.).
 
 ### Directory Listing
 
