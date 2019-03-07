@@ -12,8 +12,8 @@ https://github.com/agarrharr/awesome-cli-apps/blob/master/contributing.md
 
 ## New app submission
 
-**App name:**
-**Repo or homepage:**
-**Description:**
+# App name:
+# Repo or homepage:
+# Description:
 
-**Why you think it's awesome:**
+# Why you think it's awesome:
