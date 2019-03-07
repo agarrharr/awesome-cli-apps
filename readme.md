@@ -28,6 +28,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Web Development](#web-development)
   - [Mobile Development](#mobile-development)
   - [Devops](#devops)
+  - [Release](#release)
 - [Database](#database)
 - [Productivity](#productivity)
   - [Time Tracking](#time-tracking)
@@ -48,7 +49,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Search](#search)
 - [Version Control](#version-control)
   - [Git](#git)
-  - [Changelogs](#changelogs)
 - [Images](#images)
   - [Gif Creation](#gif-creation)
   - [Image Conversion](#image-conversion)
@@ -117,7 +117,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mklicense](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info. Busy people & beginner's friendly.
 - [rebound](https://github.com/shobrook/rebound) - Instantly fetch Stack Overflow results in your terminal when you get a compiler error.
 - [yo](https://github.com/yeoman/yo) - CLI scaffolding tool for running Yeoman generators. There are thousands of ready to use generators and creating an own one is pretty easy.
-- [release-it](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
 - [grip](https://github.com/joeyespo/grip) - Preview markdown files with GitHub styles before committing them.
 
 ### Text Editors
@@ -167,6 +166,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [SAWS](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
 - [s3cmd](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
 - [lstags](https://github.com/ivanilves/lstags) - Synchronize Docker images across different registries.
+
+### Release
+
+- [release-it](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
+- [clog](https://github.com/kentcdodds/clog-cli) - A conventional changelog for the rest of us.
 
 ## Database
 
@@ -368,10 +372,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) - gitlab cli for creating merge request from the command line.
 - [git-extras](https://github.com/tj/git-extras) - Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more.
 - [gita](https://github.com/nosarthur/gita) - Manage multiple git repos side by side for sanity.
-
-### Changelogs
-
-- [clog](https://github.com/kentcdodds/clog-cli) - A conventional changelog for the rest of us.
 
 ## Images
 
