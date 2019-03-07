@@ -10,10 +10,12 @@ Make sure the PR adheres to our contribution guidelines:
 https://github.com/agarrharr/awesome-cli-apps/blob/master/contributing.md
 -->
 
-## New app submission
+### New app submission
 
-# App name:
-# Repo or homepage:
-# Description:
+**App name:**
 
-# Why you think it's awesome:
+**Repo or homepage:**
+
+**Description:**
+
+**Why you think it's awesome:**
