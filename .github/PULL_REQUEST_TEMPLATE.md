@@ -1,5 +1,5 @@
 ---
-label: 'needs review'
+labels: needs review
 ---
 
 <!---
