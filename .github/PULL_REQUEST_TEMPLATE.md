@@ -1,7 +1,19 @@
-<!--
-Thank you for your pull request. Please provide a short description of the cli
+---
+label: 'needs review'
+---
+
+<!---
+Thank you for your pull request. Please provide below the name of the app, a short description, 
 and a link to it's repository or homepage. 
 
-Make sure the PR adheres to the contribution guidelines:
+Make sure the PR adheres to our contribution guidelines:
 https://github.com/agarrharr/awesome-cli-apps/blob/master/contributing.md
 -->
+
+## New app submission
+
+**App name:**
+**Repo or homepage:**
+**Description:**
+
+**Why you think it's awesome:**
