@@ -41,6 +41,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
   - [JSON](#json)
+  - [Text](#text)
 - [Files and Directories](#files-and-directories)
   - [File Managers](#file-managers)
   - [Deleting, Copying, and Renaming](#deleting-copying-and-renaming)
@@ -54,7 +55,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Gif Creation](#gif-creation)
   - [Image Conversion](#image-conversion)
   - [SVG](#svg)
-- [Text Manipulation](#text-manipulation)
 - [Screensavers](#screensavers)
 - [Graphics](#graphics)
 - [Just for Fun](#just-for-fun)
@@ -311,6 +311,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [vj](https://github.com/busyloop/vj) - Makes JSON human readable.
 - [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON. Lets you use comments in your JSON files!
 
+### Text
+
+- [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns, like the output of unix commands. Returns JSON that you can manipulate with tools like jq or underscore-cli.
+- [figlet](http://www.figlet.org/) - Creates large text out of ASCII characters.
+
 ## Files and Directories
 
 ### File Managers
@@ -403,11 +408,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### SVG
 
 - [SVGO](https://github.com/svg/svgo) - SVG Optimizer is a Nodejs-based tool for optimizing SVG vector graphics files.
-
-## Text Manipulation
-
-- [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns, like the output of unix commands. Returns JSON that you can manipulate with tools like jq or underscore-cli.
-- [figlet](http://www.figlet.org/) - Creates large text out of ASCII characters.
 
 ## Screensavers
 
