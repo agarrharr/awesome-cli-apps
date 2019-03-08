@@ -69,9 +69,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Entertainment
 
-- [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 - [quote-cli](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
-- [movie](https://github.com/mayankchd/movie) - Get movie info or compare movies in terminal.
 - [football-cli](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league in your terminal.
 - [pockyt](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 - [splash-cli](https://github.com/rawnly/splash-cli) - Beautiful wallpapers from [unsplash](http://unsplash.com).
@@ -104,6 +102,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [open-pip-cli](https://github.com/albinekb/open-pip-cli) - Watch movies in macOS native picture-in-picture player from your terminal.
 - [streamlink](https://github.com/streamlink/streamlink) - A command-line utility that pipes video streams from various services into a video player, such as VLC. The main purpose of Streamlink is to allow the user to avoid buggy and CPU heavy flash plugins but still be able to enjoy various streamed content.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - A command line Youtube player.
+
+### Movies
+- [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
+- [movie](https://github.com/mayankchd/movie) - Get movie info or compare movies in terminal.
 
 ### Games
 
