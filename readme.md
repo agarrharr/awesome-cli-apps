@@ -22,6 +22,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Music](#music)
   - [Social Media](#social-media)
   - [Video](#video)
+  - [Movies](#movies)
   - [Games](#games)
 - [Development](#development)
   - [Text Editors](#text-editors)
