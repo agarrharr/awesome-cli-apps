@@ -70,7 +70,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Entertainment
 
 - [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
-- [quote-cli](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
 - [movie](https://github.com/mayankchd/movie) - Get movie info or compare movies in terminal.
 - [football-cli](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league in your terminal.
 - [pockyt](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
@@ -430,6 +429,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Just for Fun
 
 - [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - A configurable talking cow (and other animals).
+- [quote-cli](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
 - [fortune](https://github.com/shlomif/fortune-mod) - Shows a random fortune.
 - [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
 - [yosay](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
