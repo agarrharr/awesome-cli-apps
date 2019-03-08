@@ -59,6 +59,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Graphics](#graphics)
 - [Just for Fun](#just-for-fun)
 - [Other](#other)
+  - [Emoji](#emoji)
 - [Other Awesome Lists](#other-awesome-lists)
 - [License](#license)
 
@@ -439,8 +440,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Bible.Js CLI client](https://github.com/BibleJS/BibleApp) - :book: Bible.JS CLI client. Read the Holy Bible via the command line.
 - [birthday](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
 - [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code.
-- [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
-- [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
 - [fullname-cli](https://github.com/sindresorhus/fullname-cli) - Get the fullname of the current user.
 - [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin.
 - [HASHA -cli](https://github.com/sindresorhus/hasha-cli) - Hashing made simple. Get the hash of text or stdin.
@@ -463,6 +462,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [xiringuito](https://github.com/ivanilves/xiringuito) - A "poor man's VPN". An SSH-based "VPN" that's easy to install, but with slower performance than a real VPN.
 - [nasa-cli](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day from your terminal.
 - [googlr](https://github.com/Camji55/googlr) - Search Google from the command line.
+
+### Emoji
+
+- [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
+- [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
 - [oji](https://github.com/xxczaki/oji) - Interactive text emoji maker.
 
 ## Other Awesome Lists
