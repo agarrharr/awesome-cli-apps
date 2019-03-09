@@ -309,6 +309,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) - A simple CLI for querying and updating YAML files.
 - [q](http://harelba.github.io/q/) - A command line tool that allows execution of SQL-like queries on CSVs/TSVs (and any other tabular text files).
 - [yq](https://github.com/kislyuk/yq) - Command-line YAML processor (Uses the same syntax as jq).
+- [flog](http://github.com/mingrammer/flog) - A fake log generator for common log formats such as apache-common, apache error and RFC3164 syslog.
 
 ### JSON
 
