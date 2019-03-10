@@ -244,7 +244,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [remote-share-cli](https://github.com/marionebl/remote-share-cli) - Quickly share files from your command line with the world.
 - [wego](https://github.com/schachmat/wego) - Get the weather right in your browser or your console.
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from your terminal.
-- [mapscii](https://github.com/rastapasta/mapscii) - Terminal Map Viewer - the whole world in your console!
 - [website-popup-cli](https://github.com/sindresorhus/website-popup-cli) - Quickly watch a window in a pop up window without closing or opening another full screen window.
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets in your terminal.
 - [has](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
