@@ -136,7 +136,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [bower-name-cli](https://github.com/sindresorhus/bower-name-cli) - Check whether a package name is available on bower.
 - [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Searches [caniuse.com](caniuse.com) about browser support of feature.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check whether a website is up or down.
-- [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 - [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) - Strip comments from CSS.
 - [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports.
@@ -155,7 +154,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [simplehttp](https://github.com/snwfdhmp/simplehttp) - Most simplest and direct way to start serving a local directory over HTTP from CLI.
 - [shell2http](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control.
 - [HTTP Prompt](https://github.com/eliangcs/http-prompt) - An interactive command-line HTTP client featuring autocomplete and syntax highlighting.
-- [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows.
 
 
 ### npm
@@ -163,7 +161,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
 - [npm-user-cli](https://github.com/sindresorhus/npm-user-cli) - Get user info of a npm user.
 - [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of the package in the current directory.
+- [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
 - [starring](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
+- [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows.
 
 ### Mobile Development
 
