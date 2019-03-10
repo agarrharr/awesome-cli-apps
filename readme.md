@@ -189,7 +189,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [npm-user-cli](https://github.com/sindresorhus/npm-user-cli) - Get user info of a npm user.
 - [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of the package in the current directory.
 - [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
-- [starring](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
 - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows.
 
 ## Productivity
