@@ -256,6 +256,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome curated lists without a browser.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 - [Ultimate Plumber](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview.
+- [flog](http://github.com/mingrammer/flog) - A fake log generator for common log formats such as apache-common, apache error and RFC3164 syslog.
 
 ### macOS
 
