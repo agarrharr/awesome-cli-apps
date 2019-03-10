@@ -361,6 +361,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [NCDu](https://dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
 - [unix-permissions](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions
 - [rclone](https://github.com/ncw/rclone) - Sync files to and from various cloud providers (Dropbox, Google Drive, Onedrive, etc.).
+- [transmission-cli](https://transmissionbt.com) - Torrent client for your command line.
 
 ### Directory Listing
 
