@@ -27,11 +27,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Development](#development)
   - [Text Editors](#text-editors)
   - [Web Development](#web-development)
-  - [npm](#npm)
   - [Mobile Development](#mobile-development)
   - [Database](#database)
   - [Devops](#devops)
   - [Release](#release)
+  - [npm](#npm)
 - [Productivity](#productivity)
   - [Time Tracking](#time-tracking)
   - [Note Taking and Lists](#note-taking-and-lists)
@@ -155,15 +155,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [shell2http](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control.
 - [HTTP Prompt](https://github.com/eliangcs/http-prompt) - An interactive command-line HTTP client featuring autocomplete and syntax highlighting.
 
-### npm
-
-- [npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
-- [npm-user-cli](https://github.com/sindresorhus/npm-user-cli) - Get user info of a npm user.
-- [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of the package in the current directory.
-- [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
-- [starring](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
-- [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows.
-
 ### Mobile Development
 
 - [mobicon-cli](https://github.com/SamVerschueren/mobicon-cli) - Mobile app icon generator.
@@ -191,6 +182,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [clog](https://github.com/kentcdodds/clog-cli) - A conventional changelog for the rest of us.
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`.
 - [release](https://github.com/zeit/release) - Generate changelogs with a single command.
+
+### npm
+
+- [npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
+- [npm-user-cli](https://github.com/sindresorhus/npm-user-cli) - Get user info of a npm user.
+- [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of the package in the current directory.
+- [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
+- [starring](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
+- [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows.
 
 ## Productivity
 
