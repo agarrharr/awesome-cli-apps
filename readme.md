@@ -31,7 +31,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Database](#database)
   - [Devops](#devops)
   - [Release](#release)
-  - [npm](#npm)
+  - [Npm](#npm)
 - [Productivity](#productivity)
   - [Time Tracking](#time-tracking)
   - [Note Taking and Lists](#note-taking-and-lists)
@@ -183,7 +183,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`.
 - [release](https://github.com/zeit/release) - Generate changelogs with a single command.
 
-### npm
+### Npm
 
 - [npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
 - [npm-user-cli](https://github.com/sindresorhus/npm-user-cli) - Get user info of a npm user.
