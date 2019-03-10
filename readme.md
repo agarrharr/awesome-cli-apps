@@ -31,6 +31,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Database](#database)
   - [Devops](#devops)
   - [Release](#release)
+  - [Npm](#npm)
 - [Productivity](#productivity)
   - [Time Tracking](#time-tracking)
   - [Note Taking and Lists](#note-taking-and-lists)
@@ -135,9 +136,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [bower-name-cli](https://github.com/sindresorhus/bower-name-cli) - Check whether a package name is available on bower.
 - [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Searches [caniuse.com](caniuse.com) about browser support of feature.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check whether a website is up or down.
-- [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
-- [npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
-- [npm-user-cli](https://github.com/sindresorhus/npm-user-cli) - Get user info of a npm user.
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 - [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) - Strip comments from CSS.
 - [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports.
@@ -146,7 +144,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Runs a load test on the selected URL. Easy to extend minimally for your own ends.
 - [wp-cli](https://github.com/wp-cli/wp-cli) - Manage WordPress installations, update plugins, set up multisite installs and much more, without using a web browser.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Command-line tool to parse git diffs as JSON and generate pretty HTML.
-- [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of the package in the current directory.
 - [HTTPie](https://github.com/jkbrzt/httpie) - A user-friendly HTTP client.
 - [serve](https://github.com/zeit/serve) - Easy to use static file server with features like https, CORS and GZIP compression.
 - [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactive CLI that generates a .gitignore for your project based on your needs.
@@ -157,8 +154,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [simplehttp](https://github.com/snwfdhmp/simplehttp) - Most simplest and direct way to start serving a local directory over HTTP from CLI.
 - [shell2http](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control.
 - [HTTP Prompt](https://github.com/eliangcs/http-prompt) - An interactive command-line HTTP client featuring autocomplete and syntax highlighting.
-- [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows.
-
 
 ### Mobile Development
 
@@ -187,6 +182,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [clog](https://github.com/kentcdodds/clog-cli) - A conventional changelog for the rest of us.
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`.
 - [release](https://github.com/zeit/release) - Generate changelogs with a single command.
+
+### Npm
+
+- [npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
+- [npm-user-cli](https://github.com/sindresorhus/npm-user-cli) - Get user info of a npm user.
+- [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of the package in the current directory.
+- [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
+- [starring](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
+- [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows.
 
 ## Productivity
 
@@ -397,7 +401,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [tig](https://github.com/jonas/tig) - Text-mode interface for Git.
 - [grv](https://github.com/rgburke/grv) - Text-mode interface for Git with customisable vi bindings.
 - [git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day.
-- [starring](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
 - [git-secret](https://github.com/sobolevn/git-secret) - Store your private data inside a git repository.
 - [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) - gitlab cli for creating merge request from the command line.
 - [git-extras](https://github.com/tj/git-extras) - Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more.
