@@ -175,6 +175,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [SAWS](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
 - [s3cmd](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
 - [lstags](https://github.com/ivanilves/lstags) - Synchronize Docker images across different registries.
+- [pm2](https://pm2.io/runtime/) - Production Process Manager for Node.js
 
 ### Release
 
