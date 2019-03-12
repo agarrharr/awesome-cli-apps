@@ -301,7 +301,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
 - [themer](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
 - [JackPaper](https://github.com/jackel27/jackpaper) - Pull random/queried images from unplash.com and apply to your desktop wallpaper.
-- [pywal](https://github.com/dylanaraps/pywal) - Generate and change color-schemes on the fly, then apply the colors system-wide in all of your favourite programs.
+- [pywal](https://github.com/dylanaraps/pywal) - Generate and change color-schemes on the fly, then apply the colors system-wide to all of your favourite programs.
 
 ## Command Line Learning
 
