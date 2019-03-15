@@ -210,6 +210,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [calcurse](http://calcurse.org/) - Calcurse, a calendar and scheduling application for the command line.
 - [papis](http://github.com/alejandrogallo/papis) - Powerful and extensible document and bibliography manager.
 - [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
+- [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool.
 
 ### Time Tracking
 
