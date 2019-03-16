@@ -72,7 +72,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Entertainment
 
-- [football-cli](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league in your terminal.
+- [football-cli](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league.
 - [pockyt](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 - [newsboat](https://github.com/newsboat/newsboat) - An extendable RSS feed reader for text terminals.
 
@@ -83,9 +83,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [itunes-remote](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
 - [pianobar](https://6xq.net/pianobar/) - Pandora client.
 - [somafm-cli](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
-- [nehm](https://github.com/bogem/nehm) - CLI for downloading tracks from SoundCloud.
+- [nehm](https://github.com/bogem/nehm) - Download tracks from SoundCloud.
 - [mpd](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon.
-- [ncmpcpp](https://github.com/arybczak/ncmpcpp) - Featureful ncurses based Music Player Daemon client.
+- [ncmpcpp](https://github.com/arybczak/ncmpcpp) - Ncurses based Music Player Daemon client.
 - [moc](http://moc.daper.net/) - Console audio player for Linux/UNIX.
 - [musikcube](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
 
@@ -94,19 +94,19 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [facebook-cli](https://github.com/specious/facebook-cli) - Facebook command line interface.
 - [TTYtter](https://github.com/oysttyer/oysttyer) - Twitter client.
 - [Rainbowstream](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on the terminal.
-- [RTV](https://github.com/michael-lazar/rtv) - RTV provides an interface to view and interact with reddit from your terminal.
-- [WeeChat](https://weechat.org/) - WeeChat is a fast, light and extensible chat client.
+- [RTV](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal.
+- [WeeChat](https://weechat.org/) - Fast, light and extensible chat client.
 
 ### Video
 
-- [youtube-dl](http://rg3.github.io/youtube-dl/) - a small command-line program to download videos from YouTube.com and a few more sites. You can install with `brew install youtube-dl`.
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Download videos from YouTube.com and many other video sites.
 - [open-pip-cli](https://github.com/albinekb/open-pip-cli) - Watch movies in macOS native picture-in-picture player from your terminal.
-- [streamlink](https://github.com/streamlink/streamlink) - A command-line utility that pipes video streams from various services into a video player, such as VLC. The main purpose of Streamlink is to allow the user to avoid buggy and CPU heavy flash plugins but still be able to enjoy various streamed content.
-- [mps-youtube](https://github.com/mps-youtube/mps-youtube) - A command line Youtube player.
+- [streamlink](https://github.com/streamlink/streamlink) - Extract streams from various websites to a video player of your choosing.
+- [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Youtube player.
 
 ### Movies
-- [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
-- [movie](https://github.com/mayankchd/movie) - Get movie info or compare movies in terminal.
+- [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies.
+- [movie](https://github.com/mayankchd/movie) - Get movie info or compare movies.
 
 ### Games
 
