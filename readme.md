@@ -194,45 +194,45 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Productivity
 
-- [AutoScreenshotUploader](https://github.com/yask123/AutoScreenshotUploader) - Instantly capture and upload screenshot to [imgur](https://imgur.com).
-- [bitly-client](https://github.com/specious/bitly-client) - Make and manage Bitly shortlinks with this command line utility.
-- [doing](https://github.com/ttscoff/doing/) - A command line tool for keeping track of what you’re doing and tracking what you’ve done.
-- [ffscreencast](https://github.com/cytopia/ffscreencast) - ffmpeg screencast with video overlay and multi monitor support.
+- [AutoScreenshotUploader](https://github.com/yask123/AutoScreenshotUploader) - Capture and upload screenshots to imgur.
+- [bitly-client](https://github.com/specious/bitly-client) - Bitly client.
+- [doing](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
+- [ffscreencast](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 - [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
-- [meetup-cli](https://github.com/specious/meetup-cli) - Meetup.com command line interface.
+- [meetup-cli](https://github.com/specious/meetup-cli) - Meetup.com client.
 - [NeoMutt](https://neomutt.org) - Email client.
-- [terjira](https://github.com/keepcosmos/terjira) - Command line power tool for Jira.
-- [ipt](https://github.com/drselump14/ipt) - Command line interface for pivotal tracker.
-- [g3l](https://github.com/svtek/g3l) - Git is easy, github cli is easy but g3l easiest git cli in the w0rld!
-- [uber-cli](https://github.com/jaebradley/uber-cli) - Uber, at your fingertips.
-- [Buku](https://github.com/jarun/Buku) - Powerful command-line bookmark manager.
-- [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal.
-- [calcurse](http://calcurse.org/) - Calcurse, a calendar and scheduling application for the command line.
-- [papis](http://github.com/alejandrogallo/papis) - Powerful and extensible document and bibliography manager.
-- [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
+- [terjira](https://github.com/keepcosmos/terjira) - Jira client.
+- [ipt](https://github.com/drselump14/ipt) - Pivotal Tracker client.
+- [g3l](https://github.com/svtek/g3l) - Easiest git cli in the w0rld!
+- [uber-cli](https://github.com/jaebradley/uber-cli) - Uber client.
+- [Buku](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
+- [googler](https://github.com/jarun/googler) - Google from the terminal.
+- [calcurse](http://calcurse.org/) - A calendar and scheduling application for the command-line.
+- [papis](http://github.com/alejandrogallo/papis) - Extensible document and bibliography manager.
+- [mdp](https://github.com/visit1985/mdp) - Markdown presentation tool.
 - [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool.
 
 ### Time Tracking
 
-- [Timetrap](https://github.com/samg/timetrap) - Simple command line timetracker.
-- [moro](https://github.com/omidfi/moro) - Time Tracker with a single command.
+- [Timetrap](https://github.com/samg/timetrap) - Simple command-line timetracker.
+- [moro](https://github.com/omidfi/moro) - Simple tool for tracking work hours.
 
 ### Note Taking and Lists
 
-- [idea](https://github.com/IonicaBizau/idea) - A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
-- [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Console client for Evernote.
-- [Taskwarrior](http://taskwarrior.org) - Free and Open Source Software that manages your TODO list from your command line.
-- [Terminal velocity](https://terminal-velocity-notes.github.io/terminal_velocity/) - A fast note-taking app for the UNIX terminal.
+- [idea](https://github.com/IonicaBizau/idea) - A lightweight tool for keeping ideas in a safe place quick and easy.
+- [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Evernote client.
+- [Taskwarrior](http://taskwarrior.org) - Manage your TODO list from your command-line.
+- [Terminal velocity](https://terminal-velocity-notes.github.io/terminal_velocity/) - A fast note-taking app for the terminal.
 - [eureka](https://github.com/simeg/eureka) - Store your ideas without leaving the terminal.
-- [sncli](https://github.com/insanum/sncli) - A simple Python application that gives you access to your Simplenote account via the command line.
-- [td-cli](https://github.com/darrikonn/td-cli) - A todo command-line manager to organize and manage your todos across multiple projects.
+- [sncli](https://github.com/insanum/sncli) - Simplenote client.
+- [td-cli](https://github.com/darrikonn/td-cli) - A todo manager to organize and manage your todos across multiple projects.
 
 ### Finance
 
-- [ledger](http://ledger-cli.org) - Powerful, double-entry accounting system that is accessed from the UNIX command-line.
-- [moeda](https://github.com/thompsonemerson/moeda) - A foreign exchange rates and currency conversion using CLI.
-- [cash-cli](https://github.com/xxczaki/cash-cli) - Convert 32 currencies from the command line!
-- [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies.
+- [ledger](http://ledger-cli.org) - Powerful, double-entry accounting system on the terminal
+- [moeda](https://github.com/thompsonemerson/moeda) - Foreign exchange rates and currency conversion.
+- [cash-cli](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
+- [cointop](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
 
 ## Utilities
 
