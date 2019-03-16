@@ -78,24 +78,24 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Music
 
-- [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
+- [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player.
 - [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - Instant music downloader.
-- [itunes-remote](https://github.com/mischah/itunes-remote) - It’s about listening to music without leaving the terminal. macOS only.
+- [itunes-remote](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
 - [pianobar](https://6xq.net/pianobar/) - Pandora client.
 - [somafm-cli](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
-- [nehm](https://github.com/bogem/nehm) - Console tool, which downloads, sets IDv3 tags and adds to your iTunes (if you use macOS) your SoundCloud likes in convenient way.
+- [nehm](https://github.com/bogem/nehm) - CLI for downloading tracks from SoundCloud.
 - [mpd](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon.
-- [ncmpcpp](https://github.com/arybczak/ncmpcpp) - Featureful ncurses based Music Player Daemon client inspired by ncmpc.
+- [ncmpcpp](https://github.com/arybczak/ncmpcpp) - Featureful ncurses based Music Player Daemon client.
 - [moc](http://moc.daper.net/) - Console audio player for Linux/UNIX.
 - [musikcube](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
 
 ### Social Media
 
 - [facebook-cli](https://github.com/specious/facebook-cli) - Facebook command line interface.
-- [TTYtter](https://github.com/oysttyer/oysttyer) - Twitter client- ([original](http://www.floodgap.com/software/ttytter/)).
-- [Rainbowstream](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on terminal written in Python.
+- [TTYtter](https://github.com/oysttyer/oysttyer) - Twitter client.
+- [Rainbowstream](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on the terminal.
 - [RTV](https://github.com/michael-lazar/rtv) - RTV provides an interface to view and interact with reddit from your terminal.
-- [WeeChat](https://weechat.org/) - WeeChat is a fast, light and extensible chat client. It runs on many platforms like Linux, Unix, BSD, GNU Hurd, Mac OS X and Windows (Bash/Ubuntu and Cygwin).
+- [WeeChat](https://weechat.org/) - WeeChat is a fast, light and extensible chat client.
 
 ### Video
 
