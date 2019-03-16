@@ -115,14 +115,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Development
 
 - [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
-- [boilr](https://github.com/tmrts/boilr) - Dependency free CLI to create projects from boilerplate templates.
-- [cgasm](https://github.com/bnagy/cgasm) - A tool that gives x86 assembly documentation. It is pronounced "SeekAzzem".
-- [cookiecutter](https://github.com/audreyr/cookiecutter) - Creates projects from cookiecutters (project templates).
-- [dockly](https://github.com/lirantal/dockly) - Interactive CLI for managing Docker containers.
-- [legit](https://github.com/captainsafia/legit) - Choose from many Open Source licences to generate a LICENSE file or add license headers to files.
-- [mklicense](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info. Busy people & beginner's friendly.
-- [rebound](https://github.com/shobrook/rebound) - Instantly fetch Stack Overflow results in your terminal when you get a compiler error.
-- [yo](https://github.com/yeoman/yo) - CLI scaffolding tool for running Yeoman generators. There are thousands of ready to use generators and creating an own one is pretty easy.
+- [boilr](https://github.com/tmrts/boilr) - Create projects from boilerplate templates.
+- [cgasm](https://github.com/bnagy/cgasm) - Gives x86 assembly documentation.
+- [cookiecutter](https://github.com/audreyr/cookiecutter) - Create projects from templates.
+- [legit](https://github.com/captainsafia/legit) - Generate Open Source licences as files or file headers.
+- [mklicense](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
+- [rebound](https://github.com/shobrook/rebound) - Fetch Stack Overflow results in your terminal when you get a compiler error.
+- [yo](https://github.com/yeoman/yo) - Scaffolding tool for running Yeoman generators. There are thousands of ready to use generators and creating an own one is pretty easy.
 - [grip](https://github.com/joeyespo/grip) - Preview markdown files with GitHub styles before committing them.
 
 ### Text Editors
@@ -134,26 +133,26 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Web Development
 
 - [bower-name-cli](https://github.com/sindresorhus/bower-name-cli) - Check whether a package name is available on bower.
-- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Searches [caniuse.com](caniuse.com) about browser support of feature.
-- [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check whether a website is up or down.
+- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Search [caniuse.com](caniuse.com) about browser support of feature.
+- [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check whether a website is up.
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 - [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) - Strip comments from CSS.
 - [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports.
 - [surge](https://surge.sh) - Deploy a directory to the web.
-- [acmetool](https://github.com/hlandau/acme) - An easy-to-use command line tool for automatically acquiring certificates from ACME servers.
+- [acmetool](https://github.com/hlandau/acme) - An automatic certificate acquisition tool for ACME (Let's Encrypt).
 - [loadtest](https://github.com/alexfernandez/loadtest) - Runs a load test on the selected URL. Easy to extend minimally for your own ends.
-- [wp-cli](https://github.com/wp-cli/wp-cli) - Manage WordPress installations, update plugins, set up multisite installs and much more, without using a web browser.
-- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Command-line tool to parse git diffs as JSON and generate pretty HTML.
+- [wp-cli](https://github.com/wp-cli/wp-cli) - Manage WordPress installations, update plugins, set up multisite installs and much more.
+- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Parse git diffs as JSON and generate pretty HTML.
 - [HTTPie](https://github.com/jkbrzt/httpie) - A user-friendly HTTP client.
 - [serve](https://github.com/zeit/serve) - Easy to use static file server with features like https, CORS and GZIP compression.
-- [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactive CLI that generates a .gitignore for your project based on your needs.
-- [mevn-cli](http://github.com/madlabsinc/mevn-cli) - CLI tool for the MEVN stack.
+- [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
+- [mevn-cli](http://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN(Mongo Express Vue Node) Apps.
 - [scaffold-static](https://github.com/jamesgeorge007/scaffold-static) - Static site generator for vanila JS.
-- [Discharge](https://github.com/brandonweiss/discharge) - Simple, easy way to deploy static websites to Amazon S3.
-- [reachable](https://github.com/italolelis/reachable) - Reachable is a CLI tool to check if a domain is up.
-- [simplehttp](https://github.com/snwfdhmp/simplehttp) - Most simplest and direct way to start serving a local directory over HTTP from CLI.
-- [shell2http](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control.
-- [HTTP Prompt](https://github.com/eliangcs/http-prompt) - An interactive command-line HTTP client featuring autocomplete and syntax highlighting.
+- [Discharge](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
+- [reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
+- [simplehttp](https://github.com/snwfdhmp/simplehttp) - Easily serve a local directory over http.
+- [shell2http](https://github.com/msoap/shell2http) - Execute shell commands via HTTP server.
+- [HTTP Prompt](https://github.com/eliangcs/http-prompt) - Interactive HTTP client featuring autocomplete and syntax highlighting.
 
 ### Mobile Development
 
@@ -163,19 +162,20 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Database
 
-- [cycli](https://github.com/nicolewhite/cycli) - A terminal client for Neo4j with autocompletion and syntax highlighting.
-- [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-- [pgcli](https://github.com/dbcli/pgcli) - A Terminal Client for Postgre with AutoCompletion and Syntax Highlighting.
+- [cycli](https://github.com/nicolewhite/cycli) - Neo4j client with autocompletion and syntax highlighting.
+- [mycli](https://github.com/dbcli/mycli) - MySQL client with autocompletion and syntax highlighting.
+- [pgcli](https://github.com/dbcli/pgcli) - Postgres client with autocompletion and syntax highlighting.
 
 ### Devops
 
 - [htconvert](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects.
-- [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services.
+- [aws-cli](https://github.com/aws/aws-cli) - Universal Interface for Amazon Web Services.
 - [azure-cli](https://github.com/Azure/azure-cli) - Command-line tools for Azure.
 - [SAWS](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
 - [s3cmd](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
 - [lstags](https://github.com/ivanilves/lstags) - Synchronize Docker images across different registries.
 - [pm2](https://pm2.io/runtime/) - Production Process Manager for Node.js
+- [dockly](https://github.com/lirantal/dockly) - Interactively manage Docker containers.
 
 ### Release
 
