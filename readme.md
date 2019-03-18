@@ -235,10 +235,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Presentations
 
+- [WOPR](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics.
+- [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
 - [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
 - [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool.
-- [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
-- [WOPR](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics.
 
 ## Utilities
 
