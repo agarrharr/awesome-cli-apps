@@ -36,6 +36,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Time Tracking](#time-tracking)
   - [Note Taking and Lists](#note-taking-and-lists)
   - [Finance](#finance)
+  - [Presentations](#presentations)
 - [Utilities](#utilities)
   - [macOS](#macos)
   - [Terminal Utilities](#terminal-utilities)
@@ -210,8 +211,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal.
 - [calcurse](http://calcurse.org/) - Calcurse, a calendar and scheduling application for the command line.
 - [papis](http://github.com/alejandrogallo/papis) - Powerful and extensible document and bibliography manager.
-- [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
-- [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool.
 
 ### Time Tracking
 
@@ -236,6 +235,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert 32 currencies from the command line!
 - [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies.
 
+### Presentations
+
+- [WOPR](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics.
+- [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
+- [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
+- [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool.
+
 ## Utilities
 
 - [archive-type-cli](https://github.com/kevva/archive-type-cli) - Detect the archive type of a Buffer/Uint8Array.
@@ -254,7 +260,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [website-popup-cli](https://github.com/sindresorhus/website-popup-cli) - Quickly watch a window in a pop up window without closing or opening another full screen window.
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets in your terminal.
 - [has](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
-- [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [pass](https://www.passwordstore.org) - Pass, the standard unix password manager: simple, secure, powerful.
 - [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+.
@@ -440,7 +445,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Graphics
 - [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - A cli for traversing the Mandelbrot fractal.
-- [WOPR](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics.
 - [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
 
 ## Just for Fun
