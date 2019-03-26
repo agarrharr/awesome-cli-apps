@@ -121,6 +121,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cgasm](https://github.com/bnagy/cgasm) - A tool that gives x86 assembly documentation. It is pronounced "SeekAzzem".
 - [cookiecutter](https://github.com/audreyr/cookiecutter) - Creates projects from cookiecutters (project templates).
 - [dockly](https://github.com/lirantal/dockly) - Interactive CLI for managing Docker containers.
+- [joker](https://github.com/amilajack/joker) - A modern and intuitive testing library for command-line apps
 - [legit](https://github.com/captainsafia/legit) - Choose from many Open Source licences to generate a LICENSE file or add license headers to files.
 - [mklicense](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info. Busy people & beginner's friendly.
 - [rebound](https://github.com/shobrook/rebound) - Instantly fetch Stack Overflow results in your terminal when you get a compiler error.
