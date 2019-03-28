@@ -227,6 +227,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [sncli](https://github.com/insanum/sncli) - A simple Python application that gives you access to your Simplenote account via the command line.
 - [td-cli](https://github.com/darrikonn/td-cli) - A todo command-line manager to organize and manage your todos across multiple projects.
 - [taskell](https://github.com/smallhadroncollider/taskell) - Command-line Kanban board/task manager.
+- [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 
 ### Finance
 
