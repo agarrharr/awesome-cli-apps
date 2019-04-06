@@ -217,7 +217,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Timetrap](https://github.com/samg/timetrap) - Simple command-line timetracker.
 - [moro](https://github.com/omidfi/moro) - Simple tool for tracking work hours.
-- [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Timewarrior is a time tracking utility that offers simple stopwatch features as well as sophisticated calendar-base backfill, along with flexible reporting.
+- [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Time tracking utility with simple stopwatch, calendar-based backfill and flexible reporting.
 
 ### Note Taking and Lists
 
