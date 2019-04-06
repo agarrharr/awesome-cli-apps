@@ -480,7 +480,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [leven-cli](https://github.com/sindresorhus/leven-cli) - Measure the difference between two strings using the Levenshtein distance algorithm.
 - [maybe](https://github.com/p-e-w/maybe) - See what a program does before deciding whether you really want it to happen.
 - [mdlt](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
-- [Qalculate](https://github.com/Qalculate/libqalculate) - The ultimate desktop calculator. Conversions, functions, and more.  
 - [medium-cli](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories within your terminal, also gives top stories.
 - [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli) - Open the URL from a web shortcut file in the browser.
 - [shortcut-url-cli](https://github.com/sindresorhus/shortcut-url-cli) - Get the URL from a web shortcut file.
@@ -496,6 +495,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [xiringuito](https://github.com/ivanilves/xiringuito) - A "poor man's VPN". An SSH-based "VPN" that's easy to install, but with slower performance than a real VPN.
 - [nasa-cli](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day from your terminal.
 - [googlr](https://github.com/Camji55/googlr) - Search Google from the command line.
+- [Qalculate](https://github.com/Qalculate/libqalculate) - Calculate non-trival math expressions. Unit conversions, symbolic calculations and more.
 
 ### Emoji
 
