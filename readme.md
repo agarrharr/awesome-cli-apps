@@ -313,6 +313,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [speedtest-net](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
 - [speed-test](https://github.com/sindresorhus/speed-test) - `speedtest-net` wrapper with different UI.
 - [speedtest-cli](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
+- [ip-api-cli](https://github.com/Gymmasssorla/ip-api-cli) - Get geolocation data from a raw IP address or a domain name.
 
 ### Theming and Customization
 
