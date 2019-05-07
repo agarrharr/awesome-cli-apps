@@ -194,6 +194,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of the package in the current directory.
 - [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
 - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows.
+- [updates](https://github.com/silverwind/updates) - Flexible npm dependency update tool.
 
 ## Productivity
 
@@ -211,6 +212,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Buku](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
 - [googler](https://github.com/jarun/googler) - Google from the terminal.
 - [calcurse](http://calcurse.org/) - A calendar and scheduling application for the command-line.
+- [gcalcli](https://github.com/insanum/gcalcli) - Access Google calendar from the terminal.
 - [papis](http://github.com/alejandrogallo/papis) - Extensible document and bibliography manager.
 
 ### Time Tracking
