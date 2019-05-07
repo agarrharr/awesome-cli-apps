@@ -1,4 +1,3 @@
-https://github.com/insanum/gcalcli
 https://github.com/vdemedes/gifi
 https://github.com/sindresorhus/term-img
 https://github.com/apaszke/termtile
