@@ -260,6 +260,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
 - [aria2](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
+- [webtorrent-cli](https://github.com/feross/webtorrent-cli) – Feature packed torrent client from your terminal.
 - [share-cli](https://github.com/marionebl/share-cli) - Share files with your local network.
 - [wego](https://github.com/schachmat/wego) - Get the weather.
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather.
