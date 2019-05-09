@@ -335,7 +335,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) - A simple CLI for querying and updating YAML files.
 - [q](http://harelba.github.io/q/) - A command line tool that allows execution of SQL-like queries on CSVs/TSVs (and any other tabular text files).
 - [yq](https://github.com/kislyuk/yq) - Command-line YAML processor (Uses the same syntax as jq).
-- [csv-localizer](https://github.com/rogermolas/csv-localizer) - A command line tool that convert CSV file to iOS or Android localizable strings
+- [csv-localizer](https://github.com/rogermolas/csv-localizer) - A command line tool that convert CSV file to iOS or Android localizable strings.
 
 ### JSON
 
