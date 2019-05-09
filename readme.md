@@ -86,7 +86,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [somafm-cli](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
 - [nehm](https://github.com/bogem/nehm) - Download tracks from SoundCloud.
 - [mpd](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon.
-- [ncmpcpp](https://github.com/arybczak/ncmpcpp) - Ncurses based Music Player Daemon client.
+- [ncmpcpp](https://github.com/arybczak/ncmpcpp) - mpd client.
 - [moc](http://moc.daper.net/) - Console audio player for Linux/UNIX.
 - [musikcube](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
 
