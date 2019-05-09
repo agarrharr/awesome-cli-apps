@@ -127,6 +127,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [rebound](https://github.com/shobrook/rebound) - Fetch Stack Overflow results in your terminal when you get a compiler error.
 - [yo](https://github.com/yeoman/yo) - Scaffolding tool for running Yeoman generators. There are thousands of ready to use generators and creating an own one is pretty easy.
 - [grip](https://github.com/joeyespo/grip) - Preview markdown files with GitHub styles before committing them.
+- [bitwise](https://github.com/mellowcandle/bitwise) - Base convertion and bit manipulator in ncurses.
 
 ### Text Editors
 
