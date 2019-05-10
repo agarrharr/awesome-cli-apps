@@ -504,7 +504,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Other Awesome Lists
 
-- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - A curated list of addons that extends git cli.
+- [awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps#readme) – An alternative awesome list of cli apps.
+- [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line#readme) - Shell commands and tools specific to macOS.
+- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
+- [awesome-shell](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
+- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
+- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
+- [awesome-nodejs clis](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
 
 ## License
 
