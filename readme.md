@@ -510,7 +510,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [awesome-shell](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
-- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs#readme) – Node.js modules and resources.
+- [awesome-nodejs clis](https://github.com/sindresorhus/awesome-nodejs#readme) – Node.js modules and resources.
 
 ## License
 
