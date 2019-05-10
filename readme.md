@@ -504,10 +504,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Other Awesome Lists
 
-- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - A curated list of addons that extends git cli.
-- [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - A curated list of shell commands and tools specific to macOS.
-- [awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) – An alternative awesome list of cli apps.
-- [awesome-shell](https://github.com/alebcay/awesome-shell) – A curated list of awesome command-line utilities and frameworks.
+- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#readme) - A curated list of addons that extends git cli.
+- [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line#readme) - A curated list of shell commands and tools specific to macOS.
+- [awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps#readme) – An alternative awesome list of cli apps.
+- [awesome-shell](https://github.com/alebcay/awesome-shell#readme) – A curated list of awesome command-line utilities and frameworks.
+- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy#readme) – A curated list of terminal frameworks, plugins & resources.
+- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins#readme) – A collection of ZSH frameworks, plugins, tutorials & themes.
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs#readme) – A curated list of Node.js modules and resources.
 
 ## License
 
