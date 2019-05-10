@@ -1,27 +1,31 @@
-https://github.com/vdemedes/gifi
-https://github.com/sindresorhus/term-img
+macos:
+https://github.com/sindresorhus/term-img-cli
 https://github.com/apaszke/termtile
-https://github.com/bahmutov/wiseli
-https://github.com/jfmengels/all-contributors-cli
-https://github.com/dylang/space-hogs
-https://github.com/sindresorhus/ora
-https://github.com/sindresorhus/cli-spinners
-https://github.com/jpmens/jo
-https://github.com/coderofsalvation/kanban.bash
-https://github.com/sindresorhus/cli-truncate
-https://github.com/feross/webtorrent-cli
-https://github.com/egoist/is-trademarked-cli
-https://github.com/sindresorhus/anybar-cli
-https://github.com/eanplatter/forked
 https://github.com/sindresorhus/dark-mode
-https://github.com/sindresorhus/review-times
-https://github.com/sindresorhus/default-browser-cli
+
+util:
+https://github.com/dylang/space-hogs
+https://github.com/egoist/is-trademarked-cli
+
+json:
+https://github.com/jpmens/jo
+
+Note Taking and Lists:
+https://github.com/coderofsalvation/kanban.bash
+
+npm:
 https://github.com/sindresorhus/npm-email-cli
+
+network util:
 https://github.com/sindresorhus/public-ip-cli
-https://github.com/sindresorhus/is-progressive-cli
-https://github.com/bevacqua/correcthorse
 https://github.com/sindresorhus/fast-cli
-https://github.com/maebert/jrnl
-https://github.com/sindresorhus/github-username-cli
-https://github.com/sindresorhus/rgb-hex-cli
+
+web dev:
+https://github.com/sindresorhus/is-progressive-cli
 https://github.com/kevva/to-ico-cli
+
+other:
+https://github.com/maebert/jrnl
+
+data manipulation:
+https://github.com/sindresorhus/rgb-hex-cli
