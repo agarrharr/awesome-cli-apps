@@ -29,6 +29,3 @@ https://github.com/maebert/jrnl
 
 data manipulation:
 https://github.com/sindresorhus/rgb-hex-cli
-
-database:
-https://github.com/dbcli/litecli
