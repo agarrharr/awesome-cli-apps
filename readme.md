@@ -380,6 +380,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [rclone](https://github.com/ncw/rclone) - Sync files to and from various cloud providers (Dropbox, Google Drive, Onedrive, etc.).
 - [transmission-cli](https://transmissionbt.com) - Torrent client for your command line.
 - [ffsend](https://github.com/timvisee/ffsend) - Fully featured CLI for [Firefox Send](https://send.firefox.com/) - simple and private file sharing.
+- [webtorrent-cli](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
 
 ### Directory Listing
 
