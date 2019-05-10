@@ -3,9 +3,6 @@ https://github.com/sindresorhus/term-img-cli
 https://github.com/apaszke/termtile
 https://github.com/sindresorhus/dark-mode
 
-presentations: 
-https://github.com/hiroppy/fusuma
-
 util:
 https://github.com/dylang/space-hogs
 https://github.com/egoist/is-trademarked-cli
@@ -32,6 +29,3 @@ https://github.com/maebert/jrnl
 
 data manipulation:
 https://github.com/sindresorhus/rgb-hex-cli
-
-database:
-https://github.com/dbcli/litecli
