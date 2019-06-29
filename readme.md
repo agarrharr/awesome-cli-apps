@@ -28,7 +28,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Web Development](#web-development)
   - [Mobile Development](#mobile-development)
   - [Database](#database)
-  - [Dev](#devops)
+  - [Devops](#devops)
   - [Release](#release)
   - [Npm](#npm)
 - [Productivity](#productivity)
