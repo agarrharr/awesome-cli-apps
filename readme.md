@@ -182,7 +182,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [pm2](https://pm2.io/runtime/) - Production Process Manager for Node.js.
 - [dockly](https://github.com/lirantal/dockly) - Interactively manage Docker containers.
 - [ops](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
-- [lazydocker](https://github.com/jesseduffield/lazydocker) - A simple terminal UI for both docker and docker-compose.
+- [lazydocker](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
 
 ### Release
 
