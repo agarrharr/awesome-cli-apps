@@ -165,7 +165,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Database
 
-- [cycli](https://github.com/nicolewhite/cycli) - Neo4j client with autocompletion and syntax highlighting.
 - [mycli](https://github.com/dbcli/mycli) - MySQL client with autocompletion and syntax highlighting.
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres client with autocompletion and syntax highlighting.
 
