@@ -112,7 +112,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Games
 
-- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Dwarf Fortress is a part construction and management simulation, part roguelike, indie video game.
+- [Dwarf Fortress](http://www.bay12games.com/dwarves) - Roguelike construction and management simulation.
 
 ## Development
 
