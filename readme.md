@@ -101,7 +101,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Video
 
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Download videos from YouTube.com and many other video sites.
-- [open-pip-cli](https://github.com/albinekb/open-pip-cli) - Watch movies in macOS native picture-in-picture player from your terminal.
 - [streamlink](https://github.com/streamlink/streamlink) - Extract streams from various websites to a video player of your choosing.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Youtube player.
 - [mpv](https://mpv.io) - Superior video player.
@@ -281,6 +280,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### macOS
 
+- [open-pip-cli](https://github.com/albinekb/open-pip-cli) - Watch videos in picture-in-picture player.
 - [app-path-cli](https://github.com/sindresorhus/app-path-cli) - Get the path to an app.
 - [bundle-id-cli](https://github.com/sindresorhus/bundle-id-cli) - Get bundle identifier from a bundle name: Safari → com.apple.Safari.
 - [bundle-name-cli](https://github.com/sindresorhus/bundle-name-cli) - Get bundle name from a bundle identifier: com.apple.Safari → Safari.
