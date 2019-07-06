@@ -101,12 +101,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Video
 
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Download videos from YouTube.com and many other video sites.
-- [open-pip-cli](https://github.com/albinekb/open-pip-cli) - Watch movies in macOS native picture-in-picture player from your terminal.
 - [streamlink](https://github.com/streamlink/streamlink) - Extract streams from various websites to a video player of your choosing.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Youtube player.
 - [mpv](https://mpv.io) - Superior video player.
 
 ### Movies
+
 - [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies.
 - [movie](https://github.com/mayankchd/movie) - Get movie info or compare movies.
 
@@ -114,6 +114,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Dwarf Fortress is a part construction and management simulation, part roguelike, indie video game.
 - [Cataclysm-DDA](https://cataclysmdda.org) - Turn-based survival game set in a post-apocalyptic world.
+- [Dwarf Fortress](http://www.bay12games.com/dwarves) - Roguelike construction and management simulation.
 
 ## Development
 
@@ -167,7 +168,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Database
 
-- [cycli](https://github.com/nicolewhite/cycli) - Neo4j client with autocompletion and syntax highlighting.
 - [mycli](https://github.com/dbcli/mycli) - MySQL client with autocompletion and syntax highlighting.
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres client with autocompletion and syntax highlighting.
 
@@ -279,9 +279,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
 - [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts) - Queue jobs for linear execution.
+- [pipe_exec](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
 
 ### macOS
 
+- [open-pip-cli](https://github.com/albinekb/open-pip-cli) - Watch videos in picture-in-picture player.
 - [app-path-cli](https://github.com/sindresorhus/app-path-cli) - Get the path to an app.
 - [bundle-id-cli](https://github.com/sindresorhus/bundle-id-cli) - Get bundle identifier from a bundle name: Safari → com.apple.Safari.
 - [bundle-name-cli](https://github.com/sindresorhus/bundle-name-cli) - Get bundle name from a bundle identifier: com.apple.Safari → Safari.
