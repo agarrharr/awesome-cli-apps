@@ -151,7 +151,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [serve](https://github.com/zeit/serve) - Easy to use static file server with features like https, CORS and GZIP compression.
 - [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
 - [mevn-cli](http://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN(Mongo Express Vue Node) Apps.
-- [scaffold-static](https://github.com/jamesgeorge007/scaffold-static) - Static site generator for vanila JS.
+- [scaffold-static](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
 - [Discharge](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
 - [reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
 - [simplehttp](https://github.com/snwfdhmp/simplehttp) - Easily serve a local directory over http.
