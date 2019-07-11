@@ -127,7 +127,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [yo](https://github.com/yeoman/yo) - Scaffolding tool for running Yeoman generators. There are thousands of ready to use generators and creating an own one is pretty easy.
 - [grip](https://github.com/joeyespo/grip) - Preview markdown files with GitHub styles before committing them.
 - [bitwise](https://github.com/mellowcandle/bitwise) - Base convertion and bit manipulator in ncurses.
-- [foy](https://github.com/zaaack/foy) - A simple, light-weight and modern task runner / build tool for general purpose, with TypeScript support.
+- [foy](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
 
 ### Text Editors
 
