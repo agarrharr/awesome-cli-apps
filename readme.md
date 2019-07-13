@@ -183,6 +183,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [dockly](https://github.com/lirantal/dockly) - Interactively manage Docker containers.
 - [ops](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
+- [flog](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 
 ### Release
 
@@ -273,7 +274,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists without a browser.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 - [Ultimate Plumber](https://github.com/akavel/up) - Write Linux pipes with live previews.
-- [flog](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
 - [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts) - Queue jobs for linear execution.
