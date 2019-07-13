@@ -254,7 +254,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Utilities
 
 - [archive-type-cli](https://github.com/kevva/archive-type-cli) - Detect the archive type of a Buffer/Uint8Array.
-- [battery-level](https://github.com/gillstrom/battery-level) - Get current battery level.
+- [battery-level-cli](https://github.com/gillstrom/battery-level-cli) - Get current battery level.
 - [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows](https://github.com/sondreb/win-brightness)).
 - [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
