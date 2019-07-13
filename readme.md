@@ -40,6 +40,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Terminal Utilities](#terminal-utilities)
   - [Network Utilities](#network-utilities)
   - [Theming and Customization](#theming-and-customization)
+  - [System Interaction Utilities](#system-interaction-utilities)
 - [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
   - [JSON](#json)
@@ -254,9 +255,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Utilities
 
 - [archive-type-cli](https://github.com/kevva/archive-type-cli) - Detect archive type for a file or stdin.
-- [battery-level-cli](https://github.com/gillstrom/battery-level-cli) - Get current battery level.
-- [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows](https://github.com/sondreb/win-brightness)).
-- [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
 - [s](https://github.com/zquestz/s) - Open a web search in your terminal.
@@ -269,9 +267,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
 - [has](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
-- [pass](https://www.passwordstore.org) - The standard unix password manager.
-- [neofetch](https://github.com/dylanaraps/neofetch) - System information tool.
-- [Glances](https://nicolargo.github.io/glances) - System monitoring tool.
+- [pass](https://www.passwordstore.org) - Password manager.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists without a browser.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 - [Ultimate Plumber](https://github.com/akavel/up) - Write Linux pipes with live previews.
@@ -323,6 +319,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [themer](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
 - [JackPaper](https://github.com/jackel27/jackpaper) - Apply random/queried images from unplash.com as desktop wallpaper.
 - [pywal](https://github.com/dylanaraps/pywal) - Generate and change color-schemes, then apply them system-wide to all of your favourite programs.
+
+### System Interaction Utilities
+
+- [battery-level-cli](https://github.com/gillstrom/battery-level-cli) - Get current battery level.
+- [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows](https://github.com/sondreb/win-brightness)).
+- [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
+- [neofetch](https://github.com/dylanaraps/neofetch) - System information tool.
+- [Glances](https://nicolargo.github.io/glances) - System monitoring tool.
 
 ## Command Line Learning
 
