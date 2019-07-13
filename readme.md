@@ -258,7 +258,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows](https://github.com/sondreb/win-brightness)).
 - [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
-- [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
 - [s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
 - [aria2](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
@@ -470,6 +469,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
 - [yosay](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
 - [lolcat](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
+- [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
 
 ## Other
 
