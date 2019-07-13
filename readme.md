@@ -259,7 +259,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
 - [aria2](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
-- [share-cli](https://github.com/marionebl/share-cli) - Share files with your local network.
 - [wego](https://github.com/schachmat/wego) - Get the weather.
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather.
 - [mapscii](https://github.com/rastapasta/mapscii) - Terminal Map Viewer.
@@ -389,6 +388,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [transmission-cli](https://transmissionbt.com) - Torrent client for your command line.
 - [ffsend](https://github.com/timvisee/ffsend) - Fully featured CLI for [Firefox Send](https://send.firefox.com/) - simple and private file sharing.
 - [webtorrent-cli](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
+- [share-cli](https://github.com/marionebl/share-cli) - Share files with your local network.
 
 ### Directory Listing
 
