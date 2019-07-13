@@ -30,6 +30,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Devops](#devops)
   - [Release](#release)
   - [Npm](#npm)
+  - [Scaffolding](#scaffolding)
 - [Productivity](#productivity)
   - [Time Tracking](#time-tracking)
   - [Note Taking and Lists](#note-taking-and-lists)
