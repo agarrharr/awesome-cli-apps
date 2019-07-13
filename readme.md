@@ -258,7 +258,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [archive-type-cli](https://github.com/kevva/archive-type-cli) - Detect archive type for a file or stdin.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [s](https://github.com/zquestz/s) - Open a web search in your terminal.
-- [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
 - [aria2](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
 - [wego](https://github.com/schachmat/wego) - Get the weather.
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather.
@@ -323,6 +322,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [battery-level-cli](https://github.com/gillstrom/battery-level-cli) - Get current battery level.
 - [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows](https://github.com/sondreb/win-brightness)).
 - [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
+- [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
 - [neofetch](https://github.com/dylanaraps/neofetch) - System information tool.
 - [Glances](https://nicolargo.github.io/glances) - System monitoring tool.
 
