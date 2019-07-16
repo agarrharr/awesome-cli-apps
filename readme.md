@@ -30,7 +30,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Devops](#devops)
   - [Release](#release)
   - [Npm](#npm)
-  - [Scaffolding](#scaffolding)
+  - [Boilerplate](#boilerplate)
 - [Productivity](#productivity)
   - [Time Tracking](#time-tracking)
   - [Note Taking and Lists](#note-taking-and-lists)
@@ -196,7 +196,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows.
 - [updates](https://github.com/silverwind/updates) - Flexible npm dependency update tool.
 
-### Scaffolding
+### Boilerplate
 
 - [yo](https://github.com/yeoman/yo) - Scaffolding tool for running Yeoman generators.
 - [boilr](https://github.com/tmrts/boilr) - Create projects from boilerplate templates.
