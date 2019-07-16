@@ -37,7 +37,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Presentations](#presentations)
 - [Utilities](#utilities)
   - [macOS](#macos)
-  - [Terminal Utilities](#terminal-utilities)
+  - [Terminal Sharing Utilities](#terminal-sharing-utilities)
   - [Network Utilities](#network-utilities)
   - [Theming and Customization](#theming-and-customization)
 - [Command Line Learning](#command-line-learning)
@@ -292,7 +292,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [stronghold](https://github.com/alichtman/stronghold) - Configure security settings from the terminal.
 - [website-popup-cli](https://github.com/sindresorhus/website-popup-cli) - Open a website in a popup .
 
-### Terminal Utilities
+### Terminal Sharing Utilities
 
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
 - [localtunnel](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world for easy testing and sharing.
