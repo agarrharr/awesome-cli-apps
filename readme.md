@@ -40,6 +40,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Terminal Sharing Utilities](#terminal-sharing-utilities)
   - [Network Utilities](#network-utilities)
   - [Theming and Customization](#theming-and-customization)
+  - [Shell Utilities](#shell-utilities)
 - [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
   - [JSON](#json)
@@ -266,18 +267,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather.
 - [mapscii](https://github.com/rastapasta/mapscii) - Terminal Map Viewer.
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
-- [has](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
 - [pass](https://www.passwordstore.org) - The standard unix password manager.
 - [neofetch](https://github.com/dylanaraps/neofetch) - System information tool.
 - [Glances](https://nicolargo.github.io/glances) - System monitoring tool.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists without a browser.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
-- [Ultimate Plumber](https://github.com/akavel/up) - Write Linux pipes with live previews.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
-- [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
-- [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts) - Queue jobs for linear execution.
-- [pipe_exec](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
 
 ### macOS
 
@@ -304,7 +300,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [tmate](https://tmate.io/) - Instant terminal (tmux) sharing.
 - [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
 - [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
-- [undollar](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
 
 ### Network Utilities
 
@@ -321,6 +316,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [themer](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
 - [JackPaper](https://github.com/jackel27/jackpaper) - Apply random/queried images from unplash.com as desktop wallpaper.
 - [pywal](https://github.com/dylanaraps/pywal) - Generate and change color-schemes, then apply them system-wide to all of your favourite programs.
+
+### Shell Utilities
+
+- [has](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
+- [Ultimate Plumber](https://github.com/akavel/up) - Write Linux pipes with live previews.
+- [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
+- [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts) - Queue jobs for linear execution.
+- [undollar](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
+- [pipe_exec](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
 
 ## Command Line Learning
 
