@@ -30,6 +30,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Devops](#devops)
   - [Release](#release)
   - [Npm](#npm)
+  - [Boilerplate](#boilerplate)
 - [Productivity](#productivity)
   - [Time Tracking](#time-tracking)
   - [Note Taking and Lists](#note-taking-and-lists)
@@ -119,13 +120,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Development
 
 - [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
-- [boilr](https://github.com/tmrts/boilr) - Create projects from boilerplate templates.
 - [cgasm](https://github.com/bnagy/cgasm) - Gives x86 assembly documentation.
-- [cookiecutter](https://github.com/audreyr/cookiecutter) - Create projects from templates.
 - [legit](https://github.com/captainsafia/legit) - Generate Open Source licences as files or file headers.
 - [mklicense](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
 - [rebound](https://github.com/shobrook/rebound) - Fetch Stack Overflow results in your terminal when you get a compiler error.
-- [yo](https://github.com/yeoman/yo) - Scaffolding tool for running Yeoman generators. There are thousands of ready to use generators and creating an own one is pretty easy.
 - [grip](https://github.com/joeyespo/grip) - Preview markdown files with GitHub styles before committing them.
 - [bitwise](https://github.com/mellowcandle/bitwise) - Base convertion and bit manipulator in ncurses.
 - [foy](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
@@ -152,8 +150,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [HTTPie](https://github.com/jkbrzt/httpie) - A user-friendly HTTP client.
 - [serve](https://github.com/zeit/serve) - Easy to use static file server with features like https, CORS and GZIP compression.
 - [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
-- [mevn-cli](http://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN(Mongo Express Vue Node) Apps.
-- [scaffold-static](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
 - [Discharge](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
 - [reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
 - [simplehttp](https://github.com/snwfdhmp/simplehttp) - Easily serve a local directory over http.
@@ -201,6 +197,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
 - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows.
 - [updates](https://github.com/silverwind/updates) - Flexible npm dependency update tool.
+
+### Boilerplate
+
+- [yo](https://github.com/yeoman/yo) - Scaffolding tool for running Yeoman generators.
+- [boilr](https://github.com/tmrts/boilr) - Create projects from boilerplate templates.
+- [cookiecutter](https://github.com/audreyr/cookiecutter) - Create projects from templates.
+- [mevn-cli](http://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
+- [scaffold-static](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
 
 ## Productivity
 
