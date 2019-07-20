@@ -271,7 +271,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [pass](https://www.passwordstore.org) - Password manager.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists without a browser.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
-- [Ultimate Plumber](https://github.com/akavel/up) - Write Linux pipes with live previews.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 
 ### macOS
@@ -324,7 +323,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts) - Queue jobs for linear execution.
 - [undollar](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
 - [pipe_exec](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
-
 
 ### System Interaction Utilities
 
