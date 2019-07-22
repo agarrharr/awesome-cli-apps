@@ -478,6 +478,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [yosay](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
 - [lolcat](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
+- [qotm](https://github.com/wesscoby/qotm) - Quote of the moment. Like fortune, but outputs a random tech or programming quote (with author).
 
 ## Other
 
