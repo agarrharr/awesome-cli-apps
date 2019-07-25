@@ -19,5 +19,6 @@ Please ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request should have a useful title like `Add app-xyz` and include a link to the app and why it should be included.
+- The apps repository is older than 90 days.
 
 Thank you for your suggestions!
