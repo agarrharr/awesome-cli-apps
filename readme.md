@@ -371,7 +371,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files, imagine cleaning up your downloads in an instant.
 - [Vifm](https://vifm.info/) - Vifm is an ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt.
 - [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
-- [lf](https://github.com/gokcehan/lf) - Fast file browser, using Server-Client architecture, developed with focus on extensive customizability (mostly with bash scripts).
+- [lf](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 
 ### Deleting, Copying, and Renaming
 
