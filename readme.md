@@ -292,7 +292,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [active-win-cli](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
 - [stronghold](https://github.com/alichtman/stronghold) - Configure security settings from the terminal.
 - [website-popup-cli](https://github.com/sindresorhus/website-popup-cli) - Open a website in a popup.
-- [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle macOS's dark mode from the terminal.
+- [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
 
 ### Terminal Sharing Utilities
 
