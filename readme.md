@@ -241,7 +241,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app for the terminal.
 - [eureka](https://github.com/simeg/eureka) - Store your ideas without leaving the terminal.
 - [sncli](https://github.com/insanum/sncli) - Simplenote client.
-- [td-cli](https://github.com/darrikonn/td-cli) - A todo manager to organize and manage your todos across multiple projects.
+- [td-cli](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
 - [taskell](https://github.com/smallhadroncollider/taskell) - Interactive kanban board/task manager.
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 
