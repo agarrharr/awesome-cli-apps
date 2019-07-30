@@ -244,6 +244,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [td-cli](https://github.com/darrikonn/td-cli) - A todo manager to organize and manage your todos across multiple projects.
 - [taskell](https://github.com/smallhadroncollider/taskell) - Interactive kanban board/task manager.
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
+- [kanban.bash](https://github.com/coderofsalvation/kanban.bash) - Kanban style todo manager with a CSV backend.
 
 ### Finance
 
