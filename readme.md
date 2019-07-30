@@ -42,6 +42,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Network Utilities](#network-utilities)
   - [Theming and Customization](#theming-and-customization)
   - [Shell Utilities](#shell-utilities)
+  - [System Interaction Utilities](#system-interaction-utilities)
 - [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
   - [JSON](#json)
@@ -261,21 +262,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Utilities
 
 - [archive-type-cli](https://github.com/kevva/archive-type-cli) - Detect archive type for a file or stdin.
-- [battery-level-cli](https://github.com/gillstrom/battery-level-cli) - Get current battery level.
-- [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows](https://github.com/sondreb/win-brightness)).
-- [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
-- [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [s](https://github.com/zquestz/s) - Open a web search in your terminal.
-- [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
 - [aria2](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
 - [wego](https://github.com/schachmat/wego) - Get the weather.
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather.
 - [mapscii](https://github.com/rastapasta/mapscii) - Terminal Map Viewer.
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
-- [pass](https://www.passwordstore.org) - The standard unix password manager.
-- [neofetch](https://github.com/dylanaraps/neofetch) - System information tool.
-- [Glances](https://nicolargo.github.io/glances) - System monitoring tool.
+- [pass](https://www.passwordstore.org) - Password manager.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists without a browser.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
@@ -330,6 +324,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts) - Queue jobs for linear execution.
 - [undollar](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
 - [pipe_exec](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
+
+### System Interaction Utilities
+
+- [battery-level-cli](https://github.com/gillstrom/battery-level-cli) - Get current battery level.
+- [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows](https://github.com/sondreb/win-brightness)).
+- [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
+- [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
+- [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
+- [neofetch](https://github.com/dylanaraps/neofetch) - System information tool.
+- [Glances](https://nicolargo.github.io/glances) - System monitoring tool.
 
 ## Command Line Learning
 
