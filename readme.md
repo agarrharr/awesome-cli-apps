@@ -425,6 +425,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
 - [fzf](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
 - [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
+- [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
 
 ## Version Control
 
