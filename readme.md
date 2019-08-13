@@ -244,7 +244,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [td-cli](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
 - [taskell](https://github.com/smallhadroncollider/taskell) - Interactive kanban board/task manager.
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
-- [dnote](https://github.com/dnote/dnote) - A simple, end-to-end encrypted notebook that resprects user privacy.
+- [dnote](https://github.com/dnote/dnote) - A simple, interactive notebook.
 
 ### Finance
 
