@@ -362,6 +362,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor.
 - [jp](https://github.com/therealklanni/jp) - Simply parse and drill into JSON on the commandline, with jsonpath and stdin stream support (jq compatible, not a replacement).
+- [json-dotenv](https://github.com/decryptus/json-dotenv) - Manipulate and extract envfiles in json format.
 - [fx](https://github.com/antonmedv/fx) - Command-line JSON viewer.
 - [vj](https://github.com/busyloop/vj) - Makes JSON human readable.
 - [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON. Lets you use comments in your JSON files!
