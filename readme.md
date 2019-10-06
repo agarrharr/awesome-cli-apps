@@ -526,7 +526,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 -[gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 
 - [oji](https://github.com/xxczaki/oji) - Interactive text emoji maker.
 
-
 ## Other Awesome Lists
 
 - [awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps#readme) – An alternative awesome list of cli apps.
