@@ -228,6 +228,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [calcurse](http://calcurse.org/) - A calendar and scheduling application for the command-line.
 - [gcalcli](https://github.com/insanum/gcalcli) - Access Google calendar from the terminal.
 - [papis](http://github.com/alejandrogallo/papis) - Extensible document and bibliography manager.
+- [stargazed](https://github.com/abhijithvijayan/stargazed) - Creating your own Awesome List of GitHub Stars!
 
 ### Time Tracking
 
