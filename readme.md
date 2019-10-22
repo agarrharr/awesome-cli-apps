@@ -91,6 +91,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [moc](http://moc.daper.net/) - Console audio player for Linux/UNIX.
 - [musikcube](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
 - [beets](https://github.com/beetbox/beets) - Music library manager and tagger.
+- [playx](https://github.com/NISH1001/playx) - Music Assistant for Linux. Stream songs, playlists from different sources ranging from Spotify to Soundcloud.
 
 ### Social Media
 
