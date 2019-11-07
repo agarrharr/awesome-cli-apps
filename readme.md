@@ -363,12 +363,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### JSON
 
-- [jq](https://github.com/stedolan/jq) - Command-line JSON processor.
+- [jq](https://github.com/stedolan/jq) - JSON processor.
 - [jp](https://github.com/therealklanni/jp) - Simply parse and drill into JSON on the commandline, with jsonpath and stdin stream support (jq compatible, not a replacement).
 - [fx](https://github.com/antonmedv/fx) - Command-line JSON viewer.
 - [vj](https://github.com/busyloop/vj) - Makes JSON human readable.
-- [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON. Lets you use comments in your JSON files!
-- [GROQ](https://github.com/sanity-io/groq-cli) – Powerful JSON processor. Query and project (ND)JSON documents from stdin.
+- [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
+- [GROQ](https://github.com/sanity-io/groq-cli) – JSON processor with queryies and projections.
 
 ### Text
 
