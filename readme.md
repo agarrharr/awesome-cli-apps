@@ -368,6 +368,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [fx](https://github.com/antonmedv/fx) - Command-line JSON viewer.
 - [vj](https://github.com/busyloop/vj) - Makes JSON human readable.
 - [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON. Lets you use comments in your JSON files!
+- [GROQ](https://github.com/sanity-io/groq-cli) – Powerful JSON processor. Query and project (ND)JSON documents from stdin.
 
 ### Text
 
