@@ -22,6 +22,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Video](#video)
   - [Movies](#movies)
   - [Games](#games)
+  - [Books](#books)
 - [Development](#development)
   - [Text Editors](#text-editors)
   - [Web Development](#web-development)
@@ -118,6 +119,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Dwarf Fortress](http://www.bay12games.com/dwarves) - Roguelike construction and management simulation.
 - [Cataclysm-DDA](https://cataclysmdda.org) - Turn-based survival game set in a post-apocalyptic world.
+
+### Books
+
+- [epr](https://github.com/wustho/epr) - CLI EPUB Reader.
 
 ## Development
 
