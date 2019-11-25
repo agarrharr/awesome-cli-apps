@@ -22,6 +22,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Video](#video)
   - [Movies](#movies)
   - [Games](#games)
+  - [Books](#books)
 - [Development](#development)
   - [Text Editors](#text-editors)
   - [Web Development](#web-development)
@@ -91,6 +92,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [moc](http://moc.daper.net/) - Console audio player for Linux/UNIX.
 - [musikcube](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
 - [beets](https://github.com/beetbox/beets) - Music library manager and tagger.
+- [playx](https://github.com/NISH1001/playx) - Stream songs/playlists from various sources.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - A terminal user interface for Spotify
 
 ### Social Media
@@ -118,6 +120,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Dwarf Fortress](http://www.bay12games.com/dwarves) - Roguelike construction and management simulation.
 - [Cataclysm-DDA](https://cataclysmdda.org) - Turn-based survival game set in a post-apocalyptic world.
+
+### Books
+
+- [epr](https://github.com/wustho/epr) - epub reader.
+- [Bible.Js CLI](https://github.com/BibleJS/BibleApp) - Bible.
+- [SpeedRead](https://github.com/sunsations/speed_read) - Spritz-alike speedreader.
 
 ## Development
 
@@ -321,6 +329,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [themer](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
 - [JackPaper](https://github.com/jackel27/jackpaper) - Apply random/queried images from unplash.com as desktop wallpaper.
 - [pywal](https://github.com/dylanaraps/pywal) - Generate and change color-schemes, then apply them system-wide to all of your favourite programs.
+- [QuickWall](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
 
 ### Shell Utilities
 
@@ -351,6 +360,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
 - [Wat](https://github.com/dthree/wat) - Instant, central, community-built docs.
 - [teachcode](https://github.com/madlabsinc/teachcode) - A tool to develop and improve a student’s programming skills by introducing the earliest lessons of coding.
+- [navi](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
 
 ## Data Manipulation
 
@@ -362,11 +372,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### JSON
 
-- [jq](https://github.com/stedolan/jq) - Command-line JSON processor.
+- [jq](https://github.com/stedolan/jq) - JSON processor.
 - [jp](https://github.com/therealklanni/jp) - Simply parse and drill into JSON on the commandline, with jsonpath and stdin stream support (jq compatible, not a replacement).
 - [fx](https://github.com/antonmedv/fx) - Command-line JSON viewer.
 - [vj](https://github.com/busyloop/vj) - Makes JSON human readable.
-- [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON. Lets you use comments in your JSON files!
+- [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
+- [GROQ](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 
 ### Text
 
@@ -497,7 +508,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Other
 
-- [Bible.Js CLI client](https://github.com/BibleJS/BibleApp) - :book: Bible.JS CLI client. Read the Holy Bible via the command line.
 - [birthday](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
 - [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code.
 - [fullname-cli](https://github.com/sindresorhus/fullname-cli) - Get the fullname of the current user.
@@ -509,7 +519,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [medium-cli](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories within your terminal, also gives top stories.
 - [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli) - Open the URL from a web shortcut file in the browser.
 - [shortcut-url-cli](https://github.com/sindresorhus/shortcut-url-cli) - Get the URL from a web shortcut file.
-- [SpeedRead](https://github.com/sunsations/speed_read) - A simple terminal-based open source Spritz-alike.
 - [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli) - Convert matching single-quotes to double-quotes: I 'love' unicorns => I "love" unicorns.
 - [to-single-quotes](https://github.com/sindresorhus/to-single-quotes-cli) - Convert matching double-quotes to single-quotes: I "love" unicorns → I 'love' unicorns.
 - [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python.
