@@ -93,7 +93,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [musikcube](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
 - [beets](https://github.com/beetbox/beets) - Music library manager and tagger.
 - [playx](https://github.com/NISH1001/playx) - Stream songs/playlists from various sources.
-- [spotify-tui](https://github.com/Rigellute/spotify-tui) - A terminal user interface for Spotify
+- [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify client.
 
 ### Social Media
 
