@@ -475,6 +475,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder and the best companion of asciinema.org.
 - [givegif](https://github.com/passy/givegif) - GIFs on the command line.
 
+### Image Creation
+
+- [node-html-to-image-cli](https://github.com/frinyvonnick/node-html-to-image-cli) - Generates images from HTML.
+
 ### Image Conversion
 
 - [imgp](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator.
