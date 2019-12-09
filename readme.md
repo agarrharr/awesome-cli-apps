@@ -538,6 +538,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
 - [oji](https://github.com/xxczaki/oji) - Interactive text emoji maker.
 - [gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - Use emoji in commit messages.
+- [gitmoji-changelog](https://github.com/frinyvonnick/gitmoji-changelog) - Generate gitmoji changelogs.
 
 ## Other Awesome Lists
 
