@@ -100,7 +100,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [facebook-cli](https://github.com/specious/facebook-cli) - Facebook command line interface.
 - [TTYtter](https://github.com/oysttyer/oysttyer) - Twitter client.
 - [Rainbowstream](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on the terminal.
-- [RTV](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal.
+- [tuir](https://gitlab.com/ajak/tuir) - Browse Reddit from your terminal. Fork of [RTV](https://github.com/michael-lazar/rtv) since it discontinued.
 - [WeeChat](https://weechat.org/) - Fast, light and extensible chat client.
 - [irssi](https://github.com/irssi/irssi) - IRC chat client.
 
