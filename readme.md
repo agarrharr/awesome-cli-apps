@@ -244,6 +244,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [moro](https://github.com/omidfi/moro) - Simple tool for tracking work hours.
 - [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
 - [Watson](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
+- [utt](https://github.com/larose/utt) - Simple time tracking tool.
 
 ### Note Taking and Lists
 
