@@ -237,7 +237,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [calcurse](http://calcurse.org/) - A calendar and scheduling application for the command-line.
 - [gcalcli](https://github.com/insanum/gcalcli) - Access Google calendar from the terminal.
 - [papis](http://github.com/alejandrogallo/papis) - Extensible document and bibliography manager.
-- [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files.
 
 ### Time Tracking
 
@@ -464,6 +463,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) - gitlab cli for creating merge request from the command line.
 - [git-extras](https://github.com/tj/git-extras) - Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more.
 - [gita](https://github.com/nosarthur/gita) - Manage multiple git repos side by side for sanity.
+- [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - Generate README.md files interactively.
 
 ## Images
 
