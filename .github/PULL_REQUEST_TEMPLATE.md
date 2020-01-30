@@ -8,8 +8,6 @@ your contribution adheres to our guidelines.
 
 - [ ] I've read the [contribution guidelines](https://github.com/agarrharr/awesome-cli-apps/blob/master/contributing.md).
 
-**App name:**
-
 **Repo or homepage link:**
 
 **Description:**
