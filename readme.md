@@ -282,7 +282,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather.
 - [mapscii](https://github.com/rastapasta/mapscii) - Terminal Map Viewer.
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
-- [translate-shell](https://github.com/soimort/translate-shell) - Translation using Google Translate, optional sound.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
 - [pass](https://www.passwordstore.org) - Password manager.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists without a browser.
@@ -534,6 +533,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [nasa-cli](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day from your terminal.
 - [googlr](https://github.com/Camji55/googlr) - Search Google from the command line.
 - [Qalculate](https://github.com/Qalculate/libqalculate) - Calculate non-trival math expressions. Unit conversions, symbolic calculations and more.
+- [translate-shell](https://github.com/soimort/translate-shell) - Google Translate interface.
 
 ### Emoji
 
