@@ -237,6 +237,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [calcurse](http://calcurse.org/) - A calendar and scheduling application for the command-line.
 - [gcalcli](https://github.com/insanum/gcalcli) - Access Google calendar from the terminal.
 - [papis](http://github.com/alejandrogallo/papis) - Extensible document and bibliography manager.
+- [khal](https://github.com/pimutils/khal) - CalDAV ready CLI and TUI calendar.
 
 ### Time Tracking
 
