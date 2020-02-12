@@ -37,6 +37,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Note Taking and Lists](#note-taking-and-lists)
   - [Finance](#finance)
   - [Presentations](#presentations)
+  - [Calendars](#calendars)
 - [Utilities](#utilities)
   - [macOS](#macos)
   - [Terminal Sharing Utilities](#terminal-sharing-utilities)
@@ -234,10 +235,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [uber-cli](https://github.com/jaebradley/uber-cli) - Uber client.
 - [Buku](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
 - [googler](https://github.com/jarun/googler) - Google from the terminal.
-- [calcurse](http://calcurse.org/) - A calendar and scheduling application for the command-line.
-- [gcalcli](https://github.com/insanum/gcalcli) - Access Google calendar from the terminal.
 - [papis](http://github.com/alejandrogallo/papis) - Extensible document and bibliography manager.
-- [khal](https://github.com/pimutils/khal) - CalDAV ready CLI and TUI calendar.
 
 ### Time Tracking
 
@@ -273,6 +271,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
 - [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
 - [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool.
+
+### Calendars
+
+- [calcurse](http://calcurse.org/) - Calendar and scheduling.
+- [gcalcli](https://github.com/insanum/gcalcli) - Google calendar client.
+- [khal](https://github.com/pimutils/khal) - CalDAV ready CLI and TUI calendar.
 
 ## Utilities
 
