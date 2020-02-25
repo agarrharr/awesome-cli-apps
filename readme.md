@@ -211,6 +211,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
 - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows.
 - [updates](https://github.com/silverwind/updates) - Flexible npm dependency update tool.
+- [wipe-modules](https://github.com/bntzio/wipe-modules) - Remove `node_modules` of inactive projects.
 
 ### Boilerplate
 
