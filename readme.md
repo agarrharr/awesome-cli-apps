@@ -490,7 +490,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [imgp](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator.
 - [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing.
 - [imagemagick](https://imagemagick.org) - Gold standard for anything images.
-- [dankcli](https://github.com/sggts04/dankcli) - A CLI Image Captioning Tool or Meme Generator which automatically adds white space and text to the top of your image.
 
 ### SVG
 
@@ -517,6 +516,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [yosay](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
 - [lolcat](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
+- [dankcli](https://github.com/sggts04/dankcli) - Add text to meme image templates.
 
 ## Other
 
