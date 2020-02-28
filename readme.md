@@ -516,6 +516,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [yosay](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
 - [lolcat](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
+- [dankcli](https://github.com/sggts04/dankcli) - Add text to meme image templates.
 
 ## Other
 
