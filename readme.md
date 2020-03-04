@@ -432,6 +432,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [alder](https://github.com/aweary/alder) - A minimal implementation of the UNIX tree command with colors!
 - [exa](https://github.com/ogham/exa) - An improved version of `ls` written in Rust.
 - [tre](https://github.com/dduan/tre) - Tree command with git awareness, editor aliasing, and more.
+- [ll](https://github.com/antonmedv/ll) - Opinionated ls rewrite in Go with git status.
 
 ### Directory Navigation
 
