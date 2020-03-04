@@ -429,9 +429,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Directory Listing
 
-- [alder](https://github.com/aweary/alder) - A minimal implementation of the UNIX tree command with colors!
-- [exa](https://github.com/ogham/exa) - An improved version of `ls` written in Rust.
-- [tre](https://github.com/dduan/tre) - Tree command with git awareness, editor aliasing, and more.
+- [alder](https://github.com/aweary/alder) - Minimal `tree` with colors.
+- [exa](https://github.com/ogham/exa) - Improved version of `ls`.
+- [tre](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
+- [ll](https://github.com/antonmedv/ll) - `ls` with git status.
 
 ### Directory Navigation
 
