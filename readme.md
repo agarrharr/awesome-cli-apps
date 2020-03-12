@@ -196,7 +196,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
 - [flog](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 - [isitfit](http://github.com/autofitcloud/isitfit) - Manage AWS EC2 rightsizing.
-- [docker-shell](https://github.com/Trendyol/docker-shell) - A simple interactive prompt for docker.
+- [docker-shell](https://github.com/Trendyol/docker-shell) - Simple interactive docker interface.
 
 ### Release
 
