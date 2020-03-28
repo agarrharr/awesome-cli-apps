@@ -475,6 +475,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [git-extras](https://github.com/tj/git-extras) - Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more.
 - [gita](https://github.com/nosarthur/gita) - Manage multiple git repos side by side for sanity.
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - Generate README.md files interactively.
+- [semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) - A CLI to keep semantic git commits.
 
 ## Images
 
