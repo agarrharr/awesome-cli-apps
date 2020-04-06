@@ -197,6 +197,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [flog](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 - [isitfit](http://github.com/autofitcloud/isitfit) - Manage AWS EC2 rightsizing.
 - [docker-shell](https://github.com/Trendyol/docker-shell) - Simple interactive docker interface.
+- [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
 
 ### Release
 
