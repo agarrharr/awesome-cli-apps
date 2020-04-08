@@ -427,6 +427,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ffsend](https://github.com/timvisee/ffsend) - Fully featured CLI for [Firefox Send](https://send.firefox.com/) - simple and private file sharing.
 - [webtorrent-cli](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
 - [share-cli](https://github.com/marionebl/share-cli) - Share files with your local network.
+- [fireup-cli](https://github.com/AmruthPillai/fireup-cli) - Upload anything, right from your command-line
 
 ### Directory Listing
 
