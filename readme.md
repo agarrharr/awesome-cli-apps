@@ -445,6 +445,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z.
 - [goto](https://github.com/iridakos/goto) - Directory aliases for the shell with autocomplete.
 - [z.lua](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits.
+- [zoxide](https://github.com/ajeetdsouza/zoxide) - A blazing fast directory jumper written in Rust.
 
 ### Search
 
