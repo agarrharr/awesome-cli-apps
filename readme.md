@@ -378,6 +378,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ramda-cli](https://github.com/raine/ramda-cli) - A CLI tool for processing data with functional pipelines.
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) - A simple CLI for querying and updating YAML files.
 - [q](http://harelba.github.io/q/) - A command line tool that allows execution of SQL-like queries on CSVs/TSVs (and any other tabular text files).
+- [visidata](https://github.com/saulpw/visidata) - A spreadsheet multitool for exploring and arranging data (csv/json/xml/xls/yaml/etc)
 - [yq](https://github.com/kislyuk/yq) - Command-line YAML processor (Uses the same syntax as jq).
 
 ### JSON
