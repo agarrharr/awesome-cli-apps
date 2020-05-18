@@ -37,6 +37,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Note Taking and Lists](#note-taking-and-lists)
   - [Finance](#finance)
   - [Presentations](#presentations)
+  - [Calendars](#calendars)
 - [Utilities](#utilities)
   - [macOS](#macos)
   - [Terminal Sharing Utilities](#terminal-sharing-utilities)
@@ -135,7 +136,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mklicense](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
 - [rebound](https://github.com/shobrook/rebound) - Fetch Stack Overflow results in your terminal when you get a compiler error.
 - [grip](https://github.com/joeyespo/grip) - Preview markdown files with GitHub styles before committing them.
-- [bitwise](https://github.com/mellowcandle/bitwise) - Base convertion and bit manipulator in ncurses.
+- [bitwise](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulator in ncurses.
 - [foy](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
 
 ### Text Editors
@@ -179,6 +180,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mycli](https://github.com/dbcli/mycli) - MySQL client with autocompletion and syntax highlighting.
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres client with autocompletion and syntax highlighting.
 - [sqlline](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
+- [iredis](https://github.com/laixintao/iredis) - Redis client with autocompletion and syntax highlighting.
 
 ### Devops
 
@@ -194,6 +196,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
 - [flog](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 - [isitfit](http://github.com/autofitcloud/isitfit) - Manage AWS EC2 rightsizing.
+- [docker-shell](https://github.com/Trendyol/docker-shell) - Simple interactive docker interface.
 
 ### Release
 
@@ -210,6 +213,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
 - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows.
 - [updates](https://github.com/silverwind/updates) - Flexible npm dependency update tool.
+- [wipe-modules](https://github.com/bntzio/wipe-modules) - Remove `node_modules` of inactive projects.
 
 ### Boilerplate
 
@@ -234,8 +238,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [uber-cli](https://github.com/jaebradley/uber-cli) - Uber client.
 - [Buku](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
 - [googler](https://github.com/jarun/googler) - Google from the terminal.
-- [calcurse](http://calcurse.org/) - A calendar and scheduling application for the command-line.
-- [gcalcli](https://github.com/insanum/gcalcli) - Access Google calendar from the terminal.
 - [papis](http://github.com/alejandrogallo/papis) - Extensible document and bibliography manager.
 
 ### Time Tracking
@@ -257,7 +259,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [td-cli](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
 - [taskell](https://github.com/smallhadroncollider/taskell) - Interactive kanban board/task manager.
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
-- [dnote](https://github.com/dnote/dnote) - A simple, interactive notebook.
+- [dnote](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
 
 ### Finance
 
@@ -272,6 +274,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
 - [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
 - [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool.
+
+### Calendars
+
+- [calcurse](http://calcurse.org/) - Calendar and scheduling.
+- [gcalcli](https://github.com/insanum/gcalcli) - Google calendar client.
+- [khal](https://github.com/pimutils/khal) - CalDAV ready CLI and TUI calendar.
+- [vidirsyncer](https://github.com/pimutils/vdirsyncer) - CalDAV sync.
 
 ## Utilities
 
@@ -325,10 +334,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Theming and Customization
 
-- [splash-cli](https://github.com/rawnly/splash-cli) - Beautiful wallpapers from unsplash.
+- [splash-cli](https://github.com/rawnly/splash-cli) - Beautiful wallpapers from Unsplash.
 - [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
 - [themer](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
-- [JackPaper](https://github.com/jackel27/jackpaper) - Apply random/queried images from unplash.com as desktop wallpaper.
+- [JackPaper](https://github.com/jackel27/jackpaper) - Set images from Unsplash as wallpaper.
 - [pywal](https://github.com/dylanaraps/pywal) - Generate and change color-schemes, then apply them system-wide to all of your favourite programs.
 - [QuickWall](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
 
@@ -421,9 +430,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Directory Listing
 
-- [alder](https://github.com/aweary/alder) - A minimal implementation of the UNIX tree command with colors!
-- [exa](https://github.com/ogham/exa) - An improved version of `ls` written in Rust.
-- [tre](https://github.com/dduan/tre) - Tree command with git awareness, editor aliasing, and more.
+- [alder](https://github.com/aweary/alder) - Minimal `tree` with colors.
+- [exa](https://github.com/ogham/exa) - Improved version of `ls`.
+- [tre](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
+- [ll](https://github.com/antonmedv/ll) - `ls` with git status.
 
 ### Directory Navigation
 
@@ -434,7 +444,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PathPicker](https://github.com/facebook/pathpicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
 - [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z.
 - [goto](https://github.com/iridakos/goto) - Directory aliases for the shell with autocomplete.
-- [z.lua](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits.
+- [z.lua](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
+- [zoxide](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
 
 ### Search
 
@@ -444,6 +455,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [fzf](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
 - [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
+- [broot](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
 
 ## Version Control
 
@@ -463,6 +475,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) - gitlab cli for creating merge request from the command line.
 - [git-extras](https://github.com/tj/git-extras) - Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more.
 - [gita](https://github.com/nosarthur/gita) - Manage multiple git repos side by side for sanity.
+- [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - Generate README.md files interactively.
+- [semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages.
 - [import-github-labels-cli](https://github.com/abhijithvijayan/import-github-labels-cli) - CLI to import labels from another repository on GitHub
 
 ## Images
@@ -480,7 +494,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Image Conversion
 
 - [imgp](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator.
-- [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
+- [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing.
+- [imagemagick](https://imagemagick.org) - Gold standard for anything images.
 
 ### SVG
 
@@ -507,6 +522,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [yosay](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
 - [lolcat](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
+- [dankcli](https://github.com/sggts04/dankcli) - Add text to meme image templates.
 
 ## Other
 
@@ -533,6 +549,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [nasa-cli](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day from your terminal.
 - [googlr](https://github.com/Camji55/googlr) - Search Google from the command line.
 - [Qalculate](https://github.com/Qalculate/libqalculate) - Calculate non-trival math expressions. Unit conversions, symbolic calculations and more.
+- [translate-shell](https://github.com/soimort/translate-shell) - Google Translate interface.
 
 ### Emoji
 
