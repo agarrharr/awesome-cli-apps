@@ -477,7 +477,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [gita](https://github.com/nosarthur/gita) - Manage multiple git repos side by side for sanity.
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - Generate README.md files interactively.
 - [semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages.
-- [import-github-labels-cli](https://github.com/abhijithvijayan/import-github-labels-cli) - CLI to import labels from another repository on GitHub
+- [import-github-labels-cli](https://github.com/abhijithvijayan/import-github-labels-cli) - Sync labels between Github repos.
 
 ## Images
 
