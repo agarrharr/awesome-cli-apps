@@ -95,6 +95,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [beets](https://github.com/beetbox/beets) - Music library manager and tagger.
 - [playx](https://github.com/NISH1001/playx) - Stream songs/playlists from various sources.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify client.
+- [usm](https://github.com/coderofsalvation/usm) search TERABYTES of samples across different (network) disks in few seconds (+offline)
 
 ### Social Media
 
@@ -138,6 +139,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [grip](https://github.com/joeyespo/grip) - Preview markdown files with GitHub styles before committing them.
 - [bitwise](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulator in ncurses.
 - [foy](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
+- [powscript](https://github.com/coderofsalvation/powscript) - modern transpiler written in bash
 
 ### Text Editors
 
@@ -247,6 +249,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
 - [Watson](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
 - [utt](https://github.com/larose/utt) - Simple time tracking tool.
+- [timetrack.bash](https://github.com/coderofsalvation/timetrack.bash) - passive timetracking tool based on bash history
 
 ### Note Taking and Lists
 
@@ -260,6 +263,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [taskell](https://github.com/smallhadroncollider/taskell) - Interactive kanban board/task manager.
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [dnote](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
+- [kanban.bash](https://github.com/coderofsalvation/kanban.bash) - commandline kanban board (csv-based, cloud- and team-friendly) 
 
 ### Finance
 
@@ -349,6 +353,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts) - Queue jobs for linear execution.
 - [undollar](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
 - [pipe_exec](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
+- [dot.bash](https://github.com/coderofsalvation/dot.bash) - interactive bash toolbelt for hipsters (lodash for bash)
 
 ### System Interaction Utilities
 
@@ -359,6 +364,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
 - [neofetch](https://github.com/dylanaraps/neofetch) - System information tool.
 - [Glances](https://nicolargo.github.io/glances) - System monitoring tool.
+- [pm.sh](https://github.com/coderofsalvation/pm.sh) - easy processmanagement with git webhooksupport (bitbucket/github/CI) 
 
 ## Command Line Learning
 
@@ -427,6 +433,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ffsend](https://github.com/timvisee/ffsend) - Fully featured CLI for [Firefox Send](https://send.firefox.com/) - simple and private file sharing.
 - [webtorrent-cli](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
 - [share-cli](https://github.com/marionebl/share-cli) - Share files with your local network.
+- [aap](https://github.com/coderofsalvation/aap) - npm-like packagemanager for the shell
+- [watchmakers](https://github.com/coderofsalvation/watchmakers) - watch multiple files and directories (+execute something)
+- [logfilter](https://github.com/coderofsalvation/logfilter) - tail -f with extra powers
 
 ### Directory Listing
 
@@ -512,6 +521,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - A cli for traversing the Mandelbrot fractal.
 - [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
 - [pastel](https://github.com/sharkdp/pastel) - Generate, analyze, convert and manipulate colors.
+- [framebuffer.bash](http://leon.vankammen.eu/framebuffer.bash) - textual framebuffer to draw ascii ——▄▄▀▀—, borders, animations
 
 ## Just for Fun
 
