@@ -551,6 +551,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [googlr](https://github.com/Camji55/googlr) - Search Google from the command line.
 - [Qalculate](https://github.com/Qalculate/libqalculate) - Calculate non-trival math expressions. Unit conversions, symbolic calculations and more.
 - [translate-shell](https://github.com/soimort/translate-shell) - Google Translate interface.
+- [cov19-cli](https://github.com/mixon00/cov19-cli) - Cov19 - COVID-19 CLI tracking tool
 
 ### Emoji
 
