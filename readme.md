@@ -456,6 +456,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
 - [broot](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
+- [McFly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 
 ## Version Control
 
