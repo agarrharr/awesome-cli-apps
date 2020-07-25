@@ -393,7 +393,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns, like the output of unix commands. Returns JSON that you can manipulate with tools like jq or underscore-cli.
 - [figlet](http://www.figlet.org/) - Creates large text out of ASCII characters.
-- [stegcloak](https://github.com/kurolabs/stegcloak) - Hide secrets in any written text securely using passwords
+- [stegcloak](https://github.com/kurolabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords.
 
 ## Files and Directories
 
