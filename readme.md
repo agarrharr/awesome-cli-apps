@@ -239,7 +239,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Buku](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
 - [googler](https://github.com/jarun/googler) - Google from the terminal.
 - [papis](http://github.com/alejandrogallo/papis) - Extensible document and bibliography manager.
-- [google-drive-upload](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
 
 ### Time Tracking
 
@@ -428,6 +427,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ffsend](https://github.com/timvisee/ffsend) - Fully featured CLI for [Firefox Send](https://send.firefox.com/) - simple and private file sharing.
 - [webtorrent-cli](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
 - [share-cli](https://github.com/marionebl/share-cli) - Share files with your local network.
+- [google-drive-upload](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
 
 ### Directory Listing
 
