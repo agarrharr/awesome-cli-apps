@@ -280,7 +280,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [calcurse](http://calcurse.org/) - Calendar and scheduling.
 - [gcalcli](https://github.com/insanum/gcalcli) - Google calendar client.
 - [khal](https://github.com/pimutils/khal) - CalDAV ready CLI and TUI calendar.
-- [vidirsyncer](https://github.com/pimutils/vdirsyncer) - CalDAV sync.
+- [vdirsyncer](https://github.com/pimutils/vdirsyncer) - CalDAV sync.
 
 ## Utilities
 
