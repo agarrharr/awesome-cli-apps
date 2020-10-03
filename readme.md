@@ -148,7 +148,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [micro](https://github.com/zyedidia/micro) - A simple and intuitive editor.
 
 ### Web Development
-
+- [Heroku Awaker](https://github.com/alestor123/HEROKU-AWAKER)
 - [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Search [caniuse.com](caniuse.com) about browser support of feature.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check whether a website is up.
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
