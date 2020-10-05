@@ -431,6 +431,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [webtorrent-cli](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
 - [share-cli](https://github.com/marionebl/share-cli) - Share files with your local network.
 - [google-drive-upload](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
+- [gdrive-downloader](https://github.com/Akianonymus/gdrive-downloader) - Download files/folders from Google Drive.
 - [entr](https://github.com/eradman/entr) - Run an arbitrary command when files change.
 
 ### Directory Listing
