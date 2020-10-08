@@ -296,6 +296,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists without a browser.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
+- [hsimp-cli](https://github.com/zacanger/hsimp-cli) - Command line interface for HowSecureIsMyPassword checks.
 
 ### macOS
 
