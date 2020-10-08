@@ -484,6 +484,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - Generate README.md files interactively.
 - [semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages.
 - [import-github-labels-cli](https://github.com/abhijithvijayan/import-github-labels-cli) - Sync labels between Github repos.
+- [git-all-branches](https://github.com/zacanger/git-all-branches) - Massively improved `git branch -a`
 
 ## Images
 
