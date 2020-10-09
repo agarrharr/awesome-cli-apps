@@ -99,6 +99,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Social Media
 
 - [facebook-cli](https://github.com/specious/facebook-cli) - Facebook command line interface.
+- [kirc](https://github.com/mcpcpc/kirc) - A tiny IRC client written in POSIX C99.
 - [TTYtter](https://github.com/oysttyer/oysttyer) - Twitter client.
 - [Rainbowstream](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on the terminal.
 - [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI.
