@@ -104,7 +104,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI.
 - [WeeChat](https://weechat.org/) - Fast, light and extensible chat client.
 - [irssi](https://github.com/irssi/irssi) - IRC chat client.
-- [kirc](https://github.com/mcpcpc/kirc) - A tiny IRC client written in POSIX C99.
+- [kirc](https://github.com/mcpcpc/kirc) - Tiny IRC client.
 
 ### Video
 
