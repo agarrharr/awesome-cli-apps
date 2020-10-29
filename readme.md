@@ -381,6 +381,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) - A simple CLI for querying and updating YAML files.
 - [q](http://harelba.github.io/q/) - A command line tool that allows execution of SQL-like queries on CSVs/TSVs (and any other tabular text files).
 - [yq](https://github.com/kislyuk/yq) - Command-line YAML processor (Uses the same syntax as jq).
+- [dasel](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq](https://github.com/stedlan/jq) / [yq](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
 
 ### JSON
 
