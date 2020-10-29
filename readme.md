@@ -105,6 +105,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [WeeChat](https://weechat.org/) - Fast, light and extensible chat client.
 - [irssi](https://github.com/irssi/irssi) - IRC chat client.
 - [kirc](https://github.com/mcpcpc/kirc) - Tiny IRC client.
+- [toot!](https://gopher://colorfield.space) - Mastodon and Pleroma client.
 
 ### Video
 
