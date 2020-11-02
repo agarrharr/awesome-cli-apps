@@ -377,25 +377,30 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Data Manipulation
 
-- [underscore-cli](https://github.com/ddopson/underscore-cli) - Utility-belt for hacking JSON and Javascript.
-- [ramda-cli](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
+### Processors
+
+- [jq](https://github.com/stedolan/jq) - JSON processor.
+- [yq](https://github.com/kislyuk/yq) - YAML processor.
+- [dasel](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML processor (like jq/yq).
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) - Query/update YAML.
-- [q](http://harelba.github.io/q/) - Execution of SQL-like queries on CSV/TSV/tabular text file.
-- [yq](https://github.com/kislyuk/yq) - YAML processor (like jq).
-- [dasel](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML processor (like jq/yq). 
+- [ramda-cli](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
 
 ### JSON
 
-- [jq](https://github.com/stedolan/jq) - JSON processor.
-- [jp](https://github.com/therealklanni/jp) - Simply parse and drill into JSON on the commandline, with jsonpath and stdin stream support (jq compatible, not a replacement).
+- [jp](https://github.com/therealklanni/jp) - JSON parser.
 - [fx](https://github.com/antonmedv/fx) - Command-line JSON viewer.
 - [vj](https://github.com/busyloop/vj) - Makes JSON human readable.
+- [underscore-cli](https://github.com/ddopson/underscore-cli) - Utility-belt for hacking JSON and Javascript.
 - [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
 - [GROQ](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 
+### Columns
+
+- [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns to JSON.
+- [q](http://harelba.github.io/q/) - Execution of SQL-like queries on CSV/TSV/tabular text file.
+
 ### Text
 
-- [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns, like the output of unix commands. Returns JSON that you can manipulate with tools like jq or underscore-cli.
 - [figlet](http://www.figlet.org/) - Creates large text out of ASCII characters.
 - [stegcloak](https://github.com/kurolabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords.
 
