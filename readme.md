@@ -377,11 +377,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Data Manipulation
 
-- [underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.
-- [ramda-cli](https://github.com/raine/ramda-cli) - A CLI tool for processing data with functional pipelines.
-- [yaml-cli](https://github.com/pandastrike/yaml-cli) - A simple CLI for querying and updating YAML files.
-- [q](http://harelba.github.io/q/) - A command line tool that allows execution of SQL-like queries on CSVs/TSVs (and any other tabular text files).
-- [yq](https://github.com/kislyuk/yq) - Command-line YAML processor (Uses the same syntax as jq).
+- [underscore-cli](https://github.com/ddopson/underscore-cli) - Utility-belt for hacking JSON and Javascript.
+- [ramda-cli](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
+- [yaml-cli](https://github.com/pandastrike/yaml-cli) - Query/update YAML.
+- [q](http://harelba.github.io/q/) - Execution of SQL-like queries on CSV/TSV/tabular text file.
+- [yq](https://github.com/kislyuk/yq) - YAML processor (like jq).
+- [dasel](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML processor (like jq/yq). 
 
 ### JSON
 
