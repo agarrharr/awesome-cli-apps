@@ -112,6 +112,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [streamlink](https://github.com/streamlink/streamlink) - Extract streams from various websites to a video player of your choosing.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Youtube player.
 - [mpv](https://mpv.io) - Superior video player.
+- [editly](https://github.com/mifi/editly) - Declarative video editing.
 
 ### Movies
 
