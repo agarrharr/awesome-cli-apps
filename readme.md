@@ -300,6 +300,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists without a browser.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
+- [hashdate](https://github.com/sloev/hashdate) - Isodates as base64 hashes that losse precision as you shorten them right to left.
 
 ### macOS
 
