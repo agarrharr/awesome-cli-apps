@@ -97,6 +97,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [beets](https://github.com/beetbox/beets) - Music library manager and tagger.
 - [playx](https://github.com/NISH1001/playx) - Stream songs/playlists from various sources.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify client.
+- [swaglyrics](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Lyrics of the currently playing song in Spotify.
 
 ### Social Media
 
