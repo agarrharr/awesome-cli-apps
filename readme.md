@@ -387,6 +387,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [dasel](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML processor (like jq/yq).
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) - Query/update YAML.
 - [ramda-cli](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
+- [yaml-to-json-go](https://github.com/jdockerty/yaml-to-json-go) - Convert YAML to JSON and JSON to YAML via CLI.
 
 ### JSON
 
