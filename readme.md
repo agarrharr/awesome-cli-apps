@@ -569,6 +569,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [googlr](https://github.com/Camji55/googlr) - Search Google from the command line.
 - [Qalculate](https://github.com/Qalculate/libqalculate) - Calculate non-trival math expressions. Unit conversions, symbolic calculations and more.
 - [translate-shell](https://github.com/soimort/translate-shell) - Google Translate interface.
+- [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 
 ### Emoji
 
