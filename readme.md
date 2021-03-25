@@ -378,6 +378,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Data Manipulation
 
+- [visidata](https://github.com/saulpw/visidata) - Spreadsheet multitool for data discovery and arrangement.
+
 ### Processors
 
 - [jq](https://github.com/stedolan/jq) - JSON processor.
