@@ -378,12 +378,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Data Manipulation
 
+- [visidata](https://github.com/saulpw/visidata) - Spreadsheet multitool for data discovery and arrangement.
+
 ### Processors
 
 - [jq](https://github.com/stedolan/jq) - JSON processor.
 - [yq](https://github.com/kislyuk/yq) - YAML processor.
 - [dasel](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML processor (like jq/yq).
-- [visidata](https://github.com/saulpw/visidata) - A spreadsheet multitool for exploring and arranging data (csv/json/xml/xls/yaml/etc)
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) - Query/update YAML.
 - [ramda-cli](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
 
