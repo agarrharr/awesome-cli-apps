@@ -192,14 +192,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [htconvert](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects.
 - [SAWS](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
 - [s3cmd](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
-- [lstags](https://github.com/ivanilves/lstags) - Synchronize Docker images across different registries.
 - [pm2](https://pm2.io/runtime/) - Production Process Manager for Node.js.
-- [dockly](https://github.com/lirantal/dockly) - Interactively manage Docker containers.
 - [ops](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
-- [lazydocker](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
 - [flog](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 - [isitfit](http://github.com/autofitcloud/isitfit) - Manage AWS EC2 rightsizing.
+
+### Docker
+
+- [lstags](https://github.com/ivanilves/lstags) - Synchronize images across registries.
+- [dockly](https://github.com/lirantal/dockly) - Interactively manage containers.
+- [lazydocker](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
 - [docker-shell](https://github.com/Trendyol/docker-shell) - Simple interactive docker interface.
+- [docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 
 ### Release
 
