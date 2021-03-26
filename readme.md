@@ -137,13 +137,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
 - [cgasm](https://github.com/bnagy/cgasm) - Gives x86 assembly documentation.
-- [just](https://github.com/casey/just) - Task runner for saving and running project-specific commands.
 - [legit](https://github.com/captainsafia/legit) - Generate Open Source licences as files or file headers.
 - [mklicense](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
 - [rebound](https://github.com/shobrook/rebound) - Fetch Stack Overflow results in your terminal when you get a compiler error.
 - [grip](https://github.com/joeyespo/grip) - Preview markdown files with GitHub styles before committing them.
 - [bitwise](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulator in ncurses.
 - [foy](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
+- [just](https://github.com/casey/just) - Modern `make`-like command runner.
 
 ### Text Editors
 
