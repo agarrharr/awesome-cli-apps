@@ -108,6 +108,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [WeeChat](https://weechat.org/) - Fast, light and extensible chat client.
 - [irssi](https://github.com/irssi/irssi) - IRC chat client.
 - [kirc](https://github.com/mcpcpc/kirc) - Tiny IRC client.
+- [gomphotherium](https://github.com/mrusme/gomphotherium) - Mastodon TUI/CLI client.
 
 ### Video
 
