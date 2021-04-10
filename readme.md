@@ -197,7 +197,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ops](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
 - [flog](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 - [isitfit](http://github.com/autofitcloud/isitfit) - Manage AWS EC2 rightsizing.
-- [k9s](https://github.com/derailed/k9s) - Kubernetes CLI to manage your clusters in style.
+- [k9s](https://github.com/derailed/k9s) - Manage Kubernetes Clusters.
 
 ### Docker
 
