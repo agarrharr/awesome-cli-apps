@@ -433,6 +433,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) - Copies files.
 - [rename-cli](https://github.com/jhotmann/node-rename-cli) - A cross-platform tool for renaming files quickly, especially multiple files at once.
 - [renameutils](https://www.nongnu.org/renameutils) - Mass renaming in your editor.
+- [Autarky](https://github.com/pranshuchittora/autarky) - Liberating disk space from 📁 node_modules.
 
 ### Files
 
