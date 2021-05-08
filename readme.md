@@ -60,6 +60,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Search](#search)
 - [Version Control](#version-control)
   - [Git](#git)
+  - [Other](#version-control-other)
 - [Images](#images)
   - [Gif Creation](#gif-creation)
   - [Image Conversion](#image-conversion)
@@ -502,6 +503,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages.
 - [import-github-labels-cli](https://github.com/abhijithvijayan/import-github-labels-cli) - Sync labels between Github repos.
 - [git-all-branches](https://github.com/zacanger/git-all-branches) - Improved `git branch -a`.
+
+
+### Version Control Other
+
+- [SnowFS](https://github.com/snowtrack/snowfs) - A fast, scalable version control file storage for graphic files.
 
 ## Images
 
