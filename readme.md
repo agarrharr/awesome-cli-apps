@@ -60,7 +60,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Search](#search)
 - [Version Control](#version-control)
   - [Git](#git)
-  - [Other](#version-control-other)
 - [Images](#images)
   - [Gif Creation](#gif-creation)
   - [Image Conversion](#image-conversion)
