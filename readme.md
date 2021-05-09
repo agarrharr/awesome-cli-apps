@@ -483,6 +483,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Version Control
 
+- [SnowFS](https://github.com/snowtrack/snowfs) - A fast, scalable version control system for binaries.
+
 ### Git
 
 - [CLI GitHub](https://github.com/IonicaBizau/cli-github) - :tv: A fancy GitHub client for command line.
@@ -503,11 +505,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages.
 - [import-github-labels-cli](https://github.com/abhijithvijayan/import-github-labels-cli) - Sync labels between Github repos.
 - [git-all-branches](https://github.com/zacanger/git-all-branches) - Improved `git branch -a`.
-
-
-### Version Control Other
-
-- [SnowFS](https://github.com/snowtrack/snowfs) - A fast, scalable version control file storage for graphic files.
 
 ## Images
 
