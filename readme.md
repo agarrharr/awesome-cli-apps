@@ -482,6 +482,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Version Control
 
+- [SnowFS](https://github.com/snowtrack/snowfs) - A fast, scalable version control system for binaries.
+
 ### Git
 
 - [CLI GitHub](https://github.com/IonicaBizau/cli-github) - :tv: A fancy GitHub client for command line.
