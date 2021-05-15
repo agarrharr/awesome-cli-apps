@@ -188,6 +188,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres client with autocompletion and syntax highlighting.
 - [sqlline](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
 - [iredis](https://github.com/laixintao/iredis) - Redis client with autocompletion and syntax highlighting.
+- [usql](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
 
 ### Devops
 
