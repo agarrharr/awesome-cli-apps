@@ -292,6 +292,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [gcalcli](https://github.com/insanum/gcalcli) - Google calendar client.
 - [khal](https://github.com/pimutils/khal) - CalDAV ready CLI and TUI calendar.
 - [vdirsyncer](https://github.com/pimutils/vdirsyncer) - CalDAV sync.
+- [remind](https://dianne.skoll.ca/projects/remind) - A sophisticated calendar and alarm program.
 
 ## Utilities
 
