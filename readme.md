@@ -278,6 +278,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [moeda](https://github.com/thompsonemerson/moeda) - Foreign exchange rates and currency conversion.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
 - [cointop](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
+- [Go How Much?](https://github.com/ledongthuc/gohowmuch) - Cryptocurrencies prices and graph on the terminal.
 
 ### Presentations
 
