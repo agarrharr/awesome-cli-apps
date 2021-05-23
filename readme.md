@@ -46,6 +46,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Theming and Customization](#theming-and-customization)
   - [Shell Utilities](#shell-utilities)
   - [System Interaction Utilities](#system-interaction-utilities)
+  - [Markdown](#markdown)
 - [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
   - [Processors](#processors)
@@ -56,6 +57,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [File Managers](#file-managers)
   - [Deleting, Copying, and Renaming](#deleting-copying-and-renaming)
   - [Files](#files)
+  - [File Sync/Sharing](#file-syncsharing)
   - [Directory Listing](#directory-listing)
   - [Directory Navigation](#directory-navigation)
   - [Search](#search)
@@ -141,7 +143,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [legit](https://github.com/captainsafia/legit) - Generate Open Source licences as files or file headers.
 - [mklicense](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
 - [rebound](https://github.com/shobrook/rebound) - Fetch Stack Overflow results in your terminal when you get a compiler error.
-- [grip](https://github.com/joeyespo/grip) - Preview markdown files with GitHub styles before committing them.
 - [bitwise](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulator in ncurses.
 - [foy](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
 - [just](https://github.com/casey/just) - Modern `make`-like command runner.
@@ -307,7 +308,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
 - [pass](https://www.passwordstore.org) - Password manager.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists without a browser.
-- [mdv](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 
 ### macOS
@@ -374,6 +374,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [neofetch](https://github.com/dylanaraps/neofetch) - System information tool.
 - [Glances](https://nicolargo.github.io/glances) - System monitoring tool.
 
+### Markdown
+
+- [DocToc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files.
+- [grip](https://github.com/joeyespo/grip) - Preview markdown files as GitHub would render them.
+- [mdv](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
+
 ## Command Line Learning
 
 - [cmdchallenge](https://cmdchallenge.com/) - presents small shell challenge with user submitted solutions.
@@ -415,7 +421,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Text
 
 - [figlet](http://www.figlet.org/) - Creates large text out of ASCII characters.
-- [stegcloak](https://github.com/kurolabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords.
+- [stegcloak](https://github.com/kurolabs/stegcloak) - Hide secrets with invisible characters in plain text securely.
 
 ## Files and Directories
 
@@ -423,8 +429,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [ranger](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
 - [midnight-commander](https://github.com/MidnightCommander/mc) - A feature rich visual file manager.
-- [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files, imagine cleaning up your downloads in an instant.
-- [Vifm](https://vifm.info/) - Vifm is an ncurses based file manager with vi like keybindings/modes/options/commands/configuration, which also borrows some useful ideas from mutt.
+- [Vifm](https://vifm.info/) - VI influnced file manager.
 - [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
 - [lf](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 - [fff](https://github.com/dylanaraps/fff) - Fast, simple file manager.
@@ -435,25 +440,28 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash.
 - [del-cli](https://github.com/sindresorhus/del-cli) - Delete files and folders.
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) - Copies files.
-- [rename-cli](https://github.com/jhotmann/node-rename-cli) - A cross-platform tool for renaming files quickly, especially multiple files at once.
+- [rename-cli](https://github.com/jhotmann/node-rename-cli) - Renaming files quickly.
 - [renameutils](https://www.nongnu.org/renameutils) - Mass renaming in your editor.
 
 ### Files
 
 - [chokidar-cli](https://github.com/kimmobrunfeldt/chokidar-cli) - CLI to watch file system changes.
 - [file-type-cli](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
-- [DocToc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
 - [bat](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting.
 - [NCDu](https://dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
-- [unix-permissions](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions
-- [rclone](https://github.com/ncw/rclone) - Sync files to and from various cloud providers (Dropbox, Google Drive, Onedrive, etc.).
+- [unix-permissions](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions.
 - [transmission-cli](https://transmissionbt.com) - Torrent client for your command line.
-- [ffsend](https://github.com/timvisee/ffsend) - Fully featured CLI for [Firefox Send](https://send.firefox.com/) - simple and private file sharing.
 - [webtorrent-cli](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
+- [entr](https://github.com/eradman/entr) - Run an arbitrary command when files change.
+- [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
+
+### File Sync/Sharing
+
+- [rclone](https://github.com/ncw/rclone) - Sync files with various cloud providers.
+- [ffsend](https://github.com/timvisee/ffsend) - Quick file share.
 - [share-cli](https://github.com/marionebl/share-cli) - Share files with your local network.
 - [google-drive-upload](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
 - [gdrive-downloader](https://github.com/Akianonymus/gdrive-downloader) - Download files/folders from Google Drive.
-- [entr](https://github.com/eradman/entr) - Run an arbitrary command when files change.
 
 ### Directory Listing
 
