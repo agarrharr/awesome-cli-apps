@@ -440,8 +440,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash.
 - [del-cli](https://github.com/sindresorhus/del-cli) - Delete files and folders.
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) - Copies files.
-- [rename-cli](https://github.com/jhotmann/node-rename-cli) - Renaming files quickly.
+- [rename-cli](https://github.com/jhotmann/node-rename-cli) - Rename files quickly.
 - [renameutils](https://www.nongnu.org/renameutils) - Mass renaming in your editor.
+- [diskonaut](https://github.com/imsnif/diskonaut) - Disk space navigator.
 
 ### Files
 
