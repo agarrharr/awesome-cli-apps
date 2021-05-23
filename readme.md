@@ -146,6 +146,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [bitwise](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulator in ncurses.
 - [foy](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
 - [just](https://github.com/casey/just) - Modern `make`-like command runner.
+- [grex](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
 
 ### Text Editors
 
