@@ -496,6 +496,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
 - [broot](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
+- [rare](https://github.com/zix99/rare) - Real-time regex extraction and aggregation into formats such as histograms, bar graphs, numerical summaries and tables.
 
 ## Version Control
 
