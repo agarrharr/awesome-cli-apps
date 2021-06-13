@@ -257,7 +257,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Time Tracking
 
-- [Timetrap](https://github.com/samg/timetrap) - Simple command-line timetracker.
+- [Timetrap](https://github.com/samg/timetrap) - Simple timetracker.
 - [moro](https://github.com/omidfi/moro) - Simple tool for tracking work hours.
 - [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
 - [Watson](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
@@ -267,9 +267,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [idea](https://github.com/IonicaBizau/idea) - A lightweight tool for keeping ideas in a safe place quick and easy.
 - [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Evernote client.
-- [Taskwarrior](http://taskwarrior.org) - Manage your TODO list from your command-line.
-- [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app for the terminal.
-- [eureka](https://github.com/simeg/eureka) - Store your ideas without leaving the terminal.
+- [Taskwarrior](http://taskwarrior.org) - Manage your TODO list.
+- [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app.
+- [eureka](https://github.com/simeg/eureka) - Input and store your ideas.
 - [sncli](https://github.com/insanum/sncli) - Simplenote client.
 - [td-cli](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
 - [taskell](https://github.com/smallhadroncollider/taskell) - Interactive kanban board/task manager.
@@ -385,14 +385,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Command Line Learning
 
-- [cmdchallenge](https://cmdchallenge.com/) - presents small shell challenge with user submitted solutions.
-- [explainshell](http://www.explainshell.com/) - type a command line snippet to see the help text for each argument.
-- [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
-- [how2](https://github.com/santinic/how2) - Finds the simplest way to do something on a unix bash command line (Nodejs implementation of howdoi).
+- [cmdchallenge](https://cmdchallenge.com) - Presents small shell challenge with user submitted solutions.
+- [explainshell](http://www.explainshell.com) - Type a snippet to see the help text for each argument.
+- [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers.
+- [how2](https://github.com/santinic/how2) - Node.js implementation of howdoi.
 - [The Fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
 - [Wat](https://github.com/dthree/wat) - Instant, central, community-built docs.
-- [teachcode](https://github.com/madlabsinc/teachcode) - A tool to develop and improve a student’s programming skills by introducing the earliest lessons of coding.
+- [teachcode](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
 - [navi](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
 
 ## Data Manipulation
