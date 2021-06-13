@@ -29,6 +29,6 @@ Not all tools can be considered. The aim of the list is to provide a concise lis
   - No trailing whitespace.
   - Check your spelling and grammar.
 
-## General Pull Request Notes
+## Other Pull Requests
 
 Pull requests that are not adding a new app, but introduce new categories or improve the readme are always welcome! In that case feel free to disregard the given structure above.
