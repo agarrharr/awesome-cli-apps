@@ -461,6 +461,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [entr](https://github.com/eradman/entr) - Run an arbitrary command when files change.
 - [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
 - [organize-rt](https://gitlab.com/FixFromDarkness/organize-rt) - organize-cli in Rust with more customization.
+- [RecoverPy](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
 
 ### File Sync/Sharing
 
