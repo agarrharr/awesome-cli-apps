@@ -598,6 +598,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [googlr](https://github.com/Camji55/googlr) - Search Google from the command line.
 - [Qalculate](https://github.com/Qalculate/libqalculate) - Calculate non-trival math expressions. Unit conversions, symbolic calculations and more.
 - [translate-shell](https://github.com/soimort/translate-shell) - Google Translate interface.
+- [crip](https://github.com/Hakky54/certificate-ripper) - Certificate Ripper. A cli tool to extract server certificates.
 
 ### Emoji
 
