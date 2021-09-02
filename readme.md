@@ -47,6 +47,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Shell Utilities](#shell-utilities)
   - [System Interaction Utilities](#system-interaction-utilities)
   - [Markdown](#markdown)
+  - [Security](#security)
 - [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
   - [Processors](#processors)
@@ -164,7 +165,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) - Strip comments from CSS.
 - [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports.
 - [surge](https://surge.sh) - Deploy a directory to the web.
-- [acmetool](https://github.com/hlandau/acme) - An automatic certificate acquisition tool for ACME (Let's Encrypt).
 - [loadtest](https://github.com/alexfernandez/loadtest) - Runs a load test on the selected URL. Easy to extend minimally for your own ends.
 - [wp-cli](https://github.com/wp-cli/wp-cli) - Manage WordPress installations, update plugins, set up multisite installs and much more.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Parse git diffs as JSON and generate pretty HTML.
@@ -309,11 +309,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mapscii](https://github.com/rastapasta/mapscii) - Terminal Map Viewer.
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
-- [pass](https://www.passwordstore.org) - Password manager.
-- [gopass](https://github.com/gopasspw/gopass) - Fully-featured password manager.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists without a browser.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
-- [ots](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
 
 ### macOS
 
@@ -384,6 +381,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [DocToc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files.
 - [grip](https://github.com/joeyespo/grip) - Preview markdown files as GitHub would render them.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
+
+### Security
+- [pass](https://www.passwordstore.org) - Password manager.
+- [gopass](https://github.com/gopasspw/gopass) - Fully-featured password manager.
+- [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based VPN.
+- [acmetool](https://github.com/hlandau/acme) - Automatic certificate acquisition for ACME (Let's Encrypt).
+- [certificate-ripper](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
+- [ots](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
 
 ## Command Line Learning
 
@@ -593,7 +598,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [calories](https://github.com/zupzup/calories) - Calories and weight tracker.
 - [trino](https://github.com/eneserdogan/trino) - Trino CLI allows a quick and easy translation of words and phrases entered in the command line.
 - [alex](https://github.com/wooorm/alex) - This enhances texts with checking for insensitive, inconsiderate writing by catching many possible offences.
-- [xiringuito](https://github.com/ivanilves/xiringuito) - A "poor man's VPN". An SSH-based "VPN" that's easy to install, but with slower performance than a real VPN.
 - [nasa-cli](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day from your terminal.
 - [googlr](https://github.com/Camji55/googlr) - Search Google from the command line.
 - [Qalculate](https://github.com/Qalculate/libqalculate) - Calculate non-trival math expressions. Unit conversions, symbolic calculations and more.
