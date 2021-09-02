@@ -69,6 +69,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [SVG](#svg)
 - [Screensavers](#screensavers)
 - [Graphics](#graphics)
+- [Security](#security)
 - [Just for Fun](#just-for-fun)
 - [Other](#other)
   - [Emoji](#emoji)
@@ -560,6 +561,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
 - [pastel](https://github.com/sharkdp/pastel) - Generate, analyze, convert and manipulate colors.
 
+## Security
+- [xiringuito](https://github.com/ivanilves/xiringuito) - A "poor man's VPN". An SSH-based "VPN" that's easy to install, but with slower performance than a real VPN.
+- [crip](https://github.com/Hakky54/certificate-ripper) - Certificate Ripper. A cli tool to extract server certificates.
+
 ## Just for Fun
 
 - [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - A configurable talking cow (and other animals).
@@ -593,12 +598,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [calories](https://github.com/zupzup/calories) - Calories and weight tracker.
 - [trino](https://github.com/eneserdogan/trino) - Trino CLI allows a quick and easy translation of words and phrases entered in the command line.
 - [alex](https://github.com/wooorm/alex) - This enhances texts with checking for insensitive, inconsiderate writing by catching many possible offences.
-- [xiringuito](https://github.com/ivanilves/xiringuito) - A "poor man's VPN". An SSH-based "VPN" that's easy to install, but with slower performance than a real VPN.
 - [nasa-cli](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day from your terminal.
 - [googlr](https://github.com/Camji55/googlr) - Search Google from the command line.
 - [Qalculate](https://github.com/Qalculate/libqalculate) - Calculate non-trival math expressions. Unit conversions, symbolic calculations and more.
 - [translate-shell](https://github.com/soimort/translate-shell) - Google Translate interface.
-- [crip](https://github.com/Hakky54/certificate-ripper) - Certificate Ripper. A cli tool to extract server certificates.
 
 ### Emoji
 
