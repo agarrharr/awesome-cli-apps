@@ -311,6 +311,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists without a browser.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
+- [iola](https://github.com/pvarentsov/iola) - Socket client with REST API.
 
 ### macOS
 
