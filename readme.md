@@ -512,24 +512,27 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Git
 
-- [CLI GitHub](https://github.com/IonicaBizau/cli-github) - :tv: A fancy GitHub client for command line.
-- [Gistup](https://github.com/mbostock/gistup) - Create a gist from terminal, then use git to update it.
-- [git commander](https://github.com/golbin/git-commander) - A git tool with a easy terminal interface.
-- [git-stats](https://github.com/IonicaBizau/git-stats) - :four_leaf_clover: A GitHub-like contributions calendar, but locally, with all your git commits.
-- [hub](https://github.com/github/hub) - A command-line wrapper for git that makes you better at GitHub.
+- [git commander](https://github.com/golbin/git-commander) - Interactive git tool.
+- [git-stats](https://github.com/IonicaBizau/git-stats) - A local GitHub-like contributions calendar.
 - [dev-time](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
-- [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels from the command line.
-- [tig](https://github.com/jonas/tig) - Text-mode interface for Git.
-- [grv](https://github.com/rgburke/grv) - Text-mode interface for Git with customisable vi bindings.
+- [tig](https://github.com/jonas/tig) - Text-mode interface for git.
+- [grv](https://github.com/rgburke/grv) - Text-mode interface for git with customisable vi bindings.
 - [git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day.
 - [git-secret](https://github.com/sobolevn/git-secret) - Store your private data inside a git repository.
-- [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) - gitlab cli for creating merge request from the command line.
-- [git-extras](https://github.com/tj/git-extras) - Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more.
-- [gita](https://github.com/nosarthur/gita) - Manage multiple git repos side by side for sanity.
-- [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - Generate README.md files interactively.
+- [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) - Create GitLab merge requests.
+- [git-extras](https://github.com/tj/git-extras) - Git utilities.
+- [gita](https://github.com/nosarthur/gita) - Manage multiple git repos side by side.
+- [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - Interactively generate README.md files.
 - [semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages.
 - [import-github-labels-cli](https://github.com/abhijithvijayan/import-github-labels-cli) - Sync labels between Github repos.
 - [git-all-branches](https://github.com/zacanger/git-all-branches) - Improved `git branch -a`.
+
+### GitHub
+
+- [CLI GitHub](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
+- [Gistup](https://github.com/mbostock/gistup) - Manage GitHub gists.
+- [hub](https://github.com/github/hub) - Make git easier to use with GitHub.
+- [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
 
 ## Images
 
