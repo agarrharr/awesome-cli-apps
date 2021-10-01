@@ -148,6 +148,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [foy](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
 - [just](https://github.com/casey/just) - Modern `make`-like command runner.
 - [grex](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
+- [iola](https://github.com/pvarentsov/iola) - Socket client with REST API.
 
 ### Text Editors
 
@@ -311,7 +312,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists without a browser.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
-- [iola](https://github.com/pvarentsov/iola) - Socket client with REST API.
 
 ### macOS
 
