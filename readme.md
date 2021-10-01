@@ -558,13 +558,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Screensavers
 
-- [cmatrix](https://github.com/Treri/cmatrix) - Show a scrolling 'Matrix' like screen.
-- [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Shows random pipes that grow across the screen.
-- [YuleLog](https://github.com/Duroktar/YuleLog) - Terminal based Christmas YuleLog fireplace.
-- [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Shows digital fireplace.
+- [cmatrix](https://github.com/Treri/cmatrix) - Scrolling 'Matrix'-like screen.
+- [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Random pipes that grow across the screen.
+- [YuleLog](https://github.com/Duroktar/YuleLog) - Christmas Yule Log fireplace.
+- [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Digital fireplace.
 
 ## Graphics
-- [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - A cli for traversing the Mandelbrot fractal.
+- [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - Traverse the Mandelbrot fractal.
 - [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
 - [pastel](https://github.com/sharkdp/pastel) - Generate, analyze, convert and manipulate colors.
 - [lowcharts](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs.
