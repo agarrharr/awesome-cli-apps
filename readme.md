@@ -536,6 +536,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Images
 
+- [SVGO](https://github.com/svg/svgo) - Optimize SVG files.
+
 ### Gif Creation
 
 - [gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
@@ -543,18 +545,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs.
 - [ttygif](https://github.com/sugyan/ttygif) - ttyrec to gif.
 - [ttystudio](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
-- [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder and the best companion of asciinema.org.
+- [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder and companion app for asciinema.org.
 - [givegif](https://github.com/passy/givegif) - GIFs on the command line.
 
 ### Image Conversion
 
+- [imagemagick](https://imagemagick.org) - Gold standard for anything images.
 - [imgp](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator.
 - [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing.
-- [imagemagick](https://imagemagick.org) - Gold standard for anything images.
-
-### SVG
-
-- [SVGO](https://github.com/svg/svgo) - SVG Optimizer is a Nodejs-based tool for optimizing SVG vector graphics files.
 
 ## Screensavers
 
