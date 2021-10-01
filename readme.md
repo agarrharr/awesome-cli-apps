@@ -604,6 +604,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [nasa-cli](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day.
 - [trino](https://github.com/eneserdogan/trino) - Translation of words and phrases.
 - [translate-shell](https://github.com/soimort/translate-shell) - Google Translate interface.
+- [xmrig](https://github.com/xmrig/xmrig) - Crypto miner.
 
 ### Emoji
 
