@@ -136,6 +136,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [epr](https://github.com/wustho/epr) - epub reader.
 - [Bible.Js CLI](https://github.com/BibleJS/BibleApp) - Bible.
 - [SpeedRead](https://github.com/sunsations/speed_read) - Spritz-alike speedreader.
+- [medium-cli](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories.
 
 ## Development
 
@@ -148,6 +149,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [foy](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
 - [just](https://github.com/casey/just) - Modern `make`-like command runner.
 - [grex](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
+- [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB.
 
 ### Text Editors
 
@@ -383,12 +385,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 
 ### Security
+
 - [pass](https://www.passwordstore.org) - Password manager.
 - [gopass](https://github.com/gopasspw/gopass) - Fully-featured password manager.
 - [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based VPN.
 - [acmetool](https://github.com/hlandau/acme) - Automatic certificate acquisition for ACME (Let's Encrypt).
 - [certificate-ripper](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
 - [ots](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
+
+### Math
+
+- [mdlt](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
+- [Qalculate](https://github.com/Qalculate/libqalculate) - Calculate non-trival math expressions. Unit conversions, symbolic calculations and more.
 
 ## Command Line Learning
 
@@ -584,25 +592,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [birthday](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
 - [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code.
 - [fullname-cli](https://github.com/sindresorhus/fullname-cli) - Get the fullname of the current user.
-- [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin.
+- [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file.
 - [HASHA -cli](https://github.com/sindresorhus/hasha-cli) - Hashing made simple. Get the hash of text or stdin.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.
 - [leven-cli](https://github.com/sindresorhus/leven-cli) - Measure the difference between two strings using the Levenshtein distance algorithm.
-- [mdlt](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
-- [medium-cli](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories within your terminal, also gives top stories.
-- [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli) - Open the URL from a web shortcut file in the browser.
-- [shortcut-url-cli](https://github.com/sindresorhus/shortcut-url-cli) - Get the URL from a web shortcut file.
-- [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli) - Convert matching single-quotes to double-quotes: I 'love' unicorns => I "love" unicorns.
-- [to-single-quotes](https://github.com/sindresorhus/to-single-quotes-cli) - Convert matching double-quotes to single-quotes: I "love" unicorns → I 'love' unicorns.
-- [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python.
+- [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli) - Convert matching single-quotes to double-quotes.
+- [to-single-quotes](https://github.com/sindresorhus/to-single-quotes-cli) - Convert matching double-quotes to single-quotes.
 - [hget](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
-- [google-wifi-status](https://github.com/joelgeorgev/google-wifi-status) - A Node.js CLI app that displays status of your Google Wifi / OnHub router.
-- [calories](https://github.com/zupzup/calories) - Calories and weight tracker.
-- [trino](https://github.com/eneserdogan/trino) - Trino CLI allows a quick and easy translation of words and phrases entered in the command line.
-- [alex](https://github.com/wooorm/alex) - This enhances texts with checking for insensitive, inconsiderate writing by catching many possible offences.
-- [nasa-cli](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day from your terminal.
-- [googlr](https://github.com/Camji55/googlr) - Search Google from the command line.
-- [Qalculate](https://github.com/Qalculate/libqalculate) - Calculate non-trival math expressions. Unit conversions, symbolic calculations and more.
+- [alex](https://github.com/wooorm/alex) - Catch insensitive, inconsiderate writing.
+- [nasa-cli](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day.
+- [trino](https://github.com/eneserdogan/trino) - Translation of words and phrases.
 - [translate-shell](https://github.com/soimort/translate-shell) - Google Translate interface.
 
 ### Emoji
