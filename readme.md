@@ -503,6 +503,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [goto](https://github.com/iridakos/goto) - Directory aliases for the shell with autocomplete.
 - [z.lua](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
+- [enhancd](https://github.com/b4b4r07/enhancd) - A cd command which will memorize all directories visited by a user and use it for the pathname resolution. The user can also intuitively and easily change the directory one wants to go to.
 
 ### Search
 
