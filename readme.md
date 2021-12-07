@@ -315,7 +315,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists without a browser.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 - [deadlink](https://github.com/nschloe/deadlink) - Find dead links in files.
-- [tiptop](https://github.com/nschloe/tiptop) - Command-line system monitor.
 
 ### macOS
 
@@ -380,6 +379,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
 - [neofetch](https://github.com/dylanaraps/neofetch) - System information tool.
 - [Glances](https://nicolargo.github.io/glances) - System monitoring tool.
+- [tiptop](https://github.com/nschloe/tiptop) - System monitor.
 
 ### Markdown
 
