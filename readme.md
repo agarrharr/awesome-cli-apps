@@ -127,7 +127,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Games
 
-- [Dwarf Fortress](http://www.bay12games.com/dwarves) - Roguelike construction and management simulation.
+- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Roguelike construction and management simulation.
 - [Cataclysm-DDA](https://cataclysmdda.org) - Turn-based survival game set in a post-apocalyptic world.
 
 ### Books
@@ -269,7 +269,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [idea](https://github.com/IonicaBizau/idea) - A lightweight tool for keeping ideas in a safe place quick and easy.
 - [geeknote](https://github.com/jeffkowalski/geeknote) - Evernote client.
-- [Taskwarrior](http://taskwarrior.org) - Manage your TODO list.
+- [Taskwarrior](https://taskwarrior.org/) - Manage your TODO list.
 - [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app.
 - [eureka](https://github.com/simeg/eureka) - Input and store your ideas.
 - [sncli](https://github.com/insanum/sncli) - Simplenote client.
@@ -281,7 +281,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Finance
 
-- [ledger](http://ledger-cli.org) - Powerful, double-entry accounting system on the terminal
+- [ledger](https://ledger-cli.org/) - Powerful, double-entry accounting system on the terminal
 - [moeda](https://github.com/thompsonemerson/moeda) - Foreign exchange rates and currency conversion.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
 - [cointop](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
@@ -296,11 +296,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Calendars
 
-- [calcurse](http://calcurse.org/) - Calendar and scheduling.
+- [calcurse](https://calcurse.org/) - Calendar and scheduling.
 - [gcalcli](https://github.com/insanum/gcalcli) - Google calendar client.
 - [khal](https://github.com/pimutils/khal) - CalDAV ready CLI and TUI calendar.
 - [vdirsyncer](https://github.com/pimutils/vdirsyncer) - CalDAV sync.
-- [remind](https://dianne.skoll.ca/projects/remind) - A sophisticated calendar and alarm program.
+- [remind](https://dianne.skoll.ca/projects/remind/) - A sophisticated calendar and alarm program.
 
 ## Utilities
 
@@ -366,7 +366,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [has](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
 - [Ultimate Plumber](https://github.com/akavel/up) - Write Linux pipes with live previews.
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
-- [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts) - Queue jobs for linear execution.
+- [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts/) - Queue jobs for linear execution.
 - [undollar](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
 - [pipe_exec](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
 
@@ -404,7 +404,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Command Line Learning
 
 - [cmdchallenge](https://cmdchallenge.com) - Presents small shell challenge with user submitted solutions.
-- [explainshell](http://www.explainshell.com) - Type a snippet to see the help text for each argument.
+- [explainshell](https://www.explainshell.com/) - Type a snippet to see the help text for each argument.
 - [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers.
 - [how2](https://github.com/santinic/how2) - Node.js implementation of howdoi.
 - [The Fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -462,7 +462,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [del-cli](https://github.com/sindresorhus/del-cli) - Delete files and folders.
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) - Copies files.
 - [rename-cli](https://github.com/jhotmann/node-rename-cli) - Rename files quickly.
-- [renameutils](https://www.nongnu.org/renameutils) - Mass renaming in your editor.
+- [renameutils](https://www.nongnu.org/renameutils/) - Mass renaming in your editor.
 - [diskonaut](https://github.com/imsnif/diskonaut) - Disk space navigator.
 
 ### Files
@@ -627,6 +627,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## License
 
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agarrharr) has waived all copyright and related or neighboring rights to this work.
