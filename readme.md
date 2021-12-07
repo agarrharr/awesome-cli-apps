@@ -378,7 +378,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
 - [neofetch](https://github.com/dylanaraps/neofetch) - System information tool.
-- [Glances](https://nicolargo.github.io/glances/) - System monitoring tool.
+- [Glances](https://nicolargo.github.io/glances) - System monitoring tool.
+- [tiptop](https://github.com/nschloe/tiptop) - System monitor.
 
 ### Markdown
 
