@@ -361,6 +361,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [JackPaper](https://github.com/jackel27/jackpaper) - Set images from Unsplash as wallpaper.
 - [pywal](https://github.com/dylanaraps/pywal) - Generate and change color-schemes, then apply them system-wide to all of your favourite programs.
 - [QuickWall](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
+- [oh-my-posh](https://ohmyposh.dev) - Prompt theme engine.
 
 ### Shell Utilities
 
@@ -370,7 +371,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts/) - Queue jobs for linear execution.
 - [undollar](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
 - [pipe_exec](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
-- [oh-my-posh](https://ohmyposh.dev) - Prompt theme engine for any shell and platform.
 
 ### System Interaction Utilities
 
