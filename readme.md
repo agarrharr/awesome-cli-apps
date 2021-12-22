@@ -50,6 +50,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Math](#math)
 - [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
+  - [CLI Data Manipulation](#cli-data-manipulation)
+  - [TUI Data Manipulation](#tui-data-manipulation)
+  - [CSV Data Viewers](#csv-data-viewers)
   - [Processors](#processors)
   - [JSON](#json)
   - [Columns](#columns)
@@ -455,7 +458,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Columns
 
 - [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns to JSON.
-- [q](http://harelba.github.io/q/) - Execution of SQL-like queries on CSV/TSV/tabular text file.
 
 ### Text
 
