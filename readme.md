@@ -564,7 +564,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [imagemagick](https://imagemagick.org) - Gold standard for anything images.
 - [imgp](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator.
 - [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing.
-
+- [GraphicsMagick](http://www.graphicsmagick.org/) - ImageMagick fork focused on API and CLI stability.
+ 
 ## Screensavers
 
 - [cmatrix](https://github.com/Treri/cmatrix) - Scrolling 'Matrix'-like screen.
