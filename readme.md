@@ -16,6 +16,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
+- [Table of Contents](#table-of-contents)
 - [Entertainment](#entertainment)
   - [Music](#music)
   - [Social Media](#social-media)
@@ -369,6 +370,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts/) - Queue jobs for linear execution.
 - [undollar](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
 - [pipe_exec](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
+- [oh-my-posh](https://ohmyposh.dev) - Prompt theme engine for any shell and platform.
 
 ### System Interaction Utilities
 
