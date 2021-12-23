@@ -255,6 +255,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Buku](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
 - [googler](https://github.com/jarun/googler) - Google from the terminal.
 - [papis](http://github.com/alejandrogallo/papis) - Extensible document and bibliography manager.
+- [pubs](https://github.com/pubs/pubs) - Scientific bibliography manager.
 
 ### Time Tracking
 
