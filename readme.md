@@ -254,7 +254,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [uber-cli](https://github.com/jaebradley/uber-cli) - Uber client.
 - [Buku](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
 - [googler](https://github.com/jarun/googler) - Google from the terminal.
-- [papis](http://github.com/papis/papis) - Extensible document and bibliography manager.
+- [papis](https://github.com/papis/papis) - Extensible document and bibliography manager.
 
 ### Time Tracking
 
