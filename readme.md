@@ -589,6 +589,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
 - [dankcli](https://github.com/sggts04/dankcli) - Add text to meme image templates.
 - [ricksay](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
+- [giwscli](https://github.com/Jirehlov/Genshin-Impact-Wish-Simulator-CLI) - Genshin Impact Wish Simulator CLI
 
 ## Other
 
