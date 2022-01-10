@@ -178,6 +178,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [shell2http](https://github.com/msoap/shell2http) - Execute shell commands via HTTP server.
 - [HTTP Prompt](https://github.com/eliangcs/http-prompt) - Interactive HTTP client featuring autocomplete and syntax highlighting.
 - [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
+- [ain](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
 
 ### Mobile Development
 
