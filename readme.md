@@ -100,6 +100,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [beets](https://github.com/beetbox/beets) - Music library manager and tagger.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify client.
 - [swaglyrics-for-spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
+- [dzr](https://github.com/yne/dzr) - deezer.com player for Linux, BSD and Android in bash.
 
 ### Social Media
 
