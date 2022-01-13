@@ -264,7 +264,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
 - [Watson](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
 - [utt](https://github.com/larose/utt) - Simple time tracking tool.
-- [Bartib](https://github.com/nikolassv/bartib) - An easy to use time tracking tool that saves a log of all tracked activities as a plaintext file.
+- [Bartib](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 
 ### Note Taking and Lists
 
