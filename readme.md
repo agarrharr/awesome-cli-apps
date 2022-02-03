@@ -100,6 +100,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [beets](https://github.com/beetbox/beets) - Music library manager and tagger.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify client.
 - [swaglyrics-for-spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
+- [dzr](https://github.com/yne/dzr) - deezer.com player.
 
 ### Social Media
 
@@ -178,6 +179,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [shell2http](https://github.com/msoap/shell2http) - Execute shell commands via HTTP server.
 - [HTTP Prompt](https://github.com/eliangcs/http-prompt) - Interactive HTTP client featuring autocomplete and syntax highlighting.
 - [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
+- [ain](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
 
 ### Mobile Development
 
@@ -254,7 +256,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [uber-cli](https://github.com/jaebradley/uber-cli) - Uber client.
 - [Buku](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
 - [googler](https://github.com/jarun/googler) - Google from the terminal.
-- [papis](http://github.com/alejandrogallo/papis) - Extensible document and bibliography manager.
+- [papis](https://github.com/papis/papis) - Extensible document and bibliography manager.
 - [pubs](https://github.com/pubs/pubs) - Scientific bibliography manager.
 
 ### Time Tracking
@@ -264,6 +266,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
 - [Watson](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
 - [utt](https://github.com/larose/utt) - Simple time tracking tool.
+- [Bartib](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 
 ### Note Taking and Lists
 
