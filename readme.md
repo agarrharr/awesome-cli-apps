@@ -255,7 +255,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [g3l](https://github.com/svtek/g3l) - Easiest git cli in the w0rld!
 - [uber-cli](https://github.com/jaebradley/uber-cli) - Uber client.
 - [Buku](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
-- [googler](https://github.com/jarun/googler) - Google from the terminal.
 - [papis](https://github.com/papis/papis) - Extensible document and bibliography manager.
 - [pubs](https://github.com/pubs/pubs) - Scientific bibliography manager.
 
@@ -330,7 +329,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli) - Manage wifi connections.
 - [active-win-cli](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
 - [stronghold](https://github.com/alichtman/stronghold) - Configure security settings from the terminal.
-- [website-popup-cli](https://github.com/sindresorhus/website-popup-cli) - Open a website in a popup.
 - [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
 
 ### Terminal Sharing Utilities
@@ -471,7 +469,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Files
 
-- [chokidar-cli](https://github.com/kimmobrunfeldt/chokidar-cli) - CLI to watch file system changes.
+- [chokidar-cli](https://github.com/open-cli-tools/chokidar-cli) - CLI to watch file system changes.
 - [file-type-cli](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
 - [bat](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting.
 - [NCDu](https://dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
@@ -623,8 +621,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Other Awesome Lists
 
-- [awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps#readme) – An alternative awesome list of cli apps.
-- [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line#readme) - Shell commands and tools specific to macOS.
 - [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
 - [awesome-shell](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
