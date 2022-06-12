@@ -288,6 +288,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
 - [cointop](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
 - [ticker](https://github.com/achannarasappa/ticker) - Stock ticker.
+- [lakshmi](https://github.com/sarvjeets/lakshmi) - Bogleheads inspired tool for managing your investing portfolio.
 
 ### Presentations
 
