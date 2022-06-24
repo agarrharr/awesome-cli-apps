@@ -352,6 +352,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [speed-test](https://github.com/sindresorhus/speed-test) - `speedtest-net` wrapper with different UI.
 - [speedtest-cli](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
 - [bandwhich](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.
+- [neoss](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics with a Terminal UI.
 
 ### Theming and Customization
 
