@@ -540,6 +540,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages.
 - [import-github-labels-cli](https://github.com/abhijithvijayan/import-github-labels-cli) - Sync labels between Github repos.
 - [git-all-branches](https://github.com/zacanger/git-all-branches) - Improved `git branch -a`.
+- [czg](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactive Commitizen CLI that generate standardized commit messages
 
 ### GitHub
 
