@@ -135,6 +135,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [epr](https://github.com/wustho/epr) - epub reader.
 - [Bible.Js CLI](https://github.com/BibleJS/BibleApp) - Bible.
+- -[QuranCLI](https://github.com/ahmedsaheed/quranCLI) - Quran
 - [SpeedRead](https://github.com/sunsations/speed_read) - Spritz-alike speedreader.
 - [medium-cli](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories.
 
