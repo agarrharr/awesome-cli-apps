@@ -310,9 +310,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [archive-type-cli](https://github.com/kevva/archive-type-cli) - Detect archive type for a file or stdin.
 - [s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [aria2](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
-- [wego](https://github.com/schachmat/wego) - Get the weather.
-- [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather.
-- [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather.
 - [mapscii](https://github.com/rastapasta/mapscii) - Terminal Map Viewer.
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
@@ -405,6 +402,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [mdlt](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
 - [Qalculate](https://github.com/Qalculate/libqalculate) - Calculate non-trival math expressions. Unit conversions, symbolic calculations and more.
+
+### Weather
+
+- [wttr.in](https://github.com/chubin/wttr.in)
+- [wego](https://github.com/schachmat/wego)
+- [weather-cli](https://github.com/riyadhalnur/weather-cli)
 
 ## Command Line Learning
 
