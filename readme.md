@@ -160,6 +160,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [neovim](https://github.com/neovim/neovim) - Vim fork focused on extensibility and usability.
 - [kakoune](https://github.com/mawww/kakoune) - Modal editor inspired by vim.
 - [micro](https://github.com/zyedidia/micro) - A simple and intuitive editor.
+- [o](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
 
 ### Web Development
 
