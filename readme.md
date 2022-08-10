@@ -15,6 +15,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+- [Table of Contents](#table-of-contents)
 - [Entertainment](#entertainment)
   - [Music](#music)
   - [Social Media](#social-media)
@@ -234,6 +235,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows.
 - [updates](https://github.com/silverwind/updates) - Flexible npm dependency update tool.
 - [wipe-modules](https://github.com/bntzio/wipe-modules) - Remove `node_modules` of inactive projects.
+- [better-scripts](https://github.com/iamyoki/better-scripts) - A better way to organize your npm scripts.
 
 ### Boilerplate
 
