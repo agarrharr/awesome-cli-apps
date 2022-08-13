@@ -161,6 +161,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [kakoune](https://github.com/mawww/kakoune) - Modal editor inspired by vim.
 - [micro](https://github.com/zyedidia/micro) - A simple and intuitive editor.
 - [o](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
+- [helix](https://github.com/helix-editor/helix) -  A post-modern modal text editor.
 
 ### Web Development
 
