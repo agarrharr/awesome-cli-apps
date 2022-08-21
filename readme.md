@@ -319,6 +319,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists without a browser.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 - [deadlink](https://github.com/nschloe/deadlink) - Find dead links in files.
+- [ehh](https://github.com/lennardv2/ehh) - Store and run difficult to remember linux/bash/osx commands (better than using alias).
 
 ### macOS
 
