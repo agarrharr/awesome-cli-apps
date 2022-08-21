@@ -449,6 +449,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns to JSON.
 - [q](http://harelba.github.io/q/) - Execution of SQL-like queries on CSV/TSV/tabular text file.
+- [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 
 ### Text
 
