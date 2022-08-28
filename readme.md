@@ -319,6 +319,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists without a browser.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 - [deadlink](https://github.com/nschloe/deadlink) - Find dead links in files.
+- [crawley](https://github.com/s0rg/crawley) - Unix-way web crawler.
 
 ### macOS
 
