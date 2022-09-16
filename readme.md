@@ -551,6 +551,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [import-github-labels-cli](https://github.com/abhijithvijayan/import-github-labels-cli) - Sync labels between Github repos.
 - [git-all-branches](https://github.com/zacanger/git-all-branches) - Improved `git branch -a`.
 - [czg](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
+- [hgit](https://github.com/metaory/hgit-cli) - Streamline and Simplify complex git processes.
 
 ### GitHub
 
