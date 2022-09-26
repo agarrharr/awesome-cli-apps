@@ -210,6 +210,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [isitfit](http://github.com/autofitcloud/isitfit) - Manage AWS EC2 rightsizing.
 - [k9s](https://github.com/derailed/k9s) - Manage Kubernetes Clusters.
 - [PingMe](https://github.com/kha7iq/pingme) - Send messages/alerts to multiple messaging platforms & email.
+- [mxflow](https://github.com/metaory/mxflow-cli) - :rocket: Streamline and Simplify complex processes
 
 ### Docker
 
