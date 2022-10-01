@@ -382,7 +382,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [DocToc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files.
 - [grip](https://github.com/joeyespo/grip) - Preview markdown files as GitHub would render them.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
-- [glow](https://github.com/charmbracelet/glow) - Markdown rendering.
+- [glow](https://github.com/charmbracelet/glow) - Styled markdown rendering.
 
 ### Security
 
