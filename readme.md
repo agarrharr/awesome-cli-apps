@@ -155,6 +155,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [grex](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
 - [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB.
 - [iola](https://github.com/pvarentsov/iola) - Socket client with REST API.
+- [gron](https://github.com/tomnomnom/gron) - Facilitate grep scanning of APIs that return large blobs of JSON
 
 ### Text Editors
 
