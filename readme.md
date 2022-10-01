@@ -177,7 +177,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Runs a load test on the selected URL. Easy to extend minimally for your own ends.
 - [wp-cli](https://github.com/wp-cli/wp-cli) - Manage WordPress installations, update plugins, set up multisite installs and much more.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Parse git diffs as JSON and generate pretty HTML.
-- [HTTPie](https://github.com/jkbrzt/httpie) - A user-friendly HTTP client.
+- [HTTPie](https://github.com/httpie/httpie) - A user-friendly HTTP client.
 - [serve](https://github.com/zeit/serve) - Easy to use static file server with features like https, CORS and GZIP compression.
 - [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
 - [Discharge](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
@@ -207,7 +207,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [htconvert](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects.
 - [SAWS](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
 - [s3cmd](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
-- [pm2](https://pm2.io/runtime/) - Production Process Manager for Node.js.
+- [pm2](https://github.com/Unitech/pm2) - Production Process Manager for Node.js.
 - [ops](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
 - [flog](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 - [isitfit](http://github.com/autofitcloud/isitfit) - Manage AWS EC2 rightsizing.
@@ -227,7 +227,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [release-it](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
 - [clog](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`.
-- [release](https://github.com/zeit/release) - Generate changelogs with a single command.
+- [release](https://github.com/vercel/release) - Generate changelogs with a single command.
 - [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing.
 
 ### Npm
@@ -318,7 +318,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [deadlink](https://github.com/nschloe/deadlink) - Find dead links in files.
 - [crawley](https://github.com/s0rg/crawley) - Unix-way web crawler.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
-- [alex](https://github.com/wooorm/alex) - Catch insensitive, inconsiderate writing.
+- [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 
 ### macOS
 
@@ -334,9 +334,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [localtunnel](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world for easy testing and sharing.
 - [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
 - [ngrok](https://ngrok.com/) - Secure introspectable tunnels to localhost.
-- [serveo](https://serveo.net/) - Expose local servers to the internet using only a SSH client.
-- [seashells.io](https://seashells.io/) - Pipe output to the web.
-- [teleconsole](https://www.teleconsole.com/) - Share your UNIX terminal.
 - [tmate](https://tmate.io/) - Instant terminal (tmux) sharing.
 - [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
 - [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
@@ -351,7 +348,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Theming and Customization
 
-- [splash-cli](https://github.com/rawnly/splash-cli) - Beautiful wallpapers from Unsplash.
+- [splash-cli](https://github.com/splash-cli/splash-cli) - Beautiful wallpapers from Unsplash.
 - [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
 - [themer](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
 - [JackPaper](https://github.com/jackel27/jackpaper) - Set images from Unsplash as wallpaper.
@@ -364,7 +361,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [has](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
 - [Ultimate Plumber](https://github.com/akavel/up) - Write Linux pipes with live previews.
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
-- [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts/) - Queue jobs for linear execution.
+- [task-spooler](https://tracker.debian.org/pkg/task-spooler) - Queue jobs for linear execution.
 - [undollar](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
 - [pipe_exec](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
 
@@ -376,7 +373,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
-- [Glances](https://nicolargo.github.io/glances) - System monitoring tool.
+- [glances](https://nicolargo.github.io/glances/) - System monitoring tool.
 - [tiptop](https://github.com/nschloe/tiptop) - System monitor.
 - [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file.
 
@@ -523,7 +520,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [pm](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell.
 - [z](https://github.com/rupa/z) - z is the new j, yo.
 - [PathPicker](https://github.com/facebook/pathpicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
-- [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z.
+- [fz](https://github.com/changyuheng/fz.sh) - Seamless fuzzy tab completion for z.
 - [goto](https://github.com/iridakos/goto) - Directory aliases for the shell with autocomplete.
 - [z.lua](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
