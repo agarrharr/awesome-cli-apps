@@ -30,3 +30,5 @@ for app in $(echo $APPS); do
    ((i=i%J)); ((i++==0)) && wait
    check_deprecation "$app" &
 done
+
+deadlink check readme
