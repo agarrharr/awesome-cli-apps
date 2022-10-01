@@ -15,6 +15,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+
 - [Entertainment](#entertainment)
   - [Music](#music)
   - [Social Media](#social-media)
@@ -49,6 +50,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Security](#security)
   - [Math](#math)
   - [Weather](#weather)
+  - [Browser Replacement](#browser-replacement)
+  - [Internet Speedtest](#internet-speedtest)
 - [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
   - [Processors](#processors)
@@ -66,14 +69,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Version Control](#version-control)
   - [Git](#git)
   - [GitHub](#github)
+  - [Emoji](#emoji)
 - [Images](#images)
   - [Gif Creation](#gif-creation)
   - [Image Conversion](#image-conversion)
 - [Screensavers](#screensavers)
 - [Graphics](#graphics)
 - [Just for Fun](#just-for-fun)
-- [Other](#other)
-  - [Emoji](#emoji)
+  - [Emoji](#emoji-1)
 - [Other Awesome Lists](#other-awesome-lists)
 - [License](#license)
 
@@ -307,28 +310,19 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [khal](https://github.com/pimutils/khal) - CalDAV ready CLI and TUI calendar.
 - [vdirsyncer](https://github.com/pimutils/vdirsyncer) - CalDAV sync.
 - [remind](https://dianne.skoll.ca/projects/remind/) - A sophisticated calendar and alarm program.
+- [birthday](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
 
 ## Utilities
 
-- [archive-type-cli](https://github.com/kevva/archive-type-cli) - Detect archive type for a file or stdin.
-- [s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [aria2](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
-- [mapscii](https://github.com/rastapasta/mapscii) - Terminal Map Viewer.
-- [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
-- [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
-- [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists without a browser.
-- [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 - [deadlink](https://github.com/nschloe/deadlink) - Find dead links in files.
 - [crawley](https://github.com/s0rg/crawley) - Unix-way web crawler.
+- [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
+- [alex](https://github.com/wooorm/alex) - Catch insensitive, inconsiderate writing.
 
 ### macOS
 
 - [open-pip-cli](https://github.com/albinekb/open-pip-cli) - Watch videos in picture-in-picture player.
-- [app-path-cli](https://github.com/sindresorhus/app-path-cli) - Get the path to an app.
-- [bundle-id-cli](https://github.com/sindresorhus/bundle-id-cli) - Get bundle identifier from a bundle name: Safari → com.apple.Safari.
-- [bundle-name-cli](https://github.com/sindresorhus/bundle-name-cli) - Get bundle name from a bundle identifier: com.apple.Safari → Safari.
-- [lnfs-cli](https://github.com/kevva/lnfs-cli) - Safely force create symlinks.
-- [osx-version-cli](https://github.com/sindresorhus/osx-version-cli) - Get the macOS version.
 - [osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli) - Manage wifi connections.
 - [active-win-cli](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
 - [stronghold](https://github.com/alichtman/stronghold) - Configure security settings from the terminal.
@@ -351,10 +345,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [get-port-cli](https://github.com/sindresorhus/get-port-cli) - Get an available port.
 - [is-reachable-cli](https://github.com/beatfreaker/is-reachable-cli) - Check if hostnames are reachable or not.
-- [speedtest-net](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
-- [speed-test](https://github.com/sindresorhus/speed-test) - `speedtest-net` wrapper with different UI.
-- [speedtest-cli](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
-- [bandwhich](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.
+- [acmetool](https://github.com/hlandau/acmetool) - Automatic certificate acquisition for ACME (Let's Encrypt).
+- [certificate-ripper](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
 - [neoss](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics.
 
 ### Theming and Customization
@@ -378,14 +370,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### System Interaction Utilities
 
+- [neofetch](https://github.com/dylanaraps/neofetch) - System information tool.
 - [battery-level-cli](https://github.com/gillstrom/battery-level-cli) - Get current battery level.
 - [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows](https://github.com/sondreb/win-brightness)).
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
-- [neofetch](https://github.com/dylanaraps/neofetch) - System information tool.
 - [Glances](https://nicolargo.github.io/glances) - System monitoring tool.
 - [tiptop](https://github.com/nschloe/tiptop) - System monitor.
+- [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file.
 
 ### Markdown
 
@@ -398,8 +391,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [pass](https://www.passwordstore.org) - Password manager.
 - [gopass](https://github.com/gopasspw/gopass) - Fully-featured password manager.
 - [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based VPN.
-- [acmetool](https://github.com/hlandau/acme) - Automatic certificate acquisition for ACME (Let's Encrypt).
-- [certificate-ripper](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
+- [hasha-cli](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
 - [ots](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
 
 ### Math
@@ -412,6 +404,23 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [wttr.in](https://github.com/chubin/wttr.in)
 - [wego](https://github.com/schachmat/wego)
 - [weather-cli](https://github.com/riyadhalnur/weather-cli)
+
+### Browser Replacement
+
+- [s](https://github.com/zquestz/s) - Open a web search in your terminal.
+- [hget](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
+- [mapscii](https://github.com/rastapasta/mapscii) - Terminal Map Viewer.
+- [nasa-cli](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day.
+- [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
+- [trino](https://github.com/eneserdogan/trino) - Translation of words and phrases.
+- [translate-shell](https://github.com/soimort/translate-shell) - Google Translate interface.
+
+### Internet Speedtest
+
+- [speedtest-net](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
+- [speed-test](https://github.com/sindresorhus/speed-test) - `speedtest-net` wrapper with different UI.
+- [speedtest-cli](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
+- [bandwhich](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.
 
 ## Command Line Learning
 
@@ -551,6 +560,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [import-github-labels-cli](https://github.com/abhijithvijayan/import-github-labels-cli) - Sync labels between Github repos.
 - [git-all-branches](https://github.com/zacanger/git-all-branches) - Improved `git branch -a`.
 - [czg](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
+- [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 
 ### GitHub
 
@@ -559,9 +569,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [hub](https://github.com/github/hub) - Make git easier to use with GitHub.
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
 
+### Emoji
+
+- [gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - Use emoji in commit messages.
+- [gitmoji-changelog](https://github.com/frinyvonnick/gitmoji-changelog) - Generate gitmoji changelogs.
+
 ## Images
 
 - [SVGO](https://github.com/svg/svgo) - Optimize SVG files.
+- [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
 
 ### Gif Creation
 
@@ -587,6 +603,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Digital fireplace.
 
 ## Graphics
+
 - [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - Traverse the Mandelbrot fractal.
 - [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
 - [pastel](https://github.com/sharkdp/pastel) - Generate, analyze, convert and manipulate colors.
@@ -605,30 +622,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ricksay](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
 - [pokeget](https://github.com/talwat/pokeget) - Display sprites of pokemon.
 
-## Other
-
-- [birthday](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
-- [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code.
-- [fullname-cli](https://github.com/sindresorhus/fullname-cli) - Get the fullname of the current user.
-- [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file.
-- [HASHA -cli](https://github.com/sindresorhus/hasha-cli) - Hashing made simple. Get the hash of text or stdin.
-- [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.
-- [leven-cli](https://github.com/sindresorhus/leven-cli) - Measure the difference between two strings using the Levenshtein distance algorithm.
-- [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli) - Convert matching single-quotes to double-quotes.
-- [to-single-quotes](https://github.com/sindresorhus/to-single-quotes-cli) - Convert matching double-quotes to single-quotes.
-- [hget](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
-- [alex](https://github.com/wooorm/alex) - Catch insensitive, inconsiderate writing.
-- [nasa-cli](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day.
-- [trino](https://github.com/eneserdogan/trino) - Translation of words and phrases.
-- [translate-shell](https://github.com/soimort/translate-shell) - Google Translate interface.
-
 ### Emoji
 
 - [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
 - [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
 - [oji](https://github.com/xxczaki/oji) - Interactive text emoji maker.
-- [gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - Use emoji in commit messages.
-- [gitmoji-changelog](https://github.com/frinyvonnick/gitmoji-changelog) - Generate gitmoji changelogs.
 
 ## Other Awesome Lists
 
