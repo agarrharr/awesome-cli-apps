@@ -187,6 +187,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [HTTP Prompt](https://github.com/eliangcs/http-prompt) - Interactive HTTP client featuring autocomplete and syntax highlighting.
 - [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
 - [ain](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
+- [δyƒƒ](https://github.com/homeport/dyff) - Find the differences between two YAML files stored on the computer or externally
 
 ### Mobile Development
 
