@@ -519,6 +519,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [exa](https://github.com/ogham/exa) - Improved version of `ls`.
 - [tre](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
 - [ll](https://github.com/antonmedv/ll) - `ls` with git status.
+- [lsd](https://github.com/Peltoche/lsd) - `ls` with many extra features.
 
 ### Directory Navigation
 
