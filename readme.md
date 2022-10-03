@@ -497,7 +497,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
 - [organize-rt](https://gitlab.com/FixFromDarkness/organize-rt) - organize-cli in Rust with more customization.
 - [RecoverPy](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
-- [lsd](https://github.com/Peltoche/lsd) - Rewrite the `ls` command with many added features such as colors, icons, tree view, more formatting options, etc.
 
 ### File Sync/Sharing
 
@@ -514,6 +513,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [exa](https://github.com/ogham/exa) - Improved version of `ls`.
 - [tre](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
 - [ll](https://github.com/antonmedv/ll) - `ls` with git status.
+- [lsd](https://github.com/Peltoche/lsd) - `ls` with many extra features.
 
 ### Directory Navigation
 
