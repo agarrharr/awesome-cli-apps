@@ -56,6 +56,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Data Manipulation](#data-manipulation)
   - [Processors](#processors)
   - [JSON](#json)
+  - [YAML](#yaml)
   - [Columns](#columns)
   - [Text](#text)
 - [Files and Directories](#files-and-directories)
@@ -453,6 +454,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
 - [GROQ](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable.
+
+### YAML
+
+- [dyff](https://github.com/homeport/dyff) - YAML diff tool.
 
 ### Columns
 
