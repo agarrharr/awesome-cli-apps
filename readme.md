@@ -452,7 +452,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [underscore-cli](https://github.com/ddopson/underscore-cli) - Utility-belt for hacking JSON and Javascript.
 - [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
 - [GROQ](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
-- [gron](https://github.com/tomnomnom/gron) - Make JSON grepable.
+- [gron](https://github.com/tomnomnom/gron) - Make JSON greppable.
 
 ### Columns
 
