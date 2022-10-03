@@ -25,7 +25,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Books](#books)
 - [Development](#development)
   - [Text Editors](#text-editors)
-  - [Web Development](#web-development)
+  - [Frontend Development](#frontend-development)
   - [Mobile Development](#mobile-development)
   - [Database](#database)
   - [Devops](#devops)
@@ -33,6 +33,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Release](#release)
   - [Npm](#npm)
   - [Boilerplate](#boilerplate)
+  - [HTTP Server](#http-server)
+  - [HTTP Client](#http-client)
 - [Productivity](#productivity)
   - [Time Tracking](#time-tracking)
   - [Note Taking and Lists](#note-taking-and-lists)
@@ -145,17 +147,22 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Development
 
-- [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
-- [cgasm](https://github.com/bnagy/cgasm) - Gives x86 assembly documentation.
 - [legit](https://github.com/captainsafia/legit) - Generate Open Source licences as files or file headers.
 - [mklicense](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
-- [rebound](https://github.com/shobrook/rebound) - Fetch Stack Overflow results in your terminal when you get a compiler error.
-- [bitwise](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulator in ncurses.
+- [rebound](https://github.com/shobrook/rebound) - Fetch Stack Overflow results on compiler error.
 - [foy](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
 - [just](https://github.com/casey/just) - Modern `make`-like command runner.
+- [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
+- [bitwise](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulation.
+- [cgasm](https://github.com/bnagy/cgasm) - x86 assembly documentation.
 - [grex](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
 - [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB.
 - [iola](https://github.com/pvarentsov/iola) - Socket client with REST API.
+- [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
+- [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
+- [reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
+- [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests.
+- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 
 ### Text Editors
 
@@ -167,27 +174,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [o](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
 - [helix](https://github.com/helix-editor/helix) -  Modal editor inspired by kakoune.
 
-### Web Development
+### Frontend Development
 
-- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Search [caniuse.com](caniuse.com) about browser support of feature.
-- [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check whether a website is up.
-- [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
+- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Search [caniuse.com](caniuse.com) about browser support of features.
 - [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) - Strip comments from CSS.
 - [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports.
-- [surge](https://surge.sh) - Deploy a directory to the web.
-- [loadtest](https://github.com/alexfernandez/loadtest) - Runs a load test on the selected URL. Easy to extend minimally for your own ends.
-- [wp-cli](https://github.com/wp-cli/wp-cli) - Manage WordPress installations, update plugins, set up multisite installs and much more.
-- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Parse git diffs as JSON and generate pretty HTML.
-- [HTTPie](https://github.com/httpie/httpie) - A user-friendly HTTP client.
-- [serve](https://github.com/zeit/serve) - Easy to use static file server with features like https, CORS and GZIP compression.
-- [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
-- [Discharge](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
-- [reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
-- [simplehttp](https://github.com/snwfdhmp/simplehttp) - Easily serve a local directory over http.
-- [shell2http](https://github.com/msoap/shell2http) - Execute shell commands via HTTP server.
-- [HTTP Prompt](https://github.com/eliangcs/http-prompt) - Interactive HTTP client featuring autocomplete and syntax highlighting.
-- [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
-- [ain](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
+- [surge](https://surge.sh) - Publish static websites for free.
 
 ### Mobile Development
 
@@ -214,6 +206,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [isitfit](http://github.com/autofitcloud/isitfit) - Manage AWS EC2 rightsizing.
 - [k9s](https://github.com/derailed/k9s) - Manage Kubernetes Clusters.
 - [PingMe](https://github.com/kha7iq/pingme) - Send messages/alerts to multiple messaging platforms & email.
+- [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
+- [Discharge](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
 
 ### Docker
 
@@ -249,18 +243,26 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mevn-cli](http://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
 - [scaffold-static](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
 
+### HTTP Server
+
+- [serve](https://github.com/vercel/serve) - Serve static files (https, CORS, GZIP compression, etc).
+- [simplehttp](https://github.com/snwfdhmp/simplehttp) - Easily serve a local directory over HTTP.
+- [shell2http](https://github.com/msoap/shell2http) - Shell script based HTTP server.
+
+### HTTP Client
+
+- [HTTPie](https://github.com/httpie/httpie) - A user-friendly HTTP client.
+- [HTTP Prompt](https://github.com/eliangcs/http-prompt) - Interactive HTTP client featuring autocomplete and syntax highlighting.
+- [ain](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
+
 ## Productivity
 
-- [AutoScreenshotUploader](https://github.com/yask123/AutoScreenshotUploader) - Capture and upload screenshots to imgur.
-- [bitly-client](https://github.com/specious/bitly-client) - Bitly client.
 - [doing](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
-- [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
 - [meetup-cli](https://github.com/specious/meetup-cli) - Meetup.com client.
 - [NeoMutt](https://neomutt.org) - Email client.
 - [terjira](https://github.com/keepcosmos/terjira) - Jira client.
 - [ipt](https://github.com/drselump14/ipt) - Pivotal Tracker client.
-- [g3l](https://github.com/svtek/g3l) - Easiest git cli in the w0rld!
 - [uber-cli](https://github.com/jaebradley/uber-cli) - Uber client.
 - [Buku](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
 - [papis](https://github.com/papis/papis) - Extensible document and bibliography manager.
@@ -316,6 +318,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Utilities
 
 - [aria2](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
+- [bitly-client](https://github.com/specious/bitly-client) - Bitly client.
 - [deadlink](https://github.com/nschloe/deadlink) - Find dead links in files.
 - [crawley](https://github.com/s0rg/crawley) - Unix-way web crawler.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
@@ -583,6 +586,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [SVGO](https://github.com/svg/svgo) - Optimize SVG files.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
+- [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
+- [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 
 ### Gif Creation
 
