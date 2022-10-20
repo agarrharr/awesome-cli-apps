@@ -15,6 +15,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+
 - [Entertainment](#entertainment)
   - [Music](#music)
   - [Social Media](#social-media)
@@ -24,7 +25,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Books](#books)
 - [Development](#development)
   - [Text Editors](#text-editors)
-  - [Web Development](#web-development)
+  - [Frontend Development](#frontend-development)
   - [Mobile Development](#mobile-development)
   - [Database](#database)
   - [Devops](#devops)
@@ -32,6 +33,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Release](#release)
   - [Npm](#npm)
   - [Boilerplate](#boilerplate)
+  - [HTTP Server](#http-server)
+  - [HTTP Client](#http-client)
 - [Productivity](#productivity)
   - [Time Tracking](#time-tracking)
   - [Note Taking and Lists](#note-taking-and-lists)
@@ -49,10 +52,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Security](#security)
   - [Math](#math)
   - [Weather](#weather)
+  - [Browser Replacement](#browser-replacement)
+  - [Internet Speedtest](#internet-speedtest)
 - [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
   - [Processors](#processors)
   - [JSON](#json)
+  - [YAML](#yaml)
   - [Columns](#columns)
   - [Text](#text)
 - [Files and Directories](#files-and-directories)
@@ -66,14 +72,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Version Control](#version-control)
   - [Git](#git)
   - [GitHub](#github)
+  - [Emoji](#emoji)
 - [Images](#images)
   - [Gif Creation](#gif-creation)
   - [Image Conversion](#image-conversion)
 - [Screensavers](#screensavers)
 - [Graphics](#graphics)
 - [Just for Fun](#just-for-fun)
-- [Other](#other)
-  - [Emoji](#emoji)
+  - [Emoji](#emoji-1)
 - [Other Awesome Lists](#other-awesome-lists)
 - [License](#license)
 
@@ -141,17 +147,22 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Development
 
-- [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
-- [cgasm](https://github.com/bnagy/cgasm) - Gives x86 assembly documentation.
 - [legit](https://github.com/captainsafia/legit) - Generate Open Source licences as files or file headers.
 - [mklicense](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
-- [rebound](https://github.com/shobrook/rebound) - Fetch Stack Overflow results in your terminal when you get a compiler error.
-- [bitwise](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulator in ncurses.
+- [rebound](https://github.com/shobrook/rebound) - Fetch Stack Overflow results on compiler error.
 - [foy](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
 - [just](https://github.com/casey/just) - Modern `make`-like command runner.
+- [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
+- [bitwise](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulation.
+- [cgasm](https://github.com/bnagy/cgasm) - x86 assembly documentation.
 - [grex](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
 - [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB.
 - [iola](https://github.com/pvarentsov/iola) - Socket client with REST API.
+- [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
+- [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
+- [reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
+- [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests.
+- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 
 ### Text Editors
 
@@ -163,27 +174,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [o](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
 - [helix](https://github.com/helix-editor/helix) -  Modal editor inspired by kakoune.
 
-### Web Development
+### Frontend Development
 
-- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Search [caniuse.com](caniuse.com) about browser support of feature.
-- [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check whether a website is up.
-- [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
+- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Search [caniuse.com](caniuse.com) about browser support of features.
 - [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) - Strip comments from CSS.
 - [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports.
-- [surge](https://surge.sh) - Deploy a directory to the web.
-- [loadtest](https://github.com/alexfernandez/loadtest) - Runs a load test on the selected URL. Easy to extend minimally for your own ends.
-- [wp-cli](https://github.com/wp-cli/wp-cli) - Manage WordPress installations, update plugins, set up multisite installs and much more.
-- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Parse git diffs as JSON and generate pretty HTML.
-- [HTTPie](https://github.com/jkbrzt/httpie) - A user-friendly HTTP client.
-- [serve](https://github.com/zeit/serve) - Easy to use static file server with features like https, CORS and GZIP compression.
-- [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
-- [Discharge](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
-- [reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
-- [simplehttp](https://github.com/snwfdhmp/simplehttp) - Easily serve a local directory over http.
-- [shell2http](https://github.com/msoap/shell2http) - Execute shell commands via HTTP server.
-- [HTTP Prompt](https://github.com/eliangcs/http-prompt) - Interactive HTTP client featuring autocomplete and syntax highlighting.
-- [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
-- [ain](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
+- [surge](https://surge.sh) - Publish static websites for free.
 
 ### Mobile Development
 
@@ -204,13 +200,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [htconvert](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects.
 - [SAWS](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
 - [s3cmd](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
-- [pm2](https://pm2.io/runtime/) - Production Process Manager for Node.js.
+- [pm2](https://github.com/Unitech/pm2) - Production Process Manager for Node.js.
 - [ops](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
 - [flog](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 - [isitfit](http://github.com/autofitcloud/isitfit) - Manage AWS EC2 rightsizing.
 - [k9s](https://github.com/derailed/k9s) - Manage Kubernetes Clusters.
 - [PingMe](https://github.com/kha7iq/pingme) - Send messages/alerts to multiple messaging platforms & email.
 - [mxflow](https://github.com/metaory/mxflow-cli) - :rocket: Streamline and Simplify complex processes
+- [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
+- [Discharge](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
 
 ### Docker
 
@@ -225,7 +223,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [release-it](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
 - [clog](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`.
-- [release](https://github.com/zeit/release) - Generate changelogs with a single command.
+- [release](https://github.com/vercel/release) - Generate changelogs with a single command.
 - [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing.
 
 ### Npm
@@ -246,18 +244,26 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mevn-cli](http://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
 - [scaffold-static](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
 
+### HTTP Server
+
+- [serve](https://github.com/vercel/serve) - Serve static files (https, CORS, GZIP compression, etc).
+- [simplehttp](https://github.com/snwfdhmp/simplehttp) - Easily serve a local directory over HTTP.
+- [shell2http](https://github.com/msoap/shell2http) - Shell script based HTTP server.
+
+### HTTP Client
+
+- [HTTPie](https://github.com/httpie/httpie) - A user-friendly HTTP client.
+- [HTTP Prompt](https://github.com/eliangcs/http-prompt) - Interactive HTTP client featuring autocomplete and syntax highlighting.
+- [ain](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
+
 ## Productivity
 
-- [AutoScreenshotUploader](https://github.com/yask123/AutoScreenshotUploader) - Capture and upload screenshots to imgur.
-- [bitly-client](https://github.com/specious/bitly-client) - Bitly client.
 - [doing](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
-- [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
 - [meetup-cli](https://github.com/specious/meetup-cli) - Meetup.com client.
 - [NeoMutt](https://neomutt.org) - Email client.
 - [terjira](https://github.com/keepcosmos/terjira) - Jira client.
 - [ipt](https://github.com/drselump14/ipt) - Pivotal Tracker client.
-- [g3l](https://github.com/svtek/g3l) - Easiest git cli in the w0rld!
 - [uber-cli](https://github.com/jaebradley/uber-cli) - Uber client.
 - [Buku](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
 - [papis](https://github.com/papis/papis) - Extensible document and bibliography manager.
@@ -308,28 +314,20 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [khal](https://github.com/pimutils/khal) - CalDAV ready CLI and TUI calendar.
 - [vdirsyncer](https://github.com/pimutils/vdirsyncer) - CalDAV sync.
 - [remind](https://dianne.skoll.ca/projects/remind/) - A sophisticated calendar and alarm program.
+- [birthday](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
 
 ## Utilities
 
-- [archive-type-cli](https://github.com/kevva/archive-type-cli) - Detect archive type for a file or stdin.
-- [s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [aria2](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
-- [mapscii](https://github.com/rastapasta/mapscii) - Terminal Map Viewer.
-- [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
-- [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
-- [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists without a browser.
-- [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
+- [bitly-client](https://github.com/specious/bitly-client) - Bitly client.
 - [deadlink](https://github.com/nschloe/deadlink) - Find dead links in files.
 - [crawley](https://github.com/s0rg/crawley) - Unix-way web crawler.
+- [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
+- [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 
 ### macOS
 
 - [open-pip-cli](https://github.com/albinekb/open-pip-cli) - Watch videos in picture-in-picture player.
-- [app-path-cli](https://github.com/sindresorhus/app-path-cli) - Get the path to an app.
-- [bundle-id-cli](https://github.com/sindresorhus/bundle-id-cli) - Get bundle identifier from a bundle name: Safari → com.apple.Safari.
-- [bundle-name-cli](https://github.com/sindresorhus/bundle-name-cli) - Get bundle name from a bundle identifier: com.apple.Safari → Safari.
-- [lnfs-cli](https://github.com/kevva/lnfs-cli) - Safely force create symlinks.
-- [osx-version-cli](https://github.com/sindresorhus/osx-version-cli) - Get the macOS version.
 - [osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli) - Manage wifi connections.
 - [active-win-cli](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
 - [stronghold](https://github.com/alichtman/stronghold) - Configure security settings from the terminal.
@@ -341,9 +339,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [localtunnel](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world for easy testing and sharing.
 - [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
 - [ngrok](https://ngrok.com/) - Secure introspectable tunnels to localhost.
-- [serveo](https://serveo.net/) - Expose local servers to the internet using only a SSH client.
-- [seashells.io](https://seashells.io/) - Pipe output to the web.
-- [teleconsole](https://www.teleconsole.com/) - Share your UNIX terminal.
 - [tmate](https://tmate.io/) - Instant terminal (tmux) sharing.
 - [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
 - [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
@@ -352,15 +347,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [get-port-cli](https://github.com/sindresorhus/get-port-cli) - Get an available port.
 - [is-reachable-cli](https://github.com/beatfreaker/is-reachable-cli) - Check if hostnames are reachable or not.
-- [speedtest-net](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
-- [speed-test](https://github.com/sindresorhus/speed-test) - `speedtest-net` wrapper with different UI.
-- [speedtest-cli](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
-- [bandwhich](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.
+- [acmetool](https://github.com/hlandau/acmetool) - Automatic certificate acquisition for ACME (Let's Encrypt).
+- [certificate-ripper](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
 - [neoss](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics.
 
 ### Theming and Customization
 
-- [splash-cli](https://github.com/rawnly/splash-cli) - Beautiful wallpapers from Unsplash.
+- [splash-cli](https://github.com/splash-cli/splash-cli) - Beautiful wallpapers from Unsplash.
 - [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
 - [themer](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
 - [JackPaper](https://github.com/jackel27/jackpaper) - Set images from Unsplash as wallpaper.
@@ -373,34 +366,35 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [has](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
 - [Ultimate Plumber](https://github.com/akavel/up) - Write Linux pipes with live previews.
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
-- [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts/) - Queue jobs for linear execution.
+- [task-spooler](https://tracker.debian.org/pkg/task-spooler) - Queue jobs for linear execution.
 - [undollar](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
 - [pipe_exec](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
 
 ### System Interaction Utilities
 
+- [neofetch](https://github.com/dylanaraps/neofetch) - System information tool.
 - [battery-level-cli](https://github.com/gillstrom/battery-level-cli) - Get current battery level.
 - [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows](https://github.com/sondreb/win-brightness)).
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
-- [neofetch](https://github.com/dylanaraps/neofetch) - System information tool.
-- [Glances](https://nicolargo.github.io/glances) - System monitoring tool.
+- [glances](https://nicolargo.github.io/glances/) - System monitoring tool.
 - [tiptop](https://github.com/nschloe/tiptop) - System monitor.
+- [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file.
 
 ### Markdown
 
 - [DocToc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files.
 - [grip](https://github.com/joeyespo/grip) - Preview markdown files as GitHub would render them.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
+- [glow](https://github.com/charmbracelet/glow) - Styled markdown rendering.
 
 ### Security
 
 - [pass](https://www.passwordstore.org) - Password manager.
 - [gopass](https://github.com/gopasspw/gopass) - Fully-featured password manager.
 - [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based VPN.
-- [acmetool](https://github.com/hlandau/acme) - Automatic certificate acquisition for ACME (Let's Encrypt).
-- [certificate-ripper](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
+- [hasha-cli](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
 - [ots](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
 
 ### Math
@@ -413,6 +407,23 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [wttr.in](https://github.com/chubin/wttr.in)
 - [wego](https://github.com/schachmat/wego)
 - [weather-cli](https://github.com/riyadhalnur/weather-cli)
+
+### Browser Replacement
+
+- [s](https://github.com/zquestz/s) - Open a web search in your terminal.
+- [hget](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
+- [mapscii](https://github.com/rastapasta/mapscii) - Terminal Map Viewer.
+- [nasa-cli](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day.
+- [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
+- [trino](https://github.com/eneserdogan/trino) - Translation of words and phrases.
+- [translate-shell](https://github.com/soimort/translate-shell) - Google Translate interface.
+
+### Internet Speedtest
+
+- [speedtest-net](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
+- [speed-test](https://github.com/sindresorhus/speed-test) - `speedtest-net` wrapper with different UI.
+- [speedtest-cli](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
+- [bandwhich](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.
 
 ## Command Line Learning
 
@@ -446,6 +457,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [underscore-cli](https://github.com/ddopson/underscore-cli) - Utility-belt for hacking JSON and Javascript.
 - [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
 - [GROQ](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
+- [gron](https://github.com/tomnomnom/gron) - Make JSON greppable.
+
+### YAML
+
+- [dyff](https://github.com/homeport/dyff) - YAML diff tool.
 
 ### Columns
 
@@ -507,6 +523,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [exa](https://github.com/ogham/exa) - Improved version of `ls`.
 - [tre](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
 - [ll](https://github.com/antonmedv/ll) - `ls` with git status.
+- [lsd](https://github.com/Peltoche/lsd) - `ls` with many extra features.
 
 ### Directory Navigation
 
@@ -515,7 +532,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [pm](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell.
 - [z](https://github.com/rupa/z) - z is the new j, yo.
 - [PathPicker](https://github.com/facebook/pathpicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
-- [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z.
+- [fz](https://github.com/changyuheng/fz.sh) - Seamless fuzzy tab completion for z.
 - [goto](https://github.com/iridakos/goto) - Directory aliases for the shell with autocomplete.
 - [z.lua](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
@@ -552,6 +569,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [import-github-labels-cli](https://github.com/abhijithvijayan/import-github-labels-cli) - Sync labels between Github repos.
 - [git-all-branches](https://github.com/zacanger/git-all-branches) - Improved `git branch -a`.
 - [czg](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
+- [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 
 ### GitHub
 
@@ -560,9 +578,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [hub](https://github.com/github/hub) - Make git easier to use with GitHub.
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
 
+### Emoji
+
+- [gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - Use emoji in commit messages.
+- [gitmoji-changelog](https://github.com/frinyvonnick/gitmoji-changelog) - Generate gitmoji changelogs.
+
 ## Images
 
 - [SVGO](https://github.com/svg/svgo) - Optimize SVG files.
+- [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
+- [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
+- [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 
 ### Gif Creation
 
@@ -588,6 +614,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Digital fireplace.
 
 ## Graphics
+
 - [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - Traverse the Mandelbrot fractal.
 - [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
 - [pastel](https://github.com/sharkdp/pastel) - Generate, analyze, convert and manipulate colors.
@@ -606,30 +633,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ricksay](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
 - [pokeget](https://github.com/talwat/pokeget) - Display sprites of pokemon.
 
-## Other
-
-- [birthday](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
-- [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code.
-- [fullname-cli](https://github.com/sindresorhus/fullname-cli) - Get the fullname of the current user.
-- [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file.
-- [HASHA -cli](https://github.com/sindresorhus/hasha-cli) - Hashing made simple. Get the hash of text or stdin.
-- [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.
-- [leven-cli](https://github.com/sindresorhus/leven-cli) - Measure the difference between two strings using the Levenshtein distance algorithm.
-- [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli) - Convert matching single-quotes to double-quotes.
-- [to-single-quotes](https://github.com/sindresorhus/to-single-quotes-cli) - Convert matching double-quotes to single-quotes.
-- [hget](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
-- [alex](https://github.com/wooorm/alex) - Catch insensitive, inconsiderate writing.
-- [nasa-cli](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day.
-- [trino](https://github.com/eneserdogan/trino) - Translation of words and phrases.
-- [translate-shell](https://github.com/soimort/translate-shell) - Google Translate interface.
-
 ### Emoji
 
 - [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
 - [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
 - [oji](https://github.com/xxczaki/oji) - Interactive text emoji maker.
-- [gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - Use emoji in commit messages.
-- [gitmoji-changelog](https://github.com/frinyvonnick/gitmoji-changelog) - Generate gitmoji changelogs.
 
 ## Other Awesome Lists
 
