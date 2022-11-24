@@ -515,6 +515,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [google-drive-upload](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
 - [gdrive-downloader](https://github.com/Akianonymus/gdrive-downloader) - Download files/folders from Google Drive.
 - [portal](https://github.com/ZinoKader/portal) - Send files between computers.
+- [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another.
 
 ### Directory Listing
 
