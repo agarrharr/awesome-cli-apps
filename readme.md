@@ -380,6 +380,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [glances](https://nicolargo.github.io/glances/) - System monitoring tool.
 - [tiptop](https://github.com/nschloe/tiptop) - System monitor.
 - [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file.
+- [ArTTY](https://github.com/mjwhitta/artty) - Pixel art with optional system info, similar to neofetch.
 
 ### Markdown
 
