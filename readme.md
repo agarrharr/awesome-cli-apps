@@ -299,6 +299,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
 - [cointop](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
 - [ticker](https://github.com/achannarasappa/ticker) - Stock ticker.
+- [i8 Terminal](https://github.com/investoreight/i8-terminal) - Modern Market Research with the Power of Command-Line.
 
 ### Presentations
 
