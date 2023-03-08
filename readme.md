@@ -324,6 +324,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [crawley](https://github.com/s0rg/crawley) - Unix-way web crawler.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
 - [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
+- [clevercli](https://github.com/clevercli/clevercli) - Collection of ChatGTP powered utilities.
 
 ### macOS
 
