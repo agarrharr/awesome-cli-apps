@@ -547,6 +547,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
 - [broot](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
 - [rare](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
+- [skim](https://github.com/lotabout/skim) - A general fuzzy finder written in rust, similar to fzf.
 
 ## Version Control
 
