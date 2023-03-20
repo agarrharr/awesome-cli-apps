@@ -302,11 +302,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Presentations
 
-- [slides](https://github.com/maaslalani/slides) - Terminal based presentation tool.
 - [WOPR](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics.
 - [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
-- [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
+- [mdp](https://github.com/visit1985/mdp) - A markdown presentation tool.
 - [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool.
+- [slides](https://github.com/maaslalani/slides) - A markdown presentation tool.
 
 ### Calendars
 
