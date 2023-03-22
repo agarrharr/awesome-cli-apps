@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="763" src="https://cdn.rawgit.com/aharris88/awesome-cli-apps/master/media/banner.png" alt="awesome cli apps">
+ <img width="763" src="https://cdn.rawgit.com/aharris88/awesome-cli-apps/master/media/banner.png" alt="awesome cli apps">
 </p>
 
 ---
@@ -14,7 +14,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
 
 - [Entertainment](#entertainment)
   - [Music](#music)
@@ -572,6 +571,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [git-all-branches](https://github.com/zacanger/git-all-branches) - Improved `git branch -a`.
 - [czg](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
+- [painy](https://github.com/lanesket/painy) - Tool for automaticly generate commit messages based on changes with OpenAI models.
 
 ### GitHub
 
