@@ -16,7 +16,7 @@ Not all tools can be considered. The aim of the list is to provide a concise lis
 - No duplicates.
 - Individual pull request for each suggestion.
 - The apps repository is older than 90 days.
-- The apps repository has more than 10 stars (if on Github).
+- The apps repository has more than 20 stars (if on Github).
 
 
 **Formatting & Style:**
