@@ -484,6 +484,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
 - [lf](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 - [fff](https://github.com/dylanaraps/fff) - Fast, simple file manager.
+- [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 
 ### Deleting, Copying, and Renaming
 
