@@ -293,6 +293,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [dnote](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
 - [nb](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
 - [obs](https://github.com/Yakitrak/obsidian-cli) - Interact with your Obsidian vault.
+- [shell-velocity](https://github.com/saccarosium/shell-velocity) - A portable notational velocity for your shell written in POSIX shell.
 
 ### Finance
 
