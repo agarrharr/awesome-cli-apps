@@ -391,6 +391,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [grip](https://github.com/joeyespo/grip) - Preview markdown files as GitHub would render them.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 - [glow](https://github.com/charmbracelet/glow) - Styled markdown rendering.
+- [gtree](https://github.com/ddddddO/gtree) - Generates tree or directory from markdown.
 
 ### Security
 
