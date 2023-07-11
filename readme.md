@@ -440,7 +440,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Wat](https://github.com/dthree/wat) - Instant, central, community-built docs.
 - [teachcode](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
 - [navi](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
-- [yai](https://github.com/denisidoro/navi) - AI powered terminal assistant.
+- [yai](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 
 ## Data Manipulation
 
