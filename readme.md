@@ -491,6 +491,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [lf](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 - [fff](https://github.com/dylanaraps/fff) - Fast, simple file manager.
 - [clifm](https://github.com/leo-arch/clifm) - The command line file manager.
+- [far2l](https://github.com/elfmz/far2l) - Orthodox file manager.
 
 ### Deleting, Copying, and Renaming
 
