@@ -1,5 +1,7 @@
 # Contribution Guidelines
 
+## App to be submitted
+
 Not all tools can be considered. The aim of the list is to provide a concise list of awesome CLI tools and apps. This means that suggested software should:  
   
 - Do one thing and do it well
@@ -7,18 +9,26 @@ Not all tools can be considered. The aim of the list is to provide a concise lis
 - Be easy to install
 - Be well documented
 
-Please ensure your pull request adheres to the following guidelines:
+## Pull Request Style
 
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make an individual pull request for each suggestion.
-- Additions should be added to the bottom of the relevant category.
-- Use the following format: `[package](link) - Description.`
-- New categories, or improvements to the existing categorization are welcome.
-- Keep descriptions short and simple, but descriptive.
-- Start the description with a capital and end with a full stop/period.
-- Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
-- The pull request should have a useful title like `Add app-xyz` and include a link to the app and why it should be included.
+**Ground Rules:**
+
+- No duplicates.
+- Individual pull request for each suggestion.
 - The apps repository is older than 90 days.
+- The apps repository has more than 20 stars (if on Github).
 
-Thank you for your suggestions!
+
+**Formatting & Style:**
+
+- The pull request shall be titled: `Add APP_NAME`.
+- The app is added at the bottom of the relevant category.
+- Use the following format: `[APP_NAME](LINK) - DESCRIPTION.`
+  - Description starts with a capital and ends with a full stop (period).
+  - A description should be short and concise. No redudant info like "CLI".
+  - No trailing whitespace.
+  - Check your spelling and grammar.
+
+## Other Pull Requests
+
+Pull requests that are not adding a new app, but introduce new categories or improve the readme are always welcome! In that case feel free to disregard the given structure above.
