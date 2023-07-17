@@ -557,7 +557,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [broot](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
 - [rare](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
 - [skim](https://github.com/lotabout/skim) - A general fuzzy finder written in rust, similar to fzf.
-- [ast-grep](https://github.com/ast-grep/ast-grep) - A tool using abstract syntax tree to structure search and refactor code.
+- [ast-grep](https://github.com/ast-grep/ast-grep) - A tool for code structrual search, linting and rewriting.
 
 ## Version Control
 
