@@ -525,6 +525,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [google-drive-upload](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
 - [gdrive-downloader](https://github.com/Akianonymus/gdrive-downloader) - Download files/folders from Google Drive.
 - [portal](https://github.com/ZinoKader/portal) - Send files between computers.
+- [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another.
 
 ### Directory Listing
 
@@ -581,6 +582,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [git-all-branches](https://github.com/zacanger/git-all-branches) - Improved `git branch -a`.
 - [czg](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
+- [lazygit](https://github.com/jesseduffield/lazygit) - Simple terminal UI for git commands.
 
 ### GitHub
 
