@@ -112,7 +112,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Social Media
 
 - [facebook-cli](https://github.com/specious/facebook-cli) - Facebook command line interface.
-- [TTYtter](https://github.com/oysttyer/oysttyer) - Twitter client.
 - [Rainbowstream](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on the terminal.
 - [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI.
 - [WeeChat](https://weechat.org/) - Fast, light and extensible chat client.
@@ -203,8 +202,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [s3cmd](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
 - [pm2](https://github.com/Unitech/pm2) - Production Process Manager for Node.js.
 - [ops](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
-- [flog](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
-- [isitfit](http://github.com/autofitcloud/isitfit) - Manage AWS EC2 rightsizing.
+- [flog](https://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 - [k9s](https://github.com/derailed/k9s) - Manage Kubernetes Clusters.
 - [PingMe](https://github.com/kha7iq/pingme) - Send messages/alerts to multiple messaging platforms & email.
 - [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
@@ -242,7 +240,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [yo](https://github.com/yeoman/yo) - Scaffolding tool for running Yeoman generators.
 - [boilr](https://github.com/tmrts/boilr) - Create projects from boilerplate templates.
 - [cookiecutter](https://github.com/audreyr/cookiecutter) - Create projects from templates.
-- [mevn-cli](http://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
+- [mevn-cli](https://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
 - [scaffold-static](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
 
 ### HTTP Server
@@ -539,7 +537,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Directory Navigation
 
 - [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line.
-- [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [pm](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell.
 - [z](https://github.com/rupa/z) - z is the new j, yo.
 - [PathPicker](https://github.com/facebook/pathpicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
@@ -589,7 +586,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### GitHub
 
 - [CLI GitHub](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
-- [Gistup](https://github.com/mbostock/gistup) - Manage GitHub gists.
 - [hub](https://github.com/github/hub) - Make git easier to use with GitHub.
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
 
@@ -637,7 +633,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Just for Fun
 
-- [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - A configurable talking cow (and other animals).
 - [quote-cli](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
 - [fortune](https://github.com/shlomif/fortune-mod) - Shows a random fortune.
 - [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
@@ -646,7 +641,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
 - [dankcli](https://github.com/sggts04/dankcli) - Add text to meme image templates.
 - [ricksay](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
-- [pokeget](https://github.com/talwat/pokeget) - Display sprites of pokemon.
 
 ### Emoji
 
