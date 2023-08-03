@@ -583,7 +583,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [git-all-branches](https://github.com/zacanger/git-all-branches) - Improved `git branch -a`.
 - [czg](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
-- [Lazygit](https://github.com/jesseduffield/lazygit) - Simple terminal UI for git commands.
+- [Lazygit](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
 
 ### GitHub
 
