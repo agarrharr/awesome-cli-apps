@@ -547,7 +547,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [goto](https://github.com/iridakos/goto) - Directory aliases for the shell with autocomplete.
 - [z.lua](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
-- [tere](https://github.com/mgunyho/tere) - Terminal file explorer. It is a faster alternative to using cd and ls.
+- [tere](https://github.com/mgunyho/tere) - A faster alternative to using cd and ls.
 
 ### Search
 
