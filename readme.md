@@ -294,7 +294,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Finance
 
-- [ledger](https://ledger-cli.org/) - Powerful, double-entry accounting system on the terminal
+See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overview of relevant tools.
+
+- [ledger](https://ledger-cli.org/) - Powerful, double-entry accounting system.
+- [hledger](https://hledger.org/) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [moeda](https://github.com/thompsonemerson/moeda) - Foreign exchange rates and currency conversion.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
 - [cointop](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
