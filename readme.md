@@ -108,6 +108,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify client.
 - [swaglyrics-for-spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
 - [dzr](https://github.com/yne/dzr) - deezer.com player.
+- [radioactive](https://github.com/deep5050/radio-active) - A internet radio player with 40000+ stations.
 
 ### Social Media
 
