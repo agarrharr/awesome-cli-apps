@@ -267,6 +267,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Buku](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
 - [papis](https://github.com/papis/papis) - Extensible document and bibliography manager.
 - [pubs](https://github.com/pubs/pubs) - Scientific bibliography manager.
+- [fjira](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
 
 ### Time Tracking
 
