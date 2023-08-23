@@ -255,6 +255,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [HTTPie](https://github.com/httpie/httpie) - A user-friendly HTTP client.
 - [HTTP Prompt](https://github.com/eliangcs/http-prompt) - Interactive HTTP client featuring autocomplete and syntax highlighting.
 - [ain](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
+- [curlie](https://github.com/rs/curlie) - A curl frontend with the ease of use of HTTPie.
 
 ## Productivity
 
