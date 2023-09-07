@@ -535,7 +535,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### Directory Listing
 
 - [alder](https://github.com/aweary/alder) - Minimal `tree` with colors.
-- [exa](https://github.com/ogham/exa) - Improved version of `ls`.
+- [eza](https://github.com/eza-community/eza) - Improved version of `ls`.
 - [tre](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
 - [ll](https://github.com/antonmedv/ll) - `ls` with git status.
 - [lsd](https://github.com/Peltoche/lsd) - `ls` with many extra features.
