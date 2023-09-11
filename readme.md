@@ -520,6 +520,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
 - [organize-rt](https://gitlab.com/FixFromDarkness/organize-rt) - organize-cli in Rust with more customization.
 - [RecoverPy](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
+- [Clipboard](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anywhere.
 
 ### File Sync/Sharing
 
