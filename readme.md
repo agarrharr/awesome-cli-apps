@@ -256,6 +256,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [HTTPie](https://github.com/httpie/httpie) - A user-friendly HTTP client.
 - [HTTP Prompt](https://github.com/eliangcs/http-prompt) - Interactive HTTP client featuring autocomplete and syntax highlighting.
 - [ain](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
+- [curlie](https://github.com/rs/curlie) - A curl frontend with the ease of use of HTTPie.
 
 ## Productivity
 
@@ -331,7 +332,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [crawley](https://github.com/s0rg/crawley) - Unix-way web crawler.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
 - [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
-- [clevercli](https://github.com/clevercli/clevercli) - Collection of ChatGTP powered utilities.
+- [clevercli](https://github.com/clevercli/clevercli) - Collection of ChatGPT powered utilities.
 
 ### macOS
 
@@ -531,11 +532,12 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [portal](https://github.com/ZinoKader/portal) - Send files between computers.
 - [shbin](https://github.com/Shiphero/shbin/) - Turn a Github repo into a pastebin.
 - [sharing](https://github.com/parvardegr/sharing) - Send and receive files on your mobile device.
+- [ncp](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers. 
 
 ### Directory Listing
 
 - [alder](https://github.com/aweary/alder) - Minimal `tree` with colors.
-- [exa](https://github.com/ogham/exa) - Improved version of `ls`.
+- [eza](https://github.com/eza-community/eza) - Improved version of `ls`.
 - [tre](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
 - [ll](https://github.com/antonmedv/ll) - `ls` with git status.
 - [lsd](https://github.com/Peltoche/lsd) - `ls` with many extra features.
