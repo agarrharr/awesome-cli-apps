@@ -347,6 +347,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [localtunnel](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world for easy testing and sharing.
 - [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
 - [ngrok](https://ngrok.com/) - Secure introspectable tunnels to localhost.
+- [Beeceptor](https://beeceptor.com/) - Instant local tunnels to expose a web-service to the Internet securely.
 - [tmate](https://tmate.io/) - Instant terminal (tmux) sharing.
 - [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
 - [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
