@@ -195,6 +195,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [sqlline](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
 - [iredis](https://github.com/laixintao/iredis) - Redis client with autocompletion and syntax highlighting.
 - [usql](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
+- [bcms](https://github.com/bcms/cms) - Client to start a content management system locally
 
 ### Devops
 
