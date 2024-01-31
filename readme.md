@@ -502,6 +502,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [rename-cli](https://github.com/jhotmann/node-rename-cli) - Rename files quickly.
 - [renameutils](https://www.nongnu.org/renameutils/) - Mass renaming in your editor.
 - [diskonaut](https://github.com/imsnif/diskonaut) - Disk space navigator.
+- [dua-cli](https://github.com/Byron/dua-cli) - Disk usage analyzer.
 
 ### Files
 
