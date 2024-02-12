@@ -377,6 +377,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [task-spooler](https://tracker.debian.org/pkg/task-spooler) - Queue jobs for linear execution.
 - [undollar](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
 - [pipe_exec](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
+- [envio](https://github.com/envio-cli/envio) - Modern And Secure Tool For Managing Environment Variables.
 
 ### System Interaction Utilities
 
