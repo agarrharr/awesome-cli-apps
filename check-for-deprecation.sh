@@ -1,6 +1,6 @@
 #! /bin/bash
 
-J=4
+J=6
 OUT_FILE=deprecated.txt
 
 if [ "$1" = "--help" ] || [ "$1" = "-h" ] || [ "$1" = "help" ]; then

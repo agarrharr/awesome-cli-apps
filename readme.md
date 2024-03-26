@@ -215,7 +215,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [lstags](https://github.com/ivanilves/lstags) - Synchronize images across registries.
 - [dockly](https://github.com/lirantal/dockly) - Interactively manage containers.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
-- [docker-shell](https://github.com/Trendyol/docker-shell) - Simple interactive docker interface.
 - [docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 
 ### Release
@@ -519,7 +518,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [webtorrent-cli](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
 - [entr](https://github.com/eradman/entr) - Run an arbitrary command when files change.
 - [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
-- [organize-rt](https://gitlab.com/FixFromDarkness/organize-rt) - The `organize-cli` in Rust with more customization.
+- [organize-rt](https://gitlab.com/foxido/organize-rt) - The `organize-cli` in Rust with more customization.
 - [RecoverPy](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
 
 ### File Sync/Sharing
@@ -532,7 +531,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [portal](https://github.com/ZinoKader/portal) - Send files between computers.
 - [shbin](https://github.com/Shiphero/shbin/) - Turn a Github repo into a pastebin.
 - [sharing](https://github.com/parvardegr/sharing) - Send and receive files on your mobile device.
-- [ncp](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers. 
+- [ncp](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers.
 
 ### Directory Listing
 
