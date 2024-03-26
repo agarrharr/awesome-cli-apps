@@ -347,7 +347,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [localtunnel](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world for easy testing and sharing.
 - [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
 - [ngrok](https://ngrok.com/) - Secure introspectable tunnels to localhost.
-- [Beeceptor](https://beeceptor.com/) - Instant local tunnels to expose a web-service to the Internet securely.
+- [Beeceptor](https://beeceptor.com/local-tunnel/?ref=awesome-cli-apps) - Instant and free tunnels to expose a localhost web-service to the Internet securely.
 - [tmate](https://tmate.io/) - Instant terminal (tmux) sharing.
 - [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
 - [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
@@ -519,7 +519,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [webtorrent-cli](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
 - [entr](https://github.com/eradman/entr) - Run an arbitrary command when files change.
 - [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
-- [organize-rt](https://gitlab.com/FixFromDarkness/organize-rt) - organize-cli in Rust with more customization.
+- [organize-rt](https://gitlab.com/FixFromDarkness/organize-rt) - The `organize-cli` in Rust with more customization.
 - [RecoverPy](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
 
 ### File Sync/Sharing
@@ -636,7 +636,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - Traverse the Mandelbrot fractal.
 - [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
-- [pastel](https://github.com/sharkdp/pastel) - Generate, analyze, convert and manipulate colors.
+- [pastel](https://github.com/sharkdp/pastel) - Generate, analyze, convert, and manipulate colors.
 - [lowcharts](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs.
 
 ## Just for Fun
@@ -652,7 +652,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ### Emoji
 
-- [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
+- [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from the text on the command-line.
 - [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
 - [oji](https://github.com/xxczaki/oji) - Interactive text emoji maker.
 
