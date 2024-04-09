@@ -482,6 +482,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [figlet](http://www.figlet.org/) - Creates large text out of ASCII characters.
 - [stegcloak](https://github.com/kurolabs/stegcloak) - Hide secrets with invisible characters in plain text securely.
+- [rich](https://github.com/Textualize/rich-cli) - Multi-tool for fancy text in the terminal.
 
 ## Files and Directories
 
