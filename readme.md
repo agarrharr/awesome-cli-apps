@@ -376,6 +376,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [task-spooler](https://tracker.debian.org/pkg/task-spooler) - Queue jobs for linear execution.
 - [undollar](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
 - [pipe_exec](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
+- [TPM](https://github.com/FBDev64/TPM) - A mini-shell inside a shell with integrated tools and beautiful input.
+- [FBD](https://github.com/FBDev64/FBD) - Another mini-shell inside a shell with tools for entertainment.
 
 ### System Interaction Utilities
 
