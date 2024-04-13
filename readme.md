@@ -278,6 +278,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Watson](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
 - [utt](https://github.com/larose/utt) - Simple time tracking tool.
 - [Bartib](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
+- [gh-dash](https://github.com/dlvhdr/gh-dash) -  A GitHub (gh) CLI extension to display a dashboard with pull requests and issues by filters you care about.
 
 ### Note Taking and Lists
 
@@ -331,6 +332,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
 - [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 - [clevercli](https://github.com/clevercli/clevercli) - Collection of ChatGPT powered utilities.
+- [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 
 ### macOS
 
@@ -445,6 +447,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [teachcode](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
 - [navi](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
 - [yai](https://github.com/ekkinox/yai) - AI powered terminal assistant.
+- [clmystery](https://github.com/veltman/clmystery) - A little terminal game to learn Command Line.
 
 ## Data Manipulation
 
