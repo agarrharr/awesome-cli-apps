@@ -282,7 +282,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Note Taking and Lists
 
 - [idea](https://github.com/IonicaBizau/idea) - A lightweight tool for keeping ideas in a safe place quick and easy.
-- [geeknote](https://github.com/jeffkowalski/geeknote) - Evernote client.
+- [geeknote](https://github.com/vitaly-zdanevich/geeknote) - Evernote client.
 - [Taskwarrior](https://taskwarrior.org/) - Manage your TODO list.
 - [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app.
 - [eureka](https://github.com/simeg/eureka) - Input and store your ideas.
