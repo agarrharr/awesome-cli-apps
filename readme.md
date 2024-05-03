@@ -357,6 +357,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [acmetool](https://github.com/hlandau/acmetool) - Automatic certificate acquisition for ACME (Let's Encrypt).
 - [certificate-ripper](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
 - [neoss](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics.
+- [ttfb](https://github.com/phip1611/ttfb) - CLI-Tool to measure the TTFB (time to first byte) of HTTP requests.
 
 ### Theming and Customization
 
