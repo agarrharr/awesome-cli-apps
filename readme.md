@@ -285,6 +285,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [geeknote](https://github.com/vitaly-zdanevich/geeknote) - Evernote client.
 - [Taskwarrior](https://taskwarrior.org/) - Manage your TODO list.
 - [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app.
+- [mn](https://github.com/misopog/mn) - a dead simple note-taking script
 - [eureka](https://github.com/simeg/eureka) - Input and store your ideas.
 - [sncli](https://github.com/insanum/sncli) - Simplenote client.
 - [td-cli](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
