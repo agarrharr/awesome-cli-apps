@@ -138,6 +138,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Roguelike construction and management simulation.
 - [Cataclysm-DDA](https://cataclysmdda.org) - Turn-based survival game set in a post-apocalyptic world.
 - [pokete](https://github.com/lxgr-linux/pokete) - Pokemon-like.
+- [Cubzh](https://github.com/cubzh/cubzh) - Open-source UGC gaming platform made with Lua, C, C++
 
 ### Books
 
