@@ -164,6 +164,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
+- [flox](https://github.com/flox/flox) - Flox is a virtual environment and package manager all in one.
 
 ### Text Editors
 
