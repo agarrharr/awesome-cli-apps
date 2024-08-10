@@ -325,6 +325,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ## Utilities
 
 - [aria2](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
+- [maelstrom](https://github.com/twentyone24/maelstrom) - stress-test API reliability on concurrent threads, with latency metrics.
 - [bitly-client](https://github.com/specious/bitly-client) - Bitly client.
 - [deadlink](https://github.com/nschloe/deadlink) - Find dead links in files.
 - [crawley](https://github.com/s0rg/crawley) - Unix-way web crawler.
