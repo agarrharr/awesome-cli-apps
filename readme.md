@@ -288,7 +288,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [eureka](https://github.com/simeg/eureka) - Input and store your ideas.
 - [sncli](https://github.com/insanum/sncli) - Simplenote client.
 - [td-cli](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
-- [taskell](https://github.com/smallhadroncollider/taskell) - Interactive kanban board/task manager.
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [dnote](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
 - [nb](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
@@ -364,7 +363,6 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
 - [themer](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
 - [JackPaper](https://github.com/jackel27/jackpaper) - Set images from Unsplash as wallpaper.
-- [pywal](https://github.com/dylanaraps/pywal) - Generate and change color-schemes, then apply them system-wide to all of your favourite programs.
 - [QuickWall](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
 - [oh-my-posh](https://ohmyposh.dev) - Prompt theme engine.
 
@@ -379,7 +377,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ### System Interaction Utilities
 
-- [neofetch](https://github.com/dylanaraps/neofetch) - System information tool.
+- [fastfetch](https://github.com/fastfetch-cli/fastfetch) - System information tool.
 - [battery-level-cli](https://github.com/gillstrom/battery-level-cli) - Get current battery level.
 - [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows](https://github.com/sondreb/win-brightness)).
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
@@ -492,7 +490,6 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [Vifm](https://vifm.info/) - VI influnced file manager.
 - [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
 - [lf](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
-- [fff](https://github.com/dylanaraps/fff) - Fast, simple file manager.
 - [clifm](https://github.com/leo-arch/clifm) - The command line file manager.
 - [far2l](https://github.com/elfmz/far2l) - Orthodox file manager.
 
