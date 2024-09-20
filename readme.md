@@ -528,6 +528,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [shbin](https://github.com/Shiphero/shbin/) - Turn a Github repo into a pastebin.
 - [sharing](https://github.com/parvardegr/sharing) - Send and receive files on your mobile device.
 - [ncp](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers.
+- [froop](https://github.com/happer64bit/froop) - Efficiently share files from local machine with high-speed transfer and authentication
 
 ### Directory Listing
 
