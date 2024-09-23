@@ -113,8 +113,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Social Media
 
-- [facebook-cli](https://github.com/specious/facebook-cli) - Facebook command line interface.
-- [Rainbowstream](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on the terminal.
 - [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI.
 - [WeeChat](https://weechat.org/) - Fast, light and extensible chat client.
 - [irssi](https://github.com/irssi/irssi) - IRC chat client.
