@@ -202,6 +202,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [flog](https://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 - [k9s](https://github.com/derailed/k9s) - Manage Kubernetes Clusters.
 - [PingMe](https://github.com/kha7iq/pingme) - Send messages/alerts to multiple messaging platforms & email.
+- [mxflow](https://github.com/metaory/mxflow-cli) - :zap: A Friendly, General purpose CLI task runner :rocket:
 - [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
 - [Discharge](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
 - [updatecli](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
