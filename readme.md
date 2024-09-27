@@ -238,6 +238,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cookiecutter](https://github.com/audreyr/cookiecutter) - Create projects from templates.
 - [mevn-cli](https://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
 - [scaffold-static](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
+- [rapid-react](https://github.com/vinaysharma14/rapid-react) - Rapid scaffolding of tailored React Apps.
 
 ### HTTP Server
 
