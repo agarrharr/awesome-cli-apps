@@ -252,6 +252,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ain](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
 - [curlie](https://github.com/rs/curlie) - A curl frontend with the ease of use of HTTPie.
 
+### Testing
+
+-  [Step CI](https://github.com/stepci/stepci) - Open-source framework for API Quality Assurance, which tests REST, GraphQL and gRPC automated and from Open API spec.
+
+
+
 ## Productivity
 
 - [doing](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
