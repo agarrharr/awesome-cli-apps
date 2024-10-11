@@ -557,6 +557,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [rare](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
 - [skim](https://github.com/lotabout/skim) - A general fuzzy finder written in rust, similar to fzf.
 - [ast-grep](https://github.com/ast-grep/ast-grep) - A tool for code structrual search, linting and rewriting.
+- [w2vgrep](https://github.com/arunsupe/semantic-grep) - A tool for semantic search using word embeddings. For example, searching for "death" will find "dead", "killing", "murder".
 
 ## Version Control
 
