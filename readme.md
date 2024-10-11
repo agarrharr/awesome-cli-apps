@@ -403,6 +403,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [mdlt](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
 - [Qalculate](https://github.com/Qalculate/libqalculate) - Calculate non-trival math expressions. Unit conversions, symbolic calculations and more.
+- [CalcPy](https://github.com/idanpa/calcpy) - Terminal calculator and advanced math solver using Python, IPython and SymPy.
 
 ### Weather
 
