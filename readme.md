@@ -495,7 +495,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [fff](https://github.com/dylanaraps/fff) - Fast, simple file manager.
 - [clifm](https://github.com/leo-arch/clifm) - The command line file manager.
 - [far2l](https://github.com/elfmz/far2l) - Orthodox file manager.
-- [yazi](https://github.com/sxyazi/yazi) - Blazing Fast Terminal File Manager
+- [yazi](https://github.com/sxyazi/yazi) - Blazing fast file manager
 
 ### Deleting, Copying, and Renaming
 
