@@ -127,7 +127,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Roguelike construction and management simulation.
 - [Cataclysm-DDA](https://cataclysmdda.org) - Turn-based survival game set in a post-apocalyptic world.
-- [pokete](https://github.com/lxgr-linux/pokete) - Pokemon-like.
+- [Pokete](https://github.com/lxgr-linux/Pokete) - Pokemon-like.
 
 ### Books
 
@@ -403,7 +403,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### Math
 
 - [mdlt](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
-- [Qalculate](https://github.com/Qalculate/libqalculate) - Calculate non-trival math expressions. Unit conversions, symbolic calculations and more.
+- [Qalculate](https://github.com/Qalculate/libqalculate) - Calculate non-trivial math expressions. Unit conversions, symbolic calculations and more.
 
 ### Weather
 
@@ -484,7 +484,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [ranger](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
 - [midnight-commander](https://github.com/MidnightCommander/mc) - A feature rich visual file manager.
-- [Vifm](https://vifm.info/) - VI influnced file manager.
+- [Vifm](https://vifm.info/) - VI influenced file manager.
 - [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
 - [lf](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 - [clifm](https://github.com/leo-arch/clifm) - The command line file manager.
@@ -558,7 +558,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [broot](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
 - [rare](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
 - [skim](https://github.com/lotabout/skim) - A general fuzzy finder written in rust, similar to fzf.
-- [ast-grep](https://github.com/ast-grep/ast-grep) - A tool for code structrual search, linting and rewriting.
+- [ast-grep](https://github.com/ast-grep/ast-grep) - A tool for code structural search, linting and rewriting.
 
 ## Version Control
 
