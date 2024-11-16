@@ -633,6 +633,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ## Just for Fun
 
+- [cli-tips](https://github.com/cli-stuff/cli-tips) - Get a random useful tip on a Linux topic. Can be integrated into **MOTD**
 - [quote-cli](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
 - [fortune](https://github.com/shlomif/fortune-mod) - Shows a random fortune.
 - [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
