@@ -274,6 +274,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Watson](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
 - [utt](https://github.com/larose/utt) - Simple time tracking tool.
 - [Bartib](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
+- [arttime](https://github.com/reportaman/arttime) - Featureful timer with native desktop notifications and curated ASCII art.
 
 ### Note Taking and Lists
 
