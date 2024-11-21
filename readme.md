@@ -263,13 +263,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Time Tracking
 
-- [arttime](https://github.com/reportaman/arttime) - Beauty of text art meets functionality of clock, timer, pomodoro++ time manager
 - [Timetrap](https://github.com/samg/timetrap) - Simple timetracker.
 - [moro](https://github.com/omidfi/moro) - Simple tool for tracking work hours.
 - [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
 - [Watson](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
 - [utt](https://github.com/larose/utt) - Simple time tracking tool.
 - [Bartib](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
+- [arttime](https://github.com/reportaman/arttime) - Featureful timer with native desktop notifications and curated ASCII art.
 
 ### Note Taking and Lists
 
