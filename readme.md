@@ -642,6 +642,10 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [dankcli](https://github.com/sggts04/dankcli) - Add text to meme image templates.
 - [ricksay](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
 
+## Health
+
+- [calm-garden-cli](https://github.com/jaroslaw-weber/calm-garden-cli) - Practice breathing exercises, earn coins and grow your garden.
+
 ### Emoji
 
 - [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
