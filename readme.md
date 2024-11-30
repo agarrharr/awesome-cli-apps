@@ -583,6 +583,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [czg](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 - [Lazygit](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
+- [gitnr](https://github.com/reemus-dev/gitnr) - Create `.gitignore` files from templates and browse template collections.
 
 ### GitHub
 
