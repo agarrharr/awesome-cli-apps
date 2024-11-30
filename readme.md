@@ -212,6 +212,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [dockly](https://github.com/lirantal/dockly) - Interactively manage containers.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
 - [docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
+- [decompose](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
 
 ### Release
 
