@@ -383,6 +383,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [glances](https://nicolargo.github.io/glances/) - System monitoring tool.
 - [tiptop](https://github.com/nschloe/tiptop) - System monitor.
 - [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file.
+- [lazyjournal](https://github.com/Lifailon/lazyjournal) - Terminal UI for journalctl, file system logs, as well Docker and Podman containers for quick viewing and filtering.
 
 ### Markdown
 
