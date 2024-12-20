@@ -435,6 +435,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers.
 - [how2](https://github.com/santinic/how2) - Node.js implementation of howdoi.
 - [The Fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+- [wut](https://github.com/shobrook/wut) - Explain the output of the last command using AI.
 - [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
 - [Wat](https://github.com/dthree/wat) - Instant, central, community-built docs.
 - [teachcode](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
