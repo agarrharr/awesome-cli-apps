@@ -531,6 +531,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [alder](https://github.com/aweary/alder) - Minimal `tree` with colors.
 - [eza](https://github.com/eza-community/eza) - Improved version of `ls`.
+- [pls](https://github.com/pls-rs/pls)  - A prettier and powerful `ls(1)` for the pros.
 - [tre](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
 - [ll](https://github.com/antonmedv/ll) - `ls` with git status.
 - [lsd](https://github.com/Peltoche/lsd) - `ls` with many extra features.
