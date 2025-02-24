@@ -205,6 +205,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
 - [Discharge](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
 - [updatecli](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
+- [shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit-testing framework for all POSIX shells.
 
 ### Docker
 
