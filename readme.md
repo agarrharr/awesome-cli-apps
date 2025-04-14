@@ -35,6 +35,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Boilerplate](#boilerplate)
   - [HTTP Server](#http-server)
   - [HTTP Client](#http-client)
+  - [AI-Powered Developer Tools](#ai-powered-developer-tools)
 - [Productivity](#productivity)
   - [Time Tracking](#time-tracking)
   - [Note Taking and Lists](#note-taking-and-lists)
@@ -251,6 +252,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [HTTP Prompt](https://github.com/eliangcs/http-prompt) - Interactive HTTP client featuring autocomplete and syntax highlighting.
 - [ain](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
 - [curlie](https://github.com/rs/curlie) - A curl frontend with the ease of use of HTTPie.
+
+### AI-Powered Developer Tools
+- [Fellow](https://github.com/ManuelZierl/fellow) - Autonomous CLI development assistant. It reasons, executes structured tasks, and maintains activity logs.
+
 
 ## Productivity
 
