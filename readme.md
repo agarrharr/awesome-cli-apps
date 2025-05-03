@@ -642,7 +642,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
 - [dankcli](https://github.com/sggts04/dankcli) - Add text to meme image templates.
 - [ricksay](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
-- [MakeSticker](https://github.com/MatusOllah/makesticker) - Project SEKAI CLI sticker maker, written in Go
+- [MakeSticker](https://github.com/MatusOllah/makesticker) - Project SEKAI CLI sticker maker, written in Go.
 
 ### Emoji
 
