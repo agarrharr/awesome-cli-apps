@@ -371,6 +371,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [task-spooler](https://tracker.debian.org/pkg/task-spooler) - Queue jobs for linear execution.
 - [undollar](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
 - [pipe_exec](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
+- [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands (ei.: `ai Tell me the free space on disk`)
 
 ### System Interaction Utilities
 
