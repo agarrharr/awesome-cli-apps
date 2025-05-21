@@ -13,8 +13,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Table of Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Entertainment](#entertainment)
   - [Music](#music)
@@ -160,6 +160,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
+- [quickstart](https://github.com/omar-alghaish/quickstart) - CLI to create and reuse project templates from custom setups.
 
 ### Text Editors
 
