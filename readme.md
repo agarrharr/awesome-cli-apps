@@ -20,6 +20,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Music](#music)
   - [Social Media](#social-media)
   - [Video](#video)
+  - [Anime/Manga](#anime/manga)
   - [Movies](#movies)
   - [Games](#games)
   - [Books](#books)
@@ -117,6 +118,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mpv](https://mpv.io) - Superior video player.
 - [editly](https://github.com/mifi/editly) - Declarative video editing.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
+
+### Anime/Manga
+
+- [mal-cli](https://github.com/L4z3x/mal-cli) - A TUI for MyAnimeList api.
 
 ### Movies
 
