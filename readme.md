@@ -16,13 +16,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
+- [Table of Contents](#table-of-contents)
 - [Entertainment](#entertainment)
   - [Music](#music)
-  - [Social Media](#social-media)
   - [Video](#video)
   - [Movies](#movies)
   - [Games](#games)
   - [Books](#books)
+  - [Chat](#chat)
 - [Development](#development)
   - [Text Editors](#text-editors)
   - [Frontend Development](#frontend-development)
@@ -265,6 +266,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [papis](https://github.com/papis/papis) - Extensible document and bibliography manager.
 - [pubs](https://github.com/pubs/pubs) - Scientific bibliography manager.
 - [fjira](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
+- [journalot](https://github.com/jtaylortech/journalot) - Lightweight CLI journaling tool with Git version control.
 
 ### Time Tracking
 
