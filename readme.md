@@ -467,6 +467,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### YAML
 
 - [dyff](https://github.com/homeport/dyff) - YAML diff tool.
+- [YAMLResume](https://github.com/yamlresume/yamlresume) - Resumes as Code in YAML.
 
 ### Columns
 
