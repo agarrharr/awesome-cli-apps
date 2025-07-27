@@ -275,6 +275,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [utt](https://github.com/larose/utt) - Simple time tracking tool.
 - [Bartib](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 - [arttime](https://github.com/reportaman/arttime) - Featureful timer with native desktop notifications and curated ASCII art.
+- [purrgr3ss](https://github.com/kay-a11y/purrgr3ss) - Track tasks in Markdown, track time in YAML, see it glow.
 
 ### Note Taking and Lists
 
