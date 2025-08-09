@@ -570,6 +570,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [git-stats](https://github.com/IonicaBizau/git-stats) - A local GitHub-like contributions calendar.
 - [dev-time](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git.
+- [ggc](https://github.com/bmf-san/ggc) - A modern Git CLI tool with both traditional command-line and interactive incremental-search UI.
 - [grv](https://github.com/rgburke/grv) - Text-mode interface for git with customisable vi bindings.
 - [git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day.
 - [git-secret](https://github.com/sobolevn/git-secret) - Store your private data inside a git repository.
