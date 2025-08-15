@@ -15,7 +15,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [Entertainment](#entertainment)
   - [Music](#music)
   - [Social Media](#social-media)
@@ -169,7 +168,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [kakoune](https://github.com/mawww/kakoune) - Modal editor inspired by vim.
 - [micro](https://github.com/zyedidia/micro) - A simple and intuitive editor.
 - [o](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
-- [helix](https://github.com/helix-editor/helix) -  Modal editor inspired by kakoune.
+- [helix](https://github.com/helix-editor/helix) - Modal editor inspired by kakoune.
 
 ### Frontend Development
 
@@ -188,7 +187,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [mycli](https://github.com/dbcli/mycli) - MySQL client with autocompletion and syntax highlighting.
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres client with autocompletion and syntax highlighting.
-- [sqlline](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
+- [sqlline](https://github.com/julianhyde/sqlline) - Shell for issuing SQL via JDBC.
 - [iredis](https://github.com/laixintao/iredis) - Redis client with autocompletion and syntax highlighting.
 - [usql](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
 
@@ -335,6 +334,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [active-win-cli](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
 - [stronghold](https://github.com/alichtman/stronghold) - Configure security settings from the terminal.
 - [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
+- [clippy](https://github.com/neilberkman/clippy) - Smart clipboard tool that bridges terminal and GUI applications.
 
 ### Terminal Sharing Utilities
 
