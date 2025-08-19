@@ -327,6 +327,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
 - [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 - [clevercli](https://github.com/clevercli/clevercli) - Collection of ChatGPT powered utilities.
+- [mdcli](https://multidrive.io/backup-drive-command-prompt) - Free tool to backup, clone, erase drives
 
 ### macOS
 
