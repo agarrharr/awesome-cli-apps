@@ -355,6 +355,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [acmetool](https://github.com/hlandau/acmetool) - Automatic certificate acquisition for ACME (Let's Encrypt).
 - [certificate-ripper](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
 - [neoss](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics.
+- [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
 
 ### Theming and Customization
 
