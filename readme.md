@@ -205,6 +205,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
 - [Discharge](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
 - [updatecli](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
+- [logdy](https://github.com/logdyhq/logdy-core) - Supercharge terminal logs with web UI.
+- [s5cmd](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
 
 ### Docker
 
@@ -212,6 +214,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [dockly](https://github.com/lirantal/dockly) - Interactively manage containers.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
 - [docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
+- [ctop](https://github.com/bcicen/ctop) - Top like interface for container metrics.
 
 ### Release
 
@@ -251,6 +254,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [HTTP Prompt](https://github.com/eliangcs/http-prompt) - Interactive HTTP client featuring autocomplete and syntax highlighting.
 - [ain](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
 - [curlie](https://github.com/rs/curlie) - A curl frontend with the ease of use of HTTPie.
+- [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust.
 
 ## Productivity
 
@@ -353,6 +357,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [acmetool](https://github.com/hlandau/acmetool) - Automatic certificate acquisition for ACME (Let's Encrypt).
 - [certificate-ripper](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
 - [neoss](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics.
+- [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
 
 ### Theming and Customization
 
@@ -490,6 +495,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [clifm](https://github.com/leo-arch/clifm) - The command line file manager.
 - [far2l](https://github.com/elfmz/far2l) - Orthodox file manager.
 - [yazi](https://github.com/sxyazi/yazi) - Blazing fast file manager.
+- [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer.
 
 ### Deleting, Copying, and Renaming
 
@@ -500,6 +506,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [rename-cli](https://github.com/jhotmann/node-rename-cli) - Rename files quickly.
 - [renameutils](https://www.nongnu.org/renameutils/) - Mass renaming in your editor.
 - [diskonaut](https://github.com/imsnif/diskonaut) - Disk space navigator.
+- [dua-cli](https://github.com/Byron/dua-cli) - Disk usage analyzer.
 
 ### Files
 
@@ -514,6 +521,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
 - [organize-rt](https://gitlab.com/foxido/organize-rt) - organize-cli in Rust with more customization.
 - [RecoverPy](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
+- [f2](https://github.com/ayoisaiah/f2) - A cross-platform tool for fast, safe, and flexible batch renaming.
 
 ### File Sync/Sharing
 
@@ -559,6 +567,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [rare](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
 - [skim](https://github.com/lotabout/skim) - A general fuzzy finder written in rust, similar to fzf.
 - [ast-grep](https://github.com/ast-grep/ast-grep) - A tool for code structural search, linting and rewriting.
+- [television](https://github.com/alexpasmantier/television) - A very fast general purpose fuzzy finder.
 
 ## Version Control
 
@@ -640,6 +649,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
 - [yosay](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
 - [lolcat](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
+- [terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - Plays elaborate animations of text input.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
 - [dankcli](https://github.com/sggts04/dankcli) - Add text to meme image templates.
 - [ricksay](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
