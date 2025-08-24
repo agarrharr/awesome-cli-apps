@@ -589,6 +589,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 - [Lazygit](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
 - [gitui](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in rust.
+
 ### GitHub
 
 - [CLI GitHub](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
