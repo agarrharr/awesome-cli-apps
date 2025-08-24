@@ -599,7 +599,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [czg](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 - [Lazygit](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
-- [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - Show current status of the repo, like `[master ↑·2|●1✚ 1]`.
+- [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy bash prompt for Git users.
 - [gitui](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in Rust.
 
 ### GitHub
