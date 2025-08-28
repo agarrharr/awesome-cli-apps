@@ -385,6 +385,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [fastfetch](https://github.com/fastfetch-cli/fastfetch) - System information tool.
 - [battery-level-cli](https://github.com/gillstrom/battery-level-cli) - Get current battery level.
 - [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows](https://github.com/sondreb/win-brightness)).
+- [Clipboard](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anywhere.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
