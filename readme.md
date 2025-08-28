@@ -385,6 +385,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [fastfetch](https://github.com/fastfetch-cli/fastfetch) - System information tool.
 - [battery-level-cli](https://github.com/gillstrom/battery-level-cli) - Get current battery level.
 - [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows](https://github.com/sondreb/win-brightness)).
+- [Clipboard](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anywhere.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
@@ -530,7 +531,6 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
 - [organize-rt](https://gitlab.com/foxido/organize-rt) - organize-cli in Rust with more customization.
 - [RecoverPy](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
-- [Clipboard](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anywhere.
 - [f2](https://github.com/ayoisaiah/f2) - A cross-platform tool for fast, safe, and flexible batch renaming.
 
 ### File Sync/Sharing
