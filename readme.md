@@ -350,6 +350,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [tmate](https://tmate.io/) - Instant terminal (tmux) sharing.
 - [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
 - [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
+- [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
 
 ### Network Utilities
 
