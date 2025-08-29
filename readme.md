@@ -64,6 +64,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Files and Directories](#files-and-directories)
   - [File Managers](#file-managers)
   - [Deleting, Copying, and Renaming](#deleting-copying-and-renaming)
+  - [Disk Usage](#disk-usage)
   - [Files](#files)
   - [File Sync/Sharing](#file-syncsharing)
   - [Directory Listing](#directory-listing)
@@ -89,8 +90,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Entertainment
 
-- [football-cli](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league.
-- [pockyt](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 - [newsboat](https://github.com/newsboat/newsboat) - An extendable RSS feed reader for text terminals.
 
 ### Music
@@ -109,15 +108,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [swaglyrics-for-spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
 - [dzr](https://github.com/yne/dzr) - deezer.com player.
 - [radio-active](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
-
-### Social Media
-
-- [facebook-cli](https://github.com/specious/facebook-cli) - Facebook command line interface.
-- [Rainbowstream](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on the terminal.
-- [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI.
-- [WeeChat](https://weechat.org/) - Fast, light and extensible chat client.
-- [irssi](https://github.com/irssi/irssi) - IRC chat client.
-- [kirc](https://github.com/mcpcpc/kirc) - Tiny IRC client.
+- [mpvc](https://github.com/gmt4/mpvc) - Music player interfacing mpv.
 
 ### Video
 
@@ -137,7 +128,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Roguelike construction and management simulation.
 - [Cataclysm-DDA](https://cataclysmdda.org) - Turn-based survival game set in a post-apocalyptic world.
-- [pokete](https://github.com/lxgr-linux/pokete) - Pokemon-like.
+- [Pokete](https://github.com/lxgr-linux/Pokete) - Pokemon-like.
 
 ### Books
 
@@ -145,6 +136,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Bible.Js CLI](https://github.com/BibleJS/BibleApp) - Bible.
 - [SpeedRead](https://github.com/sunsations/speed_read) - Spritz-alike speedreader.
 - [medium-cli](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories.
+
+### Chat
+
+- [WeeChat](https://weechat.org/) - Fast, light and extensible chat client.
+- [irssi](https://github.com/irssi/irssi) - IRC chat client.
+- [kirc](https://github.com/mcpcpc/kirc) - Tiny IRC client.
 
 ## Development
 
@@ -209,14 +206,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
 - [Discharge](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
 - [updatecli](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
+- [logdy](https://github.com/logdyhq/logdy-core) - Supercharge terminal logs with web UI.
+- [s5cmd](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
 
 ### Docker
 
 - [lstags](https://github.com/ivanilves/lstags) - Synchronize images across registries.
 - [dockly](https://github.com/lirantal/dockly) - Interactively manage containers.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
-- [docker-shell](https://github.com/Trendyol/docker-shell) - Simple interactive docker interface.
 - [docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
+- [ctop](https://github.com/bcicen/ctop) - Top like interface for container metrics.
 
 ### Release
 
@@ -256,6 +255,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [HTTP Prompt](https://github.com/eliangcs/http-prompt) - Interactive HTTP client featuring autocomplete and syntax highlighting.
 - [ain](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
 - [curlie](https://github.com/rs/curlie) - A curl frontend with the ease of use of HTTPie.
+- [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust.
 
 ## Productivity
 
@@ -279,17 +279,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Watson](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
 - [utt](https://github.com/larose/utt) - Simple time tracking tool.
 - [Bartib](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
+- [arttime](https://github.com/reportaman/arttime) - Featureful timer with native desktop notifications and curated ASCII art.
 
 ### Note Taking and Lists
 
 - [idea](https://github.com/IonicaBizau/idea) - A lightweight tool for keeping ideas in a safe place quick and easy.
-- [geeknote](https://github.com/jeffkowalski/geeknote) - Evernote client.
+- [geeknote](https://github.com/vitaly-zdanevich/geeknote) - Evernote client.
 - [Taskwarrior](https://taskwarrior.org/) - Manage your TODO list.
 - [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app.
 - [eureka](https://github.com/simeg/eureka) - Input and store your ideas.
 - [sncli](https://github.com/insanum/sncli) - Simplenote client.
 - [td-cli](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
-- [taskell](https://github.com/smallhadroncollider/taskell) - Interactive kanban board/task manager.
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [dnote](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
 - [nb](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
@@ -350,6 +350,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [tmate](https://tmate.io/) - Instant terminal (tmux) sharing.
 - [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
 - [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
+- [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
 
 ### Network Utilities
 
@@ -358,7 +359,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [acmetool](https://github.com/hlandau/acmetool) - Automatic certificate acquisition for ACME (Let's Encrypt).
 - [certificate-ripper](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
 - [neoss](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics.
-- [gg](https://github.com/mzz2017/gg) - A command-line tool for one-click proxy in your research and development without installing v2ray or anything else (only for linux).
+- [gg](https://github.com/mzz2017/gg) - One-click proxy without installing v2ray or anything else.
+- [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
 
 ### Theming and Customization
 
@@ -366,9 +368,9 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
 - [themer](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
 - [JackPaper](https://github.com/jackel27/jackpaper) - Set images from Unsplash as wallpaper.
-- [pywal](https://github.com/dylanaraps/pywal) - Generate and change color-schemes, then apply them system-wide to all of your favourite programs.
 - [QuickWall](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
 - [oh-my-posh](https://ohmyposh.dev) - Prompt theme engine.
+- [starship](https://github.com/starship/starship) - Minimal, blazing-fast, and infinitely customizable prompt for any shell.
 
 ### Shell Utilities
 
@@ -381,9 +383,10 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ### System Interaction Utilities
 
-- [neofetch](https://github.com/dylanaraps/neofetch) - System information tool.
+- [fastfetch](https://github.com/fastfetch-cli/fastfetch) - System information tool.
 - [battery-level-cli](https://github.com/gillstrom/battery-level-cli) - Get current battery level.
 - [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows](https://github.com/sondreb/win-brightness)).
+- [Clipboard](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anywhere.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
@@ -410,7 +413,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### Math
 
 - [mdlt](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
-- [Qalculate](https://github.com/Qalculate/libqalculate) - Calculate non-trival math expressions. Unit conversions, symbolic calculations and more.
+- [Qalculate](https://github.com/Qalculate/libqalculate) - Calculate non-trivial math expressions. Unit conversions, symbolic calculations and more.
 
 ### Weather
 
@@ -491,12 +494,13 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [ranger](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
 - [midnight-commander](https://github.com/MidnightCommander/mc) - A feature rich visual file manager.
-- [Vifm](https://vifm.info/) - VI influnced file manager.
+- [Vifm](https://vifm.info/) - VI influenced file manager.
 - [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
 - [lf](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
-- [fff](https://github.com/dylanaraps/fff) - Fast, simple file manager.
 - [clifm](https://github.com/leo-arch/clifm) - The command line file manager.
 - [far2l](https://github.com/elfmz/far2l) - Orthodox file manager.
+- [yazi](https://github.com/sxyazi/yazi) - Blazing fast file manager.
+- [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer.
 
 ### Deleting, Copying, and Renaming
 
@@ -506,21 +510,29 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) - Copies files.
 - [rename-cli](https://github.com/jhotmann/node-rename-cli) - Rename files quickly.
 - [renameutils](https://www.nongnu.org/renameutils/) - Mass renaming in your editor.
+
+### Disk Usage
+
 - [diskonaut](https://github.com/imsnif/diskonaut) - Disk space navigator.
+- [dua-cli](https://github.com/Byron/dua-cli) - Disk usage analyzer.
+- [duf](https://github.com/muesli/duf) - A better `df` alternative.
+- [dust](https://github.com/bootandy/dust) - A more intuitive version of `du` in Rust.
+- [dutree](https://github.com/nachoparker/dutree) - A tool to analyze file system usage written in Rust.
+- [NCDu](https://dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
 
 ### Files
 
 - [chokidar-cli](https://github.com/open-cli-tools/chokidar-cli) - CLI to watch file system changes.
 - [file-type-cli](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
 - [bat](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting.
-- [NCDu](https://dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
 - [unix-permissions](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions.
 - [transmission-cli](https://transmissionbt.com) - Torrent client for your command line.
 - [webtorrent-cli](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
 - [entr](https://github.com/eradman/entr) - Run an arbitrary command when files change.
 - [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
-- [organize-rt](https://gitlab.com/FixFromDarkness/organize-rt) - organize-cli in Rust with more customization.
+- [organize-rt](https://gitlab.com/foxido/organize-rt) - organize-cli in Rust with more customization.
 - [RecoverPy](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
+- [f2](https://github.com/ayoisaiah/f2) - A cross-platform tool for fast, safe, and flexible batch renaming.
 
 ### File Sync/Sharing
 
@@ -532,7 +544,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [portal](https://github.com/ZinoKader/portal) - Send files between computers.
 - [shbin](https://github.com/Shiphero/shbin/) - Turn a Github repo into a pastebin.
 - [sharing](https://github.com/parvardegr/sharing) - Send and receive files on your mobile device.
-- [ncp](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers. 
+- [ncp](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers.
 
 ### Directory Listing
 
@@ -564,8 +576,9 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
 - [broot](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
 - [rare](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
-- [skim](https://github.com/lotabout/skim) - A general fuzzy finder written in rust, similar to fzf.
-- [ast-grep](https://github.com/ast-grep/ast-grep) - A tool for code structrual search, linting and rewriting.
+- [skim](https://github.com/lotabout/skim) - A general fuzzy finder written in Rust, similar to fzf.
+- [ast-grep](https://github.com/ast-grep/ast-grep) - A tool for code structural search, linting and rewriting.
+- [television](https://github.com/alexpasmantier/television) - A very fast general purpose fuzzy finder.
 
 ## Version Control
 
@@ -590,6 +603,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [czg](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 - [Lazygit](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
+- [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy bash prompt for Git users.
+- [gitui](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in Rust.
 
 ### GitHub
 
@@ -646,6 +661,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
 - [yosay](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
 - [lolcat](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
+- [terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - Plays elaborate animations of text input.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
 - [dankcli](https://github.com/sggts04/dankcli) - Add text to meme image templates.
 - [ricksay](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
