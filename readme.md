@@ -208,6 +208,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [updatecli](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
 - [logdy](https://github.com/logdyhq/logdy-core) - Supercharge terminal logs with web UI.
 - [s5cmd](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
+- [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 
 ### Docker
 
