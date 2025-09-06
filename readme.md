@@ -294,6 +294,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [dnote](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
 - [nb](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
 - [obs](https://github.com/Yakitrak/obsidian-cli) - Interact with your Obsidian vault.
+- [cmdCompass](https://github.com/johnwangwyx/cmdCompass) - Dedicated Notebook for Terminal Commands with GUI.
 
 ### Finance
 
