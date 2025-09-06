@@ -261,6 +261,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [doing](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
+- [hygg](https://github.com/kruserr/hygg) - 📚 Simplifying the way you read. Minimalistic Vim-like TUI document reader.
 - [meetup-cli](https://github.com/specious/meetup-cli) - Meetup.com client.
 - [NeoMutt](https://neomutt.org) - Email client.
 - [terjira](https://github.com/keepcosmos/terjira) - Jira client.
