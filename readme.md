@@ -553,6 +553,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [tre](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
 - [ll](https://github.com/antonmedv/ll) - `ls` with git status.
 - [lsd](https://github.com/Peltoche/lsd) - `ls` with many extra features.
+- [lla](https://github.com/triyanox/lla) - Improved `ls` with plugins.
 
 ### Directory Navigation
 
