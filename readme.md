@@ -216,6 +216,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
 - [docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 - [ctop](https://github.com/bcicen/ctop) - Top like interface for container metrics.
+- [harbor](https://github.com/av/harbor) - A containerized toolkit for LLM infrastructure.
 
 ### Release
 
