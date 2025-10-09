@@ -159,6 +159,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
 - [reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
+- [shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - Python-free Rust inference server with OpenAI-compatible API for local AI development.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 
