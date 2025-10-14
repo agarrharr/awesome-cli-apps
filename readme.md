@@ -25,6 +25,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Development](#development)
   - [Text Editors](#text-editors)
   - [Frontend Development](#frontend-development)
+  - [Expose localhost](#expose-localhost)
   - [Mobile Development](#mobile-development)
   - [Database](#database)
   - [Devops](#devops)
@@ -44,6 +45,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Utilities](#utilities)
   - [macOS](#macos)
   - [Terminal Sharing Utilities](#terminal-sharing-utilities)
+  - [SSH](#ssh)
   - [Network Utilities](#network-utilities)
   - [Theming and Customization](#theming-and-customization)
   - [Shell Utilities](#shell-utilities)
@@ -177,6 +179,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports.
 - [surge](https://surge.sh) - Publish static websites for free.
 
+### Expose localhost
+
+- [localtunnel](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world for easy testing and sharing.
+- [ngrok](https://ngrok.com/) - Secure introspectable tunnels to localhost.
+
 ### Mobile Development
 
 - [mobicon-cli](https://github.com/SamVerschueren/mobicon-cli) - Mobile app icon generator.
@@ -275,6 +282,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [papis](https://github.com/papis/papis) - Extensible document and bibliography manager.
 - [pubs](https://github.com/pubs/pubs) - Scientific bibliography manager.
 - [fjira](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
+- [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 
 ### Time Tracking
 
@@ -349,13 +357,13 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### Terminal Sharing Utilities
 
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
-- [localtunnel](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world for easy testing and sharing.
-- [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
-- [ngrok](https://ngrok.com/) - Secure introspectable tunnels to localhost.
 - [tmate](https://tmate.io/) - Instant terminal (tmux) sharing.
 - [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
-- [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
-- [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
+
+### SSH
+
+- [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
+- [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through SSH.
 
 ### Network Utilities
 
