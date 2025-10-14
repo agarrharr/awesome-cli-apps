@@ -53,6 +53,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Markdown](#markdown)
   - [Security](#security)
   - [Math](#math)
+  - [Academia](#academia)
   - [Weather](#weather)
   - [Browser Replacement](#browser-replacement)
   - [Internet Speedtest](#internet-speedtest)
@@ -281,8 +282,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ipt](https://github.com/drselump14/ipt) - Pivotal Tracker client.
 - [uber-cli](https://github.com/jaebradley/uber-cli) - Uber client.
 - [Buku](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
-- [papis](https://github.com/papis/papis) - Extensible document and bibliography manager.
-- [pubs](https://github.com/pubs/pubs) - Scientific bibliography manager.
 - [fjira](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
 - [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 
@@ -430,6 +429,11 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [mdlt](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
 - [Qalculate](https://github.com/Qalculate/libqalculate) - Calculate non-trivial math expressions. Unit conversions, symbolic calculations and more.
+
+### Academia
+
+- [papis](https://github.com/papis/papis) - Extensible document and bibliography manager.
+- [pubs](https://github.com/pubs/pubs) - Scientific bibliography manager.
 
 ### Weather
 
