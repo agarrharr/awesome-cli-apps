@@ -360,7 +360,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [certificate-ripper](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
 - [neoss](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics.
 - [gg](https://github.com/mzz2017/gg) - One-click proxy without installing v2ray or anything else.
-- [rustnet](https://github.com/domcyrus/rustnet) - Cross-platform network monitoring TUI with process identification and deep packet inspection.
+- [rustnet](https://github.com/domcyrus/rustnet) - Network monitoring with process identification and deep packet inspection.
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
 
 ### Theming and Customization
