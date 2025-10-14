@@ -80,7 +80,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Graphics](#graphics)
 - [Just for Fun](#just-for-fun)
   - [Emoji](#emoji-1)
-- [Other Awesome Lists](#other-awesome-lists)
+- [Other Resources](#other-resources)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -388,7 +388,6 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [glances](https://nicolargo.github.io/glances/) - System monitoring tool.
 - [tiptop](https://github.com/nschloe/tiptop) - System monitor.
 - [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file.
-- [x-cmd](https://github.com/x-cmd/x-cmd) -  A vast and interesting collection of tools guided by the Unix philosophy.
 
 ### Markdown
 
@@ -655,13 +654,14 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
 - [oji](https://github.com/xxczaki/oji) - Interactive text emoji maker.
 
-## Other Awesome Lists
+## Other Resources
 
 - [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
 - [awesome-shell](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
 - [awesome-nodejs clis](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
+- [x-cmd](https://github.com/x-cmd/x-cmd) - Ecosystem of cli tools, featuring a wide array of improve core utils, AI access and more.
 
 ## License
 
