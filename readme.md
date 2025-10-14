@@ -211,6 +211,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
 - [Discharge](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
 - [updatecli](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
+- [telert](https://github.com/navig-me/telert) - Multi-channel alerts for long-running commands and process/log/uptime monitoring.
 - [logdy](https://github.com/logdyhq/logdy-core) - Supercharge terminal logs with web UI.
 - [s5cmd](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
 
