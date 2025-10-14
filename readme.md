@@ -617,7 +617,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [imagemagick](https://imagemagick.org) - Gold standard for anything images.
 - [imgp](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator.
 - [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing.
-- [pdfjuicer](https://github.com/dmikhr/pdfjuicer) - Extract pages from PDF as images with custom sizing and thumbnail generation.
+- [pdfjuicer](https://github.com/dmikhr/pdfjuicer) - Extract PDF pages as images.
 
 ## Screensavers
 
