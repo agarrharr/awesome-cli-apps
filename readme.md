@@ -15,14 +15,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [Entertainment](#entertainment)
   - [Music](#music)
-  - [Social Media](#social-media)
   - [Video](#video)
   - [Movies](#movies)
   - [Games](#games)
   - [Books](#books)
+  - [Chat](#chat)
 - [Development](#development)
   - [Text Editors](#text-editors)
   - [Frontend Development](#frontend-development)
@@ -35,6 +34,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Boilerplate](#boilerplate)
   - [HTTP Server](#http-server)
   - [HTTP Client](#http-client)
+  - [Testing](#testing)
 - [Productivity](#productivity)
   - [Time Tracking](#time-tracking)
   - [Note Taking and Lists](#note-taking-and-lists)
@@ -154,14 +154,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [bitwise](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulation.
 - [cgasm](https://github.com/bnagy/cgasm) - x86 assembly documentation.
 - [grex](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
-- [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB.
 - [iola](https://github.com/pvarentsov/iola) - Socket client with REST API.
 - [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
 - [reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
-- [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
-- [shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit-testing framework for all POSIX shells.
 
 ### Text Editors
 
@@ -257,6 +254,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ain](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
 - [curlie](https://github.com/rs/curlie) - A curl frontend with the ease of use of HTTPie.
 - [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust.
+
+### Testing
+
+- [shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit-testing framework for all POSIX shells.
+- [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB.
+- [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests.
+- [Step CI](https://github.com/stepci/stepci) - API testing and QA framework.
 
 ## Productivity
 
