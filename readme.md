@@ -208,7 +208,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [updatecli](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
 - [logdy](https://github.com/logdyhq/logdy-core) - Supercharge terminal logs with web UI.
 - [s5cmd](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
-- [config-file-validator](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
 
 ### Docker
 
@@ -474,10 +473,12 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
 - [GROQ](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable.
+- [config-file-validator](https://github.com/Boeing/config-file-validator) - Validate configuration files.
 
 ### YAML
 
 - [dyff](https://github.com/homeport/dyff) - YAML diff tool.
+- [config-file-validator](https://github.com/Boeing/config-file-validator) - Validate configuration files.
 
 ### Columns
 
