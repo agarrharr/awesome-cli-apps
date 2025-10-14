@@ -475,10 +475,12 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
 - [GROQ](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable.
+- [config-file-validator](https://github.com/Boeing/config-file-validator) - Validate configuration files.
 
 ### YAML
 
 - [dyff](https://github.com/homeport/dyff) - YAML diff tool.
+- [config-file-validator](https://github.com/Boeing/config-file-validator) - Validate configuration files.
 
 ### Columns
 
