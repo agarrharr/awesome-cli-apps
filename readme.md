@@ -334,7 +334,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [active-win-cli](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
 - [stronghold](https://github.com/alichtman/stronghold) - Configure security settings from the terminal.
 - [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
-- [clippy](https://github.com/neilberkman/clippy) - Smart clipboard tool that bridges terminal and GUI applications.
+- [clippy](https://github.com/neilberkman/clippy) - Clipboard tool for interacting with GUI applications.
 
 ### Terminal Sharing Utilities
 
