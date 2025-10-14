@@ -161,6 +161,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
+- [shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit-testing framework for all POSIX shells.
 
 ### Text Editors
 
