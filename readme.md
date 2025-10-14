@@ -331,6 +331,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [mdp](https://github.com/visit1985/mdp) - A markdown presentation tool.
 - [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool.
 - [slides](https://github.com/maaslalani/slides) - A markdown presentation tool.
+- [marp](https://github.com/marp-team/marp-cli) - Export Markdown to HTML/PDF/Powerpoint presentations.
 
 ### Calendars
 
