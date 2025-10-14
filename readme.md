@@ -135,6 +135,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Bible.Js CLI](https://github.com/BibleJS/BibleApp) - Bible.
 - [SpeedRead](https://github.com/sunsations/speed_read) - Spritz-alike speedreader.
 - [medium-cli](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories.
+- [hygg](https://github.com/kruserr/hygg) - Minimalistic document reader.
 
 ### Chat
 
@@ -256,7 +257,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [doing](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
-- [hygg](https://github.com/kruserr/hygg) - 📚 Simplifying the way you read. Minimalistic Vim-like TUI document reader.
 - [meetup-cli](https://github.com/specious/meetup-cli) - Meetup.com client.
 - [NeoMutt](https://neomutt.org) - Email client.
 - [terjira](https://github.com/keepcosmos/terjira) - Jira client.
