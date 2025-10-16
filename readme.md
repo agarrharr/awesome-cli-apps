@@ -151,6 +151,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Development
 
+- [package-installer-cli](https://github.com/0xshariq/package-installer-cli) - A powerful, cross-platform CLI for modern development workflows. Create projects, manage dependencies, analyze codebases, and streamline your development process with intelligent automation.
 - [legit](https://github.com/captainsafia/legit) - Generate Open Source licences as files or file headers.
 - [mklicense](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
 - [rebound](https://github.com/shobrook/rebound) - Fetch Stack Overflow results on compiler error.
@@ -279,6 +280,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 
 ## Productivity
 
+- [email-cli](https://github.com/0xshariq/email-mcp-server) - Cross-platform email operations for MCP clients and CLI 
 - [doing](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 - [meetup-cli](https://github.com/specious/meetup-cli) - Meetup.com client.
