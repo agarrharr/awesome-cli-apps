@@ -313,6 +313,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [dnote](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
 - [nb](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
 - [obs](https://github.com/Yakitrak/obsidian-cli) - Interact with your Obsidian vault.
+- [journalot](https://github.com/jtaylortech/journalot) - Journaling tool with git sync.
 
 ### Finance
 
