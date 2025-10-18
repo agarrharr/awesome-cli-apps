@@ -154,6 +154,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [legit](https://github.com/captainsafia/legit) - Generate Open Source licences as files or file headers.
 - [mklicense](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
 - [rebound](https://github.com/shobrook/rebound) - Fetch Stack Overflow results on compiler error.
+- [shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - AI inference server CLI tool with OpenAI API compatibility, zero dependencies, local model processing.
 - [foy](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
 - [just](https://github.com/casey/just) - Modern `make`-like command runner.
 - [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
