@@ -290,7 +290,6 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [Buku](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
 - [fjira](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
 - [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
-- [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
 
 ### Time Tracking
 
@@ -405,6 +404,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [task-spooler](https://tracker.debian.org/pkg/task-spooler) - Queue jobs for linear execution.
 - [undollar](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
 - [pipe_exec](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
+- [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets.
 
 ### System Interaction Utilities
 
