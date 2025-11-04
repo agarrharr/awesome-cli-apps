@@ -164,6 +164,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
 - [reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
+- [webl](https://github.com/WebsiteLaunches/webl-cli) - Domain intelligence lookups. Get domain authority, age, launch detection, and industry classification.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 
 ### Text Editors
