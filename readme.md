@@ -221,6 +221,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [telert](https://github.com/navig-me/telert) - Multi-channel alerts for long-running commands and process/log/uptime monitoring.
 - [logdy](https://github.com/logdyhq/logdy-core) - Supercharge terminal logs with web UI.
 - [s5cmd](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
+- [updo](https://github.com/Owloops/updo) - Website monitoring tool with uptime tracking, response time metrics, SSL certificate monitoring, and multi-region support.
 
 ### Docker
 
