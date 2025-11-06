@@ -290,6 +290,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [Buku](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
 - [fjira](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
 - [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
+- [CookCLI](https://github.com/cooklang/CookCLI) - Recipe manager with a built-in web server, shopping lists, and meal planning.
 
 ### Time Tracking
 
