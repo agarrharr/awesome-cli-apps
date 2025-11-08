@@ -405,6 +405,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [undollar](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
 - [pipe_exec](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
 - [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets.
+- [SwissArmyKnife](https://github.com/globalcve/swissarmyknife) - Multi-tool utilities for open-source security and system analysis.
+
 
 ### System Interaction Utilities
 
