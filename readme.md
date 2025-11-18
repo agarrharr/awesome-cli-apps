@@ -222,6 +222,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [logdy](https://github.com/logdyhq/logdy-core) - Supercharge terminal logs with web UI.
 - [s5cmd](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
 - [updo](https://github.com/Owloops/updo) - Website monitoring tool.
+- [cronboard](https://github.com/antoniorodr/Cronboard) - Dashboard for managing cron jobs.
 
 ### Docker
 
