@@ -220,6 +220,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [updatecli](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
 - [telert](https://github.com/navig-me/telert) - Multi-channel alerts for long-running commands and process/log/uptime monitoring.
 - [logdy](https://github.com/logdyhq/logdy-core) - Supercharge terminal logs with web UI.
+- [LogLens](https://github.com/Caelrith/loglens-core) - A structured log viewer and query engine for the terminal.
 - [s5cmd](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
 - [updo](https://github.com/Owloops/updo) - Website monitoring tool.
 - [cronboard](https://github.com/antoniorodr/Cronboard) - Dashboard for managing cron jobs.
