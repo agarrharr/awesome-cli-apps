@@ -42,6 +42,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Finance](#finance)
   - [Presentations](#presentations)
   - [Calendars](#calendars)
+- [Task Automation](#task-automation)
 - [Utilities](#utilities)
   - [macOS](#macos)
   - [Terminal Sharing Utilities](#terminal-sharing-utilities)
@@ -346,6 +347,10 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [vdirsyncer](https://github.com/pimutils/vdirsyncer) - CalDAV sync.
 - [remind](https://dianne.skoll.ca/projects/remind/) - A sophisticated calendar and alarm program.
 - [birthday](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
+
+## Task Automation
+
+- [RowboatX](https://www.rowboatx.com/) - Coordinate background agents, MCP tools, and scheduled workflows from a single workspace.
 
 ## Utilities
 
