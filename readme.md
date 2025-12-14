@@ -16,13 +16,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
+- [Table of Contents](#table-of-contents)
 - [Entertainment](#entertainment)
   - [Music](#music)
-  - [Social Media](#social-media)
   - [Video](#video)
   - [Movies](#movies)
   - [Games](#games)
   - [Books](#books)
+  - [Chat](#chat)
 - [Development](#development)
   - [Text Editors](#text-editors)
   - [Frontend Development](#frontend-development)
@@ -280,6 +281,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [utt](https://github.com/larose/utt) - Simple time tracking tool.
 - [Bartib](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 - [arttime](https://github.com/reportaman/arttime) - Featureful timer with native desktop notifications and curated ASCII art.
+- [Helm](https://github.com/0xjuanma/helm) - Minimalistic & customizable timer for your terminal.
 
 ### Note Taking and Lists
 
