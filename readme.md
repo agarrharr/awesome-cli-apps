@@ -293,6 +293,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [fjira](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
 - [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 - [CookCLI](https://github.com/cooklang/CookCLI) - Full-featured recipe manager.
+- [hns](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe voice from microphone.
 
 ### Time Tracking
 
@@ -447,6 +448,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [papis](https://github.com/papis/papis) - Extensible document and bibliography manager.
 - [pubs](https://github.com/pubs/pubs) - Scientific bibliography manager.
+- [OneCite](https://github.com/HzaCode/OneCite) - Universal toolkit to generate citations.
 
 ### Weather
 
@@ -585,6 +587,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [shbin](https://github.com/Shiphero/shbin/) - Turn a Github repo into a pastebin.
 - [sharing](https://github.com/parvardegr/sharing) - Send and receive files on your mobile device.
 - [ncp](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers.
+- [share](https://github.com/beavailable/share) - Share and receive files effortlessly over HTTP.
 
 ### Directory Listing
 
