@@ -484,6 +484,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [teachcode](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
 - [navi](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
 - [yai](https://github.com/ekkinox/yai) - AI powered terminal assistant.
+- [praisonai](https://github.com/MervinPraison/PraisonAI) - Multi-AI Agents CLI with deep research, memory, workflows, and 100+ LLM support.
 
 ## Data Manipulation
 
