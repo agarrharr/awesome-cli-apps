@@ -442,7 +442,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [papis](https://github.com/papis/papis) - Extensible document and bibliography manager.
 - [pubs](https://github.com/pubs/pubs) - Scientific bibliography manager.
-- [onecite](https://github.com/HzaCode/OneCite) - Universal toolkit to generate citations.
+- [OneCite](https://github.com/HzaCode/OneCite) - Universal toolkit to generate citations.
 
 ### Weather
 
