@@ -15,7 +15,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Table of Contents](#table-of-contents)
 - [Entertainment](#entertainment)
   - [Music](#music)
   - [Video](#video)
@@ -441,9 +440,9 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ### Academia
 
-- [onecite](https://github.com/HzaCode/OneCite) - A smart, universal toolkit to generate citations in fully configurable formats (e.g., BibTeX, APA) from any given title, ID, or URL.
 - [papis](https://github.com/papis/papis) - Extensible document and bibliography manager.
 - [pubs](https://github.com/pubs/pubs) - Scientific bibliography manager.
+- [onecite](https://github.com/HzaCode/OneCite) - Universal toolkit to generate citations.
 
 ### Weather
 
