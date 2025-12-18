@@ -57,6 +57,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Weather](#weather)
   - [Browser Replacement](#browser-replacement)
   - [Internet Speedtest](#internet-speedtest)
+  - [Science](#science)
 - [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
   - [Processors](#processors)
@@ -469,6 +470,10 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [speed-test](https://github.com/sindresorhus/speed-test) - `speedtest-net` wrapper with different UI.
 - [speedtest-cli](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
 - [bandwhich](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.
+
+### Science
+
+- [periodic-table-cli](https://github.com/spirometaxas/periodic-table-cli) - View and explore the Periodic Table of Elements in your terminal.
 
 ## Command Line Learning
 
