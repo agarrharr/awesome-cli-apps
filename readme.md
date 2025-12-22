@@ -293,6 +293,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 - [CookCLI](https://github.com/cooklang/CookCLI) - Full-featured recipe manager.
 - [hns](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe voice from microphone.
+- [claude-code-bridge](https://github.com/bfly123/claude_code_bridge) - Real-time multi-AI collaboration between Claude, Codex and Gemini with minimal token overhead.
 
 ### Time Tracking
 
