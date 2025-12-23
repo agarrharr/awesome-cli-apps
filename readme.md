@@ -114,6 +114,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [radio-active](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
 - [mpvc](https://github.com/gmt4/mpvc) - Music player interfacing mpv.
 - [TUISIC](https://github.com/Dark-Kernel/tuisic) - Login-free music streaming.
+- [waves](https://github.com/llehouerou/waves) - Terminal music player with library browsing and radio mode.
 
 ### Video
 
