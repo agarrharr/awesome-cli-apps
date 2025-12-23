@@ -610,6 +610,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [happyfinder](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
 - [find-up-cli](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
+- [vexor](https://github.com/scarletkc/vexor) - Vector-powered semantic search for local files.
 - [fzf](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
 - [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
