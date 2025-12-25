@@ -280,7 +280,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests.
 - [Step CI](https://github.com/stepci/stepci) - API testing and QA framework.
 - [bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
-  
+
 ## Productivity
 
 - [doing](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
@@ -580,6 +580,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### File Sync/Sharing
 
 - [rclone](https://github.com/ncw/rclone) - Sync files with various cloud providers.
+- [s3m](https://github.com/s3m/s3m) - CLI for streams of data in S3 buckets
 - [ffsend](https://github.com/timvisee/ffsend) - Quick file share.
 - [share-cli](https://github.com/marionebl/share-cli) - Share files with your local network.
 - [google-drive-upload](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
