@@ -278,7 +278,8 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests.
 - [Step CI](https://github.com/stepci/stepci) - API testing and QA framework.
-
+- [bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
+  
 ## Productivity
 
 - [doing](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
