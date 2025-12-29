@@ -115,6 +115,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [radio-active](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
 - [mpvc](https://github.com/gmt4/mpvc) - Music player interfacing mpv.
 - [TUISIC](https://github.com/Dark-Kernel/tuisic) - Login-free music streaming.
+- [spotatui](https://github.com/LargeModGames/spotatui) - Spotify client with native streaming, synced lyrics, and audio visualization.
 
 ### Video
 
