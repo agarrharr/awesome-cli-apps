@@ -368,6 +368,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [stronghold](https://github.com/alichtman/stronghold) - Configure security settings from the terminal.
 - [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
 - [clippy](https://github.com/neilberkman/clippy) - Clipboard tool for interacting with GUI applications.
+- [anvil](https://github.com/0xjuanma/anvil) - Simple config management and grouped app installations.
 
 ### Terminal Sharing Utilities
 
@@ -410,7 +411,6 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [undollar](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
 - [pipe_exec](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
 - [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets.
-- [anvil](https://github.com/0xjuanma/anvil) - Simple config management and grouped app installations.
 
 ### System Interaction Utilities
 
