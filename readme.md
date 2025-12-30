@@ -410,6 +410,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [undollar](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
 - [pipe_exec](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
 - [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets.
+- [anvil](https://github.com/0xjuanma/anvil) - Simple config management and grouped app installations.
 
 ### System Interaction Utilities
 
