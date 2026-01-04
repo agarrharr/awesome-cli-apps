@@ -272,6 +272,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [ain](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
 - [curlie](https://github.com/rs/curlie) - A curl frontend with the ease of use of HTTPie.
 - [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust.
+- [Lynkr](https://github.com/Fast-Editor/Lynkr) - A proxy router for claude code that optimizes costs by routing requests through local models &also use custom prompt caching for token efficiency when routed to cloud models.
 
 ### Testing
 
