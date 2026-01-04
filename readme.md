@@ -224,6 +224,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [s5cmd](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
 - [updo](https://github.com/Owloops/updo) - Website monitoring tool.
 - [cronboard](https://github.com/antoniorodr/Cronboard) - Dashboard for managing cron jobs.
+- [s3m](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
 
 ### Docker
 
@@ -580,7 +581,6 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### File Sync/Sharing
 
 - [rclone](https://github.com/ncw/rclone) - Sync files with various cloud providers.
-- [s3m](https://github.com/s3m/s3m) - CLI for streams of data in S3 buckets
 - [ffsend](https://github.com/timvisee/ffsend) - Quick file share.
 - [share-cli](https://github.com/marionebl/share-cli) - Share files with your local network.
 - [google-drive-upload](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
