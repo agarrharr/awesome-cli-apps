@@ -141,8 +141,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Books
 
-- [epr](https://github.com/wustho/epr) - EPUB reader.
-- [epy](https://github.com/wustho/epy) - EPUB reader with more features.
+- [epr](https://github.com/wustho/epr), [epy](https://github.com/wustho/epy) - EPUB reader.
 - [Bible.Js CLI](https://github.com/BibleJS/BibleApp) - Bible.
 - [SpeedRead](https://github.com/sunsations/speed_read) - Spritz-alike speedreader.
 - [medium-cli](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories.
