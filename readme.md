@@ -138,7 +138,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Books
 
-- [epr](https://github.com/wustho/epr) - epub reader.
+- [epr](https://github.com/wustho/epr), [epy](https://github.com/wustho/epy) - EPUB reader.
 - [Bible.Js CLI](https://github.com/BibleJS/BibleApp) - Bible.
 - [SpeedRead](https://github.com/sunsations/speed_read) - Spritz-alike speedreader.
 - [medium-cli](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories.
@@ -226,6 +226,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [s5cmd](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
 - [updo](https://github.com/Owloops/updo) - Website monitoring tool.
 - [cronboard](https://github.com/antoniorodr/Cronboard) - Dashboard for managing cron jobs.
+- [s3m](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
 
 ### Docker
 
@@ -282,7 +283,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests.
 - [Step CI](https://github.com/stepci/stepci) - API testing and QA framework.
 - [bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
-  
+
 ## Productivity
 
 - [doing](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
