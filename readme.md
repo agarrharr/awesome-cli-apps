@@ -328,6 +328,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [ledger](https://ledger-cli.org/) - Powerful, double-entry accounting system.
 - [hledger](https://hledger.org/) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+- [rustledger](https://github.com/rustledger/rustledger) - Drop-in Rust replacement for Beancount, 10x faster.
 - [moeda](https://github.com/thompsonemerson/moeda) - Foreign exchange rates and currency conversion.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
 - [cointop](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
