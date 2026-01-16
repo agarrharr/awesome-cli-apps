@@ -57,6 +57,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Weather](#weather)
   - [Browser Replacement](#browser-replacement)
   - [Internet Speedtest](#internet-speedtest)
+  - [Science](#science)
 - [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
   - [Processors](#processors)
@@ -108,7 +109,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [moc](http://moc.daper.net/) - Console audio player for Linux/UNIX.
 - [musikcube](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
 - [beets](https://github.com/beetbox/beets) - Music library manager and tagger.
-- [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify client.
+- [spotatui](https://github.com/LargeModGames/spotatui) - Spotify client.
 - [swaglyrics-for-spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
 - [dzr](https://github.com/yne/dzr) - deezer.com player.
 - [radio-active](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
@@ -137,7 +138,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Books
 
-- [epr](https://github.com/wustho/epr) - epub reader.
+- [epr](https://github.com/wustho/epr), [epy](https://github.com/wustho/epy) - EPUB reader.
 - [Bible.Js CLI](https://github.com/BibleJS/BibleApp) - Bible.
 - [SpeedRead](https://github.com/sunsations/speed_read) - Spritz-alike speedreader.
 - [medium-cli](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories.
@@ -222,6 +223,8 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [logdy](https://github.com/logdyhq/logdy-core) - Supercharge terminal logs with web UI.
 - [s5cmd](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
 - [updo](https://github.com/Owloops/updo) - Website monitoring tool.
+- [cronboard](https://github.com/antoniorodr/Cronboard) - Dashboard for managing cron jobs.
+- [s3m](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
 
 ### Docker
 
@@ -277,6 +280,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests.
 - [Step CI](https://github.com/stepci/stepci) - API testing and QA framework.
+- [bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
 
 ## Productivity
 
@@ -291,6 +295,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [fjira](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
 - [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 - [CookCLI](https://github.com/cooklang/CookCLI) - Full-featured recipe manager.
+- [hns](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe voice from microphone.
 
 ### Time Tracking
 
@@ -364,6 +369,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [stronghold](https://github.com/alichtman/stronghold) - Configure security settings from the terminal.
 - [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
 - [clippy](https://github.com/neilberkman/clippy) - Clipboard tool for interacting with GUI applications.
+- [anvil](https://github.com/0xjuanma/anvil) - Config management and app installations.
 
 ### Terminal Sharing Utilities
 
@@ -445,6 +451,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [papis](https://github.com/papis/papis) - Extensible document and bibliography manager.
 - [pubs](https://github.com/pubs/pubs) - Scientific bibliography manager.
+- [OneCite](https://github.com/HzaCode/OneCite) - Universal toolkit to generate citations.
 
 ### Weather
 
@@ -468,6 +475,10 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [speed-test](https://github.com/sindresorhus/speed-test) - `speedtest-net` wrapper with different UI.
 - [speedtest-cli](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
 - [bandwhich](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.
+
+### Science
+
+- [periodic-table-cli](https://github.com/spirometaxas/periodic-table-cli) - View and explore the Periodic Table of Elements.
 
 ## Command Line Learning
 
@@ -579,6 +590,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [shbin](https://github.com/Shiphero/shbin/) - Turn a Github repo into a pastebin.
 - [sharing](https://github.com/parvardegr/sharing) - Send and receive files on your mobile device.
 - [ncp](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers.
+- [share](https://github.com/beavailable/share) - Share and receive files effortlessly over HTTP.
 
 ### Directory Listing
 

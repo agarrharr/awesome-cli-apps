@@ -2,33 +2,38 @@
 
 ## App to be submitted
 
-Not all tools can be considered. The aim of the list is to provide a concise list of awesome CLI tools and apps. This means that suggested software should:  
+Not all tools can be considered.
+The aim of the list is to provide a concise list of awesome CLI tools and apps.
+This means that all suggested software should:
   
-- Do one thing and do it well
-- Have a free and open source license
-- Be easy to install
-- Be well documented
+- Do one thing and do it well.
+- Have a free and open source license.
+- Be easy to install.
+- Be well documented.
+- Be older than 90 days.
+- Have more than 20 stars (if it is hosted on GitHub.)
 
-## Pull Request Style
+## Pull request to add an app
 
-**Ground Rules:**
+**Contents:**
 
-- No duplicates.
-- Individual pull request for each suggestion.
-- The apps repository is older than 90 days.
-- The apps repository has more than 20 stars (if on Github).
+Add the app at the bottom of the relevant category.
+Use the following format for the entry: `[APP_NAME](LINK) - DESCRIPTION.`
+Where:
+- The description starts with a capital and ends with a full stop (period).
+- The description is short and concise. No redundant information like "CLI" or "terminal"
+  Usually the apps repository description or tag line is a good starting point.
+- There is no trailing whitespace.
 
+**Style:**
 
-**Formatting & Style:**
+Open one pull request per app suggestion and title it simply `Add APP_NAME`.
+Use the provided pull request template.
+Failure follow this point means the PR will be closed without being looked at.
 
-- The pull request shall be titled: `Add APP_NAME`.
-- The app is added at the bottom of the relevant category.
-- Use the following format: `[APP_NAME](LINK) - DESCRIPTION.`
-  - Description starts with a capital and ends with a full stop (period).
-  - A description should be short and concise. No redudant info like "CLI".
-  - No trailing whitespace.
-  - Check your spelling and grammar.
+Thank you for contributing :)
 
 ## Other Pull Requests
 
-Pull requests that are not adding a new app, but introduce new categories or improve the readme are always welcome! In that case feel free to disregard the given structure above.
+Pull requests that are not adding a new app, but introduce new categories or improve the readme are always welcome!
+In that case feel free to disregard the given structure above.
