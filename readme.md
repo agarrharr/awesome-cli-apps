@@ -225,6 +225,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [updo](https://github.com/Owloops/updo) - Website monitoring tool.
 - [cronboard](https://github.com/antoniorodr/Cronboard) - Dashboard for managing cron jobs.
 - [s3m](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
+- [agent-manager](https://github.com/fractalmind-ai/agent-manager-skill) - tmux + Python agent lifecycle manager for running multiple CLI AI agents (start/stop/monitor/assign + cron scheduling).
 
 ### Docker
 
