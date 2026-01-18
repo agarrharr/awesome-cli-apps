@@ -433,6 +433,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 - [glow](https://github.com/charmbracelet/glow) - Styled markdown rendering.
 - [gtree](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
+- [Jimmy](https://github.com/marph91/jimmy) - Convert various note formats to markdown.
 
 ### Security
 
