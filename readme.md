@@ -672,6 +672,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
 - [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
+- [Heroshot](https://github.com/omachala/heroshot) - Screenshot automation for documentation with visual element picker.
 
 ### Gif Creation
 
