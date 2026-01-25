@@ -306,6 +306,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [utt](https://github.com/larose/utt) - Simple time tracking tool.
 - [Bartib](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 - [arttime](https://github.com/reportaman/arttime) - Featureful timer with native desktop notifications and curated ASCII art.
+- [Focusd](https://github.com/0xarchit/Focusd) - Ultralight privacy-first screen time tracker and digital wellbeing CLI tool for Windows.
 
 ### Note Taking and Lists
 
