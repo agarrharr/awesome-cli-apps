@@ -166,6 +166,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
 - [reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
+- [ExplainThisRepo](https://github.com/calchiwo/ExplainThisRepo) - CLI that explains GitHub repositories and detects their tech stack.
 
 ### Text Editors
 
