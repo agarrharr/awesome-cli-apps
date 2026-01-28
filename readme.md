@@ -381,6 +381,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
 - [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through SSH.
+- [ShellLeap](https://github.com/shareefsakk2/shellleap) - Premium, secure cross-platform SSH & SFTP client with AES-256-GCM vault.
 
 ### Network Utilities
 
