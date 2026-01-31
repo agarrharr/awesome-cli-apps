@@ -241,6 +241,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`.
 - [release](https://github.com/vercel/release) - Generate changelogs with a single command.
 - [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing.
+- [lastversion](https://github.com/dvershinin/lastversion) - Find the latest stable version of any project.
 
 ### Npm
 
