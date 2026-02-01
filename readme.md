@@ -578,6 +578,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [RecoverPy](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
 - [f2](https://github.com/ayoisaiah/f2) - A cross-platform tool for fast, safe, and flexible batch renaming.
 - [scc](https://github.com/boyter/scc) - Count lines of code, blank lines, comment lines, and physical lines of source code.
+- [aloc](https://github.com/modern-tooling/aloc) - AI-augmented lines of code counter with TUI.
 
 ### File Sync/Sharing
 
