@@ -493,6 +493,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [teachcode](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
 - [navi](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
 - [yai](https://github.com/ekkinox/yai) - AI powered terminal assistant.
+- [AdaL](https://sylph.ai/) - Self-evolving AI coding agent that learns your codebase and lets models collaborate (Claude, GPT, Gemini).
 
 ## Data Manipulation
 
