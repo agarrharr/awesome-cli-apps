@@ -206,6 +206,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [sqlline](https://github.com/julianhyde/sqlline) - Shell for issuing SQL via JDBC.
 - [iredis](https://github.com/laixintao/iredis) - Redis client with autocompletion and syntax highlighting.
 - [usql](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
+- [supabase-plus](https://github.com/dsplce-co/supabase-plus) - Extra tools for managing Supabase projects going beyond the regular Supabase CLI.
 
 ### Devops
 
