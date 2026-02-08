@@ -361,6 +361,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
 - [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 - [clevercli](https://github.com/clevercli/clevercli) - Collection of ChatGPT powered utilities.
+- [PentLog](https://github.com/aancw/pentlog) - Evidence-First Pentest Logger. Capture every command, find anything, prove everything. Perfect for real engagements, compliance, OSCP, and HTB.
 
 ### macOS
 
