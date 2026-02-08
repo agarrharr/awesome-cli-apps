@@ -442,6 +442,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based VPN.
 - [hasha-cli](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
 - [ots](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
+- [VirusTotal-CLI](https://github.com/Soumyo001/VirusTotal-CLI) - Command-line interface for scanning files, URLs and more via the VirusTotal API.
 
 ### Math
 
