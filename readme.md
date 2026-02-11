@@ -493,6 +493,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [teachcode](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
 - [navi](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
 - [yai](https://github.com/ekkinox/yai) - AI powered terminal assistant.
+- [Linux Command Library](https://linuxcommandlibrary.com) - Comprehensive reference for 7000+ Linux commands with examples, offline support, cheat sheets, and CLI for all desktop platforms (Android, iOS, Linux, macOS, Windows).
 
 ## Data Manipulation
 
