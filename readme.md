@@ -393,6 +393,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [gg](https://github.com/mzz2017/gg) - One-click proxy without installing v2ray or anything else.
 - [rustnet](https://github.com/domcyrus/rustnet) - Network monitoring with process identification and deep packet inspection.
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
+- [vortix](https://github.com/Harry-kp/vortix) - WireGuard and OpenVPN manager with real-time telemetry, leak detection, and kill switch.
 
 ### Theming and Customization
 
