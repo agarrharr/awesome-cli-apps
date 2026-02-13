@@ -457,6 +457,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### Weather
 
 - [wttr.in](https://github.com/chubin/wttr.in)
+- [weathr](https://github.com/veirt/weathr)
 - [wego](https://github.com/schachmat/wego)
 - [weather-cli](https://github.com/riyadhalnur/weather-cli)
 
