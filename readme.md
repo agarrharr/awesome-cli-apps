@@ -441,6 +441,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [gopass](https://github.com/gopasspw/gopass) - Fully-featured password manager.
 - [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based VPN.
 - [hasha-cli](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
+- [noid-privacy-linux](https://github.com/NexusOne23/noid-privacy-linux) - Privacy & security audit for Linux desktops with 300+ checks.
 - [ots](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
 
 ### Math
