@@ -590,6 +590,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [gdrive-downloader](https://github.com/Akianonymus/gdrive-downloader) - Download files/folders from Google Drive.
 - [portal](https://github.com/ZinoKader/portal) - Send files between computers.
 - [shbin](https://github.com/Shiphero/shbin/) - Turn a Github repo into a pastebin.
+- [vnsh](https://github.com/raullenchai/vnsh) - Encrypted ephemeral file sharing. Zero-knowledge pastebin with auto-expiring links.
 - [sharing](https://github.com/parvardegr/sharing) - Send and receive files on your mobile device.
 - [ncp](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers.
 - [share](https://github.com/beavailable/share) - Share and receive files effortlessly over HTTP.
