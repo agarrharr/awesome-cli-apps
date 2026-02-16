@@ -333,6 +333,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
 - [cointop](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
 - [ticker](https://github.com/achannarasappa/ticker) - Stock ticker.
+- [qbo-cli](https://github.com/alexph-dev/qbo-cli) - Command-line interface for QuickBooks Online API.
 
 ### Presentations
 
