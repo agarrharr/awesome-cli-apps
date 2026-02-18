@@ -294,6 +294,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [uber-cli](https://github.com/jaebradley/uber-cli) - Uber client.
 - [Buku](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
 - [fjira](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
+- [clickup-cli](https://github.com/blockful-io/clickup-cli) - ClickUp client with 53 commands covering tasks, spaces, lists, docs, time tracking and more.
 - [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 - [CookCLI](https://github.com/cooklang/CookCLI) - Full-featured recipe manager.
 - [hns](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe voice from microphone.
