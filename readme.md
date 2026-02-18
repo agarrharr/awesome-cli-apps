@@ -225,6 +225,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [s5cmd](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
 - [updo](https://github.com/Owloops/updo) - Website monitoring tool.
 - [cronboard](https://github.com/antoniorodr/Cronboard) - Dashboard for managing cron jobs.
+- [gabe-monitor](https://github.com/Scolliq/gabe) - Cron job heartbeat monitor with Slack/Discord alerts.
 - [s3m](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
 
 ### Docker
