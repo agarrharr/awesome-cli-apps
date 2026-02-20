@@ -198,6 +198,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [mobicon-cli](https://github.com/SamVerschueren/mobicon-cli) - Mobile app icon generator.
 - [mobisplash-cli](https://github.com/SamVerschueren/mobisplash-cli) - Mobile app splash screen generator.
 - [deviceframe](https://github.com/c0bra/deviceframe) - Put device frames around your mobile/web/progressive app screenshots.
+- [ShipThis](https://github.com/shipth-is/cli) - Build and publish Godot games to the App Store and Google Play.
 
 ### Database
 
