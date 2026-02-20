@@ -252,6 +252,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows.
 - [updates](https://github.com/silverwind/updates) - Flexible npm dependency update tool.
 - [wipe-modules](https://github.com/bntzio/wipe-modules) - Remove `node_modules` of inactive projects.
+- [npm-deprecated-check](https://github.com/KID-joker/npm-deprecated-check) - Check whether a dependency is deprecated and recommend alternative packages.
 
 ### Boilerplate
 
