@@ -322,7 +322,6 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [nb](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
 - [obsidian-cli](https://github.com/Yakitrak/obsidian-cli) - Interact with your Obsidian vault.
 - [journalot](https://github.com/jtaylortech/journalot) - Journaling tool with git sync.
-- [Kagan](https://github.com/kagan-sh/kagan) - AI-powered Kanban board for autonomous development workflows.
 
 ### Finance
 
