@@ -167,6 +167,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
 - [reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
+- [claude-code-open](https://github.com/kill136/claude-code-open) - AI coding platform with 37+ tools, multi-agent orchestration, and MCP protocol support.
 
 ### Text Editors
 
