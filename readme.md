@@ -698,6 +698,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Random pipes that grow across the screen.
 - [YuleLog](https://github.com/Duroktar/YuleLog) - Christmas Yule Log fireplace.
 - [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Digital fireplace.
+- [gitlogue](https://github.com/unhappychoice/gitlogue) - Cinematic Git commit replay with typing animations and syntax highlighting.
 
 ## Graphics
 
