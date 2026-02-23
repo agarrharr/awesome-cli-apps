@@ -282,6 +282,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests.
 - [Step CI](https://github.com/stepci/stepci) - API testing and QA framework.
 - [bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
+- [cmdperf](https://github.com/miklosn/cmdperf) - Benchmark and compare shell command performance.
 
 ## Productivity
 
