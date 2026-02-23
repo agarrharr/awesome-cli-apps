@@ -60,6 +60,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Science](#science)
 - [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
+  - [CLI Data Manipulation](#cli-data-manipulation)
+  - [TUI Data Manipulation](#tui-data-manipulation)
+  - [CSV Data Viewers](#csv-data-viewers)
   - [Processors](#processors)
   - [JSON](#json)
   - [YAML](#yaml)
@@ -497,7 +500,25 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ## Data Manipulation
 
+### CLI Data Manipulation
+
+- [xsv](https://github.com/BurntSushi/xsv) - Command line csv data manipulation. [Rust]
+
+- [csvtk](https://bioinf.shenwei.me/csvtk/) - Command line csv data manipulation. [Go]
+
+- [tsv-utils](https://github.com/eBay/tsv-utils) - Command line csv data manipulation toolkit. [D]
+
+- [q](https://github.com/zestyping/q) - Command line csv data manipulation query-like. [Python]
+
+- [miller](https://github.com/johnkerl/miller) - Command line data manipulation, statistics, and more. [C]
+
+### TUI Data Manipulation
+
 - [visidata](https://github.com/saulpw/visidata) - Spreadsheet multitool for data discovery and arrangement.
+
+### CSV Data Viewers
+
+- [tv](https://github.com/alexhallam/tv) - Tidy Viewer (tv) is a cross-platform csv pretty printer that uses column styling to maximize viewer enjoyment. [Rust]
 
 ### Processors
 
@@ -527,7 +548,6 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### Columns
 
 - [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns to JSON.
-- [q](http://harelba.github.io/q/) - Execution of SQL-like queries on CSV/TSV/tabular text file.
 
 ### Text
 
