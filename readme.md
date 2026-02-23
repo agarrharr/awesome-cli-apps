@@ -687,6 +687,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ### Image Conversion
 
+- [gowall](https://github.com/Achno/gowall) - Convert a Wallpaper's color scheme and customize it with a plethora of image processing features.
 - [imagemagick](https://imagemagick.org) - Gold standard for anything images.
 - [imgp](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator.
 - [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing.
