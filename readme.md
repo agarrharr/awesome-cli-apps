@@ -656,6 +656,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [gitui](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in Rust.
 - [ggc](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
 - [AI Git Narrator](https://github.com/pmusolino/AI-Git-Narrator) - [macOS]: Generate commit messages with AI.
+- [gibr](https://github.com/ytreister/gibr) - Easily create consistent and configurable Git branch names.
 
 ### GitHub
 
