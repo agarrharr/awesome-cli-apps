@@ -135,6 +135,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Roguelike construction and management simulation.
 - [Cataclysm-DDA](https://cataclysmdda.org) - Turn-based survival game set in a post-apocalyptic world.
 - [Pokete](https://github.com/lxgr-linux/Pokete) - Pokemon-like.
+- [NetHack](https://www.nethack.org) - Roguelike dungeon crawler.
 
 ### Books
 
@@ -321,7 +322,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [dnote](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
 - [nb](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
-- [obs](https://github.com/Yakitrak/obsidian-cli) - Interact with your Obsidian vault.
+- [obsidian-cli](https://github.com/Yakitrak/obsidian-cli) - Interact with your Obsidian vault.
 - [journalot](https://github.com/jtaylortech/journalot) - Journaling tool with git sync.
 
 ### Finance
@@ -494,6 +495,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [teachcode](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
 - [navi](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
 - [yai](https://github.com/ekkinox/yai) - AI powered terminal assistant.
+- [Linux Command Library](https://linuxcommandlibrary.com) - Comprehensive command reference including basic knowledge, tips, and examples.
 
 ## Data Manipulation
 
