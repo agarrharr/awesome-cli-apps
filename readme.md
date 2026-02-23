@@ -489,6 +489,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [how2](https://github.com/santinic/how2) - Node.js implementation of howdoi.
 - [The Fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
+- [topalias](https://github.com/CSRedRat/topalias) - bash/zsh aliases generator from command history with shell statistic and helpful tips
 - [Wat](https://github.com/dthree/wat) - Instant, central, community-built docs.
 - [teachcode](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
 - [navi](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
