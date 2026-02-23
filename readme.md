@@ -31,6 +31,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Devops](#devops)
   - [Docker](#docker)
   - [Release](#release)
+  - [Python](#python)
   - [Npm](#npm)
   - [Boilerplate](#boilerplate)
   - [HTTP Server](#http-server)
@@ -242,6 +243,11 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`.
 - [release](https://github.com/vercel/release) - Generate changelogs with a single command.
 - [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing.
+
+### Python
+
+- [pypi-command-line](https://github.com/wasi-master/pypi-command-line) - A powerful, colorful, beautiful command-line-interface for pypi.org.
+
 
 ### Npm
 
