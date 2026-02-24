@@ -298,6 +298,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [CookCLI](https://github.com/cooklang/CookCLI) - Full-featured recipe manager.
 - [hns](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe voice from microphone.
 
+- [OpenClaw](https://github.com/openclaw/openclaw) - AI agent runtime connecting Claude to tools, devices, messaging and browser automation.
 ### Time Tracking
 
 - [Timetrap](https://github.com/samg/timetrap) - Simple timetracker.
