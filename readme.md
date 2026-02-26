@@ -313,6 +313,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [idea](https://github.com/IonicaBizau/idea) - A lightweight tool for keeping ideas in a safe place quick and easy.
 - [geeknote](https://github.com/vitaly-zdanevich/geeknote) - Evernote client.
 - [Taskwarrior](https://taskwarrior.org/) - Manage your TODO list.
+- [task-cli](https://github.com/leomekhe-tech/task-cli) - Simple task tracking from the terminal with priorities and statistics.
 - [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app.
 - [eureka](https://github.com/simeg/eureka) - Input and store your ideas.
 - [sncli](https://github.com/insanum/sncli) - Simplenote client.
@@ -424,6 +425,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
 - [glances](https://nicolargo.github.io/glances/) - System monitoring tool.
+- [vps-health](https://github.com/leomekhe-tech/vps-health) - Lightweight VPS health monitor with beautiful output.
 - [tiptop](https://github.com/nschloe/tiptop) - System monitor.
 - [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file.
 
@@ -557,6 +559,10 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [rename-cli](https://github.com/jhotmann/node-rename-cli) - Rename files quickly.
 - [renameutils](https://www.nongnu.org/renameutils/) - Mass renaming in your editor.
 
+### Dotfiles Management
+
+- [dotfiles-manager](https://github.com/leomekhe-tech/dotfiles-manager) - Simple dotfiles management with symlinks and git tracking.
+
 ### Disk Usage
 
 - [diskonaut](https://github.com/imsnif/diskonaut) - Disk space navigator.
@@ -637,6 +643,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [git commander](https://github.com/golbin/git-commander) - Interactive git tool.
 - [git-stats](https://github.com/IonicaBizau/git-stats) - A local GitHub-like contributions calendar.
+- [git-activity](https://github.com/leomekhe-tech/git-activity) - Track your GitHub activity from the terminal.
 - [dev-time](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git.
 - [grv](https://github.com/rgburke/grv) - Text-mode interface for git with customisable vi bindings.
