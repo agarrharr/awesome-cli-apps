@@ -371,6 +371,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
 - [clippy](https://github.com/neilberkman/clippy) - Clipboard tool for interacting with GUI applications.
 - [anvil](https://github.com/0xjuanma/anvil) - Config management and app installations.
+- [OpenBoot](https://github.com/openbootdotdev/openboot) - Dev environment manager that captures and restores Homebrew packages, casks, dotfiles, shell config, and macOS preferences.
 
 ### Terminal Sharing Utilities
 
