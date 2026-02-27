@@ -168,6 +168,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 
+- [PolySkill](https://polyskill.ai) - Open marketplace for LLM-agnostic skills that work with Claude Code, Codex, and other AI assistants. `npm install -g @polyskill/cli`
 ### Text Editors
 
 - [emacs](https://github.com/emacs-mirror/emacs) - An extensible, customizable, free/libre text editor — and more.
