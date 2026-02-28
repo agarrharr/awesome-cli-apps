@@ -393,6 +393,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [gg](https://github.com/mzz2017/gg) - One-click proxy without installing v2ray or anything else.
 - [rustnet](https://github.com/domcyrus/rustnet) - Network monitoring with process identification and deep packet inspection.
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
+- [cdns](https://github.com/junevm/cdns) - Change DNS servers effortlessly via terminal 🗽.
 
 ### Theming and Customization
 
