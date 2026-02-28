@@ -726,11 +726,12 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ## Other Resources
 
-- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
+- [awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - Extensive list of cli apps.
 - [awesome-shell](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
 - [awesome-nodejs clis](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
+- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
 - [x-cmd](https://github.com/x-cmd/x-cmd) - Ecosystem of cli tools, featuring a wide array of improve core utils, AI access and more.
 
 ## License
