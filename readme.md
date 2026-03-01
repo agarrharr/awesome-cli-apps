@@ -297,6 +297,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 - [CookCLI](https://github.com/cooklang/CookCLI) - Full-featured recipe manager.
 - [hns](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe voice from microphone.
+- [pawmode](https://github.com/daxaur/openpaw) - Turn Claude Code into a personal assistant with 38 skills for email, calendar, Spotify, smart home and more.
 
 ### Time Tracking
 
