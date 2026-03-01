@@ -674,6 +674,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
 - [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
+- [pixelmuse](https://github.com/starmorph/pixelmuse-cli) - AI image generation with 6 models, interactive TUI, and MCP server for AI agents.
 
 ### Gif Creation
 
