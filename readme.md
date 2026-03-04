@@ -150,6 +150,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [WeeChat](https://weechat.org/) - Fast, light and extensible chat client.
 - [irssi](https://github.com/irssi/irssi) - IRC chat client.
 - [kirc](https://github.com/mcpcpc/kirc) - Tiny IRC client.
+- [openkakao](https://github.com/JungHoonGhae/openkakao) - Unofficial CLI for reading KakaoTalk chats, friends, and profiles on macOS.
 
 ## Development
 
@@ -289,6 +290,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 - [meetup-cli](https://github.com/specious/meetup-cli) - Meetup.com client.
 - [NeoMutt](https://neomutt.org) - Email client.
+- [oh-my-lilys](https://github.com/JungHoonGhae/oh-my-lilys) - CLI tool for lilys.ai. Summarize YouTube, PDF, and websites from the terminal.
 - [terjira](https://github.com/keepcosmos/terjira) - Jira client.
 - [ipt](https://github.com/drselump14/ipt) - Pivotal Tracker client.
 - [uber-cli](https://github.com/jaebradley/uber-cli) - Uber client.
@@ -296,6 +298,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [fjira](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
 - [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 - [CookCLI](https://github.com/cooklang/CookCLI) - Full-featured recipe manager.
+- [capx](https://github.com/JungHoonGhae/capx) - Unofficial CLI for Capacities.io knowledge base management.
 - [hns](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe voice from microphone.
 
 ### Time Tracking
