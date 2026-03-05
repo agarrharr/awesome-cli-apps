@@ -307,6 +307,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [utt](https://github.com/larose/utt) - Simple time tracking tool.
 - [Bartib](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 - [arttime](https://github.com/reportaman/arttime) - Featureful timer with native desktop notifications and curated ASCII art.
+- [Helm](https://github.com/0xjuanma/helm) - Minimalistic & customizable timer for your terminal.
 
 ### Note Taking and Lists
 
