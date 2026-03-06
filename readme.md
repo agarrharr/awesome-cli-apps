@@ -700,6 +700,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Digital fireplace.
 
 ## Graphics
+- [graphable](https://github.com/TheTrueSCU/graphable) - CLI for analyzing and visualizing graph files into interactive diagrams.
 
 - [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - Traverse the Mandelbrot fractal.
 - [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
