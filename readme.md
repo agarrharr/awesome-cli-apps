@@ -168,6 +168,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 
+- [wolfpack](https://github.com/almogdepaz/wolfpack) - Mobile & desktop PWA command center for AI coding agents (Claude, Codex, Gemini) via tmux — control sessions across machines from your phone, secured by Tailscale.
+
 ### Text Editors
 
 - [emacs](https://github.com/emacs-mirror/emacs) - An extensible, customizable, free/libre text editor — and more.
