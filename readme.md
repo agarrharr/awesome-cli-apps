@@ -219,6 +219,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [PingMe](https://github.com/kha7iq/pingme) - Send messages/alerts to multiple messaging platforms & email.
 - [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
 - [Discharge](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
+- [duplicacy-cli-cron](https://github.com/GeiserX/duplicacy-cli-cron) - Docker-based encrypted dual-storage backup automation using Duplicacy CLI with cross-site redundancy.
 - [updatecli](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
 - [telert](https://github.com/navig-me/telert) - Multi-channel alerts for long-running commands and process/log/uptime monitoring.
 - [logdy](https://github.com/logdyhq/logdy-core) - Supercharge terminal logs with web UI.
