@@ -361,6 +361,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
 - [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 - [clevercli](https://github.com/clevercli/clevercli) - Collection of ChatGPT powered utilities.
+- [llm-costs](https://github.com/followtayeeb/llm-costs) - Compare LLM API costs across 17 models and 6 providers from your terminal. Zero install via npx.
 
 ### macOS
 
