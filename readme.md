@@ -229,6 +229,8 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [cronboard](https://github.com/antoniorodr/Cronboard) - Dashboard for managing cron jobs.
 - [s3m](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
 
+- [wolfpack](https://github.com/almogdepaz/wolfpack) - Mobile & desktop command center for AI coding agents. Control Claude, Codex, Gemini sessions across machines from your phone, secured by Tailscale.
+
 ### Docker
 
 - [lstags](https://github.com/ivanilves/lstags) - Synchronize images across registries.
