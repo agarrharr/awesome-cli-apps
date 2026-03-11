@@ -332,6 +332,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [moeda](https://github.com/thompsonemerson/moeda) - Foreign exchange rates and currency conversion.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
 - [cointop](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
+- [fdx](https://github.com/financedistrict-platform/fd-agent-wallet-cli) - AI agent crypto wallet CLI — hold, send, swap, and earn yield across Ethereum, BSC, Arbitrum, Base, and Solana without managing private keys.
 - [ticker](https://github.com/achannarasappa/ticker) - Stock ticker.
 
 ### Presentations
