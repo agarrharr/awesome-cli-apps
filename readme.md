@@ -516,6 +516,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [underscore-cli](https://github.com/ddopson/underscore-cli) - Utility-belt for hacking JSON and Javascript.
 - [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
 - [GROQ](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
+- [json-converter](https://github.com/kezhihao/json-converter) - Convert JSON between formats (JSON/YAML/TOML/XML).
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable.
 - [config-file-validator](https://github.com/Boeing/config-file-validator) - Validate configuration files.
 
