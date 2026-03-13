@@ -442,6 +442,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based VPN.
 - [hasha-cli](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
 - [ots](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
+- [greywall](https://github.com/GreyhavenHQ/greywall) - Deny-by-default sandbox for CLI commands with filesystem and network isolation.
 
 ### Math
 
