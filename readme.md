@@ -226,6 +226,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [updo](https://github.com/Owloops/updo) - Website monitoring tool.
 - [cronboard](https://github.com/antoniorodr/Cronboard) - Dashboard for managing cron jobs.
 - [s3m](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
+- [ORCH](https://github.com/oxgeneral/ORCH) - Orchestrator for AI agent teams (Claude, Codex, Cursor). Parallel task dispatch, state machine, and autonomous mode. TypeScript, MIT.
 
 ### Docker
 
