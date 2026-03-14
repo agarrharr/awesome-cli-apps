@@ -234,6 +234,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
 - [docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 - [ctop](https://github.com/bcicen/ctop) - Top like interface for container metrics.
+- [decompose](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
 
 ### Release
 
