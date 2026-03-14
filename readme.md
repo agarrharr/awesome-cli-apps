@@ -273,6 +273,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [HTTP Prompt](https://github.com/eliangcs/http-prompt) - Interactive HTTP client featuring autocomplete and syntax highlighting.
 - [ain](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
 - [curlie](https://github.com/rs/curlie) - A curl frontend with the ease of use of HTTPie.
+- [x402-proxy](https://github.com/cascade-protocol/x402-proxy) - HTTP client for x402 paid APIs. Auto-pays 402 responses with USDC.
 - [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust.
 
 ### Testing
