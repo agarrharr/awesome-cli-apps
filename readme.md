@@ -442,6 +442,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based VPN.
 - [hasha-cli](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
 - [ots](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
+- [zsh-paste-guard](https://github.com/stefanoamorelli/zsh-paste-guard) - Prevent clipboard injection attacks in ZSH.
 
 ### Math
 
