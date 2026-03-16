@@ -629,6 +629,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [ncp](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers.
 - [share](https://github.com/beavailable/share) - Share and receive files effortlessly over HTTP.
 - [shuk](https://shuk.rs) - Quicky share files using Amazon S3 buckets.
+- [croc](https://github.com/schollz/croc) - Easily send things from one computer to another.
 
 ### Directory Listing
 
@@ -690,7 +691,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [git-all-branches](https://github.com/zacanger/git-all-branches) - Improved `git branch -a`.
 - [czg](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
-- [Lazygit](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
+- [lazygit](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
 - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy bash prompt for Git users.
 - [gitui](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in Rust.
 - [ggc](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
