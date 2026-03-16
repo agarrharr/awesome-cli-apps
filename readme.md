@@ -310,6 +310,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [Bartib](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 - [arttime](https://github.com/reportaman/arttime) - Featureful timer with native desktop notifications and curated ASCII art.
 - [Tock](https://github.com/kriuchkov/tock) - Powerful time tracking tool.
+- [Helm](https://github.com/0xjuanma/helm) - Minimalistic timer.
 
 ### Note Taking and Lists
 
