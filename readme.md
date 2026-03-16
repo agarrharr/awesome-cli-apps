@@ -628,6 +628,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [skim](https://github.com/lotabout/skim) - A general fuzzy finder written in Rust, similar to fzf.
 - [ast-grep](https://github.com/ast-grep/ast-grep) - A tool for code structural search, linting and rewriting.
 - [television](https://github.com/alexpasmantier/television) - A very fast general purpose fuzzy finder.
+- [claude-grep](https://github.com/evoleinik/claude-grep) - Search Claude Code session history with regex and semantic search.
 
 ## Version Control
 
