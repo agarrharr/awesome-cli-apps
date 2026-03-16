@@ -299,6 +299,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 - [CookCLI](https://github.com/cooklang/CookCLI) - Full-featured recipe manager.
 - [hns](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe voice from microphone.
+- [mynav](https://github.com/GianlucaP106/mynav) - Workspace and session management TUI.
 
 ### Time Tracking
 
