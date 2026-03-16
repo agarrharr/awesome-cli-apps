@@ -432,6 +432,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [gowall](https://github.com/Achno/gowall) - Extract image color pallet, recolor images/icon and more.
 
 ### Shell Utilities
+- [pd-researcher](https://github.com/barrowryan89-cloud/pd-researcher) - A collection of 98 zero-dependency Python CLI tools for developers and DevOps.
 
 - [has](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
 - [Ultimate Plumber](https://github.com/akavel/up) - Write Linux pipes with live previews.
