@@ -439,7 +439,6 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 - [glow](https://github.com/charmbracelet/glow) - Styled markdown rendering.
 - [gtree](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
-- [resumx](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting.
 - [Jimmy](https://github.com/marph91/jimmy) - Convert various note formats to markdown.
 
 ### Security
@@ -488,6 +487,11 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### Science
 
 - [periodic-table-cli](https://github.com/spirometaxas/periodic-table-cli) - View and explore the Periodic Table of Elements.
+
+### Professional: Resume
+
+- [resumx](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting.
+- [YAMLResume](https://github.com/yamlresume/yamlresume) - Resumes as code.
 
 ## Command Line Learning
 
