@@ -58,6 +58,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Browser Replacement](#browser-replacement)
   - [Internet Speedtest](#internet-speedtest)
   - [Science](#science)
+  - [Professional: Resume](#professional-resume)
 - [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
   - [Processors](#processors)
@@ -85,6 +86,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Graphics](#graphics)
 - [Just for Fun](#just-for-fun)
   - [Emoji](#emoji-1)
+- [AI](#ai)
+  - [Agents](#agents)
+  - [LLM Interaction](#llm-interaction)
 - [Other Resources](#other-resources)
 - [License](#license)
 
@@ -746,6 +750,19 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
 - [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
 - [oji](https://github.com/xxczaki/oji) - Interactive text emoji maker.
+
+## AI
+Inclusion criteria are less strict for this fast-moving field.
+
+### Agents
+- [greywall](https://github.com/GreyhavenHQ/greywall) - Deny-by-default sandbox with filesystem and network isolation.
+- [agent-of-empires](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
+- [agent-deck](https://github.com/asheshgoplani/agent-deck) - Dashboard for managing multiple AI coding agent sessions.
+- [Sugar](https://github.com/roboticforce/sugar) - Autonomous agent that queues and executes tasks in the background.
+
+### LLM Interaction
+- [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
+- [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
 
 ## Other Resources
 
