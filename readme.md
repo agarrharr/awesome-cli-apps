@@ -409,6 +409,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [QuickWall](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
 - [oh-my-posh](https://ohmyposh.dev) - Prompt theme engine.
 - [starship](https://github.com/starship/starship) - Minimal, blazing-fast, and infinitely customizable prompt for any shell.
+- [gowall](https://github.com/Achno/gowall) - Extract image color pallet, recolor images/icon and more.
 
 ### Shell Utilities
 
@@ -711,6 +712,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [imgp](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator.
 - [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing.
 - [pdfjuicer](https://github.com/dmikhr/pdfjuicer) - Extract PDF pages as images.
+- [gowall](https://github.com/Achno/gowall) - Recolor images, OCR, image upscaling and more.
 
 ## Screensavers
 
