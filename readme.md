@@ -135,6 +135,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Roguelike construction and management simulation.
 - [Cataclysm-DDA](https://cataclysmdda.org) - Turn-based survival game set in a post-apocalyptic world.
 - [Pokete](https://github.com/lxgr-linux/Pokete) - Pokemon-like.
+- [NetHack](https://www.nethack.org) - Roguelike dungeon crawler.
 
 ### Books
 
@@ -205,6 +206,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [sqlline](https://github.com/julianhyde/sqlline) - Shell for issuing SQL via JDBC.
 - [iredis](https://github.com/laixintao/iredis) - Redis client with autocompletion and syntax highlighting.
 - [usql](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
+- [rdsai-cli](https://github.com/aliyun/rdsai-cli) - AI-powered MySQL client.
 
 ### Devops
 
@@ -281,6 +283,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests.
 - [Step CI](https://github.com/stepci/stepci) - API testing and QA framework.
 - [bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
+- [cmdperf](https://github.com/miklosn/cmdperf) - Quickly benchmark and compare command performance.
 
 ## Productivity
 
@@ -306,6 +309,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [utt](https://github.com/larose/utt) - Simple time tracking tool.
 - [Bartib](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 - [arttime](https://github.com/reportaman/arttime) - Featureful timer with native desktop notifications and curated ASCII art.
+- [Tock](https://github.com/kriuchkov/tock) - Powerful time tracking tool.
 
 ### Note Taking and Lists
 
@@ -319,7 +323,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [dnote](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
 - [nb](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
-- [obs](https://github.com/Yakitrak/obsidian-cli) - Interact with your Obsidian vault.
+- [obsidian-cli](https://github.com/Yakitrak/obsidian-cli) - Interact with your Obsidian vault.
 - [journalot](https://github.com/jtaylortech/journalot) - Journaling tool with git sync.
 
 ### Finance
@@ -433,6 +437,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 - [glow](https://github.com/charmbracelet/glow) - Styled markdown rendering.
 - [gtree](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
+- [resumx](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting.
 - [Jimmy](https://github.com/marph91/jimmy) - Convert various note formats to markdown.
 
 ### Security
@@ -459,6 +464,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [wttr.in](https://github.com/chubin/wttr.in)
 - [wego](https://github.com/schachmat/wego)
 - [weather-cli](https://github.com/riyadhalnur/weather-cli)
+- [weathr](https://github.com/veirt/weathr) - ASCII animations.
 
 ### Browser Replacement
 
@@ -493,10 +499,12 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [teachcode](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
 - [navi](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
 - [yai](https://github.com/ekkinox/yai) - AI powered terminal assistant.
+- [Linux Command Library](https://linuxcommandlibrary.com) - Comprehensive command reference including basic knowledge, tips, and examples.
 
 ## Data Manipulation
 
 - [visidata](https://github.com/saulpw/visidata) - Spreadsheet multitool for data discovery and arrangement.
+- [sc-im](https://github.com/andmarti1424/sc-im) - Vim-like spreadsheet calculator.
 
 ### Processors
 
@@ -697,6 +705,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Random pipes that grow across the screen.
 - [YuleLog](https://github.com/Duroktar/YuleLog) - Christmas Yule Log fireplace.
 - [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Digital fireplace.
+- [gitlogue](https://github.com/unhappychoice/gitlogue) - Cinematic git commit replay.
 
 ## Graphics
 
@@ -725,11 +734,13 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ## Other Resources
 
-- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
+- [awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - Extensive list of CLI apps.
+- [Terminal Trove](https://terminaltrove.com/) - List of CLI apps.
 - [awesome-shell](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
 - [awesome-nodejs clis](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
+- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
 - [x-cmd](https://github.com/x-cmd/x-cmd) - Ecosystem of cli tools, featuring a wide array of improve core utils, AI access and more.
 
 ## License

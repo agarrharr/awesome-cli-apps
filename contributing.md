@@ -29,7 +29,7 @@ Where:
 
 Open one pull request per app suggestion and title it simply `Add APP_NAME`.
 Use the provided pull request template.
-Failure follow this point means the PR will be closed without being looked at.
+Failure to follow this point means the PR will be closed without being looked at.
 
 Thank you for contributing :)
 
