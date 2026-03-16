@@ -2,6 +2,14 @@
 	<img width="763" src="https://cdn.rawgit.com/aharris88/awesome-cli-apps/master/media/banner.png" alt="awesome cli apps">
 </p>
 
+<p align="center">
+  Proudly maintained by:
+  <a href="https://jneidel.com">
+    <img width="24px" src="https://jneidel.com/img/logo.png" alt="jneidel.com logo">
+    <span>jneidel.com</span>
+  </a>
+</p>
+
 ---
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
