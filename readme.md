@@ -719,6 +719,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing.
 - [pdfjuicer](https://github.com/dmikhr/pdfjuicer) - Extract PDF pages as images.
 - [gowall](https://github.com/Achno/gowall) - Recolor images, OCR, image upscaling and more.
+- [img2ascii](https://github.com/JosefVesely/Image-to-ASCII) - Convert images to ASCII art.
 
 ## Screensavers
 
