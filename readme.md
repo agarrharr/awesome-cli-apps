@@ -231,6 +231,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [updo](https://github.com/Owloops/updo) - Website monitoring tool.
 - [cronboard](https://github.com/antoniorodr/Cronboard) - Dashboard for managing cron jobs.
 - [s3m](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
+- [bencher](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
 
 ### Docker
 
