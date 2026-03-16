@@ -438,6 +438,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [pipe_exec](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
 - [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets.
 - [envio](https://github.com/envio-cli/envio) - Manage environment variables securely.
+- [await](https://github.com/slavaGanzin/await) - Runs commands in parallel and waits for their termination.
 
 ### System Interaction Utilities
 
