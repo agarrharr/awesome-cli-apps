@@ -57,6 +57,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Weather](#weather)
   - [Browser Replacement](#browser-replacement)
   - [Internet Speedtest](#internet-speedtest)
+  - [Science](#science)
 - [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
   - [Processors](#processors)
@@ -108,7 +109,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [moc](http://moc.daper.net/) - Console audio player for Linux/UNIX.
 - [musikcube](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
 - [beets](https://github.com/beetbox/beets) - Music library manager and tagger.
-- [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify client.
+- [spotatui](https://github.com/LargeModGames/spotatui) - Spotify client.
 - [swaglyrics-for-spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
 - [dzr](https://github.com/yne/dzr) - deezer.com player.
 - [radio-active](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
@@ -134,10 +135,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Roguelike construction and management simulation.
 - [Cataclysm-DDA](https://cataclysmdda.org) - Turn-based survival game set in a post-apocalyptic world.
 - [Pokete](https://github.com/lxgr-linux/Pokete) - Pokemon-like.
+- [NetHack](https://www.nethack.org) - Roguelike dungeon crawler.
 
 ### Books
 
-- [epr](https://github.com/wustho/epr) - epub reader.
+- [epr](https://github.com/wustho/epr), [epy](https://github.com/wustho/epy) - EPUB reader.
 - [Bible.Js CLI](https://github.com/BibleJS/BibleApp) - Bible.
 - [SpeedRead](https://github.com/sunsations/speed_read) - Spritz-alike speedreader.
 - [medium-cli](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories.
@@ -204,6 +206,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [sqlline](https://github.com/julianhyde/sqlline) - Shell for issuing SQL via JDBC.
 - [iredis](https://github.com/laixintao/iredis) - Redis client with autocompletion and syntax highlighting.
 - [usql](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
+- [rdsai-cli](https://github.com/aliyun/rdsai-cli) - AI-powered MySQL client.
 
 ### Devops
 
@@ -223,6 +226,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [s5cmd](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
 - [updo](https://github.com/Owloops/updo) - Website monitoring tool.
 - [cronboard](https://github.com/antoniorodr/Cronboard) - Dashboard for managing cron jobs.
+- [s3m](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
 
 ### Docker
 
@@ -278,6 +282,8 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests.
 - [Step CI](https://github.com/stepci/stepci) - API testing and QA framework.
+- [bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
+- [cmdperf](https://github.com/miklosn/cmdperf) - Quickly benchmark and compare command performance.
 
 ## Productivity
 
@@ -292,6 +298,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [fjira](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
 - [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 - [CookCLI](https://github.com/cooklang/CookCLI) - Full-featured recipe manager.
+- [hns](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe voice from microphone.
 
 ### Time Tracking
 
@@ -302,7 +309,8 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [utt](https://github.com/larose/utt) - Simple time tracking tool.
 - [Bartib](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 - [arttime](https://github.com/reportaman/arttime) - Featureful timer with native desktop notifications and curated ASCII art.
-- [Helm](https://github.com/0xjuanma/helm) - Minimalistic & customizable timer for your terminal.
+- [Tock](https://github.com/kriuchkov/tock) - Powerful time tracking tool.
+- [Helm](https://github.com/0xjuanma/helm) - Minimalistic timer.
 
 ### Note Taking and Lists
 
@@ -316,7 +324,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [dnote](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
 - [nb](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
-- [obs](https://github.com/Yakitrak/obsidian-cli) - Interact with your Obsidian vault.
+- [obsidian-cli](https://github.com/Yakitrak/obsidian-cli) - Interact with your Obsidian vault.
 - [journalot](https://github.com/jtaylortech/journalot) - Journaling tool with git sync.
 
 ### Finance
@@ -357,6 +365,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
 - [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 - [clevercli](https://github.com/clevercli/clevercli) - Collection of ChatGPT powered utilities.
+- [OctoType](https://github.com/mahlquistj/octotype) - A customizable typing trainer.
 
 ### macOS
 
@@ -366,6 +375,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [stronghold](https://github.com/alichtman/stronghold) - Configure security settings from the terminal.
 - [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
 - [clippy](https://github.com/neilberkman/clippy) - Clipboard tool for interacting with GUI applications.
+- [anvil](https://github.com/0xjuanma/anvil) - Config management and app installations.
 
 ### Terminal Sharing Utilities
 
@@ -429,6 +439,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 - [glow](https://github.com/charmbracelet/glow) - Styled markdown rendering.
 - [gtree](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
+- [resumx](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting.
+- [Jimmy](https://github.com/marph91/jimmy) - Convert various note formats to markdown.
 
 ### Security
 
@@ -447,12 +459,14 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [papis](https://github.com/papis/papis) - Extensible document and bibliography manager.
 - [pubs](https://github.com/pubs/pubs) - Scientific bibliography manager.
+- [OneCite](https://github.com/HzaCode/OneCite) - Universal toolkit to generate citations.
 
 ### Weather
 
 - [wttr.in](https://github.com/chubin/wttr.in)
 - [wego](https://github.com/schachmat/wego)
 - [weather-cli](https://github.com/riyadhalnur/weather-cli)
+- [weathr](https://github.com/veirt/weathr) - ASCII animations.
 
 ### Browser Replacement
 
@@ -471,6 +485,10 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [speedtest-cli](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
 - [bandwhich](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.
 
+### Science
+
+- [periodic-table-cli](https://github.com/spirometaxas/periodic-table-cli) - View and explore the Periodic Table of Elements.
+
 ## Command Line Learning
 
 - [cmdchallenge](https://cmdchallenge.com) - Presents small shell challenge with user submitted solutions.
@@ -483,10 +501,12 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [teachcode](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
 - [navi](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
 - [yai](https://github.com/ekkinox/yai) - AI powered terminal assistant.
+- [Linux Command Library](https://linuxcommandlibrary.com) - Comprehensive command reference including basic knowledge, tips, and examples.
 
 ## Data Manipulation
 
 - [visidata](https://github.com/saulpw/visidata) - Spreadsheet multitool for data discovery and arrangement.
+- [sc-im](https://github.com/andmarti1424/sc-im) - Vim-like spreadsheet calculator.
 
 ### Processors
 
@@ -581,6 +601,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [shbin](https://github.com/Shiphero/shbin/) - Turn a Github repo into a pastebin.
 - [sharing](https://github.com/parvardegr/sharing) - Send and receive files on your mobile device.
 - [ncp](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers.
+- [share](https://github.com/beavailable/share) - Share and receive files effortlessly over HTTP.
 
 ### Directory Listing
 
@@ -644,6 +665,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [gitui](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in Rust.
 - [ggc](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
 - [AI Git Narrator](https://github.com/pmusolino/AI-Git-Narrator) - [macOS]: Generate commit messages with AI.
+- [gibr](https://github.com/ytreister/gibr) - Easily create consistent git branch names.
 
 ### GitHub
 
@@ -686,6 +708,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Random pipes that grow across the screen.
 - [YuleLog](https://github.com/Duroktar/YuleLog) - Christmas Yule Log fireplace.
 - [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Digital fireplace.
+- [gitlogue](https://github.com/unhappychoice/gitlogue) - Cinematic git commit replay.
 
 ## Graphics
 
@@ -714,11 +737,13 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ## Other Resources
 
-- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
+- [awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - Extensive list of CLI apps.
+- [Terminal Trove](https://terminaltrove.com/) - List of CLI apps.
 - [awesome-shell](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
 - [awesome-nodejs clis](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
+- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
 - [x-cmd](https://github.com/x-cmd/x-cmd) - Ecosystem of cli tools, featuring a wide array of improve core utils, AI access and more.
 
 ## License
