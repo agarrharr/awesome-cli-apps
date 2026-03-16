@@ -501,6 +501,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ## Data Manipulation
 
 - [visidata](https://github.com/saulpw/visidata) - Spreadsheet multitool for data discovery and arrangement.
+- [sc-im](https://github.com/andmarti1424/sc-im) - Vim-like spreadsheet calculator.
 
 ### Processors
 
