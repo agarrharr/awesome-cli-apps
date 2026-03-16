@@ -459,7 +459,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [wttr.in](https://github.com/chubin/wttr.in)
 - [wego](https://github.com/schachmat/wego)
 - [weather-cli](https://github.com/riyadhalnur/weather-cli)
-- [weathr](https://github.com/veirt/weathr)
+- [weathr](https://github.com/veirt/weathr) - ASCII animations.
 
 ### Browser Replacement
 
