@@ -1,7 +1,6 @@
 <!---
-Thank you for your pull request. 
-Please fill out the fields below and check that
-your contribution adheres to our guidelines.
+Thank you for your pull request.
+Please check the contribution guidelines for what is required of the app and this PR.
 -->
 
 #### New App Submission
@@ -12,5 +11,5 @@ your contribution adheres to our guidelines.
 
 **Description:**
 
-**Why you think it's awesome:**
+**Why I think it's awesome:**
 
