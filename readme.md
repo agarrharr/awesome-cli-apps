@@ -438,6 +438,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [glow](https://github.com/charmbracelet/glow) - Styled markdown rendering.
 - [gtree](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
 - [resumx](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting.
+- [Jimmy](https://github.com/marph91/jimmy) - Convert various note formats to markdown.
 
 ### Security
 
