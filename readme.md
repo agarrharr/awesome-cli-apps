@@ -618,6 +618,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [ll](https://github.com/antonmedv/ll) - `ls` with git status.
 - [lsd](https://github.com/Peltoche/lsd) - `ls` with many extra features.
 - [lla](https://github.com/triyanox/lla) - Improved `ls` with plugins.
+- [pls](https://github.com/pls-rs/pls)  - `ls` for the pros.
 
 ### Directory Navigation
 
