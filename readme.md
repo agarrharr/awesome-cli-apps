@@ -783,6 +783,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [agent-of-empires](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
 - [agent-deck](https://github.com/asheshgoplani/agent-deck) - Dashboard for managing multiple AI coding agent sessions.
 - [Sugar](https://github.com/roboticforce/sugar) - Autonomous agent that queues and executes tasks in the background.
+- [need](https://github.com/tuckerschreiber/need) - Semantic search across 10,000+ CLI tools — find the right tool by describing what you need in plain English. Works standalone or as an MCP server for AI coding agents.
 
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
