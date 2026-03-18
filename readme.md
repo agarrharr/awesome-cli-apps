@@ -787,6 +787,7 @@ Inclusion criteria are less strict for this fast-moving field.
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
+- [llm.log](https://github.com/lanesket/llm.log) - Local MITM proxy with TUI dashboard for monitoring LLM API calls — token usage, costs, latency and full request inspector. Supports OpenAI, Anthropic and OpenRouter. Zero code changes, single binary.
 
 ## Other Resources
 
