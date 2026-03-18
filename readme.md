@@ -674,7 +674,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [television](https://github.com/alexpasmantier/television) - A very fast general purpose fuzzy finder.
 - [srgn](https://github.com/alexpovel/srgn/) - A grep-like tool which understands code syntax and also allows for manipulation.
 - [rawhide](https://github.com/raforg/rawhide) - Find files using pretty C expressions.
-- [w2vgrep](https://github.com/arunsupe/semantic-grep) - A tool for semantic search using word embeddings. For example, searching for "death" will find "dead", "killing", "murder".
+- [semantic-grep](https://github.com/arunsupe/semantic-grep) - A tool for semantic search using word embeddings (e.g. search for "death" and find "dead", "killing", "murder".)
 
 ## Version Control
 
