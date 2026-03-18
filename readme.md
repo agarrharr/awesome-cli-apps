@@ -386,6 +386,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
 - [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 - [clevercli](https://github.com/clevercli/clevercli) - Collection of ChatGPT powered utilities.
+- [free-web-search](https://github.com/wd041216-bit/free-web-search-ultimate) - Zero-cost, privacy-first universal web search. Supports 10+ engines (DuckDuckGo, Bing, Google, Brave, Wikipedia, Arxiv, YouTube, Reddit). No API key required. Also works as an MCP server for AI assistants.
 - [OctoType](https://github.com/mahlquistj/octotype) - A customizable typing trainer.
 
 ### macOS
