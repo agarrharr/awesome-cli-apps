@@ -785,6 +785,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [agent-of-empires](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
 - [agent-deck](https://github.com/asheshgoplani/agent-deck) - Dashboard for managing multiple AI coding agent sessions.
 - [Sugar](https://github.com/roboticforce/sugar) - Autonomous agent that queues and executes tasks in the background.
+- [TeamHero](https://github.com/sagiyaacoby/TeamHero) - Multi-agent orchestration platform for Claude Code. Manage AI agent teams with a web dashboard, task lifecycle, and round-table coordination.
 
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
