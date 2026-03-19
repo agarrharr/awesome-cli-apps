@@ -621,6 +621,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [f2](https://github.com/ayoisaiah/f2) - A cross-platform tool for fast, safe, and flexible batch renaming.
 - [scc](https://github.com/boyter/scc) - Count lines of code, blank lines, comment lines, and physical lines of source code.
 - [chkbit](https://laktak.github.io/chkbit/) - Check your files for data corruption.
+- [minify.js](https://github.com/adamlui/js-utils/tree/main/minify.js/#readme) - Recursively minify all JavaScript files.
 
 ### File Sync/Sharing
 
