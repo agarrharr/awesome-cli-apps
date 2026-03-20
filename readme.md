@@ -123,6 +123,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [beets](https://github.com/beetbox/beets) - Music library manager and tagger.
 - [spotatui](https://github.com/LargeModGames/spotatui) - Spotify client.
 - [swaglyrics-for-spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
+- [tidal-cli](https://github.com/lucaperret/tidal-cli) - Control Tidal music streaming from the terminal.
 - [dzr](https://github.com/yne/dzr) - deezer.com player.
 - [radio-active](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
 - [mpvc](https://github.com/gmt4/mpvc) - Music player interfacing mpv.
