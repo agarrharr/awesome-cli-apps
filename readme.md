@@ -304,7 +304,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 
 ## Productivity
 
-- [doing](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
+- [doing](https://github.com/ttscoff/doing/) - Keep track of what you're doing and track what you've done.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 - [meetup-cli](https://github.com/specious/meetup-cli) - Meetup.com client.
 - [NeoMutt](https://neomutt.org) - Email client.
@@ -554,7 +554,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [vj](https://github.com/busyloop/vj) - Makes JSON human readable.
 - [underscore-cli](https://github.com/ddopson/underscore-cli) - Utility-belt for hacking JSON and Javascript.
 - [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
-- [GROQ](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
+- [GROQ](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable.
 - [config-file-validator](https://github.com/Boeing/config-file-validator) - Validate configuration files.
 
@@ -785,6 +785,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [agent-of-empires](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
 - [agent-deck](https://github.com/asheshgoplani/agent-deck) - Dashboard for managing multiple AI coding agent sessions.
 - [Sugar](https://github.com/roboticforce/sugar) - Autonomous agent that queues and executes tasks in the background.
+- [brood-box](https://github.com/stacklok/brood-box) - Run coding agents inside hardware-isolated microVMs with snapshot isolation and egress control.
 
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
