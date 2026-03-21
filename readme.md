@@ -704,6 +704,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [ggc](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
 - [AI Git Narrator](https://github.com/pmusolino/AI-Git-Narrator) - [macOS]: Generate commit messages with AI.
 - [gibr](https://github.com/ytreister/gibr) - Easily create consistent git branch names.
+- [gitsocial](https://github.com/gitsocial-org/gitsocial) - Git-native cross-forge collaboration with posts, issues, PRs, and releases stored in your repo.
 
 ### GitHub
 
