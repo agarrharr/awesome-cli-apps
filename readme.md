@@ -470,6 +470,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [pass](https://www.passwordstore.org) - Password manager.
 - [gopass](https://github.com/gopasspw/gopass) - Fully-featured password manager.
+- [noxkey](https://github.com/No-Box-Dev/Noxkey) - macOS Keychain secret manager with Touch ID and AI agent detection.
 - [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based VPN.
 - [hasha-cli](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
 - [ots](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
