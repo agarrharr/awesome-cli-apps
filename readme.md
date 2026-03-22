@@ -784,6 +784,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [greywall](https://github.com/GreyhavenHQ/greywall) - Deny-by-default sandbox with filesystem and network isolation.
 - [agent-of-empires](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
 - [agent-deck](https://github.com/asheshgoplani/agent-deck) - Dashboard for managing multiple AI coding agent sessions.
+- [clawsearch](https://www.npmjs.com/package/clawsearch) - Search engine for AI agent skills with Trust Score, 10-language semantic search, and security analysis.
 - [Sugar](https://github.com/roboticforce/sugar) - Autonomous agent that queues and executes tasks in the background.
 
 ### LLM Interaction
