@@ -278,6 +278,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [cookiecutter](https://github.com/audreyr/cookiecutter) - Create projects from templates.
 - [mevn-cli](https://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
 - [scaffold-static](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
+- [project-init](https://github.com/zacharylyonstx/project-init) - Initialize any project in 60 seconds. Generates LICENSE, .gitignore, .cursorrules, README, and first commit in one command.
 
 ### HTTP Server
 
@@ -698,6 +699,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [git-all-branches](https://github.com/zacanger/git-all-branches) - Improved `git branch -a`.
 - [czg](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
+- [ai-commit-offline](https://github.com/zacharylyonstx/ai-commit-offline) - Generate conventional commit messages from staged changes. Completely offline, zero dependencies.
 - [lazygit](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
 - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy bash prompt for Git users.
 - [gitui](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in Rust.
