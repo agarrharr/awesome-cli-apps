@@ -321,7 +321,6 @@ Expose a service running on localhost to the public web for testing and sharing.
 ### Time Tracking
 
 - [Timetrap](https://github.com/samg/timetrap) - Simple timetracker.
-- [moro](https://github.com/omidfi/moro) - Simple tool for tracking work hours.
 - [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
 - [Watson](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
 - [utt](https://github.com/larose/utt) - Simple time tracking tool.
