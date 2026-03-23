@@ -786,6 +786,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [agent-deck](https://github.com/asheshgoplani/agent-deck) - Dashboard for managing multiple AI coding agent sessions.
 - [Sugar](https://github.com/roboticforce/sugar) - Autonomous agent that queues and executes tasks in the background.
 - [Shep](https://github.com/shep-ai/cli) - Multi-session SDLC control center for AI coding agents.
+- [Claude Code Starter Kit](https://github.com/rmbell09-lang/claude-code-starter-kit) - Production-ready workspace setup with persistent memory, skills, and AGENTS.md for consistent Claude coding agents.
 
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
