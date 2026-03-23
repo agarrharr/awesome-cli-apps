@@ -108,7 +108,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [newsboat](https://github.com/newsboat/newsboat) - An extendable RSS feed reader for text terminals.
 - [mal-cli](https://github.com/L4z3x/mal-cli) - MyAnimeList client.
-- [golazo](https://github.com/0xjuanma/golazo) - Football(soccer) matches without leaving your terminal.
+- [golazo](https://github.com/0xjuanma/golazo) - Soccer matches.
 
 ### Music
 
