@@ -351,6 +351,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 
 See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overview of relevant tools.
 
+- [Invoice](https://github.com/CommonBerry/Invoice) - Manage your freelance projects elegantly.
 - [ledger](https://ledger-cli.org/) - Powerful, double-entry accounting system.
 - [hledger](https://hledger.org/) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [moeda](https://github.com/thompsonemerson/moeda) - Foreign exchange rates and currency conversion.
