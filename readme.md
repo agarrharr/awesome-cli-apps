@@ -501,6 +501,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
 - [trino](https://github.com/eneserdogan/trino) - Translation of words and phrases.
 - [translate-shell](https://github.com/soimort/translate-shell) - Google Translate interface.
+- [opencli](https://github.com/jackwener/opencli) - Turn websites and desktop apps into CLI commands with 50+ pre-built adapters.
 
 ### Internet Speedtest
 
