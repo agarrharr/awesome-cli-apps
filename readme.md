@@ -181,6 +181,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 - [mk](https://github.com/pycontribs/mk) - Exposes most common actions you can run in unfamiliar repos.
+- [cli-anything-web](https://github.com/ItamarZand88/CLI-Anything-WEB) - Generate Python CLIs for any website by capturing HTTP traffic via Playwright.
 
 ### Text Editors
 
