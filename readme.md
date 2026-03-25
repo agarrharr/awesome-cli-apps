@@ -586,6 +586,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [far2l](https://github.com/elfmz/far2l) - Orthodox file manager.
 - [yazi](https://github.com/sxyazi/yazi) - Blazing fast file manager.
 - [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer.
+- [xc](https://github.com/xc) - A single-file dual-panel hackable console file manager.
 
 ### Deleting, Copying, and Renaming
 
