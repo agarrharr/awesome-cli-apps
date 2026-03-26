@@ -355,7 +355,9 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [hledger](https://hledger.org/) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [moeda](https://github.com/thompsonemerson/moeda) - Foreign exchange rates and currency conversion.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
+- [coinpaprika-cli](https://github.com/coinpaprika/coinpaprika-cli) - Crypto market data. 8,000+ coins, real-time prices, OHLCV, exchanges.
 - [cointop](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
+- [dexpaprika-cli](https://github.com/coinpaprika/dexpaprika-cli) - DEX data. 34 chains, 200+ DEXes, 27M+ tokens, real-time streaming.
 - [ticker](https://github.com/achannarasappa/ticker) - Stock ticker.
 - [lakshmi](https://github.com/sarvjeets/lakshmi) - Bogleheads inspired tool for managing your investing portfolio.
 
