@@ -358,6 +358,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [cointop](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
 - [ticker](https://github.com/achannarasappa/ticker) - Stock ticker.
 - [lakshmi](https://github.com/sarvjeets/lakshmi) - Bogleheads inspired tool for managing your investing portfolio.
+- [TradeSight](https://github.com/rmbell09-lang/tradesight) - AI-powered paper trading and backtesting tool with autonomous strategy evolution.
+- [BillingWatch](https://github.com/rmbell09-lang/BillingWatch) - Self-hosted billing monitor for SaaS apps using Stripe. Get Slack/email alerts when revenue drops.
 
 ### Presentations
 
