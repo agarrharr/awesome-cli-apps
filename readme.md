@@ -140,6 +140,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Movies
 
+- [admirarr](https://github.com/maxtechera/admirarr) - Unified CLI for your *Arr fleet (Radarr, Sonarr, Prowlarr, Jellyfin, qBittorrent). Deploy, diagnose, and operate self-hosted media stacks from one terminal.
 - [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies.
 - [movie](https://github.com/mayankchd/movie) - Get movie info or compare movies.
 
