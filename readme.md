@@ -703,6 +703,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy bash prompt for Git users.
 - [gitui](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in Rust.
 - [ggc](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
+- [layer](https://github.com/aungsiminhtet/git-layer) - Manage local-only repo files with `.git/info/exclude`, with local snapshot history for hidden files.
 - [AI Git Narrator](https://github.com/pmusolino/AI-Git-Narrator) - [macOS]: Generate commit messages with AI.
 - [gibr](https://github.com/ytreister/gibr) - Easily create consistent git branch names.
 
