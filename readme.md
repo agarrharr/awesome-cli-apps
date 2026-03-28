@@ -787,6 +787,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [agent-deck](https://github.com/asheshgoplani/agent-deck) - Dashboard for managing multiple AI coding agent sessions.
 - [Sugar](https://github.com/roboticforce/sugar) - Autonomous agent that queues and executes tasks in the background.
 - [Shep](https://github.com/shep-ai/cli) - Multi-session SDLC control center for AI coding agents.
+- [PATAPIM](https://patapim.ai) - Terminal IDE with 9-terminal grid, state detection, voice dictation, and MCP browser for AI coding agents.
 
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
