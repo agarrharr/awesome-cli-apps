@@ -356,6 +356,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [moeda](https://github.com/thompsonemerson/moeda) - Foreign exchange rates and currency conversion.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
 - [cointop](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
+- [solblade](https://github.com/shillshady/solblade) - AI-native Solana wallet CLI with MCP server integration.
 - [ticker](https://github.com/achannarasappa/ticker) - Stock ticker.
 - [lakshmi](https://github.com/sarvjeets/lakshmi) - Bogleheads inspired tool for managing your investing portfolio.
 
