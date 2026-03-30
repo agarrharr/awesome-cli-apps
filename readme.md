@@ -473,6 +473,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based VPN.
 - [hasha-cli](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
 - [ots](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
+- [touchbridge](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate sudo on any Mac without Touch ID.
 
 ### Math
 
