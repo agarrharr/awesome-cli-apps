@@ -198,6 +198,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) - Strip comments from CSS.
 - [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports.
 - [surge](https://surge.sh) - Publish static websites for free.
+- [site-roaster](https://github.com/ryuno2525/autonomous-claude-agent) - Audit websites for SEO, accessibility, performance, security, and design.
 
 ### Public localhost
 
