@@ -789,6 +789,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [Sugar](https://github.com/roboticforce/sugar) - Autonomous agent that queues and executes tasks in the background.
 - [Shep](https://github.com/shep-ai/cli) - Multi-session SDLC control center for AI coding agents.
 - [InkOS](https://github.com/Narcooo/inkos/blob/master/README.en.md) - Novel-writing agent.
+- [toolrouter-mcp](https://toolrouter.com) - Give your AI agent superpowers — 150+ tools on demand with one account. Competitor research, video production, web search, image generation, security scanning, and more.
 
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
