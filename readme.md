@@ -468,6 +468,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ### Security
 
+- [phantom-secrets](https://github.com/ashlrai/phantom-secrets) - Prevent AI coding agents from leaking API keys. Replaces secrets with phantom tokens, injects real credentials via local proxy.
+
 - [pass](https://www.passwordstore.org) - Password manager.
 - [gopass](https://github.com/gopasspw/gopass) - Fully-featured password manager.
 - [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based VPN.
