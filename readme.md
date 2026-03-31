@@ -789,7 +789,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [Sugar](https://github.com/roboticforce/sugar) - Autonomous agent that queues and executes tasks in the background.
 - [Shep](https://github.com/shep-ai/cli) - Multi-session SDLC control center for AI coding agents.
 - [InkOS](https://github.com/Narcooo/inkos/blob/master/README.en.md) - Novel-writing agent.
-- [Code on Incus](https://github.com/mensfeld/code-on-incus) - Security-hardened container runtime for AI coding agents with real-time threat detection.
+- [coi](https://github.com/mensfeld/code-on-incus) - Incus container runtime for agents.
 
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
