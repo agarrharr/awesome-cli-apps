@@ -473,6 +473,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [gopass](https://github.com/gopasspw/gopass) - Fully-featured password manager.
 - [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based VPN.
 - [hasha-cli](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
+- [infynon](https://github.com/d4rkNinja/infynon-cli) - Security-first CLI: CVE firewall for 14 package ecosystems, reverse proxy WAF, and API flow tester with built-in security probes.
 - [ots](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
 
 ### Math
