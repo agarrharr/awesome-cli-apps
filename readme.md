@@ -690,6 +690,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git.
 - [grv](https://github.com/rgburke/grv) - Text-mode interface for git with customisable vi bindings.
 - [git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day.
+- [git-time-machine](https://github.com/dinakars777/git-time-machine) - Visual git reflog TUI for undoing git mistakes.
 - [git-secret](https://github.com/sobolevn/git-secret) - Store your private data inside a git repository.
 - [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) - Create GitLab merge requests.
 - [git-extras](https://github.com/tj/git-extras) - Git utilities.
