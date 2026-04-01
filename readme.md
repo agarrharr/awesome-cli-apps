@@ -726,6 +726,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 - [optimizt](https://github.com/343dev/optimizt) - Helps prepare images for the web.
 - [freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output.
+- [swipic](https://github.com/javipd/swipic) - Tinder-style photo cleaner for macOS Photos.app.
 
 ### Gif Creation
 
