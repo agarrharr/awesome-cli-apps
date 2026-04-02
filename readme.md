@@ -137,6 +137,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mpv](https://mpv.io) - Superior video player.
 - [editly](https://github.com/mifi/editly) - Declarative video editing.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
+- [stv](https://github.com/Hybirdss/smartest-tv) - Play Netflix, YouTube, and Spotify on your smart TV by name.
 
 ### Movies
 
