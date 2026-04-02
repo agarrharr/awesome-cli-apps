@@ -181,6 +181,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 - [mk](https://github.com/pycontribs/mk) - Exposes most common actions you can run in unfamiliar repos.
+- [toolpipe](https://github.com/Aldric-Core/toolpipe-mcp-server) - 145+ developer utilities via CLI and MCP server (QR codes, hashing, JSON formatting, UUID generation, and more).
 
 ### Text Editors
 
