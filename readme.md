@@ -585,6 +585,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
 - [lf](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 - [clifm](https://github.com/leo-arch/clifm) - The command line file manager.
+- [killpy](https://github.com/Tlaloc-Es/killpy) - Find and clean Python environments (venv, Poetry, pipx, etc.) and analyze disk usage.
 - [far2l](https://github.com/elfmz/far2l) - Orthodox file manager.
 - [yazi](https://github.com/sxyazi/yazi) - Blazing fast file manager.
 - [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer.
