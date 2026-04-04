@@ -466,6 +466,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [glow](https://github.com/charmbracelet/glow) - Styled markdown rendering.
 - [gtree](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
 - [Jimmy](https://github.com/marph91/jimmy) - Convert various note formats to markdown.
+- [mq](https://github.com/harehare/mq) - Jq-like markdown processor.
 
 ### Security
 
@@ -548,6 +549,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) - Query/update YAML.
 - [ramda-cli](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
 - [xq](https://github.com/sibprogrammer/xq) - XML and HTML beautifier and content extractor.
+- [mq](https://github.com/harehare/mq) - Jq-like markdown processor.
 
 ### JSON
 
