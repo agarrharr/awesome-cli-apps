@@ -772,6 +772,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
 - [dankcli](https://github.com/sggts04/dankcli) - Add text to meme image templates.
 - [ricksay](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
+- [Cautom](https://github.com/BitPeppr/Cellular-automaton) - Highly customisable cellular automaton visualiser.
 
 ### Emoji
 
