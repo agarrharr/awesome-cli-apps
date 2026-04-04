@@ -495,6 +495,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ### Browser Replacement
 
+- [ddgr](https://github.com/jarun/ddgr) - Search DuckDuckGo from the terminal. Supports !bang operators, color output, and works over Tor.
 - [s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [hget](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
 - [mapscii](https://github.com/rastapasta/mapscii) - Terminal Map Viewer.
