@@ -165,7 +165,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [kirc](https://github.com/mcpcpc/kirc) - Tiny IRC client.
 
 ## Development
-
+- [gitty](https://github.com/Omibranch/gitty) - Git workflow CLI. Stage, commit, and push in one command. Includes selective line commits, interactive conflict resolution, and permanent history rewriting.
 - [legit](https://github.com/captainsafia/legit) - Generate Open Source licences as files or file headers.
 - [mklicense](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
 - [rebound](https://github.com/shobrook/rebound) - Fetch Stack Overflow results on compiler error.
