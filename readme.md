@@ -548,6 +548,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) - Query/update YAML.
 - [ramda-cli](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
 - [xq](https://github.com/sibprogrammer/xq) - XML and HTML beautifier and content extractor.
+- [mq](https://github.com/harehare/mq) - Jq-like tool for processing Markdown files.
 
 ### JSON
 
