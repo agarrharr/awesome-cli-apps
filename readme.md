@@ -770,6 +770,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
 - [yosay](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
 - [lolcat](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
+- [moody](https://github.com/dinakars777/moody) - Hardware event personality daemon for macOS. Your laptop responds to USB, charger, and lid events with customizable personalities.
 - [terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - Plays elaborate animations of text input.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
 - [dankcli](https://github.com/sggts04/dankcli) - Add text to meme image templates.
