@@ -793,6 +793,8 @@ Inclusion criteria are less strict for this fast-moving field.
 - [InkOS](https://github.com/Narcooo/inkos/blob/master/README.en.md) - Novel-writing agent.
 - [coi](https://github.com/mensfeld/code-on-incus) - Incus container runtime for agents.
 - [agentify](https://github.com/koriyoshi2041/agentify) - Transform OpenAPI specs into formats for agents.
+- [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source contacts, run multi-channel campaigns, and manage conversations. JSON output.
+- [Signals CLI](https://github.com/sortlist/signals-cli) - B2B intent signal monitoring. Track LinkedIn engagement, job changers, funding events, and keyword posters. JSON output.
 
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
