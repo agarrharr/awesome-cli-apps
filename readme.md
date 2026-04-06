@@ -706,6 +706,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [ggc](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
 - [AI Git Narrator](https://github.com/pmusolino/AI-Git-Narrator) - [macOS]: Generate commit messages with AI.
 - [gibr](https://github.com/ytreister/gibr) - Easily create consistent git branch names.
+- [commit-roast](https://github.com/Omibranch/commit-roast) - AI-powered git commit message roaster. Analyses recent commits and eviscerates them with sarcastic one-liners (offline fallback included).
 
 ### GitHub
 
@@ -772,6 +773,9 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
 - [dankcli](https://github.com/sggts04/dankcli) - Add text to meme image templates.
 - [ricksay](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
+- [404life](https://github.com/Omibranch/404life) - Background daemon that detects terminal idle time and reminds you of your existential situation. Hooks into bash/zsh/fish.
+- [hiring](https://github.com/Omibranch/hiring) - Scans your code files and uses AI to generate a passive-aggressive corporate HR rejection letter critiquing your code quality.
+- [ghostwriter](https://github.com/Omibranch/ghostwriter) - Automatically types realistic-looking code in your terminal at human speed, including typos and thinking pauses. For recordings or looking busy.
 
 ### Emoji
 
