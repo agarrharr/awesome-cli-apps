@@ -431,6 +431,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [oh-my-posh](https://ohmyposh.dev) - Prompt theme engine.
 - [starship](https://github.com/starship/starship) - Minimal, blazing-fast, and infinitely customizable prompt for any shell.
 - [gowall](https://github.com/Achno/gowall) - Extract image color pallet, recolor images/icon and more.
+- [awesome-tui-design](https://github.com/cola-runner/awesome-tui-design) - Curated DESIGN.md files for terminal UI themes — colors, borders, icons, and components for 16 popular TUI apps and color schemes.
 
 ### Shell Utilities
 
