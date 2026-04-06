@@ -293,6 +293,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [ain](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
 - [curlie](https://github.com/rs/curlie) - A curl frontend with the ease of use of HTTPie.
 - [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust.
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for CLI-based multi-agent orchestration with automated task registry, delegation, and quality gates. MIT licensed.
 
 ### Testing
 
