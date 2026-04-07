@@ -650,6 +650,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [lsd](https://github.com/Peltoche/lsd) - `ls` with many extra features.
 - [lla](https://github.com/triyanox/lla) - Improved `ls` with plugins.
 - [pls](https://github.com/pls-rs/pls)  - `ls` for the pros.
+- [treepp](https://github.com/Water-Run/treepp) - Windows tree++.
 
 ### Directory Navigation
 
