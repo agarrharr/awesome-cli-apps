@@ -274,6 +274,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 
 ### Boilerplate
 
+- [better-fullstack](https://github.com/Marve10s/Better-Fullstack) - End-to-end fullstack scaffolding across TypeScript, Rust, Python & Go — code ready for you or your AI agent.
 - [yo](https://github.com/yeoman/yo) - Scaffolding tool for running Yeoman generators.
 - [boilr](https://github.com/tmrts/boilr) - Create projects from boilerplate templates.
 - [cookiecutter](https://github.com/audreyr/cookiecutter) - Create projects from templates.
