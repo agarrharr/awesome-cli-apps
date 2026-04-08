@@ -794,6 +794,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [InkOS](https://github.com/Narcooo/inkos/blob/master/README.en.md) - Novel-writing agent.
 - [coi](https://github.com/mensfeld/code-on-incus) - Incus container runtime for agents.
 - [agentify](https://github.com/koriyoshi2041/agentify) - Transform OpenAPI specs into formats for agents.
+- [agtop](https://github.com/ldegio/agtop) - Top-style terminal dashboard for monitoring AI coding agents.
 
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
