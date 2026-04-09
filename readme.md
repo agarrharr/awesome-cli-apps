@@ -503,7 +503,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
 - [trino](https://github.com/eneserdogan/trino) - Translation of words and phrases.
 - [translate-shell](https://github.com/soimort/translate-shell) - Google Translate interface.
-
+- [actionbook](https://github.com/actionbook/actionbook) - Parallel Browser Action CLI for AI agents
 ### Internet Speedtest
 
 - [speedtest-net](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
