@@ -443,6 +443,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets.
 - [envio](https://github.com/envio-cli/envio) - Manage environment variables securely.
 - [await](https://github.com/slavaGanzin/await) - Runs commands in parallel and waits for their termination.
+- [in-cli](https://github.com/inevolin/in-cli) - Execute shell commands across multiple directories sequentially or in parallel.
 - [aha](https://github.com/theZiz/aha) - Convert ANSI output to HTML.
 
 ### System Interaction Utilities
