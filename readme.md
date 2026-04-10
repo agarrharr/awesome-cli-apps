@@ -795,6 +795,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [coi](https://github.com/mensfeld/code-on-incus) - Incus container runtime for agents.
 - [agentify](https://github.com/koriyoshi2041/agentify) - Transform OpenAPI specs into formats for agents.
 - [actionbook](https://github.com/actionbook/actionbook) - Parallel browser interaction for agents.
+- [resume-cli](https://github.com/inevolin/resume-cli) - TUI to resume AI coding sessions across Claude Code, GitHub Copilot CLI, and Codex from a single interactive picker; supports cross-tool context loading.
 
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
