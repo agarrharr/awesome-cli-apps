@@ -137,6 +137,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mpv](https://mpv.io) - Superior video player.
 - [editly](https://github.com/mifi/editly) - Declarative video editing.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
+- [weshop-cli](https://github.com/weshopai/weshop-cli) - Generate and enhance videos with AI — video upscaling, watermark removal, subtitle removal, and AI video generation.
 
 ### Movies
 
@@ -748,6 +749,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [pdfjuicer](https://github.com/dmikhr/pdfjuicer) - Extract PDF pages as images.
 - [gowall](https://github.com/Achno/gowall) - Recolor images, OCR, image upscaling and more.
 - [img2ascii](https://github.com/JosefVesely/Image-to-ASCII) - Convert images to ASCII art.
+- [weshop-cli](https://github.com/weshopai/weshop-cli) - Generate and edit images with AI — virtual try-on, background removal, model swap, face swap, and more.
 
 ## Screensavers
 
