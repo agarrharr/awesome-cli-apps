@@ -15,7 +15,6 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of command line apps.
-
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
@@ -242,6 +241,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [cronboard](https://github.com/antoniorodr/Cronboard) - Dashboard for managing cron jobs.
 - [s3m](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
 - [bencher](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
+- [nxs](https://github.com/gauravtayade11/nxs) — AI-powered CLI that debugs Kubernetes, Docker, Terraform, and CI/CD errors. Pipe any log, get root cause + fix commands.
 
 ### Docker
 
