@@ -793,6 +793,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [Shep](https://github.com/shep-ai/cli) - Multi-session SDLC control center for AI coding agents.
 - [InkOS](https://github.com/Narcooo/inkos/blob/master/README.en.md) - Novel-writing agent.
 - [coi](https://github.com/mensfeld/code-on-incus) - Incus container runtime for agents.
+- [cicada](https://github.com/lewiswigmore/cicada) - Multi-agent orchestrator for GitHub Copilot CLI with MCP coordination.
 - [agentify](https://github.com/koriyoshi2041/agentify) - Transform OpenAPI specs into formats for agents.
 - [actionbook](https://github.com/actionbook/actionbook) - Parallel browser interaction for agents.
 
