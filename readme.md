@@ -442,6 +442,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [pipe_exec](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
 - [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets.
 - [envio](https://github.com/envio-cli/envio) - Manage environment variables securely.
+- [envtainer](https://github.com/BenihDev/envtainer) - Environment variable management tool.
 - [await](https://github.com/slavaGanzin/await) - Runs commands in parallel and waits for their termination.
 - [aha](https://github.com/theZiz/aha) - Convert ANSI output to HTML.
 
@@ -471,6 +472,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### Security
 
 - [pass](https://www.passwordstore.org) - Password manager.
+- [secretsweep](https://github.com/BenihDev/secretsweep) - Zero-config secret scanning for staged git files.
 - [gopass](https://github.com/gopasspw/gopass) - Fully-featured password manager.
 - [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based VPN.
 - [hasha-cli](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
@@ -559,6 +561,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [underscore-cli](https://github.com/ddopson/underscore-cli) - Utility-belt for hacking JSON and Javascript.
 - [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
 - [GROQ](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
+- [jsonask](https://github.com/BenihDev/jsonask) - JSON query tool.
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable.
 - [config-file-validator](https://github.com/Boeing/config-file-validator) - Validate configuration files.
 
@@ -709,6 +712,9 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [ggc](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
 - [AI Git Narrator](https://github.com/pmusolino/AI-Git-Narrator) - [macOS]: Generate commit messages with AI.
 - [gibr](https://github.com/ytreister/gibr) - Easily create consistent git branch names.
+- [gitcommitgen](https://github.com/BenihDev/gitcommitgen) - AI-powered conventional commit message generator.
+- [gitprgen](https://github.com/BenihDev/gitprgen) - AI-powered PR description generator from git diffs.
+- [gitprune](https://github.com/BenihDev/gitprune) - Safe git branch cleanup tool.
 
 ### GitHub
 
@@ -798,6 +804,7 @@ Inclusion criteria are less strict for this fast-moving field.
 
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
+- [changelog-ai](https://github.com/BenihDev/changelog-ai) - AI-powered changelog generator.
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
 
 ## Other Resources
