@@ -175,6 +175,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [bitwise](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulation.
 - [cgasm](https://github.com/bnagy/cgasm) - x86 assembly documentation.
 - [grex](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
+- [grug-cli](https://github.com/grug-group420/grug-cli) - Zero-dependency developer toolkit with scaffolding, linting, and project management.
 - [iola](https://github.com/pvarentsov/iola) - Socket client with REST API.
 - [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
