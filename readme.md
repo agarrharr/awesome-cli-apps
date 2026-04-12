@@ -303,6 +303,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
 - [cmdperf](https://github.com/miklosn/cmdperf) - Quickly benchmark and compare command performance.
 - [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust.
+- [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust.
 - [httptap](https://github.com/ozeranskii/httptap) - Breakdown and visualize HTTP requests. 
 
 ### Testing
