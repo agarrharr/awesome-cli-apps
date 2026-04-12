@@ -303,18 +303,6 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [Step CI](https://github.com/stepci/stepci) - API testing and QA framework.
 - [bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
 - [cmdperf](https://github.com/miklosn/cmdperf) - Quickly benchmark and compare command performance.
-- [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust.
-- [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust.
-- [httptap](https://github.com/ozeranskii/httptap) - Breakdown and visualize HTTP requests. 
-
-### Testing
-
-- [shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit-testing framework for all POSIX shells.
-- [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB.
-- [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests.
-- [Step CI](https://github.com/stepci/stepci) - API testing and QA framework.
-- [bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
-- [cmdperf](https://github.com/miklosn/cmdperf) - Quickly benchmark and compare command performance.
 
 ## Productivity
 
