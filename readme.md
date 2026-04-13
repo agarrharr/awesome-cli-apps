@@ -221,6 +221,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [iredis](https://github.com/laixintao/iredis) - Redis client with autocompletion and syntax highlighting.
 - [usql](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
 - [rdsai-cli](https://github.com/aliyun/rdsai-cli) - AI-powered MySQL client.
+- [squix](https://github.com/eduardofuncao/squix) - SQL client with query management and interactive results.
 
 ### Devops
 
