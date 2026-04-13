@@ -554,6 +554,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ### JSON
 
+- [jray](https://github.com/siyadhkc/Jray) — A modern Flatten, filter, and reconstruct JSON from the command line.
 - [jp](https://github.com/therealklanni/jp) - JSON parser.
 - [fx](https://github.com/antonmedv/fx) - Command-line JSON viewer.
 - [vj](https://github.com/busyloop/vj) - Makes JSON human readable.
