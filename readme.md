@@ -181,6 +181,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 - [mk](https://github.com/pycontribs/mk) - Exposes most common actions you can run in unfamiliar repos.
+- [mekong-ide](https://github.com/longtho638-jpg/mekong-ide-core) - Local-first agentic developer runtime for Apple Silicon. Routes prompts to on-device model farm; kill-switch enforced. Go+Rust hybrid, Apache 2.0.
 
 ### Text Editors
 
