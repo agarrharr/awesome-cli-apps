@@ -715,6 +715,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### GitHub
 
 - [CLI GitHub](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
+- [gh-dep-risk](https://github.com/rad1092/gh-dep-risk) - On-demand npm dependency pull request risk review for GitHub.
 - [hub](https://github.com/github/hub) - Make git easier to use with GitHub.
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
 
