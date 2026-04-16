@@ -422,6 +422,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [gg](https://github.com/mzz2017/gg) - One-click proxy without installing v2ray or anything else.
 - [rustnet](https://github.com/domcyrus/rustnet) - Network monitoring with process identification and deep packet inspection.
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
+- [endpulse](https://github.com/kimhinton/endpulse) - Multi-endpoint API health checks with assertions, SSL monitoring, and CI exit codes.
 
 ### Theming and Customization
 
