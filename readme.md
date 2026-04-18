@@ -257,6 +257,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 ### Release
 
 - [release-it](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
+- [changegen](https://github.com/creativengine-ai/changegen) - Generate clean, categorized changelogs from git commit history using Conventional Commits.
 - [clog](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`.
 - [release](https://github.com/vercel/release) - Generate changelogs with a single command.
