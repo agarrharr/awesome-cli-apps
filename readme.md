@@ -311,6 +311,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 - [meetup-cli](https://github.com/specious/meetup-cli) - Meetup.com client.
 - [NeoMutt](https://neomutt.org) - Email client.
+- [thunderbird-cli](https://github.com/vitalio-sh/thunderbird-cli) - Drive Mozilla Thunderbird from the shell (or AI agents) via 38 JSON commands: search, read, compose, reply, attachments, bulk ops across all configured accounts.
 - [terjira](https://github.com/keepcosmos/terjira) - Jira client.
 - [ipt](https://github.com/drselump14/ipt) - Pivotal Tracker client.
 - [uber-cli](https://github.com/jaebradley/uber-cli) - Uber client.
