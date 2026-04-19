@@ -343,6 +343,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [td-cli](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [dnote](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
+- [dredge](https://github.com/DeprecatedLuar/dredge-cargo) - Encrypted CLI vault for storing and retrieving notes, configs, keys and files using fuzzy search.
 - [nb](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
 - [notesmd-cli](https://github.com/Yakitrak/notesmd-cli) - Interact with your Obsidian vault.
 - [journalot](https://github.com/jtaylortech/journalot) - Journaling tool with git sync.
