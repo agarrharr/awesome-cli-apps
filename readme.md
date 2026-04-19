@@ -320,6 +320,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [CookCLI](https://github.com/cooklang/CookCLI) - Full-featured recipe manager.
 - [hns](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe voice from microphone.
 - [mynav](https://github.com/GianlucaP106/mynav) - Workspace and session management TUI.
+- [DictatorFlow](https://dictatorflow.com) - Voice dictation and voice-command editing with low latency and offline processing.
 
 ### Time Tracking
 
@@ -788,6 +789,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 Inclusion criteria are less strict for this fast-moving field.
 
 ### Agents
+- [Codex Infinity](https://codex-infinity.com) - Autonomous coding agent that runs on bare metal VPS with full root access.
 - [greywall](https://github.com/GreyhavenHQ/greywall) - Deny-by-default sandbox with filesystem and network isolation.
 - [agent-of-empires](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
 - [agent-deck](https://github.com/asheshgoplani/agent-deck) - Dashboard for managing multiple AI coding agent sessions.
