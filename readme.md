@@ -717,6 +717,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [CLI GitHub](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
 - [hub](https://github.com/github/hub) - Make git easier to use with GitHub.
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
+- [branch-watch](https://github.com/nuri-yoo/branch-watch) - Track branch and fork sync status across your GitHub repositories.
 
 ### Emoji
 
