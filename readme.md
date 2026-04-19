@@ -711,6 +711,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [ggc](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
 - [AI Git Narrator](https://github.com/pmusolino/AI-Git-Narrator) - [macOS]: Generate commit messages with AI.
 - [gibr](https://github.com/ytreister/gibr) - Easily create consistent git branch names.
+- [sem](https://github.com/ataraxy-labs/sem) - Entity-level semantic version control. Diff, blame, graph, and impact analysis at the function/class level across 26 languages.
+- [weave](https://github.com/ataraxy-labs/weave) - Entity-level merge driver for Git. Resolves merge conflicts by understanding code structure via tree-sitter.
 
 ### GitHub
 
