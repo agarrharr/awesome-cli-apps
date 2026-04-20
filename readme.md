@@ -555,6 +555,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ### JSON
 
+- [devkit-cli](https://github.com/Alphaanon/devkit-cli) - Swiss-army-knife CLI for developers: JSON formatting, UUID generation, hashing, base64, JWT decoding, regex testing, and more.
 - [jp](https://github.com/therealklanni/jp) - JSON parser.
 - [fx](https://github.com/antonmedv/fx) - Command-line JSON viewer.
 - [vj](https://github.com/busyloop/vj) - Makes JSON human readable.
