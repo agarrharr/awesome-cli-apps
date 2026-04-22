@@ -216,6 +216,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 ### Database
 
 - [mycli](https://github.com/dbcli/mycli) - MySQL client with autocompletion and syntax highlighting.
+- [Omnigraph](https://github.com/ModernRelay/omnigraph) - Typed graph database where agents branch and merge like Git. S3-native, Rust, traversal + vector + BM25 in one runtime.
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres client with autocompletion and syntax highlighting.
 - [sqlline](https://github.com/julianhyde/sqlline) - Shell for issuing SQL via JDBC.
 - [iredis](https://github.com/laixintao/iredis) - Redis client with autocompletion and syntax highlighting.
