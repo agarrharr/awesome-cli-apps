@@ -400,6 +400,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
 - [clippy](https://github.com/neilberkman/clippy) - Clipboard tool for interacting with GUI applications.
 - [anvil](https://github.com/0xjuanma/anvil) - Config management and app installations.
+- [Brew-TUI](https://github.com/MoLinesGitHub/Brew-TUI) - Visual TUI for Homebrew — browse, search, install, upgrade packages and manage services.
 
 ### Terminal Sharing Utilities
 
