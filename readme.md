@@ -732,6 +732,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [optimizt](https://github.com/343dev/optimizt) - Helps prepare images for the web.
 - [freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output.
 
+- [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - Route image-generation prompts to 30+ models (DALL-E, Stable Diffusion, Flux, and more) through a single MCP server.
+
 ### Gif Creation
 
 - [gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
@@ -801,6 +803,8 @@ Inclusion criteria are less strict for this fast-moving field.
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
+
+- [unslop](https://github.com/MohamedAbdallah-14/unslop) - Strip AI writing patterns from text output — removes filler phrases, passive hedges, and LLM tics.
 
 ## Other Resources
 
