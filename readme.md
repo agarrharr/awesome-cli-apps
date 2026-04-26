@@ -320,6 +320,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [CookCLI](https://github.com/cooklang/CookCLI) - Full-featured recipe manager.
 - [hns](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe voice from microphone.
 - [mynav](https://github.com/GianlucaP106/mynav) - Workspace and session management TUI.
+- [cmux-resurrect](https://github.com/drolosoft/cmux-resurrect) - Save, restore, and template terminal workspaces for tmux and Ghostty.
 
 ### Time Tracking
 
