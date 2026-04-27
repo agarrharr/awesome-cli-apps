@@ -777,6 +777,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
 - [dankcli](https://github.com/sggts04/dankcli) - Add text to meme image templates.
 - [ricksay](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
+- [grugbot420](https://github.com/bad-antics/lateralus-lang) - Grug oracle that delivers coding wisdom, jokes, smoke vibes, and rule-driven keyword roasts. Pure Python, no network.
 
 ### Emoji
 
