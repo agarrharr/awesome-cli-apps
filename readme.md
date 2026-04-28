@@ -731,6 +731,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 - [optimizt](https://github.com/343dev/optimizt) - Helps prepare images for the web.
 - [freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output.
+- [tteg](https://github.com/kiluazen/tteg) - Search and download stock photos from Unsplash. No API key needed.
 
 ### Gif Creation
 
