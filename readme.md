@@ -225,6 +225,8 @@ Expose a service running on localhost to the public web for testing and sharing.
 
 ### Devops
 
+* [ci-doctor](https://github.com/depmedicdev-byte/ci-doctor) - Audits GitHub Actions workflows for cost, security, and reliability gaps. 16 rules, sister CLIs cover GitLab, Bitbucket, Azure Pipelines, CircleCI.
+
 - [htconvert](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects.
 - [SAWS](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
 - [s3cmd](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
@@ -818,8 +820,3 @@ Inclusion criteria are less strict for this fast-moving field.
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agarrharr) has waived all copyright and related or neighboring rights to this work.
-
-
-### Development > Linting
-
-* [ci-doctor](https://github.com/depmedicdev-byte/ci-doctor) - Audits GitHub Actions workflows for cost, security, and reliability gaps. 16 rules. SARIF + PR comment via companion Action.
