@@ -628,6 +628,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [scc](https://github.com/boyter/scc) - Count lines of code, blank lines, comment lines, and physical lines of source code.
 - [chkbit](https://laktak.github.io/chkbit/) - Check your files for data corruption.
 
+- [pdfmux](https://github.com/NameetP/pdfmux) - Universal PDF extraction CLI. Routes each page to the best of 5 backends (PyMuPDF, OpenDataLoader, RapidOCR, Docling) with optional BYOK LLM fallback. Per-page confidence scoring catches and re-extracts failures.
+
 ### File Sync/Sharing
 
 - [rclone](https://github.com/ncw/rclone) - Sync files with various cloud providers.
