@@ -252,7 +252,8 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 - [ctop](https://github.com/bcicen/ctop) - Top like interface for container metrics.
 - [decompose](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
-- [kool](https://github.com/kool-dev/kool) - Web development with containers made easy. 
+- [kool](https://github.com/kool-dev/kool) - Web development with containers made easy.
+- [meatloaf](https://github.com/Atum246/meatloaf) - AI Agent Sandbox Runtime. Build, run, test, and ship apps from Docker sandboxes. 🥩
 
 ### Release
 
