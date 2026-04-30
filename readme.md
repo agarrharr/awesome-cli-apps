@@ -550,6 +550,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [dasel](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML processor (like jq/yq).
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) - Query/update YAML.
 - [ramda-cli](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
+- [dataforge](https://github.com/Lentre/dataforge) - Convert CSV, JSON, Markdown & SQL from the command line.
 - [xq](https://github.com/sibprogrammer/xq) - XML and HTML beautifier and content extractor.
 - [mq](https://github.com/harehare/mq) - Jq-like markdown processor.
 
