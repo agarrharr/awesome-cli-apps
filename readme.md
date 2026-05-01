@@ -47,6 +47,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Productivity](#productivity)
   - [Time Tracking](#time-tracking)
   - [Note Taking and Lists](#note-taking-and-lists)
+  - [Writing (Long-Form)](#writing-long-form)
   - [Finance](#finance)
   - [Presentations](#presentations)
   - [Calendars](#calendars)
@@ -349,6 +350,10 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [rucola](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
 - [kanban.bash](https://github.com/coderofsalvation/kanban.bash) - Kanban todo manager with a CSV backend.
 - [kanban](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
+
+### Writing (Long-Form)
+
+- [Prosaic](https://github.com/DimwitLabs/Prosaic) - A Git-friendly, writer-first app crafted for long-form writing.
 
 ### Finance
 
