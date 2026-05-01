@@ -280,6 +280,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [boilr](https://github.com/tmrts/boilr) - Create projects from boilerplate templates.
 - [cookiecutter](https://github.com/audreyr/cookiecutter) - Create projects from templates.
 - [mevn-cli](https://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
+- [rapidkit](https://github.com/getrapidkit/rapidkit-npm) - Workspace platform CLI for scaffolding production-ready backend services with multi-runtime support (Python, Node.js, Java, Go) and 27+ modules.
 - [scaffold-static](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
 
 ### HTTP Server
