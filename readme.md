@@ -223,6 +223,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [usql](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
 - [rdsai-cli](https://github.com/aliyun/rdsai-cli) - AI-powered MySQL client.
 - [squix](https://github.com/eduardofuncao/squix) - SQL client with query management and interactive results.
+- [pgxcli](https://github.com/Balaji01-4D/pgxcli) - PostgreSQL client with autocompletion and syntax highlighting, focused on performance and distributed as a single binary.
 
 ### Devops
 
