@@ -689,7 +689,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [SnowFS](https://github.com/snowtrack/snowfs) - A fast, scalable version control system for binaries.
 
 ### Git
-
+- [Gnix](https://github.com/HmadAfzal/gnix-local) - Natural language to shell commands. Runs locally. No API key required.
 - [git commander](https://github.com/golbin/git-commander) - Interactive git tool.
 - [git-stats](https://github.com/IonicaBizau/git-stats) - A local GitHub-like contributions calendar.
 - [dev-time](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
