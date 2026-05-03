@@ -799,6 +799,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [agentify](https://github.com/koriyoshi2041/agentify) - Transform OpenAPI specs into formats for agents.
 - [actionbook](https://github.com/actionbook/actionbook) - Parallel browser interaction for agents.
 - [lean-ctx](https://github.com/yvgude/lean-ctx) - Token-saving context runtime for agents.
+- [commitshow](https://github.com/commitshow/cli) - Audit any AI-assisted GitHub repo from the terminal in 60s. 100-pt score, 3 strengths + 2 concerns, 7 vibe-coder failure-mode checks.
 
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
