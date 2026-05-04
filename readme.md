@@ -312,6 +312,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 - [meetup-cli](https://github.com/specious/meetup-cli) - Meetup.com client.
 - [NeoMutt](https://neomutt.org) - Email client.
+- [nylas](https://cli.nylas.com) - Send and read email from the terminal. Multi-provider (Gmail/Outlook/Exchange/Yahoo/iCloud/IMAP), one auth, JSON output for scripting, MCP server built in.
 - [terjira](https://github.com/keepcosmos/terjira) - Jira client.
 - [ipt](https://github.com/drselump14/ipt) - Pivotal Tracker client.
 - [uber-cli](https://github.com/jaebradley/uber-cli) - Uber client.
