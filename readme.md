@@ -801,6 +801,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [lean-ctx](https://github.com/yvgude/lean-ctx) - Token-saving context runtime for agents.
 
 ### LLM Interaction
+- [lacy](https://github.com/lacymorrow/lacy) - Shell plugin that routes natural language to AI agents and commands to the shell. Real-time color indicator.
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
 
