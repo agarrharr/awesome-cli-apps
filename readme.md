@@ -129,6 +129,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mpvc](https://github.com/gmt4/mpvc) - Music player interfacing mpv.
 - [TUISIC](https://github.com/Dark-Kernel/tuisic) - Login-free music streaming.
 
+### Audio Quality
+
+- [sonic-gate](https://github.com/Codinglone/sonic-gate) - CLI-first deterministic audio/video quality gate. Catches corrupted, invalid, or low-quality media before it reaches humans. Optional Whisper-based AI probe.
+
 ### Video
 
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Download videos from YouTube.com and many other video sites.
