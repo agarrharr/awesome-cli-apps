@@ -1,0 +1,9 @@
+name: "Question or Discussion"
+description: "Start a discussion or ask a question about the list."
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+    validations:
+      required: true
