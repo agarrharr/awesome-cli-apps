@@ -805,6 +805,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
 
+- [llm-prices](https://github.com/benbencodes/llm-prices) - Look up and compare LLM API costs across 60 models and 11 providers. Supports cost calculation, side-by-side comparison, and budget planning with Markdown/CSV export.
 ## Other Resources
 
 - [awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - Extensive list of CLI apps.
