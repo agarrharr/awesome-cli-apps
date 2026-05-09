@@ -427,6 +427,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ### Theming and Customization
 
+- [cwal](https://github.com/nitinbhat972/cwal) - Blazing-fast pywal-like color palette generator written in C.
 - [splash-cli](https://github.com/splash-cli/splash-cli) - Beautiful wallpapers from Unsplash.
 - [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
 - [themer](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
