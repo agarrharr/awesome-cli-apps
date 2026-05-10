@@ -435,7 +435,15 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [QuickWall](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
 - [oh-my-posh](https://ohmyposh.dev) - Prompt theme engine.
 - [starship](https://github.com/starship/starship) - Minimal, blazing-fast, and infinitely customizable prompt for any shell.
-- [gowall](https://github.com/Achno/gowall) - Extract image color pallet, recolor images/icon and more.
+- [splash-cli](https://github.com/splash-cli/splash-cli) - Beautiful wallpapers from Unsplash.
+- [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
+- [themer](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
+- [JackPaper](https://github.com/jackel27/jackpaper) - Set images from Unsplash as wallpaper.
+- [QuickWall](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
+- [oh-my-posh](https://ohmyposh.dev) - Prompt theme engine.
+- [starship](https://github.com/starship/starship) - Minimal, blazing-fast, and infinitely customizable prompt for any shell.
+- [gowall](https://github.com/Achno/gowall) - Extract image color palette, recolor images/icon and more.
+- [cwal](https://github.com/nitinbhat972/cwal) - pywal-like color palette generator.
 
 ### Shell Utilities
 
