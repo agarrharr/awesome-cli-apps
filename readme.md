@@ -321,6 +321,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 - [CookCLI](https://github.com/cooklang/CookCLI) - Full-featured recipe manager.
 - [hns](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe voice from microphone.
+- [voice2ai](https://github.com/lfzds4399-cpu/voice2ai) - Hands-free speech-to-AI for Windows: hold a hotkey or use VAD continuous mode; transcript pastes into the focused chat (VS Code, Cursor, browsers, WeChat, 10+ apps) and auto-submits. Four STT providers, no telemetry.
 - [mynav](https://github.com/GianlucaP106/mynav) - Workspace and session management TUI.
 
 ### Time Tracking
