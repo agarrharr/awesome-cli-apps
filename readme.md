@@ -434,7 +434,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [QuickWall](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
 - [oh-my-posh](https://ohmyposh.dev) - Prompt theme engine.
 - [starship](https://github.com/starship/starship) - Minimal, blazing-fast, and infinitely customizable prompt for any shell.
-- [gowall](https://github.com/Achno/gowall) - Extract image color pallet, recolor images/icon and more.
+- [gowall](https://github.com/Achno/gowall) - Extract image color palette, recolor images/icon and more.
+- [cwal](https://github.com/nitinbhat972/cwal) - pywal-like color palette generator.
 
 ### Shell Utilities
 
