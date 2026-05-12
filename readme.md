@@ -804,6 +804,7 @@ Inclusion criteria are less strict for this fast-moving field.
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
+- [llm-prices](https://github.com/benbencodes/llm-prices) - Compare LLM API costs across 149 models and 22 providers. Find the cheapest model for your token budget, calculate job costs, and query pricing via MCP from Claude Code or Cursor.
 
 ## Other Resources
 
