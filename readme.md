@@ -730,6 +730,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [SVGO](https://github.com/svg/svgo) - Optimize SVG files.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
+- [snapcode](https://github.com/md-mushfiqur-rahim123-official/snapcode) - Turn code files into beautiful, syntax-highlighted images for social media.
 - [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 - [optimizt](https://github.com/343dev/optimizt) - Helps prepare images for the web.
