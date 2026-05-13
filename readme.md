@@ -182,6 +182,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 - [mk](https://github.com/pycontribs/mk) - Exposes most common actions you can run in unfamiliar repos.
+- [buildmind](https://github.com/MD-Mushfiqur123/buildmind) - AI coding agent with two modes and any provider.
+- [codemind](https://github.com/MD-Mushfiqur123/codemind) - Lightweight open-source AI coding agent.
 
 ### Text Editors
 
@@ -734,6 +736,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 - [optimizt](https://github.com/343dev/optimizt) - Helps prepare images for the web.
 - [freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output.
+- [snapcode](https://github.com/MD-Mushfiqur123/snapcode) - Turn code files into beautiful images for social media.
 
 ### Gif Creation
 
