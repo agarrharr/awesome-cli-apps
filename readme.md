@@ -178,6 +178,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [grex](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
 - [iola](https://github.com/pvarentsov/iola) - Socket client with REST API.
 - [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
+- [dotenvx](https://github.com/md-mushfiqur-rahim123-official/dotenvx) - Validate, document, and manage .env files from the CLI.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
 - [reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
@@ -707,6 +708,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [import-github-labels-cli](https://github.com/abhijithvijayan/import-github-labels-cli) - Sync labels between Github repos.
 - [git-all-branches](https://github.com/zacanger/git-all-branches) - Improved `git branch -a`.
 - [czg](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
+- [cmt](https://github.com/md-mushfiqur-rahim123-official/cmt) - AI-powered commit message generator using local Ollama models.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 - [lazygit](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
 - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy bash prompt for Git users.
