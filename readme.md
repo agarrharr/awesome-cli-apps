@@ -436,6 +436,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [starship](https://github.com/starship/starship) - Minimal, blazing-fast, and infinitely customizable prompt for any shell.
 - [gowall](https://github.com/Achno/gowall) - Extract image color palette, recolor images/icon and more.
 - [cwal](https://github.com/nitinbhat972/cwal) - pywal-like color palette generator.
+- [splashboard](https://github.com/unhappychoice/splashboard) - Customizable splash screen shown on shell startup and directory change, with per-directory dashboards.
 
 ### Shell Utilities
 
