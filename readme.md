@@ -679,6 +679,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
 - [broot](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
 - [rare](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
+- [rfx](https://github.com/reflex-search/reflex) - Sub-100ms local full-text code search with trigram indexing. MCP server mode for AI coding agents, symbol extraction via tree-sitter, 18 languages.
 - [skim](https://github.com/lotabout/skim) - A general fuzzy finder written in Rust, similar to fzf.
 - [ast-grep](https://github.com/ast-grep/ast-grep) - A tool for code structural search, linting and rewriting.
 - [television](https://github.com/alexpasmantier/television) - A very fast general purpose fuzzy finder.
