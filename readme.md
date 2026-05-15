@@ -686,6 +686,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [srgn](https://github.com/alexpovel/srgn/) - A grep-like tool which understands code syntax and also allows for manipulation.
 - [rawhide](https://github.com/raforg/rawhide) - Find files using pretty C expressions.
 - [semantic-grep](https://github.com/arunsupe/semantic-grep) - A tool for semantic search using word embeddings (e.g. search for "death" and find "dead", "killing", "murder".)
+- [reflex](https://github.com/reflex-search/reflex) - Instant, offline, code-aware search for text, symbols, and import graphs.
 
 ## Version Control
 
