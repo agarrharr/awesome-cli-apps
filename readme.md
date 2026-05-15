@@ -150,7 +150,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Cataclysm-DDA](https://cataclysmdda.org) - Turn-based survival game set in a post-apocalyptic world.
 - [Pokete](https://github.com/lxgr-linux/Pokete) - Pokemon-like.
 - [NetHack](https://www.nethack.org) - Roguelike dungeon crawler.
-- [gittype](https://github.com/unhappychoice/gittype) - Code-typing game that turns your source code into typing challenges.
+- [gittype](https://github.com/unhappychoice/gittype) - Turn your source code into typing challenges.
 
 ### Books
 
