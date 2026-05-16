@@ -403,6 +403,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
 - [clippy](https://github.com/neilberkman/clippy) - Clipboard tool for interacting with GUI applications.
 - [anvil](https://github.com/0xjuanma/anvil) - Config management and app installations.
+- [say-it](https://github.com/anzy-renlab-ai/pronounce) - Pronounce developer jargon out loud — 540+ cited entries (kubectl, GIF, JWT, …), audible alternates, MCP server, zero-dep Bash wrapping macOS `say`.
 
 ### Terminal Sharing Utilities
 
