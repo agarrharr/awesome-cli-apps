@@ -632,6 +632,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [f2](https://github.com/ayoisaiah/f2) - A cross-platform tool for fast, safe, and flexible batch renaming.
 - [scc](https://github.com/boyter/scc) - Count lines of code, blank lines, comment lines, and physical lines of source code.
 - [chkbit](https://laktak.github.io/chkbit/) - Check your files for data corruption.
+- [rnmtool](https://github.com/AayushGoswami/rnmtool) - Batch rename files with dry-run preview, regex, case conversion, and glob filtering.
 
 ### File Sync/Sharing
 
