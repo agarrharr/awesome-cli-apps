@@ -321,6 +321,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 - [CookCLI](https://github.com/cooklang/CookCLI) - Full-featured recipe manager.
 - [hns](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe voice from microphone.
+- [say-it](https://github.com/anzy-renlab-ai/pronounce) - Speak project, product, and programmer-jargon names out loud the way engineers actually pronounce them. Community dictionary with creator citations (GIF → "jif" per Wilhite, kubectl → "koob control" per Hightower, ...).
 - [mynav](https://github.com/GianlucaP106/mynav) - Workspace and session management TUI.
 
 ### Time Tracking
