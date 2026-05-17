@@ -510,6 +510,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
 - [trino](https://github.com/eneserdogan/trino) - Translation of words and phrases.
 - [translate-shell](https://github.com/soimort/translate-shell) - Google Translate interface.
+- [warnely-cli](https://github.com/sn-lui/warnely-cli) - Composite travel-safety scores for 180 countries from the Warnely Public API (CC BY 4.0). Single-file, zero deps.
 
 ### Internet Speedtest
 
