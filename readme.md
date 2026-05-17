@@ -223,6 +223,8 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [iredis](https://github.com/laixintao/iredis) - Redis client with autocompletion and syntax highlighting.
 - [usql](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
 - [rdsai-cli](https://github.com/aliyun/rdsai-cli) - AI-powered MySQL client.
+- [json2sql](https://github.com/Coding-Dev-Tools/json2sql) - Convert JSON files and API responses to SQL schemas and INSERT statements.
+- [SchemaForge](https://github.com/Coding-Dev-Tools/schemaforge) - Validate and generate data schemas from JSON/YAML with automatic inference and linting.
 - [squix](https://github.com/eduardofuncao/squix) - SQL client with query management and interactive results.
 
 ### Devops
@@ -244,6 +246,9 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [updo](https://github.com/Owloops/updo) - Website monitoring tool.
 - [cronboard](https://github.com/antoniorodr/Cronboard) - Dashboard for managing cron jobs.
 - [s3m](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
+- [DeployDiff](https://github.com/Coding-Dev-Tools/deploydiff) - Compare deployments across environments to detect configuration drift and prevent inconsistencies.
+- [ConfigDrift](https://github.com/Coding-Dev-Tools/configdrift) - Detect and track configuration drift across infrastructure environments.
+- [Envault](https://github.com/Coding-Dev-Tools/envault) - Encrypted .env file management with team sharing and version control.
 - [bencher](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
 
 ### Docker
@@ -305,6 +310,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests.
 - [Step CI](https://github.com/stepci/stepci) - API testing and QA framework.
 - [bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
+- [API Contract Guardian](https://github.com/Coding-Dev-Tools/api-contract-guardian) - Validate OpenAPI contracts in CI/CD pipelines to prevent breaking changes from reaching production.
 - [cmdperf](https://github.com/miklosn/cmdperf) - Quickly benchmark and compare command performance.
 
 ## Productivity
