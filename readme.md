@@ -245,6 +245,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [cronboard](https://github.com/antoniorodr/Cronboard) - Dashboard for managing cron jobs.
 - [s3m](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
 - [bencher](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
+- [pro-terminal-setup](https://github.com/mathewjustin/pro-terminal-setup) - Portable Ghostty/zsh terminal setup with Kubernetes helpers, tmux, lazygit, backups, and Homebrew install.
 
 ### Docker
 
