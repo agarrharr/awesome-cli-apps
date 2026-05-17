@@ -244,7 +244,10 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [updo](https://github.com/Owloops/updo) - Website monitoring tool.
 - [cronboard](https://github.com/antoniorodr/Cronboard) - Dashboard for managing cron jobs.
 - [s3m](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
-- [bencher](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
+|- [bencher](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
+- [configdrift](https://github.com/Coding-Dev-Tools/configdrift) - Detect configuration drift across environments.
+- [deploydiff](https://github.com/Coding-Dev-Tools/deploydiff) - Compare deployments and spot configuration differences.
+- [envault](https://github.com/Coding-Dev-Tools/envault) - Securely manage environment variables across projects.
 
 ### Docker
 
@@ -305,7 +308,9 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests.
 - [Step CI](https://github.com/stepci/stepci) - API testing and QA framework.
 - [bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
-- [cmdperf](https://github.com/miklosn/cmdperf) - Quickly benchmark and compare command performance.
+|- [cmdperf](https://github.com/miklosn/cmdperf) - Quickly benchmark and compare command performance.
+- [apighost](https://github.com/Coding-Dev-Tools/apighost) - API mocking server with request recording and replay.
+- [api-contract-guardian](https://github.com/Coding-Dev-Tools/api-contract-guardian) - Enforce API contracts in your CI/CD pipelines.
 
 ## Productivity
 
@@ -473,6 +478,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [gtree](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
 - [Jimmy](https://github.com/marph91/jimmy) - Convert various note formats to markdown.
 - [mq](https://github.com/harehare/mq) - Jq-like markdown processor.
+- [datamorph](https://github.com/Coding-Dev-Tools/datamorph) - Transform data between JSON, CSV, YAML, and SQL formats.
+- [schemaforge](https://github.com/Coding-Dev-Tools/schemaforge) - Generate database schemas from data samples.
 
 ### Security
 
@@ -557,6 +564,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [ramda-cli](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
 - [xq](https://github.com/sibprogrammer/xq) - XML and HTML beautifier and content extractor.
 - [mq](https://github.com/harehare/mq) - Jq-like markdown processor.
+- [datamorph](https://github.com/Coding-Dev-Tools/datamorph) - Transform data between JSON, CSV, YAML, and SQL formats.
+- [schemaforge](https://github.com/Coding-Dev-Tools/schemaforge) - Generate database schemas from data samples.
 
 ### JSON
 
@@ -567,6 +576,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
 - [GROQ](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable.
+- [json2sql](https://github.com/Coding-Dev-Tools/json2sql) - Convert JSON data directly into SQL INSERT statements.
 - [config-file-validator](https://github.com/Boeing/config-file-validator) - Validate configuration files.
 
 ### YAML
@@ -803,7 +813,8 @@ Inclusion criteria are less strict for this fast-moving field.
 - [coi](https://github.com/mensfeld/code-on-incus) - Incus container runtime for agents.
 - [agentify](https://github.com/koriyoshi2041/agentify) - Transform OpenAPI specs into formats for agents.
 - [actionbook](https://github.com/actionbook/actionbook) - Parallel browser interaction for agents.
-- [lean-ctx](https://github.com/yvgude/lean-ctx) - Token-saving context runtime for agents.
+|- [lean-ctx](https://github.com/yvgude/lean-ctx) - Token-saving context runtime for agents.
+- [click-to-mcp](https://github.com/Coding-Dev-Tools/click-to-mcp) - Auto-wrap any Click/Typer CLI as an MCP server.
 
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
