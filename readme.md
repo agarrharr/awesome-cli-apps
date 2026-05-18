@@ -473,6 +473,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [gtree](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
 - [Jimmy](https://github.com/marph91/jimmy) - Convert various note formats to markdown.
 - [mq](https://github.com/harehare/mq) - Jq-like markdown processor.
+- [md2wechat](https://github.com/OHCJ099/md2wechat) - Convert Markdown to WeChat-compatible rich text HTML with code highlighting.
 
 ### Security
 
@@ -804,6 +805,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [agentify](https://github.com/koriyoshi2041/agentify) - Transform OpenAPI specs into formats for agents.
 - [actionbook](https://github.com/actionbook/actionbook) - Parallel browser interaction for agents.
 - [lean-ctx](https://github.com/yvgude/lean-ctx) - Token-saving context runtime for agents.
+- [ai-pilot](https://github.com/OHCJ099/ai-pilot) - Unified manager for multiple AI coding assistants with smart routing and parallel comparison.
 
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
