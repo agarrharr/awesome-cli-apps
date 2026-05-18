@@ -245,6 +245,8 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [cronboard](https://github.com/antoniorodr/Cronboard) - Dashboard for managing cron jobs.
 - [s3m](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
 - [bencher](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
+- [configdrift](https://github.com/Coding-Dev-Tools/configdrift) - Detect configuration drift across infrastructure with diff-based reporting.
+- [deploydiff](https://github.com/Coding-Dev-Tools/deploydiff) - Compare deployments across environments to catch config and dependency drift.
 
 ### Docker
 
@@ -306,6 +308,8 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [Step CI](https://github.com/stepci/stepci) - API testing and QA framework.
 - [bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
 - [cmdperf](https://github.com/miklosn/cmdperf) - Quickly benchmark and compare command performance.
+- [deadcode](https://github.com/Coding-Dev-Tools/deadcode) - Detect and remove dead code across Python projects with AST analysis.
+- [api-contract-guardian](https://github.com/Coding-Dev-Tools/api-contract-guardian) - Detect API contract violations, breaking changes, and schema drift.
 
 ## Productivity
 
@@ -482,6 +486,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [hasha-cli](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
 - [ots](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
 - [andcli](https://github.com/tjblackheart/andcli) - Work with 2FA tokens from multiple OTP providers.
+- [envault](https://github.com/Coding-Dev-Tools/envault) - Encrypt and sync .env files across teams with role-based access.
 
 ### Math
 
@@ -568,6 +573,9 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [GROQ](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable.
 - [config-file-validator](https://github.com/Boeing/config-file-validator) - Validate configuration files.
+- [json2sql](https://github.com/Coding-Dev-Tools/json2sql) - Convert JSON files to SQL CREATE TABLE and INSERT statements.
+- [schemaforge](https://github.com/Coding-Dev-Tools/schemaforge) - Generate JSON Schema from JSON data with type inference.
+- [datamorph](https://github.com/Coding-Dev-Tools/datamorph) - Transform data between JSON, YAML, TOML, CSV, and XML formats.
 
 ### YAML
 
@@ -804,6 +812,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [agentify](https://github.com/koriyoshi2041/agentify) - Transform OpenAPI specs into formats for agents.
 - [actionbook](https://github.com/actionbook/actionbook) - Parallel browser interaction for agents.
 - [lean-ctx](https://github.com/yvgude/lean-ctx) - Token-saving context runtime for agents.
+- [click-to-mcp](https://github.com/Coding-Dev-Tools/click-to-mcp) - Auto-convert any Click/typer CLI into an MCP server for AI agent integration.
 
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
