@@ -783,6 +783,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
 - [dankcli](https://github.com/sggts04/dankcli) - Add text to meme image templates.
 - [ricksay](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
+- [Tarotui](https://github.com/Tsukeruu/tarotui) - A tarot reading experience in the terminal.
 
 ### Emoji
 
@@ -804,11 +805,12 @@ Inclusion criteria are less strict for this fast-moving field.
 - [agentify](https://github.com/koriyoshi2041/agentify) - Transform OpenAPI specs into formats for agents.
 - [actionbook](https://github.com/actionbook/actionbook) - Parallel browser interaction for agents.
 - [lean-ctx](https://github.com/yvgude/lean-ctx) - Token-saving context runtime for agents.
+- [Tarotui](https://github.com/Tsukeruu/tarotui) - A tarot reading experience in the terminal.
 
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
-
+- [Tarotui](https://github.com/Tsukeruu/tarotui) - A tarot reading experience in the terminal.
 ## Other Resources
 
 - [awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - Extensive list of CLI apps.
