@@ -164,6 +164,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [WeeChat](https://weechat.org/) - Fast, light and extensible chat client.
 - [irssi](https://github.com/irssi/irssi) - IRC chat client.
 - [kirc](https://github.com/mcpcpc/kirc) - Tiny IRC client.
+- [Ano](https://ano.chat/) - High-performance collaborative developer chat and workspace with a native in-app terminal and integrated AI.
 
 ## Development
 
