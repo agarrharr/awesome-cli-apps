@@ -172,6 +172,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [rebound](https://github.com/shobrook/rebound) - Fetch Stack Overflow results on compiler error.
 - [foy](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
 - [just](https://github.com/casey/just) - Modern `make`-like command runner.
+- [rex](https://github.com/rexrun-dev/rex) - Zero-config universal project runner. Detects your stack and runs the right command.
 - [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
 - [bitwise](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulation.
 - [cgasm](https://github.com/bnagy/cgasm) - x86 assembly documentation.
