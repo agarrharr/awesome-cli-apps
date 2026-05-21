@@ -200,7 +200,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) - Strip comments from CSS.
 - [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports.
 - [surge](https://surge.sh) - Publish static websites for free.
-
+- [citable](https://github.com/WorkSmartAI-alt/citable) - Score your site for ChatGPT, Claude, Perplexity, and Google AI visibility. 15 checks, 5-sheet xlsx output.
 ### Public localhost
 
 Expose a service running on localhost to the public web for testing and sharing.
