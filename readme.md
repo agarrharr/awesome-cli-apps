@@ -234,6 +234,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [pm2](https://github.com/Unitech/pm2) - Production Process Manager for Node.js.
 - [ops](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
 - [flog](https://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
+- [logsniff](https://github.com/milishiajay/logsniff) - Log analysis CLI with pattern detection, error highlighting, and frequency stats.
 - [k9s](https://github.com/derailed/k9s) - Manage Kubernetes Clusters.
 - [PingMe](https://github.com/kha7iq/pingme) - Send messages/alerts to multiple messaging platforms & email.
 - [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
@@ -307,6 +308,8 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [Step CI](https://github.com/stepci/stepci) - API testing and QA framework.
 - [bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
 - [cmdperf](https://github.com/miklosn/cmdperf) - Quickly benchmark and compare command performance.
+- [quickbench](https://github.com/milishiajay/quickbench) - Shell command benchmarking with statistical analysis.
+- [httpstat](https://github.com/milishiajay/httpstat) - HTTP benchmarking CLI with latency percentiles, concurrency, and JSON export.
 
 ## Productivity
 
@@ -482,6 +485,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based VPN.
 - [hasha-cli](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
 - [ots](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
+- [certlint](https://github.com/milishiajay/certlint) - SSL/TLS certificate checker and linter.
+- [envault](https://github.com/milishiajay/envault) - Encrypt/decrypt .env files with AES-256-CTR + HMAC authentication.
 - [andcli](https://github.com/tjblackheart/andcli) - Work with 2FA tokens from multiple OTP providers.
 
 ### Math
@@ -617,6 +622,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [dust](https://github.com/bootandy/dust) - A more intuitive version of `du` in Rust.
 - [dutree](https://github.com/nachoparker/dutree) - A tool to analyze file system usage written in Rust.
 - [NCDu](https://dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
+- [dirmap](https://github.com/milishiajay/dirmap) - Interactive directory size treemap for disk usage analysis.
 
 ### Files
 
@@ -633,6 +639,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [f2](https://github.com/ayoisaiah/f2) - A cross-platform tool for fast, safe, and flexible batch renaming.
 - [scc](https://github.com/boyter/scc) - Count lines of code, blank lines, comment lines, and physical lines of source code.
 - [chkbit](https://laktak.github.io/chkbit/) - Check your files for data corruption.
+- [dedup](https://github.com/milishiajay/dedup) - Find and merge duplicate files with content-aware deduplication.
+- [termdiff](https://github.com/milishiajay/termdiff) - Beautiful terminal side-by-side diff viewer with syntax highlighting.
 
 ### File Sync/Sharing
 
@@ -718,6 +726,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [ggc](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
 - [AI Git Narrator](https://github.com/pmusolino/AI-Git-Narrator) - [macOS]: Generate commit messages with AI.
 - [gibr](https://github.com/ytreister/gibr) - Easily create consistent git branch names.
+- [gitpulse](https://github.com/milishiajay/gitpulse) - Git productivity CLI with commit stats, author leaderboards, and activity sparklines.
 
 ### GitHub
 
