@@ -241,11 +241,13 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [updatecli](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
 - [telert](https://github.com/navig-me/telert) - Multi-channel alerts for long-running commands and process/log/uptime monitoring.
 - [logdy](https://github.com/logdyhq/logdy-core) - Supercharge terminal logs with web UI.
+- [logsniff](https://github.com/milishiajay/logsniff) - Log analysis CLI: pattern detection, error highlighting, frequency stats.
 - [s5cmd](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
 - [updo](https://github.com/Owloops/updo) - Website monitoring tool.
 - [cronboard](https://github.com/antoniorodr/Cronboard) - Dashboard for managing cron jobs.
 - [s3m](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
 - [bencher](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
+- [httpstat](https://github.com/milishiajay/httpstat) - HTTP benchmarking CLI: latency percentiles, concurrency, JSON export.
 
 ### Docker
 
@@ -483,6 +485,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [hasha-cli](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
 - [ots](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
 - [andcli](https://github.com/tjblackheart/andcli) - Work with 2FA tokens from multiple OTP providers.
+- [envault](https://github.com/milishiajay/envault) - Encrypt/decrypt .env files with AES-256-CTR + HMAC authentication.
 
 ### Math
 
@@ -718,6 +721,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [ggc](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
 - [AI Git Narrator](https://github.com/pmusolino/AI-Git-Narrator) - [macOS]: Generate commit messages with AI.
 - [gibr](https://github.com/ytreister/gibr) - Easily create consistent git branch names.
+- [gitpulse](https://github.com/milishiajay/gitpulse) - Git productivity CLI: commit stats, author leaderboard, activity sparklines.
 
 ### GitHub
 
