@@ -394,6 +394,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [clevercli](https://github.com/clevercli/clevercli) - Collection of ChatGPT powered utilities.
 - [OctoType](https://github.com/mahlquistj/octotype) - A customizable typing trainer.
 - [gittype](https://github.com/unhappychoice/gittype) - Turn your source code into typing challenges.
+- [healthsync](https://github.com/BRO3886/healthsync) - Parse Apple Health exports into a queryable SQLite database with structured JSON output.
 
 ### macOS
 
