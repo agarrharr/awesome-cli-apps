@@ -382,6 +382,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [vdirsyncer](https://github.com/pimutils/vdirsyncer) - CalDAV sync.
 - [remind](https://dianne.skoll.ca/projects/remind/) - A sophisticated calendar and alarm program.
 - [birthday](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
+- [gtasks](https://github.com/BRO3886/gtasks) - Manage Google Tasks with structured JSON output and Markdown export.
 
 ## Utilities
 
