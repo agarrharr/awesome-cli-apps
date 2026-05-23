@@ -382,6 +382,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [vdirsyncer](https://github.com/pimutils/vdirsyncer) - CalDAV sync.
 - [remind](https://dianne.skoll.ca/projects/remind/) - A sophisticated calendar and alarm program.
 - [birthday](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
+- [rem](https://github.com/BRO3886/rem) - Manage macOS Reminders with natural language dates, structured JSON output, and import/export.
 
 ## Utilities
 
