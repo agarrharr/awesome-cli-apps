@@ -809,6 +809,7 @@ Inclusion criteria are less strict for this fast-moving field.
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
+- [oneshot](https://github.com/vishwasvijayabaskar-code/oneshot) - Query any LLM from terminal. OpenAI, Anthropic, Gemini, Ollama. Zero dependencies, streaming, piping.
 
 ## Other Resources
 
