@@ -805,6 +805,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [agentify](https://github.com/koriyoshi2041/agentify) - Transform OpenAPI specs into formats for agents.
 - [actionbook](https://github.com/actionbook/actionbook) - Parallel browser interaction for agents.
 - [lean-ctx](https://github.com/yvgude/lean-ctx) - Token-saving context runtime for agents.
+- [perseus](https://github.com/tcconnally/perseus) - Compile-before-context engine. Pre-resolves workspace state (git, services, memory, coordination) into a markdown briefing at session start. 120-agent swarm, 10K directives in 0.36s, zero collisions. MIT.
 
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
