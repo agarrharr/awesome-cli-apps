@@ -528,6 +528,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [resumx](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting.
 - [YAMLResume](https://github.com/yamlresume/yamlresume) - Resumes as code.
+- [linkedin2md](https://github.com/juanmanueldaza/linkedin2md) - Convert LinkedIn data exports to Markdown for LLM analysis and PDF resume generation.
 
 ## Command Line Learning
 
