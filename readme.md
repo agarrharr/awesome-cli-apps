@@ -487,6 +487,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [hasha-cli](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
 - [ots](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
 - [andcli](https://github.com/tjblackheart/andcli) - Work with 2FA tokens from multiple OTP providers.
+- [quantumscan](https://github.com/quantumscan-io/scanner-core) - Scan GitHub/GitLab/Bitbucket repos for quantum-vulnerable cryptography (RSA, ECC). Generates CBOM and DORA/NIS2 compliance reports.
 
 ### Math
 
