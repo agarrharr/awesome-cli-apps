@@ -394,7 +394,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [clevercli](https://github.com/clevercli/clevercli) - Collection of ChatGPT powered utilities.
 - [OctoType](https://github.com/mahlquistj/octotype) - A customizable typing trainer.
 - [gittype](https://github.com/unhappychoice/gittype) - Turn your source code into typing challenges.
-- [amazon-orders](https://github.com/alexdlaird/amazon-orders) - Retrieve Amazon order history, line items, and transactions.
+- [amazon-orders](https://github.com/alexdlaird/amazon-orders) - Retrieve Amazon order history.
 
 ### macOS
 
