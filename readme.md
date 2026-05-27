@@ -283,6 +283,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [cookiecutter](https://github.com/audreyr/cookiecutter) - Create projects from templates.
 - [mevn-cli](https://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
 - [scaffold-static](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
+- [ScaffoldKit](https://ezra-hermes-42.github.io/scaffoldkit-store/) - Generate production-ready project structures for Python, Node.js, and Go.
 
 ### HTTP Server
 
