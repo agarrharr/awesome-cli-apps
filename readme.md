@@ -431,6 +431,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [rustnet](https://github.com/domcyrus/rustnet) - Network monitoring with process identification and deep packet inspection.
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
 - [tldx](https://github.com/brandonyoungdev/tldx) - Bulk domain availability checker.
+- [netwatch](https://github.com/matthart1983/netwatch) - Real-time network diagnostics TUI with deep packet inspection, per-process attribution, TCP retransmit analytics, and Flight Recorder incident bundles.
 
 ### Theming and Customization
 
@@ -468,6 +469,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
 - [glances](https://nicolargo.github.io/glances/) - System monitoring tool.
 - [tiptop](https://github.com/nschloe/tiptop) - System monitor.
+- [syswatch](https://github.com/matthart1983/syswatch) - System diagnostics TUI across CPU, memory, disks, processes, GPU, power, services, and network with a Timeline scrubber and Insights anomaly engine.
 - [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file.
 
 ### Markdown
@@ -623,6 +625,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [dust](https://github.com/bootandy/dust) - A more intuitive version of `du` in Rust.
 - [dutree](https://github.com/nachoparker/dutree) - A tool to analyze file system usage written in Rust.
 - [NCDu](https://dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
+- [diskwatch](https://github.com/matthart1983/diskwatch) - Disk diagnostics TUI across devices, volumes, filesystems, IO, SMART, hot files, and insights.
 
 ### Files
 
