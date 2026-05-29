@@ -408,6 +408,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
 - [clippy](https://github.com/neilberkman/clippy) - Clipboard tool for interacting with GUI applications.
 - [anvil](https://github.com/0xjuanma/anvil) - Config management and app installations.
+- [quokka](https://github.com/dutradotdev/quokka) - Inspect and clean up an iPhone over USB from the terminal. No jailbreak.
 
 ### Terminal Sharing Utilities
 
