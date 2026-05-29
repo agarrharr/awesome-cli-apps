@@ -800,6 +800,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ## AI
 Inclusion criteria are less strict for this fast-moving field.
 
+- [tokenmap](https://github.com/akshatshaw/tokenmap) - GitHub-style heatmap of your AI coding tool usage and costs.
+
 ### Agents
 - [greywall](https://github.com/GreyhavenHQ/greywall) - Deny-by-default sandbox with filesystem and network isolation.
 - [agent-of-empires](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
