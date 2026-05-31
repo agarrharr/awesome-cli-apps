@@ -354,6 +354,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [kanban.bash](https://github.com/coderofsalvation/kanban.bash) - Kanban todo manager with a CSV backend.
 - [kanban](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
 - [gtasks](https://github.com/BRO3886/gtasks) - Manage Google Tasks.
+- [linear-tui](https://github.com/roeyazroel/linear-tui) - Manage Linear issues with keyboard navigation, comments, status changes, and agent runs.
 
 ### Finance
 
