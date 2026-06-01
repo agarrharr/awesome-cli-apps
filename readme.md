@@ -804,6 +804,7 @@ Inclusion criteria are less strict for this fast-moving field.
 
 ### Agents
 - [greywall](https://github.com/GreyhavenHQ/greywall) - Deny-by-default sandbox with filesystem and network isolation.
+- [hcom](https://github.com/aannoo/hcom) - Messaging and orchestration CLI for AI coding agents; hooks Claude Code, Antigravity, Codex, OpenCode, and Cursor so agents can message, observe, and spawn each other across terminals.
 - [agent-of-empires](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
 - [agent-deck](https://github.com/asheshgoplani/agent-deck) - Dashboard for managing multiple AI coding agent sessions.
 - [Sugar](https://github.com/roboticforce/sugar) - Autonomous agent that queues and executes tasks in the background.
