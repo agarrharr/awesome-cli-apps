@@ -138,6 +138,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mpv](https://mpv.io) - Superior video player.
 - [editly](https://github.com/mifi/editly) - Declarative video editing.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
+- [mcp-video](https://github.com/KyaniteLabs/mcp-video) - Guardrailed FFmpeg video editing for AI agents and the CLI.
 
 ### Movies
 
@@ -168,6 +169,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Development
 
 - [legit](https://github.com/captainsafia/legit) - Generate Open Source licences as files or file headers.
+- [DialectOS](https://github.com/KyaniteLabs/DialectOS) - Spanish dialect localization and QA across 25 regional Spanish variants.
 - [mklicense](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
 - [rebound](https://github.com/shobrook/rebound) - Fetch Stack Overflow results on compiler error.
 - [foy](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
@@ -336,6 +338,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [arttime](https://github.com/reportaman/arttime) - Featureful timer with native desktop notifications and curated ASCII art.
 - [Tock](https://github.com/kriuchkov/tock) - Powerful time tracking tool.
 - [Helm](https://github.com/0xjuanma/helm) - Minimalistic timer.
+- [Epoch](https://github.com/KyaniteLabs/Epoch) - Software estimation: PERT, COCOMO II, Monte Carlo, and schedule-risk forecasting.
 
 ### Note Taking, Lists, Task Management
 
