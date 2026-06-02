@@ -46,7 +46,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Testing](#testing)
 - [Productivity](#productivity)
   - [Time Tracking](#time-tracking)
-  - [Note Taking and Lists](#note-taking-and-lists)
+  - [Note Taking, Lists, Task Management](#note-taking-lists-task-management)
   - [Finance](#finance)
   - [Presentations](#presentations)
   - [Calendars](#calendars)
@@ -128,6 +128,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [radio-active](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
 - [mpvc](https://github.com/gmt4/mpvc) - Music player interfacing mpv.
 - [TUISIC](https://github.com/Dark-Kernel/tuisic) - Login-free music streaming.
+- [termusic](https://github.com/tramhao/termusic) - Music player in rust with download capabilities.
 
 ### Video
 
@@ -181,6 +182,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 - [mk](https://github.com/pycontribs/mk) - Exposes most common actions you can run in unfamiliar repos.
+- [dotenv-diff](https://github.com/Chrilleweb/dotenv-diff) - Validate environment variable usage in a codebase.
 
 ### Text Editors
 
@@ -191,6 +193,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [micro](https://github.com/zyedidia/micro) - A simple and intuitive editor.
 - [o](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
 - [helix](https://github.com/helix-editor/helix) - Modal editor inspired by kakoune.
+- [Prosaic](https://github.com/DimwitLabs/Prosaic) - A writer-first app crafted for long-form writing.
 
 ### Frontend Development
 
@@ -221,6 +224,8 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [iredis](https://github.com/laixintao/iredis) - Redis client with autocompletion and syntax highlighting.
 - [usql](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
 - [rdsai-cli](https://github.com/aliyun/rdsai-cli) - AI-powered MySQL client.
+- [squix](https://github.com/eduardofuncao/squix) - SQL client with query management and interactive results.
+- [pgxcli](https://github.com/Balaji01-4D/pgxcli) - Feature-complete PostgreSQL client in Go.
 
 ### Devops
 
@@ -277,6 +282,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [yo](https://github.com/yeoman/yo) - Scaffolding tool for running Yeoman generators.
 - [boilr](https://github.com/tmrts/boilr) - Create projects from boilerplate templates.
 - [cookiecutter](https://github.com/audreyr/cookiecutter) - Create projects from templates.
+- [structkit](https://github.com/httpdss/structkit) - Create project structures from YAML templates with remote content fetching and MCP/AI integration.
 - [mevn-cli](https://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
 - [scaffold-static](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
 
@@ -293,6 +299,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [ain](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
 - [curlie](https://github.com/rs/curlie) - A curl frontend with the ease of use of HTTPie.
 - [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust.
+- [httptap](https://github.com/ozeranskii/httptap) - Breakdown and visualize HTTP requests. 
 
 ### Testing
 
@@ -305,7 +312,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 
 ## Productivity
 
-- [doing](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
+- [doing](https://github.com/ttscoff/doing/) - Keep track of what you're doing and track what you've done.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 - [meetup-cli](https://github.com/specious/meetup-cli) - Meetup.com client.
 - [NeoMutt](https://neomutt.org) - Email client.
@@ -318,6 +325,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [CookCLI](https://github.com/cooklang/CookCLI) - Full-featured recipe manager.
 - [hns](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe voice from microphone.
 - [mynav](https://github.com/GianlucaP106/mynav) - Workspace and session management TUI.
+- [linear-tui](https://github.com/roeyazroel/linear-tui) - Linear TUI client.
 
 ### Time Tracking
 
@@ -330,7 +338,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [Tock](https://github.com/kriuchkov/tock) - Powerful time tracking tool.
 - [Helm](https://github.com/0xjuanma/helm) - Minimalistic timer.
 
-### Note Taking and Lists
+### Note Taking, Lists, Task Management
 
 - [idea](https://github.com/IonicaBizau/idea) - A lightweight tool for keeping ideas in a safe place quick and easy.
 - [geeknote](https://github.com/vitaly-zdanevich/geeknote) - Evernote client.
@@ -347,6 +355,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [rucola](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
 - [kanban.bash](https://github.com/coderofsalvation/kanban.bash) - Kanban todo manager with a CSV backend.
 - [kanban](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
+- [gtasks](https://github.com/BRO3886/gtasks) - Manage Google Tasks.
 
 ### Finance
 
@@ -377,6 +386,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [vdirsyncer](https://github.com/pimutils/vdirsyncer) - CalDAV sync.
 - [remind](https://dianne.skoll.ca/projects/remind/) - A sophisticated calendar and alarm program.
 - [birthday](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
+- [ical](https://github.com/BRO3886/ical) - Manage macOS Calendar.
+- [rem](https://github.com/BRO3886/rem) - Manage macOS Reminders.
 
 ## Utilities
 
@@ -388,6 +399,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 - [clevercli](https://github.com/clevercli/clevercli) - Collection of ChatGPT powered utilities.
 - [OctoType](https://github.com/mahlquistj/octotype) - A customizable typing trainer.
+- [gittype](https://github.com/unhappychoice/gittype) - Turn your source code into typing challenges.
+- [amazon-orders](https://github.com/alexdlaird/amazon-orders) - Retrieve Amazon order history.
 
 ### macOS
 
@@ -420,6 +433,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [gg](https://github.com/mzz2017/gg) - One-click proxy without installing v2ray or anything else.
 - [rustnet](https://github.com/domcyrus/rustnet) - Network monitoring with process identification and deep packet inspection.
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
+- [tldx](https://github.com/brandonyoungdev/tldx) - Bulk domain availability checker.
 
 ### Theming and Customization
 
@@ -430,7 +444,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [QuickWall](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
 - [oh-my-posh](https://ohmyposh.dev) - Prompt theme engine.
 - [starship](https://github.com/starship/starship) - Minimal, blazing-fast, and infinitely customizable prompt for any shell.
-- [gowall](https://github.com/Achno/gowall) - Extract image color pallet, recolor images/icon and more.
+- [gowall](https://github.com/Achno/gowall) - Extract image color palette, recolor images/icon and more.
+- [cwal](https://github.com/nitinbhat972/cwal) - pywal-like color palette generator.
 
 ### Shell Utilities
 
@@ -475,6 +490,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based VPN.
 - [hasha-cli](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
 - [ots](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
+- [andcli](https://github.com/tjblackheart/andcli) - Work with 2FA tokens from multiple OTP providers.
 
 ### Math
 
@@ -515,6 +531,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [periodic-table-cli](https://github.com/spirometaxas/periodic-table-cli) - View and explore the Periodic Table of Elements.
 - [astroterm](https://github.com/da-luce/astroterm) - An ASCII planetarium.
+- [birda](https://github.com/tphakala/birda) - Identify bird species from audio recordings.
 
 ### Professional: Resume
 
@@ -558,7 +575,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [vj](https://github.com/busyloop/vj) - Makes JSON human readable.
 - [underscore-cli](https://github.com/ddopson/underscore-cli) - Utility-belt for hacking JSON and Javascript.
 - [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
-- [GROQ](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
+- [GROQ](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable.
 - [config-file-validator](https://github.com/Boeing/config-file-validator) - Validate configuration files.
 
@@ -680,6 +697,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [srgn](https://github.com/alexpovel/srgn/) - A grep-like tool which understands code syntax and also allows for manipulation.
 - [rawhide](https://github.com/raforg/rawhide) - Find files using pretty C expressions.
 - [semantic-grep](https://github.com/arunsupe/semantic-grep) - A tool for semantic search using word embeddings (e.g. search for "death" and find "dead", "killing", "murder".)
+- [reflex](https://github.com/reflex-search/reflex) - Instant, offline, code-aware search for text, symbols, and import graphs.
 
 ## Version Control
 
@@ -795,6 +813,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [coi](https://github.com/mensfeld/code-on-incus) - Incus container runtime for agents.
 - [agentify](https://github.com/koriyoshi2041/agentify) - Transform OpenAPI specs into formats for agents.
 - [actionbook](https://github.com/actionbook/actionbook) - Parallel browser interaction for agents.
+- [lean-ctx](https://github.com/yvgude/lean-ctx) - Token-saving context runtime for agents.
 
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
