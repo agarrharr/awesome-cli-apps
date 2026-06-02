@@ -731,6 +731,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [CLI GitHub](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
 - [hub](https://github.com/github/hub) - Make git easier to use with GitHub.
+- [releaseradar](https://github.com/ghershko3/releaseradar) - Compare, search, and diff GitHub releases from your terminal. Supports version ranges, monorepo prefixes, and time-window filtering.
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
 
 ### Emoji
