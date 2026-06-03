@@ -421,6 +421,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
 - [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through SSH.
+- [fuckssh](https://github.com/hczs/fuckssh) - SSH config manager: one-command key generation, public key deployment, and config writing.
 
 ### Network Utilities
 
