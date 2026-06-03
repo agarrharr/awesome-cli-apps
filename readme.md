@@ -365,6 +365,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [moeda](https://github.com/thompsonemerson/moeda) - Foreign exchange rates and currency conversion.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
 - [cointop](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
+- [astock](https://github.com/youmengde/astock) - A-share stock terminal toolkit: quotes, screening, ranking.
 - [ticker](https://github.com/achannarasappa/ticker) - Stock ticker.
 - [lakshmi](https://github.com/sarvjeets/lakshmi) - Bogleheads inspired tool for managing your investing portfolio.
 
@@ -714,6 +715,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) - Create GitLab merge requests.
 - [git-extras](https://github.com/tj/git-extras) - Git utilities.
 - [gita](https://github.com/nosarthur/gita) - Manage multiple git repos side by side.
+- [readme-ai](https://github.com/youmengde/readme-ai) - AI-powered README generator with offline mode.
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - Interactively generate README.md files.
 - [semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages.
 - [import-github-labels-cli](https://github.com/abhijithvijayan/import-github-labels-cli) - Sync labels between Github repos.
