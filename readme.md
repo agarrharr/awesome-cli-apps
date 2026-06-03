@@ -276,6 +276,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [updates](https://github.com/silverwind/updates) - Flexible npm dependency update tool.
 - [wipe-modules](https://github.com/bntzio/wipe-modules) - Remove `node_modules` of inactive projects.
 - [npm-deprecated-check](https://github.com/KID-joker/npm-deprecated-check) - Check for deprecated dependencies.
+- [proof-of-commitment](https://github.com/piiiico/proof-of-commitment) - Audit supply chain risk in npm packages by scoring behavioral commitment signals.
 
 ### Boilerplate
 
