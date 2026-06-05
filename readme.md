@@ -183,6 +183,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 - [mk](https://github.com/pycontribs/mk) - Exposes most common actions you can run in unfamiliar repos.
 - [dotenv-diff](https://github.com/Chrilleweb/dotenv-diff) - Validate environment variable usage in a codebase.
+- [sensegrep](https://github.com/Stahldavid/sensegrep) - Semantic + structural code search; find code by meaning, not just text.
 
 ### Text Editors
 
