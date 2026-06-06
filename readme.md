@@ -818,6 +818,7 @@ Inclusion criteria are less strict for this fast-moving field.
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
+- [ShellSage](https://github.com/AhsanAhmadkiani/ShellSage) - Turns plain English into OS-aware shell commands, running locally via Ollama with safety checks and command memory.
 
 ## Other Resources
 
