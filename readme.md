@@ -773,6 +773,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [YuleLog](https://github.com/Duroktar/YuleLog) - Christmas Yule Log fireplace.
 - [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Digital fireplace.
 - [gitlogue](https://github.com/unhappychoice/gitlogue) - Cinematic git commit replay.
+- [drift](https://github.com/phlx0/drift) - Terminal screensaver with 13 animated scenes and 9 color themes.
 
 ## Graphics
 
