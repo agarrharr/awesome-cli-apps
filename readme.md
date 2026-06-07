@@ -568,6 +568,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [ramda-cli](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
 - [xq](https://github.com/sibprogrammer/xq) - XML and HTML beautifier and content extractor.
 - [mq](https://github.com/harehare/mq) - Jq-like markdown processor.
+- [goldenmatch](<https://github.com/benseverndev-oss/goldenmatch>) - Deduplicate and resolve entities in CSV and Parquet files into golden records.
+
 
 ### JSON
 
