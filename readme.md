@@ -822,7 +822,6 @@ Inclusion criteria are less strict for this fast-moving field.
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
-- [toktrack](https://github.com/mag123c/toktrack) - Tracks token usage and cost across AI coding agents, with a persistent cache that survives session-file deletion.
 
 ## Other Resources
 
