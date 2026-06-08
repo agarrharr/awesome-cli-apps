@@ -193,6 +193,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [neovim](https://github.com/neovim/neovim) - Modern vim.
 - [kakoune](https://github.com/mawww/kakoune) - Modal editor inspired by vim.
 - [micro](https://github.com/zyedidia/micro) - A simple and intuitive editor.
+- [microNeo](https://github.com/sollawen/microNeo) - A fork of Micro with in-place Markdown rendering.
 - [o](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
 - [helix](https://github.com/helix-editor/helix) - Modal editor inspired by kakoune.
 - [Prosaic](https://github.com/DimwitLabs/Prosaic) - A writer-first app crafted for long-form writing.
@@ -480,6 +481,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [grip](https://github.com/joeyespo/grip) - Preview markdown files as GitHub would render them.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 - [glow](https://github.com/charmbracelet/glow) - Styled markdown rendering.
+- [microNeo](https://github.com/sollawen/microNeo) - Terminal Markdown editor with in-place rendering (view and edit in the same window).
 - [gtree](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
 - [Jimmy](https://github.com/marph91/jimmy) - Convert various note formats to markdown.
 - [mq](https://github.com/harehare/mq) - Jq-like markdown processor.
