@@ -748,7 +748,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 - [optimizt](https://github.com/343dev/optimizt) - Helps prepare images for the web.
 - [freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output.
-- [rclip](https://github.com/yurijmikhalevich/rclip) - Search your photos by description or by example image.
+- [rclip](https://github.com/yurijmikhalevich/rclip) - Semantic photo search.
 
 ### Gif Creation
 
