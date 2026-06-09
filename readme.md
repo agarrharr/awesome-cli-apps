@@ -492,6 +492,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [hasha-cli](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
 - [ots](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
 - [andcli](https://github.com/tjblackheart/andcli) - Work with 2FA tokens from multiple OTP providers.
+- [fort](https://github.com/djadmin/fort) - Audit and auto-fix macOS security settings. Runs 16 checks, scores your posture, and fixes what it safely can.
 
 ### Math
 
