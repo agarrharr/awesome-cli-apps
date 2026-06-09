@@ -819,6 +819,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [lean-ctx](https://github.com/yvgude/lean-ctx) - Token-saving context runtime for agents.
 - [hcom](https://github.com/aannoo/hcom) - Orchestration and communication layer for managing multiple agents in their respective TUI apps.
 - [toktrack](https://github.com/mag123c/toktrack) - Track token usage and cost across all agents.
+- [agent-cockpit](https://github.com/nashory/agent-cockpit) - Live TUI dashboard for token usage and cost across Claude Code, Codex, and Gemini, from local logs.
 
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
