@@ -821,6 +821,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [toktrack](https://github.com/mag123c/toktrack) - Track token usage and cost across all agents.
 
 ### LLM Interaction
+- [ccline](https://github.com/jianshuo/ccline) - Type a thought at your zsh prompt — no command, no prefix — get an answer from Claude or Codex, and run any suggested commands from an interactive menu.
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
 
