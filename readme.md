@@ -579,7 +579,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [GROQ](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable.
 - [config-file-validator](https://github.com/Boeing/config-file-validator) - Validate configuration files.
-
+- [typemorph-cli](https://github.com/yhan86818-creator/typemorph) - Convert JSON/YAML/OpenAPI/SQL schemas to TypeScript, Zod, Go, Rust, and 15+ other formats.
 ### YAML
 
 - [dyff](https://github.com/homeport/dyff) - YAML diff tool.
