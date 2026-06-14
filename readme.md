@@ -823,7 +823,7 @@ Inclusion criteria are less strict for this fast-moving field.
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
-- [lilbee](https://github.com/tobocop2/lilbee) - Local-first search engine that runs and manages local models, indexes your files and code, crawls the websites you point it at, and answers with citations.
+- [lilbee](https://github.com/tobocop2/lilbee) - Local-first search engine that runs and manages its own models, or uses your existing Ollama or LM Studio, indexes your files, code, and crawled websites, and answers with citations.
 
 ## Other Resources
 
