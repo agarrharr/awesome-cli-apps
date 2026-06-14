@@ -819,8 +819,8 @@ Inclusion criteria are less strict for this fast-moving field.
 - [lean-ctx](https://github.com/yvgude/lean-ctx) - Token-saving context runtime for agents.
 - [hcom](https://github.com/aannoo/hcom) - Orchestration and communication layer for managing multiple agents in their respective TUI apps.
 - [toktrack](https://github.com/mag123c/toktrack) - Track token usage and cost across all agents.
-- [opencode](https://github.com/anomalyco/opencode) - Open-source agent TUI.
-- [nanocoder](https://github.com/Nano-Collective/nanocoder) - Local-first agent TUI.
+- [OpenCode](https://github.com/anomalyco/opencode) - Open-source agent TUI.
+- [Nanocoder](https://github.com/Nano-Collective/nanocoder) - Local-first agent TUI.
 
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
