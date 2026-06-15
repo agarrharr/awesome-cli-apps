@@ -768,6 +768,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [pdfjuicer](https://github.com/dmikhr/pdfjuicer) - Extract PDF pages as images.
 - [gowall](https://github.com/Achno/gowall) - Recolor images, OCR, image upscaling and more.
 - [img2ascii](https://github.com/JosefVesely/Image-to-ASCII) - Convert images to ASCII art.
+- [imgcli](https://github.com/swperb/imgcli) - Tiny dependency-free, ffmpeg-style image convert/resize/crop/filter tool.
 
 ## Screensavers
 
