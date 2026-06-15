@@ -823,7 +823,7 @@ Inclusion criteria are less strict for this fast-moving field.
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
-- [lilbee](https://github.com/tobocop2/lilbee) - Find, run, and manage local AI models, then talk to your files, code, and the sites you crawl, with answers that cite the source, all in one local program.
+- [lilbee](https://github.com/tobocop2/lilbee) - Use local models to talk to your files, code, and more.
 
 ## Other Resources
 
