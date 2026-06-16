@@ -177,6 +177,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
 - [bitwise](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulation.
 - [cgasm](https://github.com/bnagy/cgasm) - x86 assembly documentation.
+- [dotdog](https://github.com/specdog/dotdog) - CLI for structured software specs. Write .dog files, compile .dag graphs, query via MCP.
 - [grex](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
 - [iola](https://github.com/pvarentsov/iola) - Socket client with REST API.
 - [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
