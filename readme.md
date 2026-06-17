@@ -821,6 +821,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [toktrack](https://github.com/mag123c/toktrack) - Track token usage and cost across all agents.
 - [OpenCode](https://github.com/anomalyco/opencode) - Open-source agent TUI.
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) - Local-first agent TUI.
+- [llmtrim](https://github.com/fkiene/llmtrim) - Trims tokens from LLM traffic to cut agent context cost.
 
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
