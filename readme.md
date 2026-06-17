@@ -369,6 +369,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [cointop](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
 - [ticker](https://github.com/achannarasappa/ticker) - Stock ticker.
 - [lakshmi](https://github.com/sarvjeets/lakshmi) - Bogleheads inspired tool for managing your investing portfolio.
+- [company-lookup](https://github.com/Alessandro114/company-lookup-cli) - Look up company information from the terminal.
+- [vat-lookup](https://github.com/Alessandro114/vat-lookup) - EU VAT number validation and lookup.
 
 ### Presentations
 
@@ -558,6 +560,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [visidata](https://github.com/saulpw/visidata) - Spreadsheet multitool for data discovery and arrangement.
 - [sc-im](https://github.com/andmarti1424/sc-im) - Vim-like spreadsheet calculator.
 - [nless](https://github.com/mpryor/nothing-less) - Interactive pager for exploring tabular data.
+- [enrich-companies](https://github.com/Alessandro114/enrich-companies) - Enrich CSV files with company data from 250M+ records.
 
 ### Processors
 
