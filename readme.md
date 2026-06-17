@@ -558,6 +558,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [visidata](https://github.com/saulpw/visidata) - Spreadsheet multitool for data discovery and arrangement.
 - [sc-im](https://github.com/andmarti1424/sc-im) - Vim-like spreadsheet calculator.
 - [nless](https://github.com/mpryor/nothing-less) - Interactive pager for exploring tabular data.
+- [enrich-companies](https://github.com/Alessandro114/enrich-companies) - Search and enrich company data from 250M+ records across 50+ countries.
 
 ### Processors
 
