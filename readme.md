@@ -821,7 +821,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [toktrack](https://github.com/mag123c/toktrack) - Track token usage and cost across all agents.
 - [OpenCode](https://github.com/anomalyco/opencode) - Open-source agent TUI.
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) - Local-first agent TUI.
-- [sendmux](https://github.com/Sendmux/sendmux-sdk/tree/main/packages/ts/cli) - Agent-drivable interface for Sendmux.
+- [sendmux](https://github.com/Sendmux/sendmux-sdk/tree/main/packages/ts/cli) - Manage agent mailboxes with Sendmux.
 
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
