@@ -618,6 +618,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [rename-cli](https://github.com/jhotmann/node-rename-cli) - Rename files quickly.
 - [renameutils](https://www.nongnu.org/renameutils/) - Mass renaming in your editor.
 - [nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers.
+- [zapdir](https://github.com/Mayne-X/Zapdir) - Blazing-fast terminal cleanup tool for node_modules, .next, dist, and other heavy build artifacts.
 
 ### Disk Usage
 
