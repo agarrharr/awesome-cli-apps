@@ -139,6 +139,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [editly](https://github.com/mifi/editly) - Declarative video editing.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
 - [cinema](https://github.com/marm00/cinema) - Multiviewer for videos and streams.
+- [ytstudio-cli](https://github.com/jdwit/ytstudio-cli) - Bulk-manage and analyze your YouTube channel (metadata, analytics, comments) from the terminal.
 
 ### Movies
 
