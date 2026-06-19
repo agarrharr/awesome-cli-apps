@@ -728,6 +728,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [ggc](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
 - [AI Git Narrator](https://github.com/pmusolino/AI-Git-Narrator) - [macOS]: Generate commit messages with AI.
 - [gibr](https://github.com/ytreister/gibr) - Easily create consistent git branch names.
+- [git-released](https://github.com/lukaso/released) - Find the first release tag that contains a commit or merged PR.
 
 ### GitHub
 
