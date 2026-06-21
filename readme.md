@@ -338,6 +338,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [arttime](https://github.com/reportaman/arttime) - Featureful timer with native desktop notifications and curated ASCII art.
 - [Tock](https://github.com/kriuchkov/tock) - Powerful time tracking tool.
 - [Helm](https://github.com/0xjuanma/helm) - Minimalistic timer.
+- [HumbleBee](https://github.com/grobmeier/humblebee) - Privacy-first time tracking with local SQLite storage, reports and a desktop GUI.
 
 ### Note Taking, Lists, Task Management
 
