@@ -129,6 +129,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mpvc](https://github.com/gmt4/mpvc) - Music player interfacing mpv.
 - [TUISIC](https://github.com/Dark-Kernel/tuisic) - Login-free music streaming.
 - [termusic](https://github.com/tramhao/termusic) - Music player in rust with download capabilities.
+- [ytm-player](https://github.com/peternaame-boop/ytm-player) - YouTube Music player.
 
 ### Video
 
