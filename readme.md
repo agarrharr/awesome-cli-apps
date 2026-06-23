@@ -709,6 +709,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [git commander](https://github.com/golbin/git-commander) - Interactive git tool.
 - [git-stats](https://github.com/IonicaBizau/git-stats) - A local GitHub-like contributions calendar.
 - [dev-time](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
+- [soma-cli](https://github.com/aranrobotics-prog/soma-cli) - Scan git repos and generate compact LLM context summaries (~500 tokens) for AI agents.
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git.
 - [grv](https://github.com/rgburke/grv) - Text-mode interface for git with customisable vi bindings.
 - [git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day.
