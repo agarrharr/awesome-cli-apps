@@ -389,6 +389,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [birthday](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
 - [ical](https://github.com/BRO3886/ical) - Manage macOS Calendar.
 - [rem](https://github.com/BRO3886/rem) - Manage macOS Reminders.
+- [hijri](https://github.com/UtmostBoundary/hijri) - A cal-like tool for Hijri (Islamic) dates and calendars.
 
 ## Utilities
 
