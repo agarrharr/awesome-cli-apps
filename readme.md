@@ -736,6 +736,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [CLI GitHub](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
 - [hub](https://github.com/github/hub) - Make git easier to use with GitHub.
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
+- [gh-image](https://github.com/drogers0/gh-image) - Upload images to GitHub issues, pull requests, and READMEs.
 
 ### Emoji
 
