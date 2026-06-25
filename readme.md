@@ -347,7 +347,6 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [Taskwarrior](https://taskwarrior.org/) - Manage your TODO list.
 - [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app.
 - [eureka](https://github.com/simeg/eureka) - Input and store your ideas.
-- [epiq](https://github.com/ljtn/epiq) - Local-first distributed issue tracker backed by Git.
 - [sncli](https://github.com/insanum/sncli) - Simplenote client.
 - [td-cli](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
@@ -359,6 +358,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [kanban.bash](https://github.com/coderofsalvation/kanban.bash) - Kanban todo manager with a CSV backend.
 - [kanban](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
 - [gtasks](https://github.com/BRO3886/gtasks) - Manage Google Tasks.
+- [epiq](https://github.com/ljtn/epiq) - Local-first distributed issue tracker backed by Git.
 
 ### Finance
 
