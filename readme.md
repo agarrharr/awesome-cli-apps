@@ -358,6 +358,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [kanban.bash](https://github.com/coderofsalvation/kanban.bash) - Kanban todo manager with a CSV backend.
 - [kanban](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
 - [gtasks](https://github.com/BRO3886/gtasks) - Manage Google Tasks.
+- [epiq](https://github.com/ljtn/epiq) - Local-first distributed issue tracker backed by Git.
 
 ### Finance
 
@@ -824,6 +825,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) - Local-first agent TUI.
 
 ### LLM Interaction
+
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
 - [lilbee](https://github.com/tobocop2/lilbee) - Use local models to talk to your files, code, and more.
