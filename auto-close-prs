@@ -5,6 +5,8 @@ if [ "$1" = "--help" ] || [ "$1" = "-h" ] || [ "$1" = "help" ]; then
 $ auto-close-prs
 Automatically close PRs that don't match the contribution guidelines.
 
+Uses the github cli and https://github.com/xirzec/gh-notifications
+
 Run via systemd timers: https://github.com/jneidel/dotfiles/commit/52bd4ec
 EOF
   exit
@@ -20,11 +22,22 @@ get_pr_url_from_list_index() {
   gh pr list --json url | jq -r ".[$n].url"
 }
 
+get_pr_title_from_list_index() {
+  n=$1
+  gh pr list --json title | gron | grep -F "json[$index].title" | cut -d\" -f2
+}
+
 gh pr list --json body | gron | grep -v contributing.md | grep body | cut -d\[ -f2 | cut -d\] -f1 |
   while read index; do
     url="$(get_pr_url_from_list_index $index)"
+    title="$(get_pr_title_from_list_index)"
     echo "Closing: contributing.md not mentioned (i.e. pr template was ignored.)" >&2
     gh pr close "$url"
+
+    sleep 2s
+    gh notifications -R agarrharr/awesome-cli-apps \
+       --type PR --state closed --filter "$title" \
+       --mark-done --yes 2>/dev/null
   done
 
 gh pr list --json body | gron | grep "body" |
@@ -33,6 +46,7 @@ gh pr list --json body | gron | grep "body" |
     stars=$(gh repo view --json stargazerCount -q ".stargazerCount" "$repo")
     age=$(gh repo view --json createdAt -q ".createdAt" "$repo")
     index=$(gh pr list --json body | gron | grep "$repo" | cut -d\[ -f2 | cut -d\] -f1)
+    title="$(get_pr_title_from_list_index)"
     url="$(get_pr_url_from_list_index $index)"
 
     if [ "$stars" -lt 20 ]; then
@@ -42,4 +56,9 @@ gh pr list --json body | gron | grep "body" |
       echo "Closing: age requirement not met." >&2
       gh pr close "$url" --comment "Closed by bot: Repo age requirement not met."
     fi
+
+    sleep 2s
+    gh notifications -R agarrharr/awesome-cli-apps \
+       --type PR --state closed --filter "$title" \
+       --mark-done --yes 2>/dev/null
   done
