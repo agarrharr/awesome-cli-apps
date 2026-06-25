@@ -347,6 +347,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [Taskwarrior](https://taskwarrior.org/) - Manage your TODO list.
 - [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app.
 - [eureka](https://github.com/simeg/eureka) - Input and store your ideas.
+- [epiq](https://github.com/ljtn/epiq) - Local-first distributed issue tracker backed by Git.
 - [sncli](https://github.com/insanum/sncli) - Simplenote client.
 - [td-cli](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
@@ -824,6 +825,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) - Local-first agent TUI.
 
 ### LLM Interaction
+
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
 - [lilbee](https://github.com/tobocop2/lilbee) - Use local models to talk to your files, code, and more.
