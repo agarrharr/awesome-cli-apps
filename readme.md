@@ -170,6 +170,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Development
 
+- [Loopy](https://github.com/arjunkshah/loopy) - Kanban-based agent operating system orchestrating dozens of coding-agent CLIs with complexity-aware routing, named subagents, and verifiable execution receipts. Local-first, open-source.
+
 - [legit](https://github.com/captainsafia/legit) - Generate Open Source licences as files or file headers.
 - [mklicense](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
 - [rebound](https://github.com/shobrook/rebound) - Fetch Stack Overflow results on compiler error.
