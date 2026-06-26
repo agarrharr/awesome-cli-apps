@@ -733,7 +733,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ### GitHub
 
-- [CLI GitHub](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
+- [gh](https://cli.github.com) - Official client (see [extensions](https://github.com/kodepandai/awesome-gh-cli-extensions).)
+- [cli-github](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
 - [hub](https://github.com/github/hub) - Make git easier to use with GitHub.
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
 
