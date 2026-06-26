@@ -10,7 +10,7 @@ This means that all suggested software should:
 - Have a free and open source license.
 - Be easy to install.
 - Be well documented.
-- Be older than 90 days.
+- Be more than 3 months old.
 - Have more than 20 stars (if it is hosted on GitHub.)
 
 ## Pull request to add an app
