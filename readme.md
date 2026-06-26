@@ -430,6 +430,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [get-port-cli](https://github.com/sindresorhus/get-port-cli) - Get an available port.
 - [is-reachable-cli](https://github.com/beatfreaker/is-reachable-cli) - Check if hostnames are reachable or not.
+- [svcb-inspect](https://github.com/packet-guru/svcb-inspect) - Resolve and decode DNS HTTPS/SVCB records (RFC 9460), including ECH.
 - [acmetool](https://github.com/hlandau/acmetool) - Automatic certificate acquisition for ACME (Let's Encrypt).
 - [certificate-ripper](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
 - [neoss](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics.
