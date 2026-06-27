@@ -31,6 +31,9 @@ Open one pull request per app suggestion and title it simply `Add APP_NAME`.
 Use the provided pull request template.
 Failure to follow this point means the PR will be closed without being looked at.
 
+AI-generated PRs are not welcome.
+To keep this list awesome, we would like to know why a human thinks the app-to-be-added is awesome!
+
 Thank you for contributing :)
 
 ## Other Pull Requests
