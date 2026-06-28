@@ -328,7 +328,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [hns](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe voice from microphone.
 - [mynav](https://github.com/GianlucaP106/mynav) - Workspace and session management TUI.
 - [linear-tui](https://github.com/roeyazroel/linear-tui) - Linear TUI client.
-- [jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell.
+- [jiratui](https://github.com/whyisdifficult/jiratui) - TUI app for Jira.
 
 ### Time Tracking
 
