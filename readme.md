@@ -424,6 +424,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### SSH
 
 - [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
+- [sterm](https://github.com/ha1377311454/sterm) - Lightweight local SSH connection manager with SFTP, encrypted passwords, and themes (~8 MB, no cloud).
 - [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through SSH.
 
 ### Network Utilities
