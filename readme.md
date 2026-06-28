@@ -420,6 +420,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
 - [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
+- [upterm](https://github.com/owenthereal/upterm) - Instant terminal sharing.
 
 ### SSH
 
