@@ -342,6 +342,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [arttime](https://github.com/reportaman/arttime) - Featureful timer with native desktop notifications and curated ASCII art.
 - [Tock](https://github.com/kriuchkov/tock) - Powerful time tracking tool.
 - [Helm](https://github.com/0xjuanma/helm) - Minimalistic timer.
+- [Focusd](https://github.com/0xarchit/Focusd) - [Windows] A local, privacy-first screen time monitor.
 
 ### Note Taking, Lists, Task Management
 
