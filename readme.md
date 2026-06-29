@@ -423,6 +423,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
 - [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
 - [upterm](https://github.com/owenthereal/upterm) - Instant terminal sharing.
+- [cmux-ssh-here](https://github.com/viktor-silakov/cmux-ssh-here) - Spin up a throwaway, token-authenticated SSH server with one `npx` command and share a shell over your LAN; prints a cmux deep link plus QR codes, then vanishes on exit.
 
 ### SSH
 
