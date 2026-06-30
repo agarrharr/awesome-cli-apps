@@ -828,6 +828,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [toktrack](https://github.com/mag123c/toktrack) - Track token usage and cost across all agents.
 - [OpenCode](https://github.com/anomalyco/opencode) - Open-source agent TUI.
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) - Local-first agent TUI.
+- [pixtuoid](https://github.com/IvanWng97/pixtuoid) - Animated pixel-art office that visualizes your running AI coding agent sessions.
 
 ### LLM Interaction
 
