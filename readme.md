@@ -314,6 +314,8 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
 - [cmdperf](https://github.com/miklosn/cmdperf) - Quickly benchmark and compare command performance.
 
+
+- [SuperCompress](https://github.com/arjunkshah/supercompress) - CLI tool for LLM prompt compression. Cuts ~65% of tokens before inference. `pip install supercompress && supercompress compress --input prompt.txt`. CPU-only, ~60ms.
 ## Productivity
 
 - [doing](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
