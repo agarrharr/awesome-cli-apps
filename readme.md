@@ -314,6 +314,8 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
 - [cmdperf](https://github.com/miklosn/cmdperf) - Quickly benchmark and compare command performance.
 
+
+- [SuperCompress](https://github.com/arjunkshah/supercompress) - CLI tool for LLM prompt compression. Cuts ~65% of tokens before inference. `pip install supercompress && supercompress compress --input prompt.txt`. CPU-only, ~60ms.
 ## Productivity
 
 - [doing](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
@@ -824,6 +826,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [agentify](https://github.com/koriyoshi2041/agentify) - Transform OpenAPI specs into formats for agents.
 - [actionbook](https://github.com/actionbook/actionbook) - Parallel browser interaction for agents.
 - [lean-ctx](https://github.com/yvgude/lean-ctx) - Token-saving context runtime for agents.
+- [SuperCompress](https://supercompress.vercel.app) - Learned prompt compression that reduces LLM token costs by ~65% using CPU (~60ms). Open-source (MIT).
 - [hcom](https://github.com/aannoo/hcom) - Orchestration and communication layer for managing multiple agents in their respective TUI apps.
 - [toktrack](https://github.com/mag123c/toktrack) - Track token usage and cost across all agents.
 - [OpenCode](https://github.com/anomalyco/opencode) - Open-source agent TUI.
