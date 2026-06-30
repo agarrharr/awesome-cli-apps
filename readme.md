@@ -186,6 +186,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 - [mk](https://github.com/pycontribs/mk) - Exposes most common actions you can run in unfamiliar repos.
 - [dotenv-diff](https://github.com/Chrilleweb/dotenv-diff) - Validate environment variable usage in a codebase.
+- [ota](https://github.com/ota-run/ota) - Unified diagnosable repo setup across stacks (local, deploy, CI, agents).
 
 ### Text Editors
 
@@ -197,6 +198,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [o](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
 - [helix](https://github.com/helix-editor/helix) - Modal editor inspired by kakoune.
 - [Prosaic](https://github.com/DimwitLabs/Prosaic) - A writer-first app crafted for long-form writing.
+- [Microsoft Edit](https://github.com/microsoft/edit) - Simple editor.
 
 ### Frontend Development
 
@@ -328,6 +330,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [hns](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe voice from microphone.
 - [mynav](https://github.com/GianlucaP106/mynav) - Workspace and session management TUI.
 - [linear-tui](https://github.com/roeyazroel/linear-tui) - Linear TUI client.
+- [jiratui](https://github.com/whyisdifficult/jiratui) - TUI app for Jira.
 
 ### Time Tracking
 
@@ -339,6 +342,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [arttime](https://github.com/reportaman/arttime) - Featureful timer with native desktop notifications and curated ASCII art.
 - [Tock](https://github.com/kriuchkov/tock) - Powerful time tracking tool.
 - [Helm](https://github.com/0xjuanma/helm) - Minimalistic timer.
+- [Focusd](https://github.com/0xarchit/Focusd) - [Windows] A local, privacy-first screen time monitor.
 
 ### Note Taking, Lists, Task Management
 
@@ -418,8 +422,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### Terminal Sharing Utilities
 
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
-- [tmate](https://tmate.io/) - Instant terminal (tmux) sharing.
 - [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
+- [upterm](https://github.com/owenthereal/upterm) - Instant terminal sharing.
 
 ### SSH
 
@@ -544,7 +548,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ## Command Line Learning
 
 - [cmdchallenge](https://cmdchallenge.com) - Presents small shell challenge with user submitted solutions.
-- [explainshell](https://www.explainshell.com/) - Type a snippet to see the help text for each argument.
+- [explainshell](https://explainshell.com) - Type a snippet to see the help text for each argument.
 - [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers.
 - [how2](https://github.com/santinic/how2) - Node.js implementation of howdoi.
 - [The Fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -594,7 +598,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ### Text
 
-- [figlet](http://www.figlet.org/) - Creates large text out of ASCII characters.
+- [figlet](https://www.figlet.org) - Creates large text out of ASCII characters.
 - [stegcloak](https://github.com/kurolabs/stegcloak) - Hide secrets with invisible characters in plain text securely.
 
 ## Files and Directories
@@ -733,7 +737,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ### GitHub
 
-- [CLI GitHub](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
+- [gh](https://cli.github.com) - Official client (see [extensions](https://github.com/kodepandai/awesome-gh-cli-extensions).)
+- [cli-github](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
 - [hub](https://github.com/github/hub) - Make git easier to use with GitHub.
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
 

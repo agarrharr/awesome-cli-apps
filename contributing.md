@@ -10,7 +10,7 @@ This means that all suggested software should:
 - Have a free and open source license.
 - Be easy to install.
 - Be well documented.
-- Be older than 90 days.
+- Be more than 3 months old.
 - Have more than 20 stars (if it is hosted on GitHub.)
 
 ## Pull request to add an app
@@ -30,6 +30,9 @@ Where:
 Open one pull request per app suggestion and title it simply `Add APP_NAME`.
 Use the provided pull request template.
 Failure to follow this point means the PR will be closed without being looked at.
+
+AI-generated PRs are not welcome.
+To keep this list awesome, we would like to know why a human thinks the app-to-be-added is awesome!
 
 Thank you for contributing :)
 
