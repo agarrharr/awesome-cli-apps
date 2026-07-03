@@ -316,6 +316,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 
 ## Productivity
 
+- [llm-box](https://github.com/alib8b8/llm-box) - Terminal-first AI workflow engine with TUI, multi-model support, and YAML-defined pipelines.
 - [doing](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 - [meetup-cli](https://github.com/specious/meetup-cli) - Meetup.com client.
