@@ -742,7 +742,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [cli-github](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
 - [hub](https://github.com/github/hub) - Make git easier to use with GitHub.
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
-- [gitfetch](https://github.com/Matars/gitfetch) - Neofetch-style stats for your git profiles.
+- [gitfetch](https://github.com/Matars/gitfetch) - Neofetch-style stats of your git forge.
 
 ### Emoji
 
