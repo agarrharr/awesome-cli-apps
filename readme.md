@@ -655,7 +655,6 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [rclone](https://github.com/ncw/rclone) - Sync files with various cloud providers.
 - [ffsend](https://github.com/timvisee/ffsend) - Quick file share.
-- [filecast](https://github.com/gistrec/filecast) - Send a file to every machine on your LAN at once.
 - [share-cli](https://github.com/marionebl/share-cli) - Share files with your local network.
 - [google-drive-upload](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
 - [gdrive-downloader](https://github.com/Akianonymus/gdrive-downloader) - Download files/folders from Google Drive.
@@ -666,6 +665,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [share](https://github.com/beavailable/share) - Share and receive files effortlessly over HTTP.
 - [shuk](https://shuk.rs) - Quicky share files using Amazon S3 buckets.
 - [croc](https://github.com/schollz/croc) - Easily send things from one computer to another.
+- [filecast](https://github.com/gistrec/filecast) - Fast file transfer to multiple machines on your LAN.
 
 ### Directory Listing
 
