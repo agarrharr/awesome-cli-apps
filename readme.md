@@ -829,6 +829,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [toktrack](https://github.com/mag123c/toktrack) - Track token usage and cost across all agents.
 - [OpenCode](https://github.com/anomalyco/opencode) - Open-source agent TUI.
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) - Local-first agent TUI.
+- [codex-vitals](https://github.com/WinningBean/codex-vitals) - Live panel for a Codex CLI session — context %, rate limits, model, and git in a pane below Codex.
 
 ### LLM Interaction
 
