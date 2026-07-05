@@ -665,6 +665,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [share](https://github.com/beavailable/share) - Share and receive files effortlessly over HTTP.
 - [shuk](https://shuk.rs) - Quicky share files using Amazon S3 buckets.
 - [croc](https://github.com/schollz/croc) - Easily send things from one computer to another.
+- [filecast](https://github.com/gistrec/filecast) - Fast file transfer to multiple machines on your LAN.
 
 ### Directory Listing
 
