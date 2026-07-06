@@ -252,6 +252,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [cronboard](https://github.com/antoniorodr/Cronboard) - Dashboard for managing cron jobs.
 - [s3m](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
 - [bencher](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
+- [CXGRD](https://cxgrd.com) - Deterministic dependency graph analysis and blast radius detection with merge-time policy enforcement for AI-assisted coding workflows.
 
 ### Docker
 
