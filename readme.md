@@ -188,6 +188,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [dotenv-diff](https://github.com/Chrilleweb/dotenv-diff) - Validate environment variable usage in a codebase.
 - [ota](https://github.com/ota-run/ota) - Unified diagnosable repo setup across stacks (local, deploy, CI, agents).
 
+
 ### Text Editors
 
 - [emacs](https://github.com/emacs-mirror/emacs) - An extensible, customizable, free/libre text editor — and more.
@@ -831,6 +832,8 @@ Inclusion criteria are less strict for this fast-moving field.
 - [toktrack](https://github.com/mag123c/toktrack) - Track token usage and cost across all agents.
 - [OpenCode](https://github.com/anomalyco/opencode) - Open-source agent TUI.
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) - Local-first agent TUI.
+- [issuebeam](https://github.com/issuebeam/issuebeam) - Connect AI coding agents directly to GitHub Issues via a standard Python CLI.
+
 
 ### LLM Interaction
 
