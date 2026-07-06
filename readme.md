@@ -363,6 +363,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [kanban](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
 - [gtasks](https://github.com/BRO3886/gtasks) - Manage Google Tasks.
 - [epiq](https://github.com/ljtn/epiq) - Local-first distributed issue tracker backed by Git.
+- [feeling](https://github.com/qiz-li/feeling) - Mood tracker that visualizes your emotional patterns over time.
 
 ### Finance
 
