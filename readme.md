@@ -331,6 +331,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [mynav](https://github.com/GianlucaP106/mynav) - Workspace and session management TUI.
 - [linear-tui](https://github.com/roeyazroel/linear-tui) - Linear TUI client.
 - [jiratui](https://github.com/whyisdifficult/jiratui) - TUI app for Jira.
+- [browserbash](https://github.com/PramodDutta/browserbash) - Run plain-English browser tests through an AI agent in a real browser, with deterministic assertions and CI exit codes.
 
 ### Time Tracking
 
