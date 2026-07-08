@@ -14,23 +14,27 @@ fi
 
 hash gh gron || exit 127
 
-DIR=`dirname $0`
-cd $DIR
-
 get_pr_url_from_list_index() {
   n=$1
   gh pr list --json url | jq -r ".[$n].url"
 }
+get_issue_url_from_list_index() {
+  n=$1
+  gh issue list --json url | jq -r ".[$n].url"
+}
 
 mark_notification_done() {
   title="$1"
+  notificationType="$2"
+  [ -z "$notificationType" ] && notificationType="PR"
+
   gh notifications -R agarrharr/awesome-cli-apps \
-     --type PR --state closed --filter "$title" \
-     --mark-done --yes 2>/dev/null
+     --type $notificationType --state closed --filter "$title" \
+     --mark-read --yes 2>/dev/null
 }
 
 gh pr list --json body | gron | grep -v contributing.md |
-  grep body | cut -d\[ -f2 | cut -d\] -f1 |
+  grep -F ".body" | cut -d\[ -f2 | cut -d\] -f1 |
   while read index; do
     url="$(get_pr_url_from_list_index $index)"
     title="$(gh pr list --json title | gron | grep -F "json[$index].title" | cut -d\" -f2)"
@@ -40,7 +44,7 @@ gh pr list --json body | gron | grep -v contributing.md |
   done
 
 gh pr list --json body | gron | grep -F "I did not read the contribution guidelines." |
-  grep body | cut -d\[ -f2 | cut -d\] -f1 |
+  grep -F ".body" | cut -d\[ -f2 | cut -d\] -f1 |
   while read index; do
     url="$(get_pr_url_from_list_index $index)"
     title="$(gh pr list --json title | gron | grep -F "json[$index].title" | cut -d\" -f2)"
@@ -49,7 +53,7 @@ gh pr list --json body | gron | grep -F "I did not read the contribution guideli
     mark_notification_done "$title"
   done
 
-gh pr list --json body | gron | grep "body" |
+gh pr list --json body | gron | grep -F ".body" |
   grep -Po "https://github.com/[A-Za-z0-9-]+/[A-Za-z0-9-]+" | grep -v awesome-cli-apps |
   while read repo; do
     stars=$(gh repo view --json stargazerCount -q ".stargazerCount" "$repo")
@@ -67,4 +71,14 @@ gh pr list --json body | gron | grep "body" |
       gh pr close "$url" --comment "Closed by bot: Repo age requirement not met."
       mark_notification_done "$title"
     fi
+  done
+
+gh issue list --json title | gron | grep '"Add' |
+  grep -F ".title" | cut -d\[ -f2 | cut -d\] -f1 |
+  while read index; do
+    url="$(get_issue_url_from_list_index $index)"
+    title="$(gh issue list --json title | gron | grep -F "json[$index].title" | cut -d\" -f2)"
+    echo "Closing: Issues adds an app" >&2
+    gh issue close "$url" --comment "Closed by bot: Issues that add apps are no longer considered. Please open a PR instead."
+    mark_notification_done "$title" "issue"
   done
