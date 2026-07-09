@@ -832,6 +832,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [toktrack](https://github.com/mag123c/toktrack) - Track token usage and cost across all agents.
 - [OpenCode](https://github.com/anomalyco/opencode) - Open-source agent TUI.
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) - Local-first agent TUI.
+- [AgentBox](https://github.com/madarco/agentbox) - Run multiple coding agents in parallel, each in its own sandboxed VM (local Docker or cloud), via detachable tmux sessions.
 
 ### LLM Interaction
 
