@@ -400,6 +400,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ## Utilities
 
 - [aria2](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
+- [aria2-agent](https://github.com/Rehui-2006/aria2-agent) - AI Agent-first download manager built on aria2. MCP-compatible with 10 Iron Rules to prevent download failures.
 - [bitly-client](https://github.com/specious/bitly-client) - Bitly client.
 - [deadlink](https://github.com/nschloe/deadlink) - Find dead links in files.
 - [crawley](https://github.com/s0rg/crawley) - Unix-way web crawler.
