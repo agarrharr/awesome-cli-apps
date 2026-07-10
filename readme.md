@@ -172,6 +172,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [legit](https://github.com/captainsafia/legit) - Generate Open Source licences as files or file headers.
 - [mklicense](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
+- [nika](https://github.com/supernovae-st/nika) - Run AI workflows as reviewable YAML DAGs, cost-checked before any token is spent.
 - [rebound](https://github.com/shobrook/rebound) - Fetch Stack Overflow results on compiler error.
 - [foy](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
 - [just](https://github.com/casey/just) - Modern `make`-like command runner.
