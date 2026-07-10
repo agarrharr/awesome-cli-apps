@@ -98,6 +98,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Agents](#agents)
   - [LLM Interaction](#llm-interaction)
 - [Other Resources](#other-resources)
+- [BDE Score](https://github.com/hbhqq9/bde-score) - Multi-factor stock analysis CLI with US/HK/A-share coverage, shields.io badges, and API access.
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
