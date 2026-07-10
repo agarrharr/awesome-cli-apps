@@ -833,7 +833,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [OpenCode](https://github.com/anomalyco/opencode) - Open-source agent TUI.
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) - Local-first agent TUI.
 
-- [Waveloom](https://github.com/Menfre01/waveloom) - Go terminal-native coding agent with Bubble Tea TUI, DeepSeek V4 prompt caching, and Claude Code-compatible skill/MCP auto-discovery.
+- [Waveloom](https://github.com/Menfre01/waveloom) - Go coding agent with DeepSeek V4 prompt caching and Claude Code-compatible UX.
 
 ### LLM Interaction
 
