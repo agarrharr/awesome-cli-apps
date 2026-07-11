@@ -510,6 +510,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [papis](https://github.com/papis/papis) - Extensible document and bibliography manager.
 - [pubs](https://github.com/pubs/pubs) - Scientific bibliography manager.
 - [OneCite](https://github.com/HzaCode/OneCite) - Universal toolkit to generate citations.
+- [zotio](https://github.com/OrgMentem/zotio) - Automate Zotero library checks, preview-first writes, annotation export, and agent integrations.
 
 ### Weather
 
