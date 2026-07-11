@@ -199,6 +199,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [helix](https://github.com/helix-editor/helix) - Modal editor inspired by kakoune.
 - [Prosaic](https://github.com/DimwitLabs/Prosaic) - A writer-first app crafted for long-form writing.
 - [Microsoft Edit](https://github.com/microsoft/edit) - Simple editor.
+- [fresh](https://github.com/sinelaw/fresh) - Terminal based IDE and text editor.
 
 ### Frontend Development
 
