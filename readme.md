@@ -188,6 +188,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [dotenv-diff](https://github.com/Chrilleweb/dotenv-diff) - Validate environment variable usage in a codebase.
 - [ota](https://github.com/ota-run/ota) - Unified diagnosable repo setup across stacks (local, deploy, CI, agents).
 
+- [kryptorious-depguard](https://github.com/CodeGero/kryptorious-depguard) - Cross-ecosystem dependency auditor: detects undeclared imports, unused deps, unpinned specifiers, lockfile drift.
+- [kryptorious-apiguard](https://github.com/CodeGero/apiguard) - OpenAPI breaking-change detector that flags removed endpoints and type changes before they ship.
+- [kryptorious-gitsweep](https://github.com/CodeGero/kryptorious-gitsweep) - Git repository hygiene: prunes stale branches and surfaces forgotten worktrees.
+- [kryptorious-csvclean](https://github.com/CodeGero/kryptorious-csvclean) - Validates and normalizes CSV/TSV files from the command line.
 ### Text Editors
 
 - [emacs](https://github.com/emacs-mirror/emacs) - An extensible, customizable, free/libre text editor — and more.
