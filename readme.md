@@ -414,6 +414,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
 - [clippy](https://github.com/neilberkman/clippy) - Clipboard tool for interacting with GUI applications.
 - [anvil](https://github.com/0xjuanma/anvil) - Config management and app installations.
+- [Raccoon](https://github.com/thousandflowers/Raccoon) - Security audits, system info, and SSH fleet management.
 
 ### Terminal Sharing Utilities
 
