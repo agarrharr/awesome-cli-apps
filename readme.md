@@ -140,6 +140,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [editly](https://github.com/mifi/editly) - Declarative video editing.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
 - [cinema](https://github.com/marm00/cinema) - Multiviewer for videos and streams.
+- [capcut-cli](https://github.com/renezander030/capcut-cli) - Edit CapCut and JianYing projects: subtitles, timing, speed, and cut long-form to shorts.
 
 ### Movies
 
