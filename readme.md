@@ -119,7 +119,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [somafm-cli](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
 - [mpd](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon.
 - [ncmpcpp](https://github.com/arybczak/ncmpcpp) - mpd client.
-- [moc](http://moc.daper.net/) - Console audio player for Linux/UNIX.
+- [moc](https://moc.daper.net/) - Console audio player for Linux/UNIX.
 - [musikcube](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
 - [beets](https://github.com/beetbox/beets) - Music library manager and tagger.
 - [spotatui](https://github.com/LargeModGames/spotatui) - Spotify client.
@@ -148,7 +148,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Games
 
-- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Roguelike construction and management simulation.
+- [Dwarf Fortress](https://www.bay12games.com/dwarves/) - Roguelike construction and management simulation.
 - [Cataclysm-DDA](https://cataclysmdda.org) - Turn-based survival game set in a post-apocalyptic world.
 - [Pokete](https://github.com/lxgr-linux/Pokete) - Pokemon-like.
 - [NetHack](https://www.nethack.org) - Roguelike dungeon crawler.
@@ -595,7 +595,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### Columns
 
 - [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns to JSON.
-- [q](http://harelba.github.io/q/) - Execution of SQL-like queries on CSV/TSV/tabular text file.
+- [q](https://harelba.github.io/q/) - Execution of SQL-like queries on CSV/TSV/tabular text file.
 
 ### Text
 
