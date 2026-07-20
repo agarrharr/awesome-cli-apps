@@ -188,6 +188,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mk](https://github.com/pycontribs/mk) - Exposes most common actions you can run in unfamiliar repos.
 - [dotenv-diff](https://github.com/Chrilleweb/dotenv-diff) - Validate environment variable usage in a codebase.
 - [ota](https://github.com/ota-run/ota) - Unified diagnosable repo setup across stacks (local, deploy, CI, agents).
+- [venv-manager](https://github.com/jacopobonomi/venv_manager) - Manage Python virtual environments with snapshot/rollback, ephemeral sandboxed exec, and an MCP server for AI agents.
 
 ### Text Editors
 
