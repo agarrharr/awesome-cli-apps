@@ -846,6 +846,7 @@ Inclusion criteria are less strict for this fast-moving field.
 
 - [awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - Extensive list of CLI apps.
 - [Terminal Trove](https://terminaltrove.com/) - List of CLI apps.
+- [The Terminal Index](https://cli.masoko.net/) - Terminal tools, curated by the developers who rely on them.
 - [awesome-shell](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
