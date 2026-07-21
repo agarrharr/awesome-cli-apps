@@ -54,7 +54,7 @@ gh pr list --json body | gron | grep -F "I did not read the contribution guideli
   done
 
 gh pr list --json body | gron | grep -F ".body" |
-  grep -Po "https://github.com/[A-Za-z0-9-]+/[A-Za-z0-9-]+" | grep -v awesome-cli-apps |
+  grep -Po "https://github.com/[A-Za-z0-9-_]+/[A-Za-z0-9-_]+" | grep -v awesome-cli-apps |
   while read repo; do
     stars=$(gh repo view --json stargazerCount -q ".stargazerCount" "$repo")
     age=$(gh repo view --json createdAt -q ".createdAt" "$repo")
