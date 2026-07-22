@@ -636,6 +636,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [duf](https://github.com/muesli/duf) - A better `df` alternative.
 - [dust](https://github.com/bootandy/dust) - A more intuitive version of `du` in Rust.
 - [dutree](https://github.com/nachoparker/dutree) - A tool to analyze file system usage written in Rust.
+- [darya](https://github.com/mrkatebzadeh/darya) - A disk usage explorer with a TUI and live treemap written in Rust.
 - [NCDu](https://dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
 
 ### Files
