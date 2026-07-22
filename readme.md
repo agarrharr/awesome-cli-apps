@@ -365,7 +365,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [gtasks](https://github.com/BRO3886/gtasks) - Manage Google Tasks.
 - [epiq](https://github.com/ljtn/epiq) - Local-first distributed issue tracker backed by Git.
 - [feeling](https://github.com/qiz-li/feeling) - Mood tracker that visualizes your emotional patterns over time.
-- [confluence-cli](https://github.com/pchuri/confluence-cli) - Read, search, and manage Atlassian Confluence pages.
+- [confluence-cli](https://github.com/pchuri/confluence-cli) - Confluence client.
 
 ### Finance
 
