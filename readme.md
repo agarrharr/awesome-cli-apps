@@ -469,6 +469,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [envio](https://github.com/envio-cli/envio) - Manage environment variables securely.
 - [await](https://github.com/slavaGanzin/await) - Runs commands in parallel and waits for their termination.
 - [aha](https://github.com/theZiz/aha) - Convert ANSI output to HTML.
+- [bash-aliases-pack](https://bash-aliases-pack.vercel.app) - 50+ documented bash aliases for git, Docker, file operations, and daily dev workflow.
 
 ### System Interaction Utilities
 
@@ -482,6 +483,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [glances](https://nicolargo.github.io/glances/) - System monitoring tool.
 - [tiptop](https://github.com/nschloe/tiptop) - System monitor.
 - [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file.
+- [nuke-cache](https://nuke-cache.vercel.app) - One command to clear npm, yarn, pnpm, pip, Docker, and browser caches.
 
 ### Markdown
 
