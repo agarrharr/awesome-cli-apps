@@ -826,6 +826,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [Sugar](https://github.com/roboticforce/sugar) - Autonomous agent that queues and executes tasks in the background.
 - [Shep](https://github.com/shep-ai/cli) - Multi-session SDLC control center for AI coding agents.
 - [InkOS](https://github.com/Narcooo/inkos/blob/master/README.en.md) - Novel-writing agent.
+- [antigravity-cli-statusline](https://github.com/weby-homelab/antigravity-cli-statusline) - Responsive statusline extension for Antigravity CLI (`agy`) featuring dynamic line-packing, model quota reset countdowns, and cross-platform telemetry.
 - [coi](https://github.com/mensfeld/code-on-incus) - Incus container runtime for agents.
 - [agentify](https://github.com/koriyoshi2041/agentify) - Transform OpenAPI specs into formats for agents.
 - [actionbook](https://github.com/actionbook/actionbook) - Parallel browser interaction for agents.
