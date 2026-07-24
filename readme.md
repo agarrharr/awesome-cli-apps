@@ -431,6 +431,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### SSH
 
 - [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
+- [TTM](https://github.com/vst93/ttm) - Lightweight SSH bookmark manager with TUI, Gist sync, and in-session file transfer.
 - [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through SSH.
 
 ### Network Utilities
@@ -658,6 +659,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### File Sync/Sharing
 
 - [rclone](https://github.com/ncw/rclone) - Sync files with various cloud providers.
+- [sfs](https://github.com/vst93/sfs) - Sync individual files via WebDAV with TUI and web interface.
 - [ffsend](https://github.com/timvisee/ffsend) - Quick file share.
 - [share-cli](https://github.com/marionebl/share-cli) - Share files with your local network.
 - [google-drive-upload](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
