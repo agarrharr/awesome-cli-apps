@@ -495,6 +495,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ### Security
 
+- [Gaze](https://gaze.gundulabs.com/) - Facial authentication for Linux with on-device face recognition, PAM integration, and tools for login, lock screen, sudo, and desktop management.
 - [pass](https://www.passwordstore.org) - Password manager.
 - [gopass](https://github.com/gopasspw/gopass) - Fully-featured password manager.
 - [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based VPN.
