@@ -843,6 +843,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
 - [lilbee](https://github.com/tobocop2/lilbee) - Use local models to talk to your files, code, and more.
+- [prerenderbuddy-cli](https://github.com/kopachlager/prerenderbuddy-cli) - Inspect crawler-visible output and compare raw versus rendered HTML for AI/JS SEO checks.
 
 ## Other Resources
 
