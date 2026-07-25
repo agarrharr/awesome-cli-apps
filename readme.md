@@ -763,6 +763,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [optimizt](https://github.com/343dev/optimizt) - Helps prepare images for the web.
 - [freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output.
 - [rclip](https://github.com/yurijmikhalevich/rclip) - Semantic photo search.
+- [outfit-gen](https://github.com/cedendahlkim/outfit-gen) - Generate AI fashion designs from text prompts.
 
 ### Gif Creation
 
