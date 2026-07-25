@@ -529,6 +529,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
 - [trino](https://github.com/eneserdogan/trino) - Translation of words and phrases.
 - [translate-shell](https://github.com/soimort/translate-shell) - Google Translate interface.
+- [ketch](https://github.com/1broseidon/ketch) - Web search and scrape pages into clean markdown.
 
 ### Internet Speedtest
 
