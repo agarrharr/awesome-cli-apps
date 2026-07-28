@@ -832,6 +832,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [actionbook](https://github.com/actionbook/actionbook) - Parallel browser interaction for agents.
 - [lean-ctx](https://github.com/yvgude/lean-ctx) - Token-saving context runtime for agents.
 - [hcom](https://github.com/aannoo/hcom) - Orchestration and communication layer for managing multiple agents in their respective TUI apps.
+- [ARCC](https://github.com/niyongsheng/arcc) - Rust-based local-first AI agent with TUI/CLI/Server modes, MCP & ACP protocol support, dual-model scheduling, safety engine, and SQLite persistence.
 - [toktrack](https://github.com/mag123c/toktrack) - Track token usage and cost across all agents.
 - [OpenCode](https://github.com/anomalyco/opencode) - Open-source agent TUI.
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) - Local-first agent TUI.
