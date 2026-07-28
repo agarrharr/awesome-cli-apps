@@ -130,7 +130,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [TUISIC](https://github.com/Dark-Kernel/tuisic) - Login-free music streaming.
 - [termusic](https://github.com/tramhao/termusic) - Music player in rust with download capabilities.
 - [ytm-player](https://github.com/peternaame-boop/ytm-player) - YouTube Music player.
-- [tunein-cli](https://github.com/tsirysndr/tunein-cli) - Browse and listen to thousands of radio stations across the globe right from your terminal
+- [tunein-cli](https://github.com/tsirysndr/tunein-cli) - TuneIn and Radio Browser client.
 
 ### Video
 
