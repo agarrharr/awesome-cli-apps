@@ -445,6 +445,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [rustnet](https://github.com/domcyrus/rustnet) - Network monitoring with process identification and deep packet inspection.
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
 - [tldx](https://github.com/brandonyoungdev/tldx) - Bulk domain availability checker.
+- [proxelar](https://github.com/emanuele-em/proxelar) - Intercept, inspect, and rewrite HTTP, HTTPS, and WebSocket traffic.
 
 ### Theming and Customization
 
