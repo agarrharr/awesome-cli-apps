@@ -839,6 +839,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) - Local-first agent TUI.
 - [faf-cli](https://github.com/Wolfe-Jam/faf-cli) - Authors AGENTS.md, CLAUDE.md and .cursorrules AI-Context files from your repo's real stack.
 - [agentty](https://github.com/1ay1/agentty) - C++ agent TUI.
+- [Codeman](https://github.com/Ark0N/Codeman) - Self-hosted mission control for AI coding agents with mobile access, subagent windows, and auto-resume on usage limits.
 
 ### LLM Interaction
 
