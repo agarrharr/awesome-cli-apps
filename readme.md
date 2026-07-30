@@ -542,6 +542,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [periodic-table-cli](https://github.com/spirometaxas/periodic-table-cli) - View and explore the Periodic Table of Elements.
 - [astroterm](https://github.com/da-luce/astroterm) - An ASCII planetarium.
+- [skymap.sh](https://github.com/HabibiCodeCH/skymap-sh) - plain-text map of the current sky above you.
 - [birda](https://github.com/tphakala/birda) - Identify bird species from audio recordings.
 
 ### Professional: Resume
