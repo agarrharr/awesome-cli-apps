@@ -440,8 +440,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### Math
 
 - [mdlt](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
-- [numr](https://github.com/nasedkinpv/numr) - Natural language calculator with unit/currency conversions and vim-style TUI.
 - [Qalculate](https://github.com/Qalculate/libqalculate) - Calculate non-trivial math expressions. Unit conversions, symbolic calculations and more.
+- [numr](https://github.com/nasedkinpv/numr) - Natural-language calculator with variables, units, currencies, and live exchange rates.
 
 ### Academia
 
