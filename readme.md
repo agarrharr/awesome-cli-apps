@@ -367,6 +367,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [epiq](https://github.com/ljtn/epiq) - Local-first distributed issue tracker backed by Git.
 - [feeling](https://github.com/qiz-li/feeling) - Mood tracker that visualizes your emotional patterns over time.
 - [confluence-cli](https://github.com/pchuri/confluence-cli) - Confluence client.
+- [acollab-cli](https://github.com/itsanla/acollab) - Unofficial ActiveCollab client, view your assigned tasks and comments from the terminal.
 
 ### Finance
 
