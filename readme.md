@@ -784,6 +784,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [pdfjuicer](https://github.com/dmikhr/pdfjuicer) - Extract PDF pages as images.
 - [gowall](https://github.com/Achno/gowall) - Recolor images, OCR, image upscaling and more.
 - [img2ascii](https://github.com/JosefVesely/Image-to-ASCII) - Convert images to ASCII art.
+- [StarTap Image Shrinking Tool](https://github.com/cscb603/StarTap-Image-Shrinking-Tool) - Local, offline image compressor that defeats WeChat/Xiaohongshu/WhatsApp secondary compression via mozjpeg + CAS; GUI for humans, Agent-First JSON CLI for AI.
 
 ## Screensavers
 
