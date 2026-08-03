@@ -143,6 +143,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cinema](https://github.com/marm00/cinema) - Multiviewer for videos and streams.
 - [capcut-cli](https://github.com/renezander030/capcut-cli) - Edit CapCut/JianYing projects.
 
+* [StarTap Simple Video Compressor (V3)](https://github.com/cscb603/StarTap-Video-Compressor) - Shrink videos 60-80% for WeChat/Xiaohongshu. 5 presets, NVENC, batch, CLI + JSON for AI.
+* [StarTap Simple Video Compressor (V4)](https://github.com/cscb603/fast-video-compress) - Video shrinker with NVENC (Win) + VideoToolbox (Mac) HW accel, CLI + JSON for AI.
 ### Movies
 
 - [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies.
@@ -714,6 +716,9 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [reflex](https://github.com/reflex-search/reflex) - Instant, offline, code-aware search for text, symbols, and import graphs.
 - [Vexor](https://github.com/scarletkc/vexor) - A semantic search engine for files and code.
 
+* [STS-X](https://github.com/cscb603/sts-x) - AI-Agent-first code & file search engine with native MCP. AST-aware chunking + BM25, 30MB zero-dep.
+* [StarTap Fast Search (Windows)](https://github.com/cscb603/StarTap-Fast-Search-Win) - Rust + Everything SDK desktop file search, millisecond results.
+* [StarTap Fast Search (macOS)](https://github.com/cscb603/fast-search) - Everything-like lightning file search for Mac.
 ## Version Control
 
 - [SnowFS](https://github.com/snowtrack/snowfs) - A fast, scalable version control system for binaries.
