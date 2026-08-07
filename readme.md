@@ -412,6 +412,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [bitly-client](https://github.com/specious/bitly-client) - Bitly client.
 - [deadlink](https://github.com/nschloe/deadlink) - Find dead links in files.
 - [crawley](https://github.com/s0rg/crawley) - Unix-way web crawler.
+- [scraper-cli](https://github.com/ranmoliunian-spec/scraper-cli) - Command-line web scraper with human-readable output and JSON export.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
 - [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 - [clevercli](https://github.com/clevercli/clevercli) - Collection of ChatGPT powered utilities.
