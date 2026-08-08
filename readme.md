@@ -286,6 +286,8 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [wipe-modules](https://github.com/bntzio/wipe-modules) - Remove `node_modules` of inactive projects.
 - [npm-deprecated-check](https://github.com/KID-joker/npm-deprecated-check) - Check for deprecated dependencies.
 
+- [depdiet](https://github.com/darkm3tter/depdiet) - Find TS/JS dependencies so lightly used you should inline or remove them, with a transparent 0-100 score and CI mode.
+- [codeprovenance](https://github.com/darkm3tter/codeprovenance) - AI-blame: trace which agent, session and prompt generated each file change from opencode/Claude Code logs; stamps commits.
 ### Boilerplate
 
 - [yo](https://github.com/yeoman/yo) - Scaffolding tool for running Yeoman generators.
