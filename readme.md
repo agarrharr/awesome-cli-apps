@@ -110,7 +110,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [newsboat](https://github.com/newsboat/newsboat) - An extendable RSS feed reader for text terminals.
 - [mal-cli](https://github.com/L4z3x/mal-cli) - MyAnimeList client.
 - [golazo](https://github.com/0xjuanma/golazo) - Soccer matches.
-- [doccli](https://github.com/TowarzyszFatCat/doccli) - Stream anime featuring two-way AniList synchronization, full season offline downloads, Discord rich presence, and episode release notifications.
+- [doccli](https://github.com/TowarzyszFatCat/doccli) - Stream anime featuring two-way AniList synchronization, offline downloads, and episode release notifications.
 
 ### Music
 
