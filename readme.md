@@ -753,6 +753,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ### GitHub
 
+- [collab-kit](https://github.com/kory-kaai/collab-kit) - Scaffold GitHub team workflows — PR templates, CI, git hooks, and maintainer docs in one command.
 - [gh](https://cli.github.com) - Official client (see [extensions](https://github.com/kodepandai/awesome-gh-cli-extensions).)
 - [cli-github](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
 - [hub](https://github.com/github/hub) - Make git easier to use with GitHub.
