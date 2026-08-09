@@ -855,6 +855,10 @@ Inclusion criteria are less strict for this fast-moving field.
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
 - [lilbee](https://github.com/tobocop2/lilbee) - Use local models to talk to your files, code, and more.
 
+### MCP
+
+- [mcp-x](https://github.com/Hpkings777/mcp-x) - Install, run, self-host, tunnel and sync any MCP server into Claude Code, Cursor, Continue, Windsurf and OpenCode, with an encrypted secrets vault and supervised daemon.
+
 ## Other Resources
 
 - [awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - Extensive list of CLI apps.
