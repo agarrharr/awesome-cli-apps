@@ -274,6 +274,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`.
 - [release](https://github.com/vercel/release) - Generate changelogs with a single command.
 - [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing.
+- [shipkit](https://github.com/kory-kaai/shipkit) - Ship OSS releases safely: preflight, changelog, GitHub release, and npm publish.
 
 ### Npm
 
@@ -756,6 +757,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [gh](https://cli.github.com) - Official client (see [extensions](https://github.com/kodepandai/awesome-gh-cli-extensions).)
 - [cli-github](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
 - [hub](https://github.com/github/hub) - Make git easier to use with GitHub.
+- [collab-kit](https://github.com/kory-kaai/collab-kit) - Bootstrap GitHub team workflows — PR templates, CI, git hooks, and docs in one command.
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
 - [gitfetch](https://github.com/Matars/gitfetch) - Neofetch-style stats of your git forge.
 
