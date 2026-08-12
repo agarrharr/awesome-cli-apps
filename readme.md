@@ -334,6 +334,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [mynav](https://github.com/GianlucaP106/mynav) - Workspace and session management TUI.
 - [linear-tui](https://github.com/roeyazroel/linear-tui) - Linear TUI client.
 - [jiratui](https://github.com/whyisdifficult/jiratui) - TUI app for Jira.
+- [speak-cli](https://github.com/MohamedAliRashad/speak-cli) - text-to-speech tool to make the computer read anything
 
 ### Time Tracking
 
