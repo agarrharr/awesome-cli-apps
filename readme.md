@@ -385,6 +385,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [cointop](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
 - [ticker](https://github.com/achannarasappa/ticker) - Stock ticker.
 - [lakshmi](https://github.com/sarvjeets/lakshmi) - Bogleheads inspired tool for managing your investing portfolio.
+- [stockchat.sh](https://stockchat.sh) - No-install stock research terminal, e.g. `curl stockchat.sh/AAPL` for price, fundamentals, chart, and news.
 
 ### Presentations
 
