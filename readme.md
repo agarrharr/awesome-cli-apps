@@ -742,6 +742,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages.
 - [import-github-labels-cli](https://github.com/abhijithvijayan/import-github-labels-cli) - Sync labels between Github repos.
 - [git-all-branches](https://github.com/zacanger/git-all-branches) - Improved `git branch -a`.
+- [git-log-tree](https://github.com/xiaoshanyan9/git-log-tree) - A fancy `git log --graph`.
 - [czg](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 - [lazygit](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
