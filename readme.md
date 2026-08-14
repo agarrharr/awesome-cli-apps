@@ -848,6 +848,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [faf-cli](https://github.com/Wolfe-Jam/faf-cli) - Authors AGENTS.md, CLAUDE.md and .cursorrules AI-Context files from your repo's real stack.
 - [agentty](https://github.com/1ay1/agentty) - C++ agent TUI.
 - [bosun](https://github.com/yetidevworks/bosun) - Agent session manager built on tmux.
+- [dsh-mini](https://github.com/LouisYang841/dsh-mini) - Portable coding-agent CLI on the DeepSeek Harness engine: goals, todos, TUI, runs on Termux.
 
 ### LLM Interaction
 
