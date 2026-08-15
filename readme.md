@@ -596,6 +596,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [GROQ](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable.
 - [config-file-validator](https://github.com/Boeing/config-file-validator) - Validate configuration files.
+- [xplr](https://github.com/crosleyzack/xplr) - A terminal tree viewer for visualizing and comparing JSON, YAML, and TOML.
 
 ### YAML
 
