@@ -239,6 +239,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 ### Devops
 
 - [htconvert](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects.
+- [peek](https://github.com/hariomlohardev/peek) - The htop for codebases — understand any repo in 5 seconds. Python + Rich + Textual, `pip install peek-code && peek .`, PageRank-style `Start Here` ranking.
 - [SAWS](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
 - [s3cmd](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
 - [pm2](https://github.com/Unitech/pm2) - Production Process Manager for Node.js.
