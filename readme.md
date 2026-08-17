@@ -679,6 +679,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [shuk](https://shuk.rs) - Quicky share files using Amazon S3 buckets.
 - [croc](https://github.com/schollz/croc) - Easily send things from one computer to another.
 - [filecast](https://github.com/gistrec/filecast) - Fast file transfer to multiple machines on your LAN.
+- [BearDrive](https://github.com/runbear-io/beardrive) - Sync hub for project folders across machines, teammates, and AI coding agents, with per-file history.
 
 ### Directory Listing
 
