@@ -849,6 +849,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [faf-cli](https://github.com/Wolfe-Jam/faf-cli) - Authors AGENTS.md, CLAUDE.md and .cursorrules AI-Context files from your repo's real stack.
 - [agentty](https://github.com/1ay1/agentty) - C++ agent TUI.
 - [bosun](https://github.com/yetidevworks/bosun) - Agent session manager built on tmux.
+- [Kolega Code](https://github.com/kolega-ai/kolega-code) - A coding agent where the model writes its own multi-agent workflows (Gigacode).
 
 ### LLM Interaction
 
