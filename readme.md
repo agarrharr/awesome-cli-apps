@@ -509,6 +509,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [hasha-cli](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
 - [ots](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
 - [andcli](https://github.com/tjblackheart/andcli) - Work with 2FA tokens from multiple OTP providers.
+- [LeetGuard](https://github.com/adebayoade/leetguard) - Parses lockfiles and identifies security anti-patterns across dependencies and source code, mapped to ISO 27001.
 
 ### Math
 
