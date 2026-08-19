@@ -851,6 +851,10 @@ Inclusion criteria are less strict for this fast-moving field.
 - [bosun](https://github.com/yetidevworks/bosun) - Agent session manager built on tmux.
 - [Keen Code](https://github.com/mochow13/keen-code) - Context-aware coding agent written in Go.
 
+### Media Generation
+
+- [wavespeed](https://github.com/WaveSpeedAI/wavespeed-cli) - Generate images, video, audio, and 3D from any model on the WaveSpeed catalog.
+
 ### LLM Interaction
 
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
