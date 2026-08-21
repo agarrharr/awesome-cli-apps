@@ -374,6 +374,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 
 - [NeoMutt](https://neomutt.org) - Email client.
 - [mail-duplicate](https://github.com/kdeldycke/mail-deduplicate) - Deduplicate mail boxes.
+- [inboxproof-cli](https://github.com/jtc268/inboxproof-cli) - Free CLI email deliverability audit: checks MX, SPF, DKIM, DMARC, PTR and SMTP STARTTLS and prints a spam-risk score.
 
 ### Finance
 
