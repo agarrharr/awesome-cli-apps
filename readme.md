@@ -510,6 +510,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based VPN.
 - [hasha-cli](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
 - [ots](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
+- [ooshare](https://github.com/dhdtech/ooshare.io) - One-time secret sharing from the terminal, end-to-end encrypted.
 - [andcli](https://github.com/tjblackheart/andcli) - Work with 2FA tokens from multiple OTP providers.
 
 ### Math
