@@ -132,7 +132,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [termusic](https://github.com/tramhao/termusic) - Music player in rust with download capabilities.
 - [ytm-player](https://github.com/peternaame-boop/ytm-player) - YouTube Music player.
 - [tunein-cli](https://github.com/tsirysndr/tunein-cli) - TuneIn and Radio Browser client.
-- [cliamp](https://github.com/bjarneo/cliamp) - Winamp-inspired music player with spectrum visualizer, EQ, and streaming support.
+- [cliamp](https://github.com/bjarneo/cliamp) - Winamp-inspired local, streaming and radio player.
 
 ### Video
 
