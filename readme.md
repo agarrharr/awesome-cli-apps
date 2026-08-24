@@ -492,6 +492,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
 - [glances](https://nicolargo.github.io/glances/) - System monitoring tool.
 - [tiptop](https://github.com/nschloe/tiptop) - System monitor.
+- [pkgtui](https://github.com/padovanl/pkgtui) - A TUI package manager for APT and Snap.
+- [termdock](https://github.com/padovanl/termdock) - A terminal dock for managing and monitoring terminal sessions.
 - [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file.
 
 ### Markdown
