@@ -191,6 +191,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mk](https://github.com/pycontribs/mk) - Exposes most common actions you can run in unfamiliar repos.
 - [dotenv-diff](https://github.com/Chrilleweb/dotenv-diff) - Validate environment variable usage in a codebase.
 - [ota](https://github.com/ota-run/ota) - Unified diagnosable repo setup across stacks (local, deploy, CI, agents).
+- [invariant](https://github.com/yavonalabs/invariant) - Business invariant CLI engine to test payment webhooks, idempotency, and DB state.
 
 ### Text Editors
 
