@@ -480,6 +480,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [envio](https://github.com/envio-cli/envio) - Manage environment variables securely.
 - [await](https://github.com/slavaGanzin/await) - Runs commands in parallel and waits for their termination.
 - [aha](https://github.com/theZiz/aha) - Convert ANSI output to HTML.
+- [cron-translate](https://github.com/fabiocicerchia/cron-translate) - Translates cron expressions to/from plain English, with timezone support and a next-N-runs preview.
 
 ### System Interaction Utilities
 
