@@ -796,6 +796,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [pdfjuicer](https://github.com/dmikhr/pdfjuicer) - Extract PDF pages as images.
 - [gowall](https://github.com/Achno/gowall) - Recolor images, OCR, image upscaling and more.
 - [img2ascii](https://github.com/JosefVesely/Image-to-ASCII) - Convert images to ASCII art.
+- [perkins](https://github.com/Mr-Robot-err-404/perkins) - ASCII pixel art editor using braille characters.
 
 ## Screensavers
 
