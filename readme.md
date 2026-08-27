@@ -853,6 +853,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [agentty](https://github.com/1ay1/agentty) - C++ agent TUI.
 - [bosun](https://github.com/yetidevworks/bosun) - Agent session manager built on tmux.
 - [Keen Code](https://github.com/mochow13/keen-code) - Context-aware coding agent written in Go.
+- [WorkGround2](https://github.com/KiddPhenix/WorkGround2) - Local-first AI engineering workbench for everyday coding tasks.
 
 ### LLM Interaction
 
