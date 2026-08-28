@@ -171,6 +171,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [irssi](https://github.com/irssi/irssi) - IRC chat client.
 - [kirc](https://github.com/mcpcpc/kirc) - Tiny IRC client.
 - [concord](https://github.com/chojs23/concord) - Discord client.
+- [team-cli](https://github.com/Gamedirection/teams-cli) - Microsoft Teams Client.
 
 ## Development
 
