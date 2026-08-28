@@ -318,6 +318,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [Step CI](https://github.com/stepci/stepci) - API testing and QA framework.
 - [bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
 - [cmdperf](https://github.com/miklosn/cmdperf) - Quickly benchmark and compare command performance.
+- [harness-audit](https://github.com/sudo-ai-git/harness-audit) - Audit an agent-eval / benchmark-grading workspace for the silent mis-scoring bug class (pytest coverage-gate config leak).
 
 ## Productivity
 
