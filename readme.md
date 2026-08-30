@@ -45,8 +45,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [HTTP Client](#http-client)
   - [Testing](#testing)
 - [Productivity](#productivity)
-  - [Time Tracking](#time-tracking)
   - [Note Taking, Lists, Task Management](#note-taking-lists-task-management)
+  - [Time Tracking](#time-tracking)
   - [Email](#email)
   - [Finance](#finance)
   - [Presentations](#presentations)
@@ -55,9 +55,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [macOS](#macos)
   - [Terminal Sharing Utilities](#terminal-sharing-utilities)
   - [SSH](#ssh)
-  - [Network Utilities](#network-utilities)
   - [Theming and Customization](#theming-and-customization)
   - [Shell Utilities](#shell-utilities)
+  - [Network Utilities](#network-utilities)
   - [System Interaction Utilities](#system-interaction-utilities)
   - [Markdown](#markdown)
   - [Security](#security)
@@ -317,6 +317,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests.
 - [Step CI](https://github.com/stepci/stepci) - API testing and QA framework.
 - [bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
+- [avouch](https://github.com/mukundzha/avouch) - Git-aware Python static code review.
 - [cmdperf](https://github.com/miklosn/cmdperf) - Quickly benchmark and compare command performance.
 
 ## Productivity
