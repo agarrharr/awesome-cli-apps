@@ -312,12 +312,12 @@ Expose a service running on localhost to the public web for testing and sharing.
 
 ### Testing
 
+- [avouch](https://github.com/mukundzha/avouch) - Git-aware Python static code review.
 - [shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit-testing framework for all POSIX shells.
 - [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests.
 - [Step CI](https://github.com/stepci/stepci) - API testing and QA framework.
 - [bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
-- [avouch](https://github.com/mukundzha/avouch) - Git-aware Python static code review.
 - [cmdperf](https://github.com/miklosn/cmdperf) - Quickly benchmark and compare command performance.
 
 ## Productivity
