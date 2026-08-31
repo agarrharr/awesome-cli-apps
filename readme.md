@@ -144,6 +144,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
 - [cinema](https://github.com/marm00/cinema) - Multiviewer for videos and streams.
 - [capcut-cli](https://github.com/renezander030/capcut-cli) - Edit CapCut/JianYing projects.
+- [ani-sync](https://github.com/idrisharis12/ani-sync) - Fast terminal anime streamer with 64x parallel multi-connection playback and cloud tracking. 
 
 ### Movies
 
