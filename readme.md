@@ -503,6 +503,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [gtree](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
 - [Jimmy](https://github.com/marph91/jimmy) - Convert various note formats to markdown.
 - [mq](https://github.com/harehare/mq) - Jq-like markdown processor.
+- [mcat](https://github.com/Skardyy/mcat) - View images, video, Markdown, and other documents.
 
 ### Security
 
