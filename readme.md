@@ -68,6 +68,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Internet Speedtest](#internet-speedtest)
   - [Science](#science)
   - [Professional: Resume](#professional-resume)
+  - [Backup](#backup)
 - [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
   - [Processors](#processors)
@@ -561,6 +562,10 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [resumx](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting.
 - [YAMLResume](https://github.com/yamlresume/yamlresume) - Resumes as code.
+
+### Backup
+
+- [Plakar](https://github.com/PlakarKorp/plakar) - An encrypted, deduplicated, verifiable, and scalable backup engine with no vendor lock-in.
 
 ## Command Line Learning
 
