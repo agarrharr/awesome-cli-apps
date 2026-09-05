@@ -267,7 +267,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 - [ctop](https://github.com/bcicen/ctop) - Top like interface for container metrics.
 - [decompose](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
-- [kool](https://github.com/kool-dev/kool) - Web development with containers made easy. 
+- [kool](https://github.com/kool-dev/kool) - Web development with containers made easy.
 
 ### Release
 
@@ -309,7 +309,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [ain](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
 - [curlie](https://github.com/rs/curlie) - A curl frontend with the ease of use of HTTPie.
 - [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust.
-- [httptap](https://github.com/ozeranskii/httptap) - Breakdown and visualize HTTP requests. 
+- [httptap](https://github.com/ozeranskii/httptap) - Breakdown and visualize HTTP requests.
 
 ### Testing
 
