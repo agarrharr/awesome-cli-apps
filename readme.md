@@ -211,6 +211,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) - Strip comments from CSS.
 - [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports.
 - [surge](https://surge.sh) - Publish static websites for free.
+- [a11ykit](https://github.com/gstar-byte/a11ykit) - Client-side web accessibility and WCAG 2.2 color contrast testing toolkit ([Web App](https://a11ykit.site)).
 
 ### Public localhost
 
