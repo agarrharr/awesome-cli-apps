@@ -866,6 +866,7 @@ Inclusion criteria are less strict for this fast-moving field.
 
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
+- [geokit-cli](https://github.com/gstar-byte/geokit-cli) - Generative Engine Optimization (GEO) CLI for AI readiness audits, `/llms.txt` validation, and AI search visibility.
 - [lilbee](https://github.com/tobocop2/lilbee) - Use local models to talk to your files, code, and more.
 
 ## Other Resources
