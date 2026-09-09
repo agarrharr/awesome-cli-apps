@@ -861,6 +861,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [bosun](https://github.com/yetidevworks/bosun) - Agent session manager built on tmux.
 - [Keen Code](https://github.com/mochow13/keen-code) - Context-aware coding agent written in Go.
 - [AgentBridge](https://github.com/raysonmeng/agent-bridge) - Local bridge for bidirectional communication between Claude Code and Codex.
+- [mcpx](https://github.com/lydakis/mcpx) - Turn MCP servers into composable command-line tools.
 
 ### LLM Interaction
 
