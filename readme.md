@@ -338,6 +338,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [linear-tui](https://github.com/roeyazroel/linear-tui) - Linear TUI client.
 - [jiratui](https://github.com/whyisdifficult/jiratui) - TUI app for Jira.
 - [tiki](https://github.com/boolean-maybe/tiki) - Markdown-based workflow builder.
+- [cmux-resurrect](https://github.com/drolosoft/cmux-resurrect) - Save and restore cmux and Ghostty workspaces: tabs, splits, working directories and startup commands.
 
 ### Time Tracking
 
