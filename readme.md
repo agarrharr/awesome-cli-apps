@@ -372,6 +372,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [epiq](https://github.com/ljtn/epiq) - Local-first distributed issue tracker backed by Git.
 - [feeling](https://github.com/qiz-li/feeling) - Mood tracker that visualizes your emotional patterns over time.
 - [confluence-cli](https://github.com/pchuri/confluence-cli) - Confluence client.
+- [CarpeDiem](https://github.com/fabx-dev/carpediem) - Offline-first TUI todo manager that turns quick notes into a realistic day plan (Python/Textual, IT/EN).
 
 ### Email
 
