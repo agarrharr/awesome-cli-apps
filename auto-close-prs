@@ -39,16 +39,16 @@ gh pr list --json body | gron | grep -v contributing.md |
     url="$(get_pr_url_from_list_index $index)"
     title="$(gh pr list --json title | gron | grep -F "json[$index].title" | cut -d\" -f2)"
     echo "Closing: contributing.md not mentioned (i.e. pr template was ignored.)" >&2
-    gh pr close "$url"
+    gh pr close "$url" --comment "Closed by bot: Please see [Contribution Guidelines](https://github.com/agarrharr/awesome-cli-apps/blob/master/contributing.md)."
     mark_notification_done "$title"
   done
 
-gh pr list --json body | gron | grep -F "I did not read the contribution guidelines." |
+gh pr list --json body | gron | grep -F "load-bearing" |
   grep -F ".body" | cut -d\[ -f2 | cut -d\] -f1 |
   while read index; do
     url="$(get_pr_url_from_list_index $index)"
     title="$(gh pr list --json title | gron | grep -F "json[$index].title" | cut -d\" -f2)"
-    echo "Closing: user did not read." >&2
+    echo "Closing: AI generated." >&2
     gh pr close "$url"
     mark_notification_done "$title"
   done
