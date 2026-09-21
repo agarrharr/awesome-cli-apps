@@ -258,7 +258,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [cronboard](https://github.com/antoniorodr/Cronboard) - Dashboard for managing cron jobs.
 - [s3m](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
 - [bencher](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
-- [RunWisp](https://github.com/runwisp/runwisp) - Cron and process supervisor replacement with run history, failure notifications, retries, and log rotation.
+- [RunWisp](https://github.com/runwisp/runwisp) - Featureful cron and supervisord replacement.
 
 ### Docker
 
