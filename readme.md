@@ -339,6 +339,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [linear-tui](https://github.com/roeyazroel/linear-tui) - Linear TUI client.
 - [jiratui](https://github.com/whyisdifficult/jiratui) - TUI app for Jira.
 - [tiki](https://github.com/boolean-maybe/tiki) - Markdown-based workflow builder.
+- [yapsnap](https://github.com/kouhxp/yapsnap) - Transcribe video URLs, audio files, meetings to text on CPU, offline, with speaker labels (diarization).
 
 ### Time Tracking
 
