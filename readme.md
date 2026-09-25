@@ -780,13 +780,13 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ## Images
 
 - [SVGO](https://github.com/svg/svgo) - Optimize SVG files.
-- [upres-cli](https://github.com/auroracapital/upres-cli) - AI image and video upscaling to 8K across 14 neural models with batch processing and MCP server.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
 - [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 - [optimizt](https://github.com/343dev/optimizt) - Helps prepare images for the web.
 - [freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output.
 - [rclip](https://github.com/yurijmikhalevich/rclip) - Semantic photo search.
+- [upres-cli](https://github.com/auroracapital/upres-cli) - AI image and video upscaling to 8K across 14 public model aliases with batch processing and MCP support.
 
 ### Gif Creation
 
