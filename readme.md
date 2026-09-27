@@ -391,6 +391,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [ticker](https://github.com/achannarasappa/ticker) - Stock ticker.
 - [lakshmi](https://github.com/sarvjeets/lakshmi) - Bogleheads inspired tool for managing your investing portfolio.
 
+- [x402-reconcile](https://github.com/xka0085-byte/x402-reconcile) - Reconcile x402 payments against receipts with read-only JSON output
+
 ### Presentations
 
 - [WOPR](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics.
@@ -516,6 +518,10 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [hasha-cli](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
 - [ots](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
 - [andcli](https://github.com/tjblackheart/andcli) - Work with 2FA tokens from multiple OTP providers.
+
+- [wallet-evidence](https://github.com/xka0085-byte/wallet-evidence) - Collect read-only Solana wallet forensics (token accounts, holdings, transfers) as evidence-grade JSON
+- [crosschain-incident](https://github.com/xka0085-byte/crosschain-incident) - Bundle cross-chain incident evidence (addresses, transactions, timestamps) into a single verifiable JSON report
+- [oauthdoctor](https://github.com/xka0085-byte/oauthdoctor) - Diagnose MCP OAuth discovery: 401 challenges, Protected Resource Metadata and authorization server metadata checks
 
 ### Math
 
