@@ -515,6 +515,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based VPN.
 - [hasha-cli](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
 - [ots](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
+- [sshd-hardening-auditor](https://github.com/errantsolutions/sshd-hardening-auditor) - Zero-dependency Python tool that checks sshd_config against CIS/security best practices.
+- [tls-cert-watchdog](https://github.com/errantsolutions/tls-cert-watchdog) - Zero-dependency Python tool that checks TLS certificate expiry across a fleet of hostnames.
 - [andcli](https://github.com/tjblackheart/andcli) - Work with 2FA tokens from multiple OTP providers.
 
 ### Math
