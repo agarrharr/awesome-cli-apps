@@ -458,7 +458,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [rustnet](https://github.com/domcyrus/rustnet) - Network monitoring with process identification and deep packet inspection.
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
 - [tldx](https://github.com/brandonyoungdev/tldx) - Bulk domain availability checker.
-- [vortix](https://github.com/Harry-kp/vortix) - Manage WireGuard and OpenVPN tunnels with a kill switch and live telemetry.
+- [vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and leak guarding.
 
 ### Theming and Customization
 
