@@ -818,6 +818,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Digital fireplace.
 - [gitlogue](https://github.com/unhappychoice/gitlogue) - Cinematic git commit replay.
 - [drift](https://github.com/phlx0/drift) - Multiple animated scenes.
+- [cbirds](https://github.com/clainstone/cbirds) - A flock of birds simulation.
 
 ## Graphics
 
