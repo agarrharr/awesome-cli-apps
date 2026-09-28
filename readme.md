@@ -172,6 +172,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [irssi](https://github.com/irssi/irssi) - IRC chat client.
 - [kirc](https://github.com/mcpcpc/kirc) - Tiny IRC client.
 - [concord](https://github.com/chojs23/concord) - Discord client.
+- [tlgr](https://github.com/tlgrcli/tlgr) - Full control of a personal Telegram account, built for scripts and AI agents.
 
 ## Development
 
