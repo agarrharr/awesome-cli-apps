@@ -422,6 +422,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [clevercli](https://github.com/clevercli/clevercli) - Collection of ChatGPT powered utilities.
 - [OctoType](https://github.com/mahlquistj/octotype) - A customizable typing trainer.
 - [gittype](https://github.com/unhappychoice/gittype) - Turn your source code into typing challenges.
+- [gravitype](https://github.com/kanakOS01/gravitype) - Typing game where words fall from the sky.
 - [amazon-orders](https://github.com/alexdlaird/amazon-orders) - Retrieve Amazon order history.
 
 ### macOS
