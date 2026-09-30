@@ -134,6 +134,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ytm-player](https://github.com/peternaame-boop/ytm-player) - YouTube Music player.
 - [tunein-cli](https://github.com/tsirysndr/tunein-cli) - TuneIn and Radio Browser client.
 - [cliamp](https://github.com/bjarneo/cliamp) - Winamp-inspired local, streaming and radio player.
+- [mpv-music](https://github.com/FurqanHun/mpv-music) - Daemonless music player.
 
 ### Video
 
