@@ -522,7 +522,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [hasha-cli](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
 - [ots](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
 - [andcli](https://github.com/tjblackheart/andcli) - Work with 2FA tokens from multiple OTP providers.
-- [Cynative](https://github.com/cynative/cynative) - Open-source deep security research for AWS, GCP, Azure, K8s, GitHub and GitLab. Read-only by construction.
+- [Cynative](https://github.com/cynative/cynative) - AI agents framework built for cloud security engineering + 45 workflow blueprints across AWS, GCP, Azure, Kubernetes, GitHub & GitLab.
 
 ### Math
 
