@@ -5,7 +5,7 @@
 Not all tools can be considered.
 The aim of the list is to provide a concise list of awesome CLI tools and apps.
 This means that all suggested software should:
-  
+
 - Do one thing and do it well.
 - Have a free and open source license.
 - Be easy to install.
