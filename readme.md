@@ -871,6 +871,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [bosun](https://github.com/yetidevworks/bosun) - Agent session manager built on tmux.
 - [Keen Code](https://github.com/mochow13/keen-code) - Context-aware coding agent written in Go.
 - [AgentBridge](https://github.com/raysonmeng/agent-bridge) - Local bridge for bidirectional communication between Claude Code and Codex.
+- [aisw](https://github.com/burakdede/aisw) - Switch Claude Code, Codex, Gemini and Antigravity accounts with named profiles.
 
 ### LLM Interaction
 
