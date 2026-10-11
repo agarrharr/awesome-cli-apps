@@ -241,6 +241,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [rdsai-cli](https://github.com/aliyun/rdsai-cli) - AI-powered MySQL client.
 - [squix](https://github.com/eduardofuncao/squix) - SQL client with query management and interactive results.
 - [pgxcli](https://github.com/Balaji01-4D/pgxcli) - Feature-complete PostgreSQL client in Go.
+- [Weavori](https://weavori.com) - Zero-config PostgreSQL synthetic data generator that reads your schema and loads referentially intact rows (commercial).
 
 ### Devops
 
