@@ -395,6 +395,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [cointop](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
 - [ticker](https://github.com/achannarasappa/ticker) - Stock ticker.
 - [lakshmi](https://github.com/sarvjeets/lakshmi) - Bogleheads inspired tool for managing your investing portfolio.
+- [alphai-tui](https://github.com/makeev/alphai-tui) - Stock dashboard with quotes, candlestick charts, news, SEC insider filings and portfolio tracking.
 
 ### Presentations
 
